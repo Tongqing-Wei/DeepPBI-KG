@@ -1,0 +1,315 @@
+>Feature MG711462.1
+1579	26	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00001
+			product	hypothetical protein
+2144	1617	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00002
+			product	hypothetical protein
+2911	3078	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00003
+			product	hypothetical protein
+3096	3296	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00004
+			product	hypothetical protein
+3313	3642	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00005
+			product	hypothetical protein
+3645	3935	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00006
+			product	hypothetical protein
+3928	4146	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00007
+			product	hypothetical protein
+4405	4896	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00008
+			product	hypothetical protein
+4899	5258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00009
+			product	hypothetical protein
+5255	5650	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00010
+			product	hypothetical protein
+5647	5916	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00011
+			product	hypothetical protein
+5886	6164	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00012
+			product	hypothetical protein
+6157	6486	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00013
+			product	hypothetical protein
+6479	7831	CDS
+			EC_number	3.6.4.-
+			gene	rapA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01821
+			locus_tag	BHLKNCBD_00014
+			product	RNA polymerase-associated protein RapA
+7828	8052	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00015
+			product	hypothetical protein
+8045	8458	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00016
+			product	hypothetical protein
+8580	9023	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00017
+			product	hypothetical protein
+9023	9490	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00018
+			product	hypothetical protein
+9508	10377	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00019
+			product	hypothetical protein
+10496	13252	CDS
+			EC_number	2.7.7.-
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WNW1
+			locus_tag	BHLKNCBD_00020
+			product	DNA primase
+13580	13837	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00021
+			product	hypothetical protein
+13839	14531	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00022
+			product	hypothetical protein
+14537	15142	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00023
+			product	hypothetical protein
+15124	15882	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00024
+			product	hypothetical protein
+15876	16124	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00025
+			product	hypothetical protein
+16121	16558	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00026
+			product	hypothetical protein
+16539	16814	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00027
+			product	hypothetical protein
+16811	17122	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00028
+			product	hypothetical protein
+17088	17564	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00029
+			product	hypothetical protein
+18283	19635	CDS
+			EC_number	2.1.1.72
+			gene	rsrIM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14751
+			locus_tag	BHLKNCBD_00030
+			product	Modification methylase RsrI
+19643	20260	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00031
+			product	hypothetical protein
+20229	22082	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00032
+			product	hypothetical protein
+22096	22362	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00033
+			product	hypothetical protein
+22531	22770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00034
+			product	hypothetical protein
+22776	24314	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00035
+			product	hypothetical protein
+24355	24885	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00036
+			product	hypothetical protein
+24899	26491	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00037
+			product	hypothetical protein
+26512	26841	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00038
+			product	hypothetical protein
+26834	27124	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00039
+			product	hypothetical protein
+27112	27450	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00040
+			product	hypothetical protein
+27447	28049	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00041
+			product	hypothetical protein
+28046	28519	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00042
+			product	hypothetical protein
+28516	28770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00043
+			product	hypothetical protein
+28793	30265	CDS
+			gene	gpFI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q02TE1
+			locus_tag	BHLKNCBD_00044
+			product	Putative prophage major tail sheath protein
+30265	30789	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00045
+			product	hypothetical protein
+30789	31121	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00046
+			product	hypothetical protein
+31257	34547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00047
+			product	hypothetical protein
+34562	34780	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00048
+			product	hypothetical protein
+34784	36082	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00049
+			product	hypothetical protein
+36097	36753	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00050
+			product	hypothetical protein
+36772	37167	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00051
+			product	hypothetical protein
+37181	37492	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00052
+			product	hypothetical protein
+37485	38639	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00053
+			product	hypothetical protein
+38632	39627	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00054
+			product	hypothetical protein
+39642	40193	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00055
+			product	hypothetical protein
+40193	41440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00056
+			product	hypothetical protein
+41915	43039	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00057
+			product	hypothetical protein
+42999	43262	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00058
+			product	hypothetical protein
+43264	43413	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00059
+			product	hypothetical protein
+43406	43615	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00060
+			product	hypothetical protein
+43605	43886	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00061
+			product	hypothetical protein
+43900	44226	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00062
+			product	hypothetical protein
+44287	44991	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00063
+			product	hypothetical protein
+44999	45715	CDS
+			EC_number	3.2.1.-
+			gene	lytG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32083
+			locus_tag	BHLKNCBD_00064
+			product	Exo-glucosaminidase LytG
+46079	45879	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00065
+			product	hypothetical protein
+46396	46076	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00066
+			product	hypothetical protein
+46950	46393	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00067
+			product	hypothetical protein
+47177	46947	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00068
+			product	hypothetical protein
+47489	47181	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00069
+			product	hypothetical protein
+47800	47600	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00070
+			product	hypothetical protein
+48033	47815	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00071
+			product	hypothetical protein
+48194	48436	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00072
+			product	hypothetical protein
+48783	48475	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00073
+			product	hypothetical protein
+49012	48797	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00074
+			product	hypothetical protein
+49540	49160	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	BHLKNCBD_00075
+			product	hypothetical protein

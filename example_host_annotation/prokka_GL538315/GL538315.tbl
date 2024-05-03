@@ -1,0 +1,1427 @@
+>Feature GL538315.1
+260	2482	CDS
+			EC_number	3.6.4.12
+			gene	recD2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RT63
+			locus_tag	CDBOEMCK_00001
+			product	ATP-dependent RecD-like DNA helicase
+2836	3861	CDS
+			gene	mreB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9X4
+			locus_tag	CDBOEMCK_00002
+			product	Rod shape-determining protein MreB
+4025	4384	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00003
+			product	hypothetical protein
+4400	5608	CDS
+			EC_number	4.1.1.70
+			gene	gcdB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9ZAA6
+			locus_tag	CDBOEMCK_00004
+			product	Glutaconyl-CoA decarboxylase subunit beta
+6012	8690	CDS
+			EC_number	3.6.4.12
+			gene	pcrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q53727
+			locus_tag	CDBOEMCK_00005
+			product	ATP-dependent DNA helicase PcrA
+8698	9477	CDS
+			EC_number	2.1.1.148
+			gene	thyX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WG57
+			locus_tag	CDBOEMCK_00006
+			product	Flavin-dependent thymidylate synthase
+9474	10145	CDS
+			EC_number	2.7.4.9
+			gene	tmk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WKE1
+			locus_tag	CDBOEMCK_00007
+			product	Thymidylate kinase
+10174	10989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00008
+			product	hypothetical protein
+11008	12147	CDS
+			EC_number	4.2.2.-
+			gene	mltG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0A0H2ZLQ1
+			locus_tag	CDBOEMCK_00009
+			product	Endolytic murein transglycosylase
+12162	13385	CDS
+			EC_number	3.4.-.-
+			gene	ydcP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76104
+			locus_tag	CDBOEMCK_00010
+			product	putative protease YdcP
+13396	15105	CDS
+			EC_number	2.7.11.1
+			gene	prkC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A6QGC0
+			locus_tag	CDBOEMCK_00011
+			product	Serine/threonine-protein kinase PrkC
+16660	15182	CDS
+			EC_number	1.4.1.13
+			gene	gltB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34399
+			locus_tag	CDBOEMCK_00012
+			product	Glutamate synthase [NADPH] small chain
+21221	16674	CDS
+			EC_number	1.4.7.1
+			gene	gltB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P55037
+			locus_tag	CDBOEMCK_00013
+			product	Ferredoxin-dependent glutamate synthase 1
+23041	21461	CDS
+			EC_number	1.7.99.1
+			gene	hcp
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q01770
+			locus_tag	CDBOEMCK_00014
+			product	Hydroxylamine reductase
+24507	23155	CDS
+			EC_number	1.4.1.4
+			gene	gdh
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31026
+			locus_tag	CDBOEMCK_00015
+			product	NADP-specific glutamate dehydrogenase
+25768	24935	CDS
+			gene	apbC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZNN5
+			locus_tag	CDBOEMCK_00016
+			product	Iron-sulfur cluster carrier protein
+25964	27535	CDS
+			gene	spoVB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q00758
+			locus_tag	CDBOEMCK_00017
+			product	Stage V sporulation protein B
+27629	29590	CDS
+			EC_number	4.2.1.135
+			gene	pglF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0P9D4
+			locus_tag	CDBOEMCK_00018
+			product	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+29863	31149	CDS
+			EC_number	4.1.1.20
+			gene	lysA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X1K5
+			locus_tag	CDBOEMCK_00019
+			product	Diaminopimelate decarboxylase
+31162	31566	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00020
+			product	hypothetical protein
+32663	31656	CDS
+			EC_number	5.4.99.24
+			gene	rluC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AA39
+			locus_tag	CDBOEMCK_00021
+			product	Ribosomal large subunit pseudouridine synthase C
+32826	33545	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00022
+			product	hypothetical protein
+33657	35714	CDS
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37954
+			locus_tag	CDBOEMCK_00023
+			product	UvrABC system protein B
+35701	38562	CDS
+			gene	uvrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63383
+			locus_tag	CDBOEMCK_00024
+			product	UvrABC system protein A
+38702	38779	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	CDBOEMCK_00025
+			product	tRNA-Pro(ggg)
+39023	39274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00026
+			product	hypothetical protein
+39780	39313	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P44558
+			locus_tag	CDBOEMCK_00027
+			product	putative HTH-type transcriptional regulator
+39898	40437	CDS
+			EC_number	1.-.-.-
+			gene	ywqN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P96726
+			locus_tag	CDBOEMCK_00028
+			product	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+40439	41191	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00029
+			product	hypothetical protein
+44950	41864	CDS
+			EC_number	3.2.1.23
+			gene	cbgA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24131
+			locus_tag	CDBOEMCK_00030
+			product	Beta-galactosidase
+46435	45065	CDS
+			gene	yicJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31435
+			locus_tag	CDBOEMCK_00031
+			product	Inner membrane symporter YicJ
+46685	47548	CDS
+			gene	araC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9E0
+			locus_tag	CDBOEMCK_00032
+			product	Arabinose operon regulatory protein
+47582	47683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00033
+			product	hypothetical protein
+47761	48009	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00034
+			product	hypothetical protein
+49058	48150	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00035
+			product	hypothetical protein
+49705	49358	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00036
+			product	hypothetical protein
+50087	49722	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00037
+			product	hypothetical protein
+50860	50204	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00038
+			product	hypothetical protein
+51604	50882	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00365
+			locus_tag	CDBOEMCK_00039
+			product	DNA replication and repair protein RecF
+51998	51639	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00040
+			product	hypothetical protein
+52347	52000	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00041
+			product	hypothetical protein
+53097	54884	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00042
+			product	hypothetical protein
+54922	57228	CDS
+			EC_number	2.7.13.3
+			gene	luxQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KLK7
+			locus_tag	CDBOEMCK_00043
+			product	Autoinducer 2 sensor kinase/phosphatase LuxQ
+57439	58266	CDS
+			gene	yxeM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54952
+			locus_tag	CDBOEMCK_00044
+			product	putative amino-acid-binding protein YxeM
+58256	60832	CDS
+			EC_number	2.7.13.3
+			gene	barA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEC6
+			locus_tag	CDBOEMCK_00045
+			product	Signal transduction histidine-protein kinase BarA
+63890	60942	CDS
+			EC_number	2.7.13.3
+			gene	rcsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0DMC5
+			locus_tag	CDBOEMCK_00046
+			product	Sensor histidine kinase RcsC
+65792	64068	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00047
+			product	hypothetical protein
+67605	66472	CDS
+			gene	intQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76168
+			locus_tag	CDBOEMCK_00048
+			product	Putative defective protein IntQ
+68698	67823	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00049
+			product	hypothetical protein
+70086	69676	CDS
+			gene	pezA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97QZ2
+			locus_tag	CDBOEMCK_00050
+			product	Antitoxin PezA
+70228	70395	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00051
+			product	hypothetical protein
+70392	70535	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00052
+			product	hypothetical protein
+70958	70629	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00053
+			product	hypothetical protein
+71112	71360	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00054
+			product	hypothetical protein
+71376	71624	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00055
+			product	hypothetical protein
+71678	71950	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00056
+			product	hypothetical protein
+71952	72170	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00057
+			product	hypothetical protein
+72184	72369	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00058
+			product	hypothetical protein
+72366	73124	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00059
+			product	hypothetical protein
+73121	73339	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00060
+			product	hypothetical protein
+73357	73521	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00061
+			product	hypothetical protein
+73473	74135	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00062
+			product	hypothetical protein
+74132	74338	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00063
+			product	hypothetical protein
+74374	75480	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00064
+			product	hypothetical protein
+75640	75951	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00065
+			product	hypothetical protein
+76195	76905	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00066
+			product	hypothetical protein
+76886	78346	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00067
+			product	hypothetical protein
+78501	80450	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00068
+			product	hypothetical protein
+80463	80726	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00069
+			product	hypothetical protein
+80745	82109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00070
+			product	hypothetical protein
+82168	83190	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00071
+			product	hypothetical protein
+83203	83478	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00072
+			product	hypothetical protein
+83663	84046	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00073
+			product	hypothetical protein
+84050	85951	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00074
+			product	hypothetical protein
+85968	86159	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00075
+			product	hypothetical protein
+86163	86765	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00076
+			product	hypothetical protein
+86781	88160	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00077
+			product	hypothetical protein
+88176	98879	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00078
+			product	hypothetical protein
+99027	100469	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00079
+			product	hypothetical protein
+100488	100916	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00080
+			product	hypothetical protein
+100936	101088	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00081
+			product	hypothetical protein
+101112	101534	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00082
+			product	hypothetical protein
+101543	101845	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00083
+			product	hypothetical protein
+101851	102084	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00084
+			product	hypothetical protein
+102087	102353	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00085
+			product	hypothetical protein
+102625	102550	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	CDBOEMCK_00086
+			product	tRNA-Thr(cgt)
+103030	102791	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00087
+			product	hypothetical protein
+103740	103051	CDS
+			gene	pdg
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46303
+			locus_tag	CDBOEMCK_00088
+			product	Ultraviolet N-glycosylase/AP lyase
+103924	105198	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WQN1
+			locus_tag	CDBOEMCK_00089
+			product	putative AAA domain-containing protein
+105238	105630	CDS
+			gene	perR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2G282
+			locus_tag	CDBOEMCK_00090
+			product	Peroxide-responsive repressor PerR
+105765	107144	CDS
+			EC_number	2.8.4.3
+			gene	miaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31778
+			locus_tag	CDBOEMCK_00091
+			product	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+107198	107677	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00092
+			product	hypothetical protein
+107819	108160	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00093
+			product	hypothetical protein
+108591	108241	tmRNA
+			gene	ssrA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	CDBOEMCK_00094
+			product	transfer-messenger RNA, SsrA
+109144	108662	CDS
+			gene	smpB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32230
+			locus_tag	CDBOEMCK_00095
+			product	SsrA-binding protein
+109846	109247	CDS
+			gene	recR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8RDI4
+			locus_tag	CDBOEMCK_00096
+			product	Recombination protein RecR
+110204	109866	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A3DHB8
+			locus_tag	CDBOEMCK_00097
+			product	Nucleoid-associated protein
+112098	110236	CDS
+			EC_number	2.7.7.7
+			gene	dnaX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06710
+			locus_tag	CDBOEMCK_00098
+			product	DNA polymerase III subunit tau
+113300	112548	CDS
+			gene	zupT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00548
+			locus_tag	CDBOEMCK_00099
+			product	Zinc transporter ZupT
+113767	113393	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00100
+			product	hypothetical protein
+114326	114601	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00101
+			product	hypothetical protein
+115354	114782	CDS
+			gene	chrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14285
+			locus_tag	CDBOEMCK_00102
+			product	Chromate transport protein
+115923	115351	CDS
+			gene	chrA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P17551
+			locus_tag	CDBOEMCK_00103
+			product	Chromate transport protein
+116032	116832	CDS
+			EC_number	1.4.1.21
+			gene	nadX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X1X6
+			locus_tag	CDBOEMCK_00104
+			product	L-aspartate dehydrogenase
+116848	117744	CDS
+			EC_number	1.1.1.29
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P36234
+			locus_tag	CDBOEMCK_00105
+			product	Glycerate dehydrogenase
+118322	117786	CDS
+			EC_number	3.2.2.-
+			gene	fas6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46378
+			locus_tag	CDBOEMCK_00106
+			product	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+118582	119382	CDS
+			EC_number	2.7.1.49
+			gene	thiD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99124
+			locus_tag	CDBOEMCK_00107
+			product	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+119375	120052	CDS
+			EC_number	3.5.99.2
+			gene	tenA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A8KRL3
+			locus_tag	CDBOEMCK_00108
+			product	Aminopyrimidine aminohydrolase
+121276	120644	CDS
+			EC_number	3.4.21.105
+			gene	glpG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01594
+			locus_tag	CDBOEMCK_00109
+			product	Rhomboid protease GlpG
+121761	121273	CDS
+			EC_number	3.6.1.25
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q82UI9
+			locus_tag	CDBOEMCK_00110
+			product	Inorganic triphosphatase
+122933	121917	CDS
+			gene	xerD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A2P6
+			locus_tag	CDBOEMCK_00111
+			product	Tyrosine recombinase XerD
+124100	123087	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00112
+			product	hypothetical protein
+124239	124343	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00113
+			product	hypothetical protein
+124749	124372	CDS
+			gene	pccR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q3J4E6
+			locus_tag	CDBOEMCK_00114
+			product	Propionyl-CoA carboxylase regulator
+124931	125128	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00115
+			product	hypothetical protein
+125264	125088	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00116
+			product	hypothetical protein
+125598	125822	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00117
+			product	hypothetical protein
+125906	126097	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00118
+			product	hypothetical protein
+127026	126193	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00119
+			product	hypothetical protein
+127055	127174	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00120
+			product	hypothetical protein
+127192	127872	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00121
+			product	hypothetical protein
+127876	128307	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00122
+			product	hypothetical protein
+128304	128528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00123
+			product	hypothetical protein
+128518	128781	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00124
+			product	hypothetical protein
+128784	129113	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00125
+			product	hypothetical protein
+129164	129565	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00126
+			product	hypothetical protein
+129562	129777	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00127
+			product	hypothetical protein
+129833	131269	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	CDBOEMCK_00128
+			product	Chromosome partition protein Smc
+131266	131835	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00129
+			product	hypothetical protein
+131848	132747	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00130
+			product	hypothetical protein
+132734	133186	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00131
+			product	hypothetical protein
+133183	134574	CDS
+			EC_number	3.6.4.12
+			gene	radD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P33919
+			locus_tag	CDBOEMCK_00132
+			product	Putative DNA repair helicase RadD
+134580	135083	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00133
+			product	hypothetical protein
+135096	137495	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00134
+			product	hypothetical protein
+137625	138044	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00135
+			product	hypothetical protein
+138417	138764	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00136
+			product	hypothetical protein
+138862	139134	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00137
+			product	hypothetical protein
+139082	140479	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00138
+			product	hypothetical protein
+140490	141899	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00139
+			product	hypothetical protein
+141871	142902	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00140
+			product	hypothetical protein
+142877	143077	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00141
+			product	hypothetical protein
+143159	143235	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	CDBOEMCK_00142
+			product	tRNA-Trp(cca)
+143412	146027	CDS
+			gene	mutS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A1Y0
+			locus_tag	CDBOEMCK_00143
+			product	DNA mismatch repair protein MutS
+146071	148212	CDS
+			gene	mutL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P65492
+			locus_tag	CDBOEMCK_00144
+			product	DNA mismatch repair protein MutL
+148196	149140	CDS
+			EC_number	2.5.1.75
+			gene	miaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KAC3
+			locus_tag	CDBOEMCK_00145
+			product	tRNA dimethylallyltransferase
+149146	150459	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00146
+			product	hypothetical protein
+150570	151034	CDS
+			gene	sepF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31728
+			locus_tag	CDBOEMCK_00147
+			product	Cell division protein SepF
+151018	151836	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00148
+			product	hypothetical protein
+151858	152691	CDS
+			gene	divIVA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71021
+			locus_tag	CDBOEMCK_00149
+			product	Septum site-determining protein DivIVA
+152731	155526	CDS
+			EC_number	6.1.1.5
+			gene	ileS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P41972
+			locus_tag	CDBOEMCK_00150
+			product	Isoleucine--tRNA ligase
+155617	156102	CDS
+			EC_number	3.4.23.36
+			gene	lspA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00804
+			locus_tag	CDBOEMCK_00151
+			product	Lipoprotein signal peptidase
+156106	157038	CDS
+			EC_number	5.4.99.23
+			gene	rluD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	CDBOEMCK_00152
+			product	Ribosomal large subunit pseudouridine synthase D
+157035	157865	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00153
+			product	hypothetical protein
+157932	158291	CDS
+			gene	comEA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39694
+			locus_tag	CDBOEMCK_00154
+			product	ComE operon protein 1
+158333	160720	CDS
+			EC_number	2.7.4.1
+			gene	ppk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WHV9
+			locus_tag	CDBOEMCK_00155
+			product	Polyphosphate kinase
+160815	161345	CDS
+			EC_number	3.4.24.-
+			gene	mepM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFS9
+			locus_tag	CDBOEMCK_00156
+			product	Murein DD-endopeptidase MepM
+161342	161827	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00157
+			product	hypothetical protein
+161893	163755	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00158
+			product	hypothetical protein
+163730	164374	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00159
+			product	hypothetical protein
+164590	164931	CDS
+			gene	rplS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FZ42
+			locus_tag	CDBOEMCK_00160
+			product	50S ribosomal protein L19
+165102	165650	CDS
+			EC_number	3.4.21.89
+			gene	sipT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71013
+			locus_tag	CDBOEMCK_00161
+			product	Signal peptidase I T
+165647	166570	CDS
+			gene	rbgA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31743
+			locus_tag	CDBOEMCK_00162
+			product	Ribosome biogenesis GTPase A
+166567	167214	CDS
+			EC_number	3.1.26.4
+			gene	rnhB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10442
+			locus_tag	CDBOEMCK_00163
+			product	Ribonuclease HII
+167211	167573	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00164
+			product	hypothetical protein
+167673	169133	CDS
+			EC_number	4.2.3.1
+			gene	thrC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23669
+			locus_tag	CDBOEMCK_00165
+			product	Threonine synthase
+169168	169851	CDS
+			EC_number	3.1.4.53
+			gene	cpdA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00905
+			locus_tag	CDBOEMCK_00166
+			product	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+170061	171377	CDS
+			EC_number	5.2.1.8
+			gene	tig
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80698
+			locus_tag	CDBOEMCK_00167
+			product	Trigger factor
+171524	172120	CDS
+			EC_number	3.4.21.92
+			gene	clpP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80244
+			locus_tag	CDBOEMCK_00168
+			product	ATP-dependent Clp protease proteolytic subunit
+172162	173484	CDS
+			gene	clpX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P50866
+			locus_tag	CDBOEMCK_00169
+			product	ATP-dependent Clp protease ATP-binding subunit ClpX
+173715	174998	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0R5R7
+			locus_tag	CDBOEMCK_00170
+			product	Putative aminotransferase/MSMEI_6121
+175179	177515	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00171
+			product	hypothetical protein
+177554	178024	CDS
+			gene	nrdR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67318
+			locus_tag	CDBOEMCK_00172
+			product	Transcriptional repressor NrdR
+178445	178077	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00173
+			product	hypothetical protein
+179147	178455	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00174
+			product	hypothetical protein
+179226	180686	CDS
+			gene	gerBA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39569
+			locus_tag	CDBOEMCK_00175
+			product	Spore germination protein B1
+180686	181483	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00176
+			product	hypothetical protein
+181480	182451	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00177
+			product	hypothetical protein
+183802	182453	CDS
+			EC_number	2.7.13.3
+			gene	senX3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0QR01
+			locus_tag	CDBOEMCK_00178
+			product	Signal-transduction histidine kinase senX3
+184488	183799	CDS
+			gene	phoB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFJ5
+			locus_tag	CDBOEMCK_00179
+			product	Phosphate regulon transcriptional regulatory protein PhoB
+186272	184485	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00180
+			product	hypothetical protein
+186570	187505	CDS
+			EC_number	2.7.11.-
+			gene	hprK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5XD71
+			locus_tag	CDBOEMCK_00181
+			product	HPr kinase/phosphorylase
+187534	188430	CDS
+			EC_number	1.3.1.98
+			gene	murB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8Y776
+			locus_tag	CDBOEMCK_00182
+			product	UDP-N-acetylenolpyruvoylglucosamine reductase
+188465	189328	CDS
+			gene	yvcJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O06973
+			locus_tag	CDBOEMCK_00183
+			product	Nucleotide-binding protein YvcJ
+189345	190274	CDS
+			gene	whiA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01420
+			locus_tag	CDBOEMCK_00184
+			product	Putative sporulation transcription regulator WhiA
+190271	193780	CDS
+			EC_number	2.7.7.7
+			gene	dnaE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9XDH5
+			locus_tag	CDBOEMCK_00185
+			product	DNA polymerase III subunit alpha
+193951	194925	CDS
+			EC_number	2.7.1.11
+			gene	pfkA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00512
+			locus_tag	CDBOEMCK_00186
+			product	ATP-dependent 6-phosphofructokinase
+195307	196332	CDS
+			EC_number	2.3.1.8
+			gene	pta
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39646
+			locus_tag	CDBOEMCK_00187
+			product	Phosphate acetyltransferase
+197653	196571	CDS
+			gene	ynaI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEB5
+			locus_tag	CDBOEMCK_00188
+			product	Low conductance mechanosensitive channel YnaI
+198092	198691	CDS
+			gene	ribU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:E5QVT2
+			locus_tag	CDBOEMCK_00189
+			product	Riboflavin transporter RibU
+200236	198818	CDS
+			gene	yeeO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76352
+			locus_tag	CDBOEMCK_00190
+			product	putative FMN/FAD exporter YeeO
+200408	201361	CDS
+			EC_number	2.7.8.13
+			gene	mraY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FZ93
+			locus_tag	CDBOEMCK_00191
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+202323	201469	CDS
+			gene	folD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A697
+			locus_tag	CDBOEMCK_00192
+			product	Bifunctional protein FolD protein
+202970	202335	CDS
+			EC_number	3.5.4.9
+			gene	fchA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q49135
+			locus_tag	CDBOEMCK_00193
+			product	Methenyltetrahydrofolate cyclohydrolase
+203533	202961	CDS
+			EC_number	6.3.3.2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P44905
+			locus_tag	CDBOEMCK_00194
+			product	5-formyltetrahydrofolate cyclo-ligase
+203784	205037	CDS
+			EC_number	2.1.2.1
+			gene	glyA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5M0B4
+			locus_tag	CDBOEMCK_00195
+			product	Serine hydroxymethyltransferase
+205139	205654	CDS
+			EC_number	2.5.1.17
+			gene	btuR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31570
+			locus_tag	CDBOEMCK_00196
+			product	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+205925	206185	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00197
+			product	hypothetical protein
+206221	207192	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00198
+			product	hypothetical protein
+209745	207259	CDS
+			EC_number	3.6.4.12
+			gene	dinG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMR5
+			locus_tag	CDBOEMCK_00199
+			product	putative ATP-dependent helicase DinG 
+210991	209906	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00200
+			product	hypothetical protein
+211637	211062	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00201
+			product	hypothetical protein
+212272	214263	CDS
+			EC_number	6.5.1.2
+			gene	ligA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O87703
+			locus_tag	CDBOEMCK_00202
+			product	DNA ligase
+214392	215285	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00203
+			product	hypothetical protein
+215282	215746	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00204
+			product	hypothetical protein
+215765	215959	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00205
+			product	hypothetical protein
+215956	216339	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00206
+			product	hypothetical protein
+216336	217418	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00207
+			product	hypothetical protein
+217422	217892	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00208
+			product	hypothetical protein
+217889	218422	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00209
+			product	hypothetical protein
+218455	219081	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00210
+			product	hypothetical protein
+219257	219628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99157
+			locus_tag	CDBOEMCK_00211
+			product	Alkaline shock protein 23
+219703	220137	CDS
+			gene	nusB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WIV1
+			locus_tag	CDBOEMCK_00212
+			product	N utilization substance protein B 
+220134	221075	CDS
+			EC_number	2.3.1.234
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O05518
+			locus_tag	CDBOEMCK_00213
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+221063	222286	CDS
+			EC_number	3.1.11.6
+			gene	xseA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04994
+			locus_tag	CDBOEMCK_00214
+			product	Exodeoxyribonuclease 7 large subunit
+222264	222479	CDS
+			EC_number	3.1.11.6
+			gene	xseB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00337
+			locus_tag	CDBOEMCK_00215
+			product	Exodeoxyribonuclease 7 small subunit
+222479	223360	CDS
+			EC_number	2.5.1.10
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q08291
+			locus_tag	CDBOEMCK_00216
+			product	Farnesyl diphosphate synthase
+223393	223860	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00217
+			product	hypothetical protein
+223929	225812	CDS
+			EC_number	2.2.1.7
+			gene	dxs
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KGU7
+			locus_tag	CDBOEMCK_00218
+			product	1-deoxy-D-xylulose-5-phosphate synthase
+225809	226612	CDS
+			gene	tlyA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06803
+			locus_tag	CDBOEMCK_00219
+			product	Hemolysin A
+226651	227502	CDS
+			EC_number	2.7.1.23
+			gene	nadK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZH09
+			locus_tag	CDBOEMCK_00220
+			product	NAD kinase
+227521	228003	CDS
+			gene	argR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P17893
+			locus_tag	CDBOEMCK_00221
+			product	Arginine repressor
+228025	229689	CDS
+			gene	recN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05824
+			locus_tag	CDBOEMCK_00222
+			product	DNA repair protein RecN
+230075	231295	CDS
+			EC_number	6.1.1.1
+			gene	tyrS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97NE3
+			locus_tag	CDBOEMCK_00223
+			product	Tyrosine--tRNA ligase
+231855	231388	CDS
+			EC_number	2.7.2.4
+			gene	lysC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q59229
+			locus_tag	CDBOEMCK_00224
+			product	Aspartokinase
+233225	231906	CDS
+			gene	capA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P19579
+			locus_tag	CDBOEMCK_00225
+			product	Capsule biosynthesis protein CapA
+234026	233268	CDS
+			EC_number	1.17.1.8
+			gene	dapB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2SZ94
+			locus_tag	CDBOEMCK_00226
+			product	4-hydroxy-tetrahydrodipicolinate reductase
+235010	234117	CDS
+			EC_number	4.3.3.7
+			gene	dapA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X1K9
+			locus_tag	CDBOEMCK_00227
+			product	4-hydroxy-tetrahydrodipicolinate synthase
+236134	235052	CDS
+			EC_number	1.2.1.11
+			gene	asd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q04797
+			locus_tag	CDBOEMCK_00228
+			product	Aspartate-semialdehyde dehydrogenase
+236305	237333	CDS
+			EC_number	2.4.99.17
+			gene	queA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32054
+			locus_tag	CDBOEMCK_00229
+			product	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+237431	238576	CDS
+			EC_number	2.4.2.29
+			gene	tgt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P66905
+			locus_tag	CDBOEMCK_00230
+			product	Queuine tRNA-ribosyltransferase
+238650	238961	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00231
+			product	hypothetical protein
+239037	239432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00232
+			product	hypothetical protein
+239458	240198	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00233
+			product	hypothetical protein
+240283	241695	CDS
+			EC_number	3.6.4.-
+			gene	radA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37572
+			locus_tag	CDBOEMCK_00234
+			product	DNA repair protein RadA
+241707	242912	CDS
+			gene	xerC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P44818
+			locus_tag	CDBOEMCK_00235
+			product	Tyrosine recombinase XerC
+244384	243518	CDS
+			EC_number	3.5.1.28
+			gene	amiB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26365
+			locus_tag	CDBOEMCK_00236
+			product	N-acetylmuramoyl-L-alanine amidase AmiB
+246905	244494	CDS
+			EC_number	3.1.-.-
+			gene	mutS2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P65496
+			locus_tag	CDBOEMCK_00237
+			product	Endonuclease MutS2
+247667	246921	CDS
+			gene	recO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42095
+			locus_tag	CDBOEMCK_00238
+			product	DNA repair protein RecO
+248800	247862	CDS
+			gene	era
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42182
+			locus_tag	CDBOEMCK_00239
+			product	GTPase Era
+249338	248847	CDS
+			EC_number	3.1.-.-
+			gene	ybeY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67367
+			locus_tag	CDBOEMCK_00240
+			product	Endoribonuclease YbeY
+250351	249392	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WIA3
+			locus_tag	CDBOEMCK_00241
+			product	PhoH-like protein
+250707	250901	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00242
+			product	hypothetical protein
+251783	250968	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00243
+			product	hypothetical protein
+252835	251780	CDS
+			EC_number	1.17.1.4
+			gene	pucA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32147
+			locus_tag	CDBOEMCK_00244
+			product	putative xanthine dehydrogenase subunit A
+253091	252861	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00245
+			product	hypothetical protein
+254232	253093	CDS
+			EC_number	2.8.1.7
+			gene	csdA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46925
+			locus_tag	CDBOEMCK_00246
+			product	Cysteine desulfurase CsdA
+254837	254229	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00247
+			product	hypothetical protein
+255887	254853	CDS
+			EC_number	2.7.9.3
+			gene	selD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P16456
+			locus_tag	CDBOEMCK_00248
+			product	Selenide, water dikinase
+256591	255884	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00249
+			product	hypothetical protein
+258879	256588	CDS
+			EC_number	1.17.1.4
+			gene	xdhA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46799
+			locus_tag	CDBOEMCK_00250
+			product	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+259346	258876	CDS
+			EC_number	1.3.7.9
+			gene	hcrC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O33818
+			locus_tag	CDBOEMCK_00251
+			product	4-hydroxybenzoyl-CoA reductase subunit gamma
+260150	259347	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00252
+			product	hypothetical protein
+260250	260909	CDS
+			EC_number	2.7.7.77
+			gene	mobA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00316
+			locus_tag	CDBOEMCK_00253
+			product	Molybdenum cofactor guanylyltransferase
+262310	260913	CDS
+			gene	xanP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGM9
+			locus_tag	CDBOEMCK_00254
+			product	Xanthine permease XanP
+263404	262562	CDS
+			EC_number	1.1.1.133
+			gene	rmlD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66251
+			locus_tag	CDBOEMCK_00255
+			product	dTDP-4-dehydrorhamnose reductase
+263778	263473	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00256
+			product	hypothetical protein
+264553	263768	CDS
+			gene	ygaZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76630
+			locus_tag	CDBOEMCK_00257
+			product	Inner membrane protein YgaZ
+266213	264693	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00258
+			product	hypothetical protein
+267753	266332	CDS
+			EC_number	4.1.1.19
+			gene	speA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21885
+			locus_tag	CDBOEMCK_00259
+			product	Arginine decarboxylase
+269201	267750	CDS
+			EC_number	1.8.98.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0TTH1
+			locus_tag	CDBOEMCK_00260
+			product	Anaerobic sulfatase-maturating enzyme
+269413	269267	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00261
+			product	hypothetical protein
+269829	269536	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00262
+			product	hypothetical protein
+270054	270127	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	CDBOEMCK_00263
+			product	tRNA-Gln(ctg)
+271983	270226	CDS
+			EC_number	3.1.3.-
+			gene	mggB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9BJC1
+			locus_tag	CDBOEMCK_00264
+			product	Mannosylglucosyl-3-phosphoglycerate phosphatase
+274025	272253	CDS
+			EC_number	4.2.1.53
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B9E972
+			locus_tag	CDBOEMCK_00265
+			product	Oleate hydratase
+275773	274280	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00266
+			product	hypothetical protein
+276107	275787	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00267
+			product	hypothetical protein
+276409	276104	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00268
+			product	hypothetical protein
+277714	277205	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00269
+			product	hypothetical protein
+279056	278700	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CDBOEMCK_00270
+			product	hypothetical protein

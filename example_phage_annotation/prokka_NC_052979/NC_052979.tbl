@@ -1,0 +1,279 @@
+>Feature NC_052979.1
+77	526	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00001
+			product	hypothetical protein
+523	1008	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00002
+			product	hypothetical protein
+1008	1631	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00003
+			product	hypothetical protein
+1631	2362	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00004
+			product	hypothetical protein
+2662	3192	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00005
+			product	hypothetical protein
+3192	3560	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00006
+			product	hypothetical protein
+3560	4018	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00007
+			product	hypothetical protein
+4528	4274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00008
+			product	hypothetical protein
+5235	4528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00009
+			product	hypothetical protein
+5554	5246	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00010
+			product	hypothetical protein
+7675	5567	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00011
+			product	hypothetical protein
+9304	7682	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00012
+			product	hypothetical protein
+10332	9316	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00013
+			product	hypothetical protein
+11331	10348	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00014
+			product	hypothetical protein
+12262	11342	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00015
+			product	hypothetical protein
+13006	12272	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00016
+			product	hypothetical protein
+16825	13010	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00017
+			product	hypothetical protein
+17036	16818	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00018
+			product	hypothetical protein
+17272	17036	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00019
+			product	hypothetical protein
+18100	17285	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00020
+			product	hypothetical protein
+19808	18120	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00021
+			product	hypothetical protein
+24144	19813	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	IONEPMAN_00022
+			product	Chromosome partition protein Smc
+24840	24385	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00023
+			product	hypothetical protein
+26573	25074	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00024
+			product	hypothetical protein
+27087	26566	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00025
+			product	hypothetical protein
+27694	27077	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00026
+			product	hypothetical protein
+28052	27678	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00027
+			product	hypothetical protein
+28399	28052	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00028
+			product	hypothetical protein
+29529	28465	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00029
+			product	hypothetical protein
+29931	29545	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00030
+			product	hypothetical protein
+31217	29943	CDS
+			EC_number	3.4.21.-
+			gene	sppA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34525
+			locus_tag	IONEPMAN_00031
+			product	Putative signal peptide peptidase SppA
+32839	31217	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00032
+			product	hypothetical protein
+33114	32839	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00033
+			product	hypothetical protein
+35193	33127	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00034
+			product	hypothetical protein
+35767	35180	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00035
+			product	hypothetical protein
+37301	35760	CDS
+			EC_number	3.6.4.-
+			gene	rapA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01821
+			locus_tag	IONEPMAN_00036
+			product	RNA polymerase-associated protein RapA
+37545	37252	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00037
+			product	hypothetical protein
+39598	37547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00038
+			product	hypothetical protein
+40261	39662	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00039
+			product	hypothetical protein
+41617	40301	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00040
+			product	hypothetical protein
+42170	41682	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00041
+			product	hypothetical protein
+42527	42811	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00042
+			product	hypothetical protein
+42811	45474	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00043
+			product	hypothetical protein
+47188	46952	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00044
+			product	hypothetical protein
+47697	47188	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00045
+			product	hypothetical protein
+48175	47690	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00046
+			product	hypothetical protein
+48498	48172	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00047
+			product	hypothetical protein
+48889	48491	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00048
+			product	hypothetical protein
+49109	48882	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00049
+			product	hypothetical protein
+49438	49109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00050
+			product	hypothetical protein
+50325	49438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00051
+			product	hypothetical protein
+50846	50490	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00052
+			product	hypothetical protein
+51700	50846	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00053
+			product	hypothetical protein
+52639	51899	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00054
+			product	hypothetical protein
+53570	53211	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00055
+			product	hypothetical protein
+54139	53567	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00056
+			product	hypothetical protein
+54700	54284	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00057
+			product	hypothetical protein
+54860	54666	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00058
+			product	hypothetical protein
+55089	54844	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00059
+			product	hypothetical protein
+55435	55103	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00060
+			product	hypothetical protein
+55898	56332	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00061
+			product	hypothetical protein
+56411	56728	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00062
+			product	hypothetical protein
+56739	57059	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00063
+			product	hypothetical protein
+57053	57406	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00064
+			product	hypothetical protein
+57403	58524	CDS
+			gene	rdgC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HYX7
+			locus_tag	IONEPMAN_00065
+			product	Recombination-associated protein RdgC
+58524	58724	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00066
+			product	hypothetical protein
+58793	59599	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	IONEPMAN_00067
+			product	hypothetical protein

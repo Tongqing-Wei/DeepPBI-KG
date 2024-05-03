@@ -1,0 +1,373 @@
+>Feature NC_052969.1
+469	155	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00001
+			product	hypothetical protein
+843	466	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00002
+			product	hypothetical protein
+1109	840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00003
+			product	hypothetical protein
+1484	1122	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00004
+			product	hypothetical protein
+1619	1497	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00005
+			product	hypothetical protein
+2542	2375	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00006
+			product	hypothetical protein
+2817	2539	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00007
+			product	hypothetical protein
+2980	2810	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00008
+			product	hypothetical protein
+3243	2977	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00009
+			product	hypothetical protein
+3869	3240	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00010
+			product	hypothetical protein
+4063	3866	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00011
+			product	hypothetical protein
+4310	4131	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00012
+			product	hypothetical protein
+4773	4495	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00013
+			product	hypothetical protein
+5522	4773	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00014
+			product	hypothetical protein
+5807	5553	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00015
+			product	hypothetical protein
+6241	5837	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00016
+			product	hypothetical protein
+6810	6271	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00017
+			product	hypothetical protein
+7589	6840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00018
+			product	hypothetical protein
+8168	7932	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00019
+			product	hypothetical protein
+8283	8501	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00020
+			product	hypothetical protein
+8751	8521	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00021
+			product	hypothetical protein
+8933	8751	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00022
+			product	hypothetical protein
+9195	8935	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00023
+			product	hypothetical protein
+9790	9563	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00024
+			product	hypothetical protein
+10857	9790	CDS
+			EC_number	2.7.7.6
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00059
+			locus_tag	HNOGIIDG_00025
+			product	DNA-directed RNA polymerase subunit alpha
+11510	10854	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00026
+			product	hypothetical protein
+11767	11507	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00027
+			product	hypothetical protein
+12012	11764	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00028
+			product	hypothetical protein
+12206	12009	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00029
+			product	hypothetical protein
+12401	12781	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00030
+			product	hypothetical protein
+12811	13056	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00031
+			product	hypothetical protein
+13053	13295	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00032
+			product	hypothetical protein
+13292	13588	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00033
+			product	hypothetical protein
+13588	13932	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00034
+			product	hypothetical protein
+14046	14327	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00035
+			product	hypothetical protein
+14324	14677	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00036
+			product	hypothetical protein
+14643	15005	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00037
+			product	hypothetical protein
+15022	15360	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00038
+			product	hypothetical protein
+15357	15584	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00039
+			product	hypothetical protein
+15647	16921	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00040
+			product	hypothetical protein
+17052	17855	CDS
+			EC_number	2.1.1.72
+			gene	dpnA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09358
+			locus_tag	HNOGIIDG_00041
+			product	Modification methylase DpnIIB
+17877	18440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00042
+			product	hypothetical protein
+18563	19261	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00043
+			product	hypothetical protein
+19925	19245	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00044
+			product	hypothetical protein
+20335	19922	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00045
+			product	hypothetical protein
+20553	20335	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00046
+			product	hypothetical protein
+21439	20555	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00047
+			product	hypothetical protein
+22228	21518	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00048
+			product	hypothetical protein
+23019	22225	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00049
+			product	hypothetical protein
+25959	23074	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00050
+			product	hypothetical protein
+26155	25946	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00051
+			product	hypothetical protein
+26394	26152	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00052
+			product	hypothetical protein
+27261	26404	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00053
+			product	hypothetical protein
+27408	27274	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00054
+			product	hypothetical protein
+29131	27419	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00055
+			product	hypothetical protein
+33972	29128	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	HNOGIIDG_00056
+			product	Chromosome partition protein Smc
+34183	33974	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00057
+			product	hypothetical protein
+34665	34210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00058
+			product	hypothetical protein
+35455	34688	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00059
+			product	hypothetical protein
+36001	35507	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00060
+			product	hypothetical protein
+36621	36001	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00061
+			product	hypothetical protein
+36997	36623	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00062
+			product	hypothetical protein
+37284	36997	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00063
+			product	hypothetical protein
+38434	37352	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00064
+			product	hypothetical protein
+38889	38467	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00065
+			product	hypothetical protein
+40196	38913	CDS
+			EC_number	3.4.21.-
+			gene	sppA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34525
+			locus_tag	HNOGIIDG_00066
+			product	Putative signal peptide peptidase SppA
+41847	40189	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00067
+			product	hypothetical protein
+42050	41847	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00068
+			product	hypothetical protein
+44144	42060	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00069
+			product	hypothetical protein
+44805	44137	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00070
+			product	hypothetical protein
+44983	44798	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00071
+			product	hypothetical protein
+45232	45453	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00072
+			product	hypothetical protein
+46667	45432	CDS
+			gene	intA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32053
+			locus_tag	HNOGIIDG_00073
+			product	Prophage integrase IntA
+47709	47011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00074
+			product	hypothetical protein
+49430	47985	CDS
+			EC_number	3.6.4.-
+			gene	rapA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01821
+			locus_tag	HNOGIIDG_00075
+			product	RNA polymerase-associated protein RapA
+49569	49432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00076
+			product	hypothetical protein
+49862	49566	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00077
+			product	hypothetical protein
+49969	49874	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00078
+			product	hypothetical protein
+50232	49966	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00079
+			product	hypothetical protein
+50429	50229	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00080
+			product	hypothetical protein
+52692	50446	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00081
+			product	hypothetical protein
+52895	52689	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00082
+			product	hypothetical protein
+53668	52892	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00083
+			product	hypothetical protein
+54416	53799	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00084
+			product	hypothetical protein
+55662	54475	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00085
+			product	hypothetical protein
+56583	55666	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00086
+			product	hypothetical protein
+57219	56671	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00087
+			product	hypothetical protein
+57378	57719	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00088
+			product	hypothetical protein
+57768	60608	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNOGIIDG_00089
+			product	hypothetical protein

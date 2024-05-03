@@ -1,0 +1,3186 @@
+>Feature NZ_GG697149.2
+151	303	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00001
+			product	hypothetical protein
+303	926	CDS
+			EC_number	3.2.1.17
+			gene	lyc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34020
+			locus_tag	ALPHOKDO_00002
+			product	Autolytic lysozyme
+943	1191	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00003
+			product	hypothetical protein
+2244	1261	CDS
+			EC_number	1.1.1.-
+			gene	yhdN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80874
+			locus_tag	ALPHOKDO_00004
+			product	General stress protein 69
+3994	2390	CDS
+			gene	prfC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99V72
+			locus_tag	ALPHOKDO_00005
+			product	Peptide chain release factor 3
+5154	4297	CDS
+			EC_number	2.1.1.199
+			gene	rsmH_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01007
+			locus_tag	ALPHOKDO_00006
+			product	Ribosomal RNA small subunit methyltransferase H
+5618	7027	CDS
+			EC_number	3.4.21.107
+			gene	htrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34358
+			locus_tag	ALPHOKDO_00007
+			product	Serine protease Do-like HtrA
+9090	7135	CDS
+			EC_number	3.2.1.41
+			gene	amyX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C0SPA0
+			locus_tag	ALPHOKDO_00008
+			product	Pullulanase
+9215	11254	CDS
+			gene	spoVK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27643
+			locus_tag	ALPHOKDO_00009
+			product	Stage V sporulation protein K
+12255	11293	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00010
+			product	hypothetical protein
+13222	12362	CDS
+			EC_number	1.3.1.12
+			gene	tyrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O69721
+			locus_tag	ALPHOKDO_00011
+			product	Prephenate dehydrogenase
+14486	13212	CDS
+			EC_number	2.5.1.19
+			gene	aroA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KRB0
+			locus_tag	ALPHOKDO_00012
+			product	3-phosphoshikimate 1-carboxyvinyltransferase
+15504	14488	CDS
+			EC_number	2.5.1.54
+			gene	aroF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WYH8
+			locus_tag	ALPHOKDO_00013
+			product	Phospho-2-dehydro-3-deoxyheptonate aldolase
+16090	15626	CDS
+			EC_number	4.2.1.10
+			gene	yqhS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54517
+			locus_tag	ALPHOKDO_00014
+			product	3-dehydroquinate dehydratase
+17333	16071	CDS
+			EC_number	1.1.1.25
+			gene	aroE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5HNV1
+			locus_tag	ALPHOKDO_00015
+			product	Shikimate dehydrogenase (NADP(+))
+18476	17334	CDS
+			EC_number	4.2.3.5
+			gene	aroC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9PM41
+			locus_tag	ALPHOKDO_00016
+			product	Chorismate synthase
+19523	18480	CDS
+			EC_number	4.2.3.4
+			gene	aroB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KNV2
+			locus_tag	ALPHOKDO_00017
+			product	3-dehydroquinate synthase
+20593	19520	CDS
+			gene	pheA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9J8
+			locus_tag	ALPHOKDO_00018
+			product	P-protein
+22199	21435	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00019
+			product	hypothetical protein
+22930	22208	CDS
+			EC_number	2.3.1.51
+			gene	plsC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26647
+			locus_tag	ALPHOKDO_00020
+			product	1-acyl-sn-glycerol-3-phosphate acyltransferase
+23126	23962	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00021
+			product	hypothetical protein
+24002	25375	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00022
+			product	hypothetical protein
+25433	26041	CDS
+			EC_number	2.7.4.25
+			gene	cmk_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00239
+			locus_tag	ALPHOKDO_00023
+			product	Cytidylate kinase
+26300	27694	CDS
+			gene	mepA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7N0
+			locus_tag	ALPHOKDO_00024
+			product	Multidrug export protein MepA
+27740	28441	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00025
+			product	hypothetical protein
+28603	30015	CDS
+			EC_number	1.18.1.2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01685
+			locus_tag	ALPHOKDO_00026
+			product	Ferredoxin--NADP reductase
+30268	31068	CDS
+			gene	hexR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q88P32
+			locus_tag	ALPHOKDO_00027
+			product	HTH-type transcriptional regulator HexR
+32327	31122	CDS
+			EC_number	4.4.1.8
+			gene	patB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q08432
+			locus_tag	ALPHOKDO_00028
+			product	Cystathionine beta-lyase PatB
+33457	32513	CDS
+			EC_number	2.2.1.7
+			gene	dxs
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77488
+			locus_tag	ALPHOKDO_00029
+			product	1-deoxy-D-xylulose-5-phosphate synthase
+34310	33459	CDS
+			EC_number	2.2.1.1
+			gene	tkt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8YRU9
+			locus_tag	ALPHOKDO_00030
+			product	Transketolase
+34622	36073	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00031
+			product	hypothetical protein
+36283	36819	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00032
+			product	hypothetical protein
+37156	36974	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00033
+			product	hypothetical protein
+38894	37647	CDS
+			gene	sstT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGE4
+			locus_tag	ALPHOKDO_00034
+			product	Serine/threonine transporter SstT
+40231	39134	CDS
+			EC_number	5.1.1.20
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97MK4
+			locus_tag	ALPHOKDO_00035
+			product	L-Ala-D/L-Glu epimerase
+41627	40248	CDS
+			EC_number	3.4.13.-
+			gene	pepV_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45494
+			locus_tag	ALPHOKDO_00036
+			product	Beta-Ala-Xaa dipeptidase
+41925	42179	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00037
+			product	hypothetical protein
+42348	42710	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00038
+			product	hypothetical protein
+42921	43886	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00039
+			product	hypothetical protein
+43910	44128	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00040
+			product	hypothetical protein
+44226	44702	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00041
+			product	hypothetical protein
+44699	46486	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00042
+			product	hypothetical protein
+46479	46691	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00043
+			product	hypothetical protein
+46902	47117	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00044
+			product	hypothetical protein
+47134	48003	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00045
+			product	hypothetical protein
+48028	48438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00046
+			product	hypothetical protein
+48380	50815	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00047
+			product	hypothetical protein
+50812	51693	CDS
+			EC_number	2.1.1.72
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	ALPHOKDO_00048
+			product	DNA adenine methyltransferase YhdJ
+51690	53795	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00049
+			product	hypothetical protein
+53830	54087	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00050
+			product	hypothetical protein
+54077	54775	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00051
+			product	hypothetical protein
+54772	56235	CDS
+			EC_number	5.99.1.2
+			gene	topB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14294
+			locus_tag	ALPHOKDO_00052
+			product	DNA topoisomerase 3
+56252	58123	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00053
+			product	hypothetical protein
+58120	58446	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00054
+			product	hypothetical protein
+58618	58932	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00055
+			product	hypothetical protein
+59017	59577	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00056
+			product	hypothetical protein
+59574	60491	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00057
+			product	hypothetical protein
+60575	60886	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00058
+			product	hypothetical protein
+61003	62610	CDS
+			gene	mobA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07112
+			locus_tag	ALPHOKDO_00059
+			product	Mobilization protein A
+62627	64504	CDS
+			EC_number	2.7.7.-
+			gene	dnaG_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00974
+			locus_tag	ALPHOKDO_00060
+			product	DNA primase
+64619	64819	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00061
+			product	hypothetical protein
+64863	65516	CDS
+			EC_number	5.99.1.2
+			gene	topB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14294
+			locus_tag	ALPHOKDO_00062
+			product	DNA topoisomerase 3
+65719	69432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00063
+			product	hypothetical protein
+69436	70389	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00064
+			product	hypothetical protein
+70392	70598	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00065
+			product	hypothetical protein
+70595	70960	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00066
+			product	hypothetical protein
+71506	71138	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00067
+			product	hypothetical protein
+71741	71511	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00068
+			product	hypothetical protein
+73174	71834	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00069
+			product	hypothetical protein
+73464	73135	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00070
+			product	hypothetical protein
+74078	73719	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00071
+			product	hypothetical protein
+74414	75079	CDS
+			gene	srrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5HFT0
+			locus_tag	ALPHOKDO_00072
+			product	Transcriptional regulatory protein SrrA
+75163	76083	CDS
+			EC_number	3.6.3.-
+			gene	yxlF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P94374
+			locus_tag	ALPHOKDO_00073
+			product	putative ABC transporter ATP-binding protein YxlF
+76076	76882	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00074
+			product	hypothetical protein
+76900	77814	CDS
+			EC_number	2.7.13.3
+			gene	resE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P35164
+			locus_tag	ALPHOKDO_00075
+			product	Sensor histidine kinase ResE
+78278	78700	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00076
+			product	hypothetical protein
+78697	78948	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00077
+			product	hypothetical protein
+79364	79600	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00078
+			product	hypothetical protein
+79604	80908	CDS
+			gene	xerC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	ALPHOKDO_00079
+			product	Tyrosine recombinase XerC
+81222	83510	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00080
+			product	hypothetical protein
+84110	83601	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00081
+			product	hypothetical protein
+84687	84235	CDS
+			gene	btr
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40408
+			locus_tag	ALPHOKDO_00082
+			product	HTH-type transcriptional activator Btr
+85070	84777	CDS
+			gene	phoU_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97ID9
+			locus_tag	ALPHOKDO_00083
+			product	Phosphate-specific transport system accessory protein PhoU 
+85445	85080	CDS
+			gene	phoU_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97ID9
+			locus_tag	ALPHOKDO_00084
+			product	Phosphate-specific transport system accessory protein PhoU 
+86223	85459	CDS
+			EC_number	3.6.3.27
+			gene	pstB3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A2V9
+			locus_tag	ALPHOKDO_00085
+			product	Phosphate import ATP-binding protein PstB 3
+87222	86365	CDS
+			gene	pstA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07654
+			locus_tag	ALPHOKDO_00086
+			product	Phosphate transport system permease protein PstA
+88114	87215	CDS
+			gene	pstC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGH8
+			locus_tag	ALPHOKDO_00087
+			product	Phosphate transport system permease protein PstC
+89022	88135	CDS
+			gene	pstS1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97Q31
+			locus_tag	ALPHOKDO_00088
+			product	Phosphate-binding protein PstS 1
+89751	89236	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00089
+			product	hypothetical protein
+90531	89926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00090
+			product	hypothetical protein
+91655	90528	CDS
+			EC_number	3.5.1.25
+			gene	nagA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34450
+			locus_tag	ALPHOKDO_00091
+			product	N-acetylglucosamine-6-phosphate deacetylase
+92436	91708	CDS
+			EC_number	3.5.99.6
+			gene	nagB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O35000
+			locus_tag	ALPHOKDO_00092
+			product	Glucosamine-6-phosphate deaminase 1
+94108	92636	CDS
+			gene	nagE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09323
+			locus_tag	ALPHOKDO_00093
+			product	PTS system N-acetylglucosamine-specific EIICBA component
+94423	95337	CDS
+			EC_number	2.1.1.-
+			gene	prmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45558
+			locus_tag	ALPHOKDO_00094
+			product	Ribosomal protein L11 methyltransferase
+95526	96269	CDS
+			EC_number	2.1.1.193
+			gene	rsmE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54461
+			locus_tag	ALPHOKDO_00095
+			product	Ribosomal RNA small subunit methyltransferase E
+97929	96319	CDS
+			EC_number	2.7.3.9
+			gene	ptsI_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08838
+			locus_tag	ALPHOKDO_00096
+			product	Phosphoenolpyruvate-protein phosphotransferase
+99098	97926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00097
+			product	hypothetical protein
+99236	99886	CDS
+			EC_number	3.1.3.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X0Y1
+			locus_tag	ALPHOKDO_00098
+			product	Phosphorylated carbohydrates phosphatase
+100385	99933	CDS
+			gene	ywnA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71036
+			locus_tag	ALPHOKDO_00099
+			product	Putative HTH-type transcriptional regulator YwnA
+100513	101268	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00195
+			locus_tag	ALPHOKDO_00100
+			product	Ferredoxin
+101997	101275	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00101
+			product	hypothetical protein
+102086	103027	CDS
+			EC_number	2.4.-.-
+			gene	epsJ_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71059
+			locus_tag	ALPHOKDO_00102
+			product	putative glycosyltransferase EpsJ
+104870	103071	CDS
+			EC_number	3.4.11.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O25681
+			locus_tag	ALPHOKDO_00103
+			product	Aminopeptidase
+106922	105030	CDS
+			EC_number	3.6.3.3
+			gene	cadA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32219
+			locus_tag	ALPHOKDO_00104
+			product	Cadmium, zinc and cobalt-transporting ATPase
+107470	107246	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00105
+			product	hypothetical protein
+107888	107547	CDS
+			gene	ziaR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q55940
+			locus_tag	ALPHOKDO_00106
+			product	Transcriptional repressor SmtB 
+108876	108121	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00107
+			product	hypothetical protein
+109042	109428	CDS
+			EC_number	3.1.2.29
+			gene	flK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q1EMV2
+			locus_tag	ALPHOKDO_00108
+			product	Fluoroacetyl-CoA thioesterase
+109717	109442	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00109
+			product	hypothetical protein
+109720	111351	CDS
+			gene	mleN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54571
+			locus_tag	ALPHOKDO_00110
+			product	Malate-2H(+)/Na(+)-lactate antiporter
+111392	111871	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00111
+			product	hypothetical protein
+116811	112180	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00112
+			product	hypothetical protein
+117235	116855	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00113
+			product	hypothetical protein
+118367	117735	CDS
+			gene	vraR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A2Q1
+			locus_tag	ALPHOKDO_00114
+			product	Response regulator protein VraR
+119194	118364	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00115
+			product	hypothetical protein
+120828	119179	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00116
+			product	hypothetical protein
+121809	121024	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00117
+			product	hypothetical protein
+122015	123208	CDS
+			gene	cesA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RLB8
+			locus_tag	ALPHOKDO_00118
+			product	Multidomain esterase
+123316	124719	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RUE8
+			locus_tag	ALPHOKDO_00119
+			product	putative ABC transporter-binding protein
+124849	126696	CDS
+			EC_number	2.7.13.3
+			gene	yehU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AD14
+			locus_tag	ALPHOKDO_00120
+			product	Sensor histidine kinase YehU
+126671	128239	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7X9
+			locus_tag	ALPHOKDO_00121
+			product	putative response regulatory protein
+128377	129303	CDS
+			gene	lacF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29823
+			locus_tag	ALPHOKDO_00122
+			product	Lactose transport system permease protein LacF
+129317	130207	CDS
+			gene	araQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P94530
+			locus_tag	ALPHOKDO_00123
+			product	L-arabinose transport system permease protein AraQ
+130242	131096	CDS
+			EC_number	3.1.2.6
+			gene	gloC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75849
+			locus_tag	ALPHOKDO_00124
+			product	Hydroxyacylglutathione hydrolase GloC
+131695	134826	CDS
+			EC_number	3.6.4.12
+			gene	radD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P33919
+			locus_tag	ALPHOKDO_00125
+			product	Putative DNA repair helicase RadD
+134839	135240	CDS
+			EC_number	3.6.1.65
+			gene	nudG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77788
+			locus_tag	ALPHOKDO_00126
+			product	CTP pyrophosphohydrolase
+135431	136006	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00127
+			product	hypothetical protein
+136003	136440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00128
+			product	hypothetical protein
+136626	137228	CDS
+			EC_number	5.4.2.11
+			gene	gpmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01039
+			locus_tag	ALPHOKDO_00129
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+137334	137244	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00130
+			product	tRNA-Ser(cga)
+137716	139953	CDS
+			EC_number	3.2.1.23
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A7LXS9
+			locus_tag	ALPHOKDO_00131
+			product	Beta-galactosidase BoGH2A
+140284	140081	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00132
+			product	hypothetical protein
+140624	140328	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00133
+			product	hypothetical protein
+142257	140740	CDS
+			gene	uidB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0CE44
+			locus_tag	ALPHOKDO_00134
+			product	Glucuronide carrier protein 
+143173	142622	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00135
+			product	hypothetical protein
+144937	143309	CDS
+			gene	melB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30878
+			locus_tag	ALPHOKDO_00136
+			product	Melibiose carrier protein
+145366	147609	CDS
+			EC_number	3.2.1.21
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A7LXU3
+			locus_tag	ALPHOKDO_00137
+			product	Beta-glucosidase BoGH3B
+147654	149030	CDS
+			gene	mepA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7N0
+			locus_tag	ALPHOKDO_00138
+			product	Multidrug export protein MepA
+149098	149952	CDS
+			EC_number	1.-.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P44481
+			locus_tag	ALPHOKDO_00139
+			product	putative oxidoreductase
+150960	150046	CDS
+			EC_number	2.1.3.3
+			gene	argF_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A5M9
+			locus_tag	ALPHOKDO_00140
+			product	Ornithine carbamoyltransferase
+152162	150957	CDS
+			EC_number	2.6.1.11
+			gene	argD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66442
+			locus_tag	ALPHOKDO_00141
+			product	Acetylornithine aminotransferase
+153136	152282	CDS
+			EC_number	2.7.2.8
+			gene	argB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6V1L5
+			locus_tag	ALPHOKDO_00142
+			product	Acetylglutamate kinase
+154523	153294	CDS
+			gene	argJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9Z4S1
+			locus_tag	ALPHOKDO_00143
+			product	Arginine biosynthesis bifunctional protein ArgJ
+155615	154680	CDS
+			EC_number	1.2.1.38
+			gene	argC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X2A2
+			locus_tag	ALPHOKDO_00144
+			product	N-acetyl-gamma-glutamyl-phosphate reductase
+157012	155612	CDS
+			EC_number	4.3.2.1
+			gene	argH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11447
+			locus_tag	ALPHOKDO_00145
+			product	Argininosuccinate lyase
+158705	157470	CDS
+			EC_number	6.3.4.5
+			gene	argG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P59846
+			locus_tag	ALPHOKDO_00146
+			product	Argininosuccinate synthase
+159824	158976	CDS
+			EC_number	2.3.1.-
+			gene	pitA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HUU7
+			locus_tag	ALPHOKDO_00147
+			product	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+160653	159826	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00148
+			product	hypothetical protein
+161365	160850	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00149
+			product	hypothetical protein
+162145	161384	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00150
+			product	hypothetical protein
+163684	162311	CDS
+			EC_number	6.3.4.13
+			gene	purD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66949
+			locus_tag	ALPHOKDO_00151
+			product	Phosphoribosylamine--glycine ligase
+164455	163703	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00152
+			product	hypothetical protein
+165377	164604	CDS
+			EC_number	3.2.1.8
+			gene	xynZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P10478
+			locus_tag	ALPHOKDO_00153
+			product	Endo-1,4-beta-xylanase Z
+166735	165656	CDS
+			EC_number	2.6.1.42
+			gene	ilvK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39576
+			locus_tag	ALPHOKDO_00154
+			product	Branched-chain-amino-acid aminotransferase 2
+167090	167743	CDS
+			EC_number	3.1.3.-
+			gene	yqaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77475
+			locus_tag	ALPHOKDO_00155
+			product	Fructose-1-phosphate phosphatase YqaB
+167841	168236	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00156
+			product	hypothetical protein
+169310	168366	CDS
+			gene	gltR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P94501
+			locus_tag	ALPHOKDO_00157
+			product	HTH-type transcriptional regulator GltR
+169620	169886	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00158
+			product	hypothetical protein
+170444	170692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00159
+			product	hypothetical protein
+171081	172295	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00160
+			product	hypothetical protein
+173816	172347	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00161
+			product	hypothetical protein
+174521	173826	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00162
+			product	hypothetical protein
+177163	174536	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00163
+			product	hypothetical protein
+178941	177178	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00164
+			product	hypothetical protein
+179224	179024	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00165
+			product	hypothetical protein
+179594	179806	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00166
+			product	hypothetical protein
+180640	181086	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00167
+			product	hypothetical protein
+181049	182032	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00168
+			product	hypothetical protein
+182070	182612	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00169
+			product	hypothetical protein
+182609	182716	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00170
+			product	hypothetical protein
+182805	183257	CDS
+			EC_number	2.7.7.-
+			gene	dnaG_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P56064
+			locus_tag	ALPHOKDO_00171
+			product	DNA primase
+183220	184566	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00172
+			product	hypothetical protein
+184946	185245	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00173
+			product	hypothetical protein
+185260	186660	CDS
+			gene	xerC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	ALPHOKDO_00174
+			product	Tyrosine recombinase XerC
+186891	186815	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00175
+			product	tRNA-Arg(acg)
+187917	187042	CDS
+			EC_number	4.3.1.17
+			gene	sdhA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P33073
+			locus_tag	ALPHOKDO_00176
+			product	L-serine dehydratase, alpha chain
+188603	187920	CDS
+			EC_number	4.3.1.17
+			gene	sdhB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P33074
+			locus_tag	ALPHOKDO_00177
+			product	L-serine dehydratase, beta chain
+188759	190054	CDS
+			EC_number	5.2.1.8
+			gene	tig_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80698
+			locus_tag	ALPHOKDO_00178
+			product	Trigger factor
+190904	190125	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00179
+			product	hypothetical protein
+191349	190906	CDS
+			gene	slyA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01819
+			locus_tag	ALPHOKDO_00180
+			product	Transcriptional regulator SlyA
+193872	191530	CDS
+			gene	feoB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8GNS3
+			locus_tag	ALPHOKDO_00181
+			product	Fe(2+) transporter FeoB
+195114	194089	CDS
+			EC_number	5.1.3.2
+			gene	lnpD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:E8MF10
+			locus_tag	ALPHOKDO_00182
+			product	UDP-glucose 4-epimerase
+196447	195374	CDS
+			EC_number	5.1.3.3
+			gene	mro
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05149
+			locus_tag	ALPHOKDO_00183
+			product	Aldose 1-epimerase
+197246	196677	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00184
+			product	hypothetical protein
+198285	197470	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00185
+			product	hypothetical protein
+202342	198416	CDS
+			gene	swrC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31501
+			locus_tag	ALPHOKDO_00186
+			product	Swarming motility protein SwrC
+202932	203870	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00187
+			product	hypothetical protein
+204161	204331	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00200
+			locus_tag	ALPHOKDO_00188
+			product	Ferredoxin
+204466	205140	CDS
+			EC_number	2.1.1.223
+			gene	yfiC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01872
+			locus_tag	ALPHOKDO_00189
+			product	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+205279	206118	CDS
+			EC_number	2.1.1.198
+			gene	rsmI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67087
+			locus_tag	ALPHOKDO_00190
+			product	Ribosomal RNA small subunit methyltransferase I
+206370	206858	CDS
+			EC_number	3.1.4.-
+			gene	yfcE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67095
+			locus_tag	ALPHOKDO_00191
+			product	Phosphodiesterase YfcE
+206855	207622	CDS
+			EC_number	6.3.4.15
+			gene	birA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0CI75
+			locus_tag	ALPHOKDO_00192
+			product	Bifunctional ligase/repressor BirA
+208430	207894	CDS
+			EC_number	2.3.1.89
+			gene	dapH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A2S0
+			locus_tag	ALPHOKDO_00193
+			product	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+208536	209825	CDS
+			EC_number	3.4.16.4
+			gene	dacB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P35150
+			locus_tag	ALPHOKDO_00194
+			product	D-alanyl-D-alanine carboxypeptidase DacB
+210956	209991	CDS
+			EC_number	2.7.7.7
+			gene	dnaX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WNT9
+			locus_tag	ALPHOKDO_00195
+			product	DNA polymerase III subunit gamma/tau
+211591	210953	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00196
+			product	hypothetical protein
+213760	212189	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SMG8
+			locus_tag	ALPHOKDO_00197
+			product	Magnesium transporter MgtE
+214373	214732	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00198
+			product	hypothetical protein
+214729	215016	CDS
+			gene	higA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJA7
+			locus_tag	ALPHOKDO_00199
+			product	Antitoxin HigA1
+219028	215483	CDS
+			EC_number	1.2.7.1
+			gene	por
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P94692
+			locus_tag	ALPHOKDO_00200
+			product	Pyruvate synthase
+219374	219925	CDS
+			EC_number	3.6.1.13
+			gene	nudF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54570
+			locus_tag	ALPHOKDO_00201
+			product	ADP-ribose pyrophosphatase
+219922	220683	CDS
+			EC_number	5.4.99.28
+			gene	rluA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AA37
+			locus_tag	ALPHOKDO_00202
+			product	Ribosomal large subunit pseudouridine synthase A
+220768	221445	CDS
+			gene	rspR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ACM2
+			locus_tag	ALPHOKDO_00203
+			product	HTH-type transcriptional repressor RspR
+222112	221528	CDS
+			gene	mntP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76264
+			locus_tag	ALPHOKDO_00204
+			product	putative manganese efflux pump MntP
+224995	222431	CDS
+			EC_number	5.99.1.3
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2G2Q0
+			locus_tag	ALPHOKDO_00205
+			product	DNA gyrase subunit A
+227002	225008	CDS
+			EC_number	5.99.1.3
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0K8
+			locus_tag	ALPHOKDO_00206
+			product	DNA gyrase subunit B
+227310	227059	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00207
+			product	hypothetical protein
+228519	227398	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WHI9
+			locus_tag	ALPHOKDO_00208
+			product	DNA replication and repair protein RecF
+228738	228523	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00209
+			product	hypothetical protein
+229415	228750	CDS
+			EC_number	2.7.7.7
+			gene	dnaN_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05649
+			locus_tag	ALPHOKDO_00210
+			product	DNA polymerase III subunit beta
+229857	229387	CDS
+			EC_number	2.7.7.7
+			gene	dnaN_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05649
+			locus_tag	ALPHOKDO_00211
+			product	DNA polymerase III subunit beta
+231580	230258	CDS
+			gene	dnaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05648
+			locus_tag	ALPHOKDO_00212
+			product	Chromosomal replication initiator protein DnaA
+231967	232101	CDS
+			gene	rpmH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23376
+			locus_tag	ALPHOKDO_00213
+			product	50S ribosomal protein L34
+232349	232747	CDS
+			EC_number	3.1.26.5
+			gene	rnpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P25814
+			locus_tag	ALPHOKDO_00214
+			product	Ribonuclease P protein component
+232744	233043	CDS
+			gene	yidD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8C8
+			locus_tag	ALPHOKDO_00215
+			product	Putative membrane protein insertion efficiency factor
+233307	234389	CDS
+			gene	yidC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P74155
+			locus_tag	ALPHOKDO_00216
+			product	Membrane protein insertase YidC
+235752	237122	CDS
+			EC_number	3.6.-.-
+			gene	mnmE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8YN91
+			locus_tag	ALPHOKDO_00217
+			product	tRNA modification GTPase MnmE
+237297	239171	CDS
+			gene	mnmG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P64230
+			locus_tag	ALPHOKDO_00218
+			product	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+239310	240017	CDS
+			EC_number	2.1.1.-
+			gene	rsmG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97QD4
+			locus_tag	ALPHOKDO_00219
+			product	Ribosomal RNA small subunit methyltransferase G
+240175	240969	CDS
+			gene	noc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37524
+			locus_tag	ALPHOKDO_00220
+			product	Nucleoid occlusion protein
+241163	242014	CDS
+			EC_number	3.6.-.-
+			gene	soj
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	ALPHOKDO_00221
+			product	Sporulation initiation inhibitor protein Soj
+242209	242886	CDS
+			gene	spo0C_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	ALPHOKDO_00222
+			product	Chromosome-partitioning protein Spo0J
+243130	244461	CDS
+			EC_number	6.1.1.11
+			gene	serS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66647
+			locus_tag	ALPHOKDO_00223
+			product	Serine--tRNA ligase
+244667	244593	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00224
+			product	tRNA-Glu(ttc)
+244835	244759	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00225
+			product	tRNA-Met(cat)
+245664	244996	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00226
+			product	hypothetical protein
+246473	245817	CDS
+			EC_number	3.1.3.18
+			gene	gph
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67359
+			locus_tag	ALPHOKDO_00227
+			product	Phosphoglycolate phosphatase
+247944	246568	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00228
+			product	hypothetical protein
+248372	247941	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00229
+			product	hypothetical protein
+249034	248369	CDS
+			gene	trkA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WFZ3
+			locus_tag	ALPHOKDO_00230
+			product	Trk system potassium uptake protein TrkA
+249495	249082	CDS
+			gene	trkA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGI8
+			locus_tag	ALPHOKDO_00231
+			product	Trk system potassium uptake protein TrkA
+249748	250578	CDS
+			EC_number	3.6.1.27
+			gene	uppP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P60932
+			locus_tag	ALPHOKDO_00232
+			product	Undecaprenyl-diphosphatase
+250736	251005	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00233
+			product	hypothetical protein
+251055	251861	CDS
+			gene	rsxB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00463
+			locus_tag	ALPHOKDO_00234
+			product	Electron transport complex subunit RsxB
+252518	251931	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00235
+			product	hypothetical protein
+252778	254319	CDS
+			gene	glcB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q53922
+			locus_tag	ALPHOKDO_00236
+			product	PTS system glucoside-specific EIICBA component
+254476	255792	CDS
+			EC_number	3.4.11.-
+			gene	apeB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HYZ3
+			locus_tag	ALPHOKDO_00237
+			product	putative M18 family aminopeptidase 2
+255789	256733	CDS
+			EC_number	6.1.1.17
+			gene	gltX1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X172
+			locus_tag	ALPHOKDO_00238
+			product	Glutamate--tRNA ligase 1
+256849	257982	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00239
+			product	hypothetical protein
+258907	258041	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00240
+			product	hypothetical protein
+260322	258964	CDS
+			gene	yeeO_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76352
+			locus_tag	ALPHOKDO_00241
+			product	putative FMN/FAD exporter YeeO
+261211	260414	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00242
+			product	hypothetical protein
+261407	263062	CDS
+			EC_number	3.6.1.1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8XIQ9
+			locus_tag	ALPHOKDO_00243
+			product	Cobalt-dependent inorganic pyrophosphatase
+263803	263135	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00244
+			product	hypothetical protein
+264117	264617	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00245
+			product	hypothetical protein
+264753	266186	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00246
+			product	hypothetical protein
+266170	266775	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00247
+			product	hypothetical protein
+266772	270110	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	ALPHOKDO_00248
+			product	Chromosome partition protein Smc
+270103	270342	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00249
+			product	hypothetical protein
+270554	271906	CDS
+			gene	mepA_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7N0
+			locus_tag	ALPHOKDO_00250
+			product	Multidrug export protein MepA
+272619	271948	CDS
+			EC_number	3.1.3.73
+			gene	cobC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39701
+			locus_tag	ALPHOKDO_00251
+			product	Adenosylcobalamin/alpha-ribazole phosphatase
+272834	273754	CDS
+			gene	tfdR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46M57
+			locus_tag	ALPHOKDO_00252
+			product	HTH-type transcriptional regulator TdfR
+274056	275561	CDS
+			gene	cstA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P15078
+			locus_tag	ALPHOKDO_00253
+			product	Carbon starvation protein A
+275973	277478	CDS
+			gene	yjiY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39396
+			locus_tag	ALPHOKDO_00254
+			product	Inner membrane protein YjiY
+277638	278654	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00255
+			product	hypothetical protein
+278780	279805	CDS
+			EC_number	1.1.1.346
+			gene	dkgB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30863
+			locus_tag	ALPHOKDO_00256
+			product	2,5-diketo-D-gluconic acid reductase B
+281221	279854	CDS
+			gene	mepA_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2G140
+			locus_tag	ALPHOKDO_00257
+			product	Multidrug export protein MepA
+281455	281530	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00258
+			product	tRNA-Arg(ccg)
+283000	281600	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00259
+			product	hypothetical protein
+283804	283028	CDS
+			EC_number	2.7.1.33
+			gene	coaX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81VX4
+			locus_tag	ALPHOKDO_00260
+			product	Type III pantothenate kinase
+287997	287095	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00261
+			product	hypothetical protein
+288305	287994	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00262
+			product	hypothetical protein
+288939	288286	CDS
+			gene	nolA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22537
+			locus_tag	ALPHOKDO_00263
+			product	Nodulation protein NolA
+290318	289131	CDS
+			EC_number	3.6.4.13
+			gene	cshA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8Y8N0
+			locus_tag	ALPHOKDO_00264
+			product	ATP-dependent RNA helicase CshA
+290759	290448	CDS
+			gene	hup
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05385
+			locus_tag	ALPHOKDO_00265
+			product	DNA-binding protein HU
+294151	290900	CDS
+			EC_number	6.3.5.5
+			gene	carB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63740
+			locus_tag	ALPHOKDO_00266
+			product	Carbamoyl-phosphate synthase large chain
+295262	294153	CDS
+			EC_number	6.3.5.5
+			gene	carA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99147
+			locus_tag	ALPHOKDO_00267
+			product	Carbamoyl-phosphate synthase small chain
+295890	295297	CDS
+			EC_number	2.4.2.10
+			gene	pyrE_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P61498
+			locus_tag	ALPHOKDO_00268
+			product	Orotate phosphoribosyltransferase
+296953	296027	CDS
+			EC_number	1.3.1.14
+			gene	pyrDB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9CFW8
+			locus_tag	ALPHOKDO_00269
+			product	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+297726	296953	CDS
+			gene	pyrK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0DH76
+			locus_tag	ALPHOKDO_00270
+			product	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+298573	297707	CDS
+			EC_number	4.1.1.23
+			gene	pyrF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WIU3
+			locus_tag	ALPHOKDO_00271
+			product	Orotidine 5'-phosphate decarboxylase
+299991	298801	CDS
+			EC_number	3.5.2.3
+			gene	pyrC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66990
+			locus_tag	ALPHOKDO_00272
+			product	Dihydroorotase
+300475	301146	CDS
+			EC_number	2.3.1.30
+			gene	cysE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06750
+			locus_tag	ALPHOKDO_00273
+			product	Serine acetyltransferase
+301707	301288	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00274
+			product	hypothetical protein
+303095	301707	CDS
+			EC_number	3.4.13.-
+			gene	pepV_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45494
+			locus_tag	ALPHOKDO_00275
+			product	Beta-Ala-Xaa dipeptidase
+303803	303321	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00276
+			product	hypothetical protein
+304595	303843	CDS
+			EC_number	3.1.11.2
+			gene	exoA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37454
+			locus_tag	ALPHOKDO_00277
+			product	Exodeoxyribonuclease
+305983	304610	CDS
+			gene	yeeO_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76352
+			locus_tag	ALPHOKDO_00278
+			product	putative FMN/FAD exporter YeeO
+307660	306506	CDS
+			EC_number	2.5.1.6
+			gene	metK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P66767
+			locus_tag	ALPHOKDO_00279
+			product	S-adenosylmethionine synthase
+308665	308000	CDS
+			EC_number	4.1.2.4
+			gene	deoC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5XA31
+			locus_tag	ALPHOKDO_00280
+			product	Deoxyribose-phosphate aldolase
+308819	308682	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00281
+			product	hypothetical protein
+309586	308969	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00282
+			product	hypothetical protein
+311587	309677	CDS
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0QYY6
+			locus_tag	ALPHOKDO_00283
+			product	30S ribosomal protein S1
+312333	311722	CDS
+			EC_number	2.3.1.-
+			gene	plsC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8DNY1
+			locus_tag	ALPHOKDO_00284
+			product	1-acyl-sn-glycerol-3-phosphate acyltransferase
+312999	312334	CDS
+			EC_number	2.7.4.25
+			gene	cmk_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WPA9
+			locus_tag	ALPHOKDO_00285
+			product	Cytidylate kinase
+314359	313067	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00286
+			product	hypothetical protein
+315286	314495	CDS
+			gene	spoIIQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71044
+			locus_tag	ALPHOKDO_00287
+			product	Stage II sporulation protein Q
+316133	315432	CDS
+			gene	ybhL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AAC4
+			locus_tag	ALPHOKDO_00288
+			product	Inner membrane protein YbhL
+316247	317329	CDS
+			EC_number	1.3.99.-
+			gene	hemN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54304
+			locus_tag	ALPHOKDO_00289
+			product	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+318355	317777	CDS
+			EC_number	3.6.3.30
+			gene	fbpC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5FA19
+			locus_tag	ALPHOKDO_00290
+			product	Fe(3+) ions import ATP-binding protein FbpC
+319124	318348	CDS
+			gene	ssuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40401
+			locus_tag	ALPHOKDO_00291
+			product	Putative aliphatic sulfonates transport permease protein SsuC
+320213	319188	CDS
+			EC_number	4.1.-.-
+			gene	mqnD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00996
+			locus_tag	ALPHOKDO_00292
+			product	1,4-dihydroxy-6-naphtoate synthase
+320713	321165	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00293
+			product	hypothetical protein
+321186	322163	CDS
+			EC_number	2.4.-.-
+			gene	ykoT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34755
+			locus_tag	ALPHOKDO_00294
+			product	putative glycosyltransferase YkoT
+322160	322744	CDS
+			gene	flr
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KIT1
+			locus_tag	ALPHOKDO_00295
+			product	Flavoredoxin
+325021	322937	CDS
+			gene	fusA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2G0N1
+			locus_tag	ALPHOKDO_00296
+			product	Elongation factor G
+325265	325744	CDS
+			gene	ribD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P25539
+			locus_tag	ALPHOKDO_00297
+			product	Riboflavin biosynthesis protein RibD
+326074	327072	CDS
+			EC_number	2.1.3.3
+			gene	argF_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8DCF5
+			locus_tag	ALPHOKDO_00298
+			product	Ornithine carbamoyltransferase
+327292	327864	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00299
+			product	hypothetical protein
+327968	328459	CDS
+			gene	sigR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7AKG9
+			locus_tag	ALPHOKDO_00300
+			product	ECF RNA polymerase sigma factor SigR
+328446	329612	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00301
+			product	hypothetical protein
+329702	329778	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00302
+			product	tRNA-Met(cat)
+331565	329907	CDS
+			EC_number	4.2.1.9
+			gene	ilvD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51785
+			locus_tag	ALPHOKDO_00303
+			product	Dihydroxy-acid dehydratase
+332788	331769	CDS
+			EC_number	1.1.1.382
+			gene	ilvC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:K4LVZ1
+			locus_tag	ALPHOKDO_00304
+			product	Ketol-acid reductoisomerase (NAD(+))
+333427	332864	CDS
+			EC_number	2.2.1.6
+			gene	ilvH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0QUX7
+			locus_tag	ALPHOKDO_00305
+			product	Acetolactate synthase small subunit
+335105	333441	CDS
+			EC_number	2.2.1.6
+			gene	ilvB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37251
+			locus_tag	ALPHOKDO_00306
+			product	Acetolactate synthase large subunit
+335437	336645	CDS
+			EC_number	3.6.4.12
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00016
+			locus_tag	ALPHOKDO_00307
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+337973	336768	CDS
+			EC_number	4.3.1.19
+			gene	tdcB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q74FW6
+			locus_tag	ALPHOKDO_00308
+			product	L-threonine ammonia-lyase
+338991	338221	CDS
+			EC_number	6.1.-.-
+			gene	tcdA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46927
+			locus_tag	ALPHOKDO_00309
+			product	tRNA threonylcarbamoyladenosine dehydratase
+340232	339129	CDS
+			EC_number	2.8.1.13
+			gene	mnmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99TM8
+			locus_tag	ALPHOKDO_00310
+			product	tRNA-specific 2-thiouridylase MnmA
+341691	340297	CDS
+			EC_number	2.7.7.72
+			gene	cca
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7SIB1
+			locus_tag	ALPHOKDO_00311
+			product	CCA-adding enzyme
+342626	341688	CDS
+			EC_number	3.1.-.-
+			gene	rbn
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8V0
+			locus_tag	ALPHOKDO_00312
+			product	Ribonuclease BN
+342740	342910	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00313
+			product	hypothetical protein
+345003	343510	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00314
+			product	hypothetical protein
+345337	345017	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00315
+			product	hypothetical protein
+345639	345334	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00316
+			product	hypothetical protein
+346234	345896	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00317
+			product	hypothetical protein
+349229	347718	CDS
+			gene	hin
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03013
+			locus_tag	ALPHOKDO_00318
+			product	DNA-invertase hin
+349479	349324	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00319
+			product	hypothetical protein
+350464	349520	CDS
+			gene	pre
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13925
+			locus_tag	ALPHOKDO_00320
+			product	Plasmid recombination enzyme
+351033	350638	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00321
+			product	hypothetical protein
+351558	351145	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00322
+			product	hypothetical protein
+351787	352050	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00323
+			product	hypothetical protein
+352129	352929	CDS
+			gene	immR_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P96631
+			locus_tag	ALPHOKDO_00324
+			product	HTH-type transcriptional regulator ImmR
+354230	353010	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJY1
+			locus_tag	ALPHOKDO_00325
+			product	putative MFS-type transporter
+355557	355057	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00326
+			product	hypothetical protein
+357725	357060	CDS
+			gene	sigA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77994
+			locus_tag	ALPHOKDO_00327
+			product	RNA polymerase sigma factor SigA
+358539	357709	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00328
+			product	hypothetical protein
+359226	360491	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00329
+			product	hypothetical protein
+360509	360685	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00330
+			product	hypothetical protein
+361035	360784	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00331
+			product	hypothetical protein
+361273	361188	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00332
+			product	tRNA-Tyr(gta)
+362773	361388	CDS
+			gene	alsT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45068
+			locus_tag	ALPHOKDO_00333
+			product	Amino-acid carrier protein AlsT
+362996	362910	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00334
+			product	tRNA-Leu(cag)
+363217	363591	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00335
+			product	hypothetical protein
+363607	364542	CDS
+			EC_number	5.2.1.8
+			gene	tig_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80698
+			locus_tag	ALPHOKDO_00336
+			product	Trigger factor
+366361	364586	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WYC4
+			locus_tag	ALPHOKDO_00337
+			product	putative ABC transporter ATP-binding protein
+368097	366358	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WQJ1
+			locus_tag	ALPHOKDO_00338
+			product	putative ABC transporter ATP-binding protein
+369376	368267	CDS
+			EC_number	2.7.7.65
+			gene	yeaJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76237
+			locus_tag	ALPHOKDO_00339
+			product	Putative diguanylate cyclase YeaJ
+370554	369388	CDS
+			EC_number	2.1.1.189
+			gene	rlmCD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31503
+			locus_tag	ALPHOKDO_00340
+			product	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+371309	370887	CDS
+			gene	blaI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06555
+			locus_tag	ALPHOKDO_00341
+			product	Penicillinase repressor
+371626	372708	CDS
+			EC_number	2.6.1.52
+			gene	serC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HZ66
+			locus_tag	ALPHOKDO_00342
+			product	Phosphoserine aminotransferase
+372733	373893	CDS
+			EC_number	1.1.1.95
+			gene	serA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9T0
+			locus_tag	ALPHOKDO_00343
+			product	D-3-phosphoglycerate dehydrogenase
+374915	374046	CDS
+			EC_number	6.3.2.6
+			gene	purC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A0R4I0
+			locus_tag	ALPHOKDO_00344
+			product	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+375227	376660	CDS
+			EC_number	3.2.1.86
+			gene	bglH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40740
+			locus_tag	ALPHOKDO_00345
+			product	Aryl-phospho-beta-D-glucosidase BglH
+376693	377649	CDS
+			EC_number	3.1.4.46
+			gene	glpQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37965
+			locus_tag	ALPHOKDO_00346
+			product	Glycerophosphodiester phosphodiesterase
+378158	378012	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00347
+			product	hypothetical protein
+378499	378726	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00348
+			product	hypothetical protein
+380609	379248	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00349
+			product	hypothetical protein
+381328	380606	CDS
+			gene	ypdB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AE39
+			locus_tag	ALPHOKDO_00350
+			product	Transcriptional regulatory protein YpdB
+381538	381960	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00351
+			product	hypothetical protein
+381957	384059	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00352
+			product	hypothetical protein
+387845	384459	CDS
+			EC_number	3.1.21.3
+			gene	hsdR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A801
+			locus_tag	ALPHOKDO_00353
+			product	Type-1 restriction enzyme R protein
+388879	387869	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00354
+			product	hypothetical protein
+389140	388904	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00355
+			product	hypothetical protein
+389780	389391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00356
+			product	hypothetical protein
+391261	390116	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00357
+			product	hypothetical protein
+392793	391261	CDS
+			EC_number	2.1.1.72
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q89Z59
+			locus_tag	ALPHOKDO_00358
+			product	putative type I restriction enzymeP M protein
+393380	393015	CDS
+			gene	xerC_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	ALPHOKDO_00359
+			product	Tyrosine recombinase XerC
+393508	393377	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00360
+			product	hypothetical protein
+395333	393906	CDS
+			gene	xerC_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39776
+			locus_tag	ALPHOKDO_00361
+			product	Tyrosine recombinase XerC
+396027	395368	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00362
+			product	hypothetical protein
+396668	396111	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMH9
+			locus_tag	ALPHOKDO_00363
+			product	putative HTH-type transcriptional regulator
+396804	397010	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00364
+			product	hypothetical protein
+397013	397258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00365
+			product	hypothetical protein
+397277	397885	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00366
+			product	hypothetical protein
+397944	398150	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00367
+			product	hypothetical protein
+398251	398472	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00368
+			product	hypothetical protein
+398526	398978	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00369
+			product	hypothetical protein
+398975	399163	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00370
+			product	hypothetical protein
+399339	399683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00371
+			product	hypothetical protein
+400925	401158	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00372
+			product	hypothetical protein
+401261	401914	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00373
+			product	hypothetical protein
+402312	402237	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00374
+			product	tRNA-Lys(ttt)
+402558	403817	CDS
+			gene	yerB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34968
+			locus_tag	ALPHOKDO_00375
+			product	Putative lipoprotein YerB
+403852	404937	CDS
+			gene	yerB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34968
+			locus_tag	ALPHOKDO_00376
+			product	Putative lipoprotein YerB
+405600	404995	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00377
+			product	hypothetical protein
+406421	405747	CDS
+			EC_number	3.1.3.73
+			gene	cobC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39701
+			locus_tag	ALPHOKDO_00378
+			product	Adenosylcobalamin/alpha-ribazole phosphatase
+406704	407399	CDS
+			gene	immR_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P96631
+			locus_tag	ALPHOKDO_00379
+			product	HTH-type transcriptional regulator ImmR
+407519	408142	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00380
+			product	hypothetical protein
+408301	408858	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00381
+			product	hypothetical protein
+409109	409744	CDS
+			EC_number	2.4.2.10
+			gene	pyrE_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01208
+			locus_tag	ALPHOKDO_00382
+			product	Orotate phosphoribosyltransferase
+411192	409822	CDS
+			gene	mepA_5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7N0
+			locus_tag	ALPHOKDO_00383
+			product	Multidrug export protein MepA
+412098	411274	CDS
+			EC_number	3.1.3.15
+			gene	hisK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34411
+			locus_tag	ALPHOKDO_00384
+			product	Histidinol-phosphatase
+412741	412106	CDS
+			EC_number	3.5.4.19
+			gene	hisI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMM7
+			locus_tag	ALPHOKDO_00385
+			product	Phosphoribosyl-AMP cyclohydrolase
+413563	412808	CDS
+			EC_number	4.1.3.-
+			gene	hisF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X0C6
+			locus_tag	ALPHOKDO_00386
+			product	Imidazole glycerol phosphate synthase subunit HisF
+414299	413580	CDS
+			EC_number	5.3.1.16
+			gene	hisA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9PM74
+			locus_tag	ALPHOKDO_00387
+			product	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+415098	414490	CDS
+			EC_number	2.4.2.-
+			gene	hisH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KSX0
+			locus_tag	ALPHOKDO_00388
+			product	Imidazole glycerol phosphate synthase subunit HisH
+415685	415095	CDS
+			gene	hisB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D2QPE6
+			locus_tag	ALPHOKDO_00389
+			product	Histidine biosynthesis bifunctional protein HisB
+416750	415689	CDS
+			EC_number	2.6.1.9
+			gene	hisC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q39YP6
+			locus_tag	ALPHOKDO_00390
+			product	Histidinol-phosphate aminotransferase
+417546	416743	CDS
+			EC_number	1.1.1.23
+			gene	hisD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q606Q2
+			locus_tag	ALPHOKDO_00391
+			product	Histidinol dehydrogenase
+418031	417543	CDS
+			EC_number	1.1.1.23
+			gene	hisD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8G2R2
+			locus_tag	ALPHOKDO_00392
+			product	Histidinol dehydrogenase
+419620	418028	CDS
+			EC_number	2.4.2.17
+			gene	hisG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34520
+			locus_tag	ALPHOKDO_00393
+			product	ATP phosphoribosyltransferase
+420170	419865	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00394
+			product	hypothetical protein
+420525	420142	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00395
+			product	hypothetical protein
+420959	420582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00275
+			locus_tag	ALPHOKDO_00396
+			product	Thioredoxin C-1
+421519	421175	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00397
+			product	hypothetical protein
+421953	421609	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00398
+			product	hypothetical protein
+423316	422147	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00399
+			product	hypothetical protein
+424748	423330	CDS
+			EC_number	2.3.1.-
+			gene	patA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O25526
+			locus_tag	ALPHOKDO_00400
+			product	Peptidoglycan O-acetyltransferase
+425460	424888	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00401
+			product	hypothetical protein
+426529	425609	CDS
+			EC_number	3.4.16.4
+			gene	vanYB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q47746
+			locus_tag	ALPHOKDO_00402
+			product	D-alanyl-D-alanine carboxypeptidase
+426605	427045	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00403
+			product	hypothetical protein
+427181	428209	CDS
+			gene	spoVAD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40869
+			locus_tag	ALPHOKDO_00404
+			product	Stage V sporulation protein AD
+428206	428562	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00405
+			product	hypothetical protein
+428669	428941	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00406
+			product	hypothetical protein
+429213	428953	CDS
+			gene	rpsT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21477
+			locus_tag	ALPHOKDO_00407
+			product	30S ribosomal protein S20
+429390	430175	CDS
+			EC_number	3.4.24.78
+			gene	gpr
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22321
+			locus_tag	ALPHOKDO_00408
+			product	Germination protease
+430331	431440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00409
+			product	hypothetical protein
+433043	431559	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00410
+			product	hypothetical protein
+433511	434899	CDS
+			EC_number	6.1.1.22
+			gene	asnS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8M0
+			locus_tag	ALPHOKDO_00411
+			product	Asparagine--tRNA ligase
+435068	436123	CDS
+			EC_number	3.2.2.-
+			gene	mutY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P83847
+			locus_tag	ALPHOKDO_00412
+			product	Adenine DNA glycosylase
+436251	436457	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00413
+			product	hypothetical protein
+436626	437930	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00414
+			product	hypothetical protein
+438020	438706	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00415
+			product	hypothetical protein
+438711	439196	CDS
+			gene	sigM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07582
+			locus_tag	ALPHOKDO_00416
+			product	ECF RNA polymerase sigma factor SigM
+440690	439479	CDS
+			gene	Int-Tn_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22886
+			locus_tag	ALPHOKDO_00417
+			product	Transposase from transposon Tn916
+440860	440639	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00418
+			product	hypothetical protein
+442046	440838	CDS
+			gene	Int-Tn_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22886
+			locus_tag	ALPHOKDO_00419
+			product	Transposase from transposon Tn916
+442348	442118	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00420
+			product	hypothetical protein
+442763	442341	CDS
+			EC_number	3.1.-.-
+			gene	mazF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FWI8
+			locus_tag	ALPHOKDO_00421
+			product	Endoribonuclease MazF
+444927	443824	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00422
+			product	hypothetical protein
+446238	445087	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00423
+			product	hypothetical protein
+446378	446866	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00424
+			product	hypothetical protein
+447134	446844	CDS
+			gene	immR_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P96631
+			locus_tag	ALPHOKDO_00425
+			product	HTH-type transcriptional regulator ImmR
+447613	447353	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00426
+			product	hypothetical protein
+448341	447610	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00427
+			product	hypothetical protein
+448598	448338	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00428
+			product	hypothetical protein
+449915	448680	CDS
+			EC_number	2.7.7.7
+			gene	dinB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q47155
+			locus_tag	ALPHOKDO_00429
+			product	DNA polymerase IV
+450117	450533	CDS
+			gene	immR_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P96631
+			locus_tag	ALPHOKDO_00430
+			product	HTH-type transcriptional regulator ImmR
+450582	451091	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00431
+			product	hypothetical protein
+452236	451247	CDS
+			EC_number	3.5.1.24
+			gene	cbh
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54965
+			locus_tag	ALPHOKDO_00432
+			product	Choloylglycine hydrolase
+454028	453156	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67371
+			locus_tag	ALPHOKDO_00433
+			product	DegV domain-containing protein
+455326	454109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00434
+			product	hypothetical protein
+455871	455326	CDS
+			EC_number	3.6.3.8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q73E41
+			locus_tag	ALPHOKDO_00435
+			product	Calcium-transporting ATPase 1
+456195	455959	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00436
+			product	hypothetical protein
+457585	457049	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00437
+			product	hypothetical protein
+458662	457619	CDS
+			EC_number	2.7.13.3
+			gene	baeS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30847
+			locus_tag	ALPHOKDO_00438
+			product	Signal transduction histidine-protein kinase BaeS
+459333	458662	CDS
+			gene	hssR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A6QJK3
+			locus_tag	ALPHOKDO_00439
+			product	Heme response regulator HssR
+460784	459351	CDS
+			EC_number	2.7.8.-
+			gene	clsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75919
+			locus_tag	ALPHOKDO_00440
+			product	Cardiolipin synthase C
+462542	460983	CDS
+			EC_number	2.7.8.-
+			gene	ywiE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45860
+			locus_tag	ALPHOKDO_00441
+			product	putative cardiolipin synthase YwiE
+463259	462579	CDS
+			EC_number	2.7.6.5
+			gene	ywaC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39583
+			locus_tag	ALPHOKDO_00442
+			product	GTP pyrophosphokinase YwaC
+465438	463318	CDS
+			EC_number	3.4.21.53
+			gene	lon
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2YPX3
+			locus_tag	ALPHOKDO_00443
+			product	Lon protease
+467984	465462	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00444
+			product	hypothetical protein
+468343	467972	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00445
+			product	hypothetical protein
+471996	468370	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00446
+			product	hypothetical protein
+475670	472017	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00447
+			product	hypothetical protein
+476264	475689	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00448
+			product	hypothetical protein
+476874	476266	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00449
+			product	hypothetical protein
+477082	476855	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00450
+			product	hypothetical protein
+478872	477406	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00451
+			product	hypothetical protein
+479202	478933	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00452
+			product	hypothetical protein
+479524	479219	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00453
+			product	hypothetical protein
+480011	479679	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00454
+			product	hypothetical protein
+486241	480008	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00455
+			product	hypothetical protein
+486594	486247	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00456
+			product	hypothetical protein
+487600	487394	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00457
+			product	hypothetical protein
+488194	487601	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00458
+			product	hypothetical protein
+488489	488181	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00459
+			product	hypothetical protein
+489373	488486	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00460
+			product	hypothetical protein
+491448	489370	CDS
+			EC_number	5.99.1.2
+			gene	topB_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14294
+			locus_tag	ALPHOKDO_00461
+			product	DNA topoisomerase 3
+491690	493093	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00462
+			product	hypothetical protein
+494899	493403	CDS
+			EC_number	2.4.-.-
+			gene	epsJ_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71059
+			locus_tag	ALPHOKDO_00463
+			product	putative glycosyltransferase EpsJ
+496590	495427	CDS
+			gene	bcn
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08696
+			locus_tag	ALPHOKDO_00464
+			product	Bacteriocin BCN5
+496838	496587	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00465
+			product	hypothetical protein
+498643	496874	CDS
+			EC_number	3.4.19.11
+			gene	cwlS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31852
+			locus_tag	ALPHOKDO_00466
+			product	D-gamma-glutamyl-meso-diaminopimelic acid endopeptidase CwlS
+501091	498647	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00467
+			product	hypothetical protein
+501446	501054	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00468
+			product	hypothetical protein
+502330	501464	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00469
+			product	hypothetical protein
+502444	502346	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00470
+			product	hypothetical protein
+504481	502811	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00471
+			product	hypothetical protein
+504679	504482	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00472
+			product	hypothetical protein
+506258	504921	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00473
+			product	hypothetical protein
+506871	506227	CDS
+			EC_number	2.7.7.-
+			gene	dnaG_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P56064
+			locus_tag	ALPHOKDO_00474
+			product	DNA primase
+508517	506937	CDS
+			gene	mobA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07112
+			locus_tag	ALPHOKDO_00475
+			product	Mobilization protein A
+509212	508688	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00476
+			product	hypothetical protein
+510234	509938	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00477
+			product	hypothetical protein
+510568	510227	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00478
+			product	hypothetical protein
+510753	510565	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00479
+			product	hypothetical protein
+511237	512043	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00480
+			product	hypothetical protein
+512772	512155	CDS
+			gene	xre
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23789
+			locus_tag	ALPHOKDO_00481
+			product	HTH-type transcriptional regulator Xre
+513451	512795	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00482
+			product	hypothetical protein
+514025	513648	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00483
+			product	hypothetical protein
+514257	513985	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00484
+			product	hypothetical protein
+514571	514413	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00485
+			product	hypothetical protein
+516537	514780	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00486
+			product	hypothetical protein
+517016	516534	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00487
+			product	hypothetical protein
+517670	517035	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00488
+			product	hypothetical protein
+518187	517681	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00489
+			product	hypothetical protein
+519025	518201	CDS
+			gene	spo0C_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	ALPHOKDO_00490
+			product	Chromosome-partitioning protein Spo0J
+519188	519042	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00491
+			product	hypothetical protein
+520030	519185	CDS
+			gene	dnaI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06567
+			locus_tag	ALPHOKDO_00492
+			product	Primosomal protein DnaI
+520701	520027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00493
+			product	hypothetical protein
+520849	520682	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00494
+			product	hypothetical protein
+521676	520846	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00495
+			product	hypothetical protein
+522508	522110	CDS
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21470
+			locus_tag	ALPHOKDO_00496
+			product	30S ribosomal protein S9
+522954	522526	CDS
+			gene	rplM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72IN1
+			locus_tag	ALPHOKDO_00497
+			product	50S ribosomal protein L13
+523242	523811	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00498
+			product	hypothetical protein
+523808	524608	CDS
+			gene	ttcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9JZJ6
+			locus_tag	ALPHOKDO_00499
+			product	tRNA 2-thiocytidine biosynthesis protein TtcA
+524589	525794	CDS
+			EC_number	5.1.1.1
+			gene	alr1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8RAK6
+			locus_tag	ALPHOKDO_00500
+			product	Alanine racemase 1
+525817	527628	CDS
+			EC_number	3.6.5.-
+			gene	lepA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FXY7
+			locus_tag	ALPHOKDO_00501
+			product	Elongation factor 4
+527715	528518	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00502
+			product	hypothetical protein
+528877	528596	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00503
+			product	hypothetical protein
+529323	528889	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00504
+			product	hypothetical protein
+530734	529349	CDS
+			EC_number	5.4.2.10
+			gene	glmM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81VN7
+			locus_tag	ALPHOKDO_00505
+			product	Phosphoglucosamine mutase
+531156	533678	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00506
+			product	hypothetical protein
+533914	534990	CDS
+			EC_number	2.7.13.3
+			gene	kdpD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21865
+			locus_tag	ALPHOKDO_00507
+			product	Sensor protein KdpD
+534980	535705	CDS
+			gene	kdpE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21866
+			locus_tag	ALPHOKDO_00508
+			product	KDP operon transcriptional regulatory protein KdpE
+535715	537034	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WPD7
+			locus_tag	ALPHOKDO_00509
+			product	putative transporter
+538636	537158	CDS
+			EC_number	6.3.2.13
+			gene	murE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q819Q0
+			locus_tag	ALPHOKDO_00510
+			product	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+539866	538652	CDS
+			gene	ftsQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00911
+			locus_tag	ALPHOKDO_00511
+			product	Cell division protein FtsQ
+540302	539832	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00512
+			product	hypothetical protein
+541466	540339	CDS
+			EC_number	2.4.1.227
+			gene	murG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HW01
+			locus_tag	ALPHOKDO_00513
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+542753	541479	CDS
+			EC_number	2.4.1.129
+			gene	ftsW
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07639
+			locus_tag	ALPHOKDO_00514
+			product	putative peptidoglycan glycosyltransferase FtsW
+543810	542767	CDS
+			EC_number	2.7.8.13
+			gene	mraY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66465
+			locus_tag	ALPHOKDO_00515
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+545184	543820	CDS
+			EC_number	6.3.2.10
+			gene	murF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P11880
+			locus_tag	ALPHOKDO_00516
+			product	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+547754	545199	CDS
+			gene	spoVD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q03524
+			locus_tag	ALPHOKDO_00517
+			product	Stage V sporulation protein D
+548303	547815	CDS
+			gene	ftsL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00910
+			locus_tag	ALPHOKDO_00518
+			product	Cell division protein FtsL
+549310	548342	CDS
+			EC_number	2.1.1.199
+			gene	rsmH_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SJD8
+			locus_tag	ALPHOKDO_00519
+			product	Ribosomal RNA small subunit methyltransferase H
+550046	549585	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00520
+			product	hypothetical protein
+550612	550043	CDS
+			EC_number	2.1.1.171
+			gene	rsmD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ADX9
+			locus_tag	ALPHOKDO_00521
+			product	Ribosomal RNA small subunit methyltransferase D
+550809	551429	CDS
+			EC_number	1.3.99.24
+			gene	sgcG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8GMH2
+			locus_tag	ALPHOKDO_00522
+			product	2-amino-4-deoxychorismate dehydrogenase
+551588	553993	CDS
+			EC_number	3.2.1.23
+			gene	lacZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26257
+			locus_tag	ALPHOKDO_00523
+			product	Beta-galactosidase
+554144	554539	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00524
+			product	hypothetical protein
+554543	555382	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00525
+			product	hypothetical protein
+555490	556242	CDS
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O87778
+			locus_tag	ALPHOKDO_00526
+			product	Chaperone protein DnaJ
+557271	556318	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00527
+			product	hypothetical protein
+558799	557402	CDS
+			EC_number	6.1.1.16
+			gene	cysS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06752
+			locus_tag	ALPHOKDO_00528
+			product	Cysteine--tRNA ligase
+559825	559223	CDS
+			gene	ydjZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76221
+			locus_tag	ALPHOKDO_00529
+			product	TVP38/TMEM64 family inner membrane protein YdjZ
+560525	559965	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00530
+			product	hypothetical protein
+561809	560988	CDS
+			EC_number	3.1.3.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5XD45
+			locus_tag	ALPHOKDO_00531
+			product	Putative phosphatase
+563298	561988	CDS
+			EC_number	4.1.99.17
+			gene	thiC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P45740
+			locus_tag	ALPHOKDO_00532
+			product	Phosphomethylpyrimidine synthase
+564088	563456	CDS
+			EC_number	2.5.1.3
+			gene	thiE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39594
+			locus_tag	ALPHOKDO_00533
+			product	Thiamine-phosphate synthase
+564896	564075	CDS
+			EC_number	2.7.1.50
+			gene	thiM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39593
+			locus_tag	ALPHOKDO_00534
+			product	Hydroxyethylthiazole kinase
+565424	564909	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00535
+			product	hypothetical protein
+565893	567182	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00536
+			product	hypothetical protein
+567197	568297	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00537
+			product	hypothetical protein
+568311	569105	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00538
+			product	hypothetical protein
+569201	570241	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00539
+			product	hypothetical protein
+571797	570454	CDS
+			gene	mepA_6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7N0
+			locus_tag	ALPHOKDO_00540
+			product	Multidrug export protein MepA
+573330	571984	CDS
+			gene	gltP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21345
+			locus_tag	ALPHOKDO_00541
+			product	Proton/glutamate-aspartate symporter
+574018	573503	CDS
+			EC_number	2.7.1.199
+			gene	crr
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A284
+			locus_tag	ALPHOKDO_00542
+			product	PTS system glucose-specific EIIA component
+575167	574145	CDS
+			EC_number	4.1.2.48
+			gene	ltaE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O50584
+			locus_tag	ALPHOKDO_00543
+			product	Low specificity L-threonine aldolase
+577269	575686	CDS
+			EC_number	3.4.-.-
+			gene	pepD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8G6Z9
+			locus_tag	ALPHOKDO_00544
+			product	Dipeptidase
+580182	577516	CDS
+			EC_number	2.7.9.1
+			gene	ppdK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22983
+			locus_tag	ALPHOKDO_00545
+			product	Pyruvate, phosphate dikinase
+580560	581315	CDS
+			gene	glmU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8DQ18
+			locus_tag	ALPHOKDO_00546
+			product	Bifunctional protein GlmU
+581600	581737	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00547
+			product	hypothetical protein
+581996	582574	CDS
+			EC_number	3.1.1.29
+			gene	pth
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6YP15
+			locus_tag	ALPHOKDO_00548
+			product	Peptidyl-tRNA hydrolase
+582749	586216	CDS
+			EC_number	3.6.4.-
+			gene	mfd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A7B2
+			locus_tag	ALPHOKDO_00549
+			product	Transcription-repair-coupling factor
+586279	587415	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00550
+			product	hypothetical protein
+587907	587596	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00551
+			product	hypothetical protein
+589372	587858	CDS
+			EC_number	3.2.1.23
+			gene	lacL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7WTB4
+			locus_tag	ALPHOKDO_00552
+			product	Beta-galactosidase large subunit
+590691	589480	CDS
+			EC_number	1.1.1.42
+			gene	icd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WKL1
+			locus_tag	ALPHOKDO_00553
+			product	Isocitrate dehydrogenase [NADP]
+591956	590772	CDS
+			EC_number	2.6.1.-
+			gene	patA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P16524
+			locus_tag	ALPHOKDO_00554
+			product	Putative N-acetyl-LL-diaminopimelate aminotransferase
+593171	591984	CDS
+			gene	fieF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P69380
+			locus_tag	ALPHOKDO_00555
+			product	Ferrous-iron efflux pump FieF
+595049	593403	CDS
+			EC_number	2.7.3.9
+			gene	ptsI_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08838
+			locus_tag	ALPHOKDO_00556
+			product	Phosphoenolpyruvate-protein phosphotransferase
+595391	595134	CDS
+			EC_number	2.7.11.-
+			gene	ptsH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q84F84
+			locus_tag	ALPHOKDO_00557
+			product	Phosphocarrier protein HPr
+596255	595587	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00558
+			product	hypothetical protein
+597774	596389	CDS
+			gene	sigA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06224
+			locus_tag	ALPHOKDO_00559
+			product	RNA polymerase sigma factor SigA
+598741	597854	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67610
+			locus_tag	ALPHOKDO_00560
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+599476	598988	CDS
+			EC_number	3.5.4.33
+			gene	tadA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99W51
+			locus_tag	ALPHOKDO_00561
+			product	tRNA-specific adenosine deaminase
+599970	599473	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00562
+			product	hypothetical protein
+600141	600995	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8NWR0
+			locus_tag	ALPHOKDO_00563
+			product	DegV domain-containing protein
+601267	601052	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00564
+			product	hypothetical protein
+601540	601280	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00565
+			product	hypothetical protein
+602413	601640	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00566
+			product	hypothetical protein
+603290	602439	CDS
+			EC_number	3.5.2.6
+			gene	smeA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52682
+			locus_tag	ALPHOKDO_00567
+			product	Carbapenem-hydrolyzing beta-lactamase Sme-1
+604440	603442	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00568
+			product	hypothetical protein
+605652	604654	CDS
+			EC_number	3.4.22.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39043
+			locus_tag	ALPHOKDO_00569
+			product	Dipeptidyl-peptidase 6
+609008	605649	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00570
+			product	hypothetical protein
+611872	609215	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00571
+			product	hypothetical protein
+615786	615710	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00572
+			product	tRNA-Ile(gat)
+615865	615790	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00573
+			product	tRNA-Ala(tgc)
+616096	616021	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	ALPHOKDO_00574
+			product	tRNA-Ala(tgc)
+618603	619361	CDS
+			EC_number	4.2.1.10
+			gene	aroD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q186A6
+			locus_tag	ALPHOKDO_00575
+			product	3-dehydroquinate dehydratase
+620282	619419	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00576
+			product	hypothetical protein
+621323	620925	CDS
+			gene	atpC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P50009
+			locus_tag	ALPHOKDO_00577
+			product	ATP synthase epsilon chain, sodium ion specific
+622721	621327	CDS
+			EC_number	3.6.3.15
+			gene	atpD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P50002
+			locus_tag	ALPHOKDO_00578
+			product	ATP synthase subunit beta, sodium ion specific
+623302	622739	CDS
+			gene	atpG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A1B8N9
+			locus_tag	ALPHOKDO_00579
+			product	ATP synthase gamma chain
+625125	623605	CDS
+			EC_number	3.6.3.14
+			gene	atpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5KUJ1
+			locus_tag	ALPHOKDO_00580
+			product	ATP synthase subunit alpha
+625719	625180	CDS
+			gene	atpH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0ZS22
+			locus_tag	ALPHOKDO_00581
+			product	ATP synthase subunit delta, sodium ion specific
+626222	625716	CDS
+			gene	atpF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0ZS23
+			locus_tag	ALPHOKDO_00582
+			product	ATP synthase subunit b, sodium ion specific
+626540	626259	CDS
+			gene	atpE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8KRV3
+			locus_tag	ALPHOKDO_00583
+			product	ATP synthase subunit c, sodium ion specific
+627336	626593	CDS
+			gene	atpB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2RFX3
+			locus_tag	ALPHOKDO_00584
+			product	ATP synthase subunit a
+627840	627340	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00585
+			product	hypothetical protein
+628123	627863	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00586
+			product	hypothetical protein
+630411	628438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00587
+			product	hypothetical protein
+632034	630616	CDS
+			EC_number	2.4.1.21
+			gene	glgA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39125
+			locus_tag	ALPHOKDO_00588
+			product	Glycogen synthase
+633292	632165	CDS
+			gene	glgD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39124
+			locus_tag	ALPHOKDO_00589
+			product	Glycogen biosynthesis protein GlgD
+634479	633286	CDS
+			EC_number	2.7.7.27
+			gene	glgC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39122
+			locus_tag	ALPHOKDO_00590
+			product	Glucose-1-phosphate adenylyltransferase
+636822	634561	CDS
+			EC_number	2.4.1.18
+			gene	glgB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30537
+			locus_tag	ALPHOKDO_00591
+			product	1,4-alpha-glucan branching enzyme GlgB
+638175	637099	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	ALPHOKDO_00592
+			product	hypothetical protein

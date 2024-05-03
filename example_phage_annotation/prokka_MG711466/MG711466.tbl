@@ -1,0 +1,359 @@
+>Feature MG711466.1
+1545	1	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00001
+			product	hypothetical protein
+2229	1876	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00002
+			product	hypothetical protein
+2403	2648	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00003
+			product	hypothetical protein
+2632	2940	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00004
+			product	hypothetical protein
+3119	2904	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00005
+			product	hypothetical protein
+3195	3479	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00006
+			product	hypothetical protein
+3691	3482	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00007
+			product	hypothetical protein
+3778	3963	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00008
+			product	hypothetical protein
+4129	4476	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00009
+			product	hypothetical protein
+4493	4789	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00010
+			product	hypothetical protein
+5011	5577	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00011
+			product	hypothetical protein
+5586	5759	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00012
+			product	hypothetical protein
+6266	6466	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00013
+			product	hypothetical protein
+6463	7068	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00014
+			product	hypothetical protein
+7041	7874	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00015
+			product	hypothetical protein
+7828	8358	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00016
+			product	hypothetical protein
+8362	8856	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00017
+			product	hypothetical protein
+8860	9111	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00018
+			product	hypothetical protein
+9102	9311	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00019
+			product	hypothetical protein
+9313	9534	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00020
+			product	hypothetical protein
+9627	10538	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00021
+			product	hypothetical protein
+10654	10839	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00022
+			product	hypothetical protein
+10836	11486	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00023
+			product	hypothetical protein
+11505	12152	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00024
+			product	hypothetical protein
+12155	12541	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00025
+			product	hypothetical protein
+12538	12930	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00026
+			product	hypothetical protein
+12940	13431	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00027
+			product	hypothetical protein
+13428	13673	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00028
+			product	hypothetical protein
+13651	14115	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00029
+			product	hypothetical protein
+14146	14403	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00030
+			product	hypothetical protein
+14717	15550	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00031
+			product	hypothetical protein
+15547	16062	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00032
+			product	hypothetical protein
+16099	16686	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00033
+			product	hypothetical protein
+16711	17211	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00034
+			product	hypothetical protein
+17717	17460	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00035
+			product	hypothetical protein
+18258	17941	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00036
+			product	hypothetical protein
+18478	18290	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00037
+			product	hypothetical protein
+18839	18582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00038
+			product	hypothetical protein
+19866	18946	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00039
+			product	hypothetical protein
+20444	19959	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00040
+			product	hypothetical protein
+21506	20565	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00041
+			product	hypothetical protein
+21790	21611	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00042
+			product	hypothetical protein
+22063	21809	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00043
+			product	hypothetical protein
+22333	22172	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00044
+			product	hypothetical protein
+22686	22348	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00045
+			product	hypothetical protein
+23191	22802	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00046
+			product	hypothetical protein
+23459	23352	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00047
+			product	hypothetical protein
+23678	23923	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00048
+			product	hypothetical protein
+24557	23985	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00049
+			product	hypothetical protein
+24798	25559	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00050
+			product	hypothetical protein
+25540	26043	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00051
+			product	hypothetical protein
+26142	27989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00052
+			product	hypothetical protein
+27990	28220	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00053
+			product	hypothetical protein
+28233	29855	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00054
+			product	hypothetical protein
+29956	31002	CDS
+			EC_number	3.4.21.92
+			gene	clpP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00444
+			locus_tag	NCBBAHBE_00055
+			product	ATP-dependent Clp protease proteolytic subunit
+31006	31404	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00056
+			product	hypothetical protein
+31420	32496	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00057
+			product	hypothetical protein
+32514	32792	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00058
+			product	hypothetical protein
+32805	33140	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00059
+			product	hypothetical protein
+33140	33823	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00060
+			product	hypothetical protein
+33820	34356	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00061
+			product	hypothetical protein
+34353	34649	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00062
+			product	hypothetical protein
+34663	36111	CDS
+			gene	gpFI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q02TE1
+			locus_tag	NCBBAHBE_00063
+			product	Putative prophage major tail sheath protein
+36133	36660	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00064
+			product	hypothetical protein
+36737	37402	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00065
+			product	hypothetical protein
+37530	41033	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00066
+			product	hypothetical protein
+41046	41249	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00067
+			product	hypothetical protein
+41260	42258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00068
+			product	hypothetical protein
+42263	42880	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00069
+			product	hypothetical protein
+42894	43295	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00070
+			product	hypothetical protein
+43292	43618	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00071
+			product	hypothetical protein
+43611	44792	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00072
+			product	hypothetical protein
+44785	45552	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00073
+			product	hypothetical protein
+45549	46676	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00074
+			product	hypothetical protein
+46695	47570	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00075
+			product	hypothetical protein
+47591	48040	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00076
+			product	hypothetical protein
+48041	48427	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00077
+			product	hypothetical protein
+48430	49005	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00078
+			product	hypothetical protein
+49048	49200	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00079
+			product	hypothetical protein
+49347	50576	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00080
+			product	hypothetical protein
+50596	51855	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00081
+			product	hypothetical protein
+51870	52073	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00082
+			product	hypothetical protein
+52086	52256	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00083
+			product	hypothetical protein
+52397	52810	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00084
+			product	hypothetical protein
+52829	53224	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00085
+			product	hypothetical protein
+53217	53534	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00086
+			product	hypothetical protein
+53968	54219	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	NCBBAHBE_00087
+			product	hypothetical protein
+54725	54258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P44558
+			locus_tag	NCBBAHBE_00088
+			product	putative HTH-type transcriptional regulator

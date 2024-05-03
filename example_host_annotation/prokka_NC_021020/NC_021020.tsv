@@ -1,0 +1,3088 @@
+locus_tag	ftype	gene	EC_number	product
+BEEMGMKP_00001	CDS	hypothetical protein
+BEEMGMKP_00002	CDS	hypothetical protein
+BEEMGMKP_00003	CDS	gloC_1	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+BEEMGMKP_00004	CDS	hypothetical protein
+BEEMGMKP_00005	CDS	hypothetical protein
+BEEMGMKP_00006	CDS	hypothetical protein
+BEEMGMKP_00007	CDS	hypothetical protein
+BEEMGMKP_00008	CDS	hypothetical protein
+BEEMGMKP_00009	CDS	immR_1	HTH-type transcriptional regulator ImmR
+BEEMGMKP_00010	CDS	mobA_1	Mobilization protein A
+BEEMGMKP_00011	CDS	dnaG_1	2.7.7.-	DNA primase
+BEEMGMKP_00012	CDS	hypothetical protein
+BEEMGMKP_00013	CDS	hypothetical protein
+BEEMGMKP_00014	CDS	hypothetical protein
+BEEMGMKP_00015	CDS	hypothetical protein
+BEEMGMKP_00016	CDS	hypothetical protein
+BEEMGMKP_00017	CDS	hypothetical protein
+BEEMGMKP_00018	CDS	iap_1	3.4.-.-	putative endopeptidase p60
+BEEMGMKP_00019	CDS	hypothetical protein
+BEEMGMKP_00020	CDS	hypothetical protein
+BEEMGMKP_00021	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_00022	CDS	topB_1	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_00023	CDS	hypothetical protein
+BEEMGMKP_00024	CDS	citS	2.7.13.3	Sensor protein CitS
+BEEMGMKP_00025	CDS	hypothetical protein
+BEEMGMKP_00026	CDS	hypothetical protein
+BEEMGMKP_00027	CDS	hypothetical protein
+BEEMGMKP_00028	CDS	yxdL_1	ABC transporter ATP-binding protein YxdL
+BEEMGMKP_00029	CDS	hypothetical protein
+BEEMGMKP_00030	CDS	hypothetical protein
+BEEMGMKP_00031	CDS	hypothetical protein
+BEEMGMKP_00032	CDS	arlR	Response regulator ArlR
+BEEMGMKP_00033	CDS	hypothetical protein
+BEEMGMKP_00034	CDS	3.1.1.23	Monoacylglycerol lipase
+BEEMGMKP_00035	CDS	abh	Putative transition state regulator Abh
+BEEMGMKP_00036	CDS	hypothetical protein
+BEEMGMKP_00037	CDS	epsH	2.4.-.-	Putative glycosyltransferase EpsH
+BEEMGMKP_00038	CDS	recQ	3.6.4.12	ATP-dependent DNA helicase RecQ
+BEEMGMKP_00039	CDS	nrdG_1	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+BEEMGMKP_00040	CDS	nrdD_1	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+BEEMGMKP_00041	CDS	hypothetical protein
+BEEMGMKP_00042	CDS	hypothetical protein
+BEEMGMKP_00043	CDS	hypothetical protein
+BEEMGMKP_00044	CDS	hypothetical protein
+BEEMGMKP_00045	CDS	dnaC_1	DNA replication protein DnaC
+BEEMGMKP_00046	CDS	hypothetical protein
+BEEMGMKP_00047	CDS	hypothetical protein
+BEEMGMKP_00048	CDS	hypothetical protein
+BEEMGMKP_00049	CDS	yafQ	3.1.-.-	mRNA interferase YafQ
+BEEMGMKP_00050	CDS	mobA_2	Mobilization protein A
+BEEMGMKP_00051	CDS	hypothetical protein
+BEEMGMKP_00052	CDS	hypothetical protein
+BEEMGMKP_00053	CDS	hypothetical protein
+BEEMGMKP_00054	CDS	hypothetical protein
+BEEMGMKP_00055	CDS	hypothetical protein
+BEEMGMKP_00056	CDS	hypothetical protein
+BEEMGMKP_00057	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+BEEMGMKP_00058	CDS	hypothetical protein
+BEEMGMKP_00059	CDS	hypothetical protein
+BEEMGMKP_00060	CDS	walK	2.7.13.3	Sensor protein kinase WalK
+BEEMGMKP_00061	CDS	phoP_1	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+BEEMGMKP_00062	CDS	hypothetical protein
+BEEMGMKP_00063	CDS	hypothetical protein
+BEEMGMKP_00064	CDS	hypothetical protein
+BEEMGMKP_00065	CDS	hypothetical protein
+BEEMGMKP_00066	CDS	hypothetical protein
+BEEMGMKP_00067	CDS	hypothetical protein
+BEEMGMKP_00068	CDS	hypothetical protein
+BEEMGMKP_00069	CDS	hypothetical protein
+BEEMGMKP_00070	CDS	hypothetical protein
+BEEMGMKP_00071	CDS	hypothetical protein
+BEEMGMKP_00072	CDS	spo0C_1	Chromosome-partitioning protein Spo0J
+BEEMGMKP_00073	CDS	soj_1	3.6.-.-	Sporulation initiation inhibitor protein Soj
+BEEMGMKP_00074	CDS	hypothetical protein
+BEEMGMKP_00075	CDS	hypothetical protein
+BEEMGMKP_00076	CDS	hypothetical protein
+BEEMGMKP_00077	CDS	hypothetical protein
+BEEMGMKP_00078	CDS	hypothetical protein
+BEEMGMKP_00079	CDS	hypothetical protein
+BEEMGMKP_00080	CDS	dauR	Transcriptional regulator DauR
+BEEMGMKP_00081	CDS	ridA_1	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+BEEMGMKP_00082	CDS	hypothetical protein
+BEEMGMKP_00083	CDS	hypothetical protein
+BEEMGMKP_00084	CDS	fieF	Ferrous-iron efflux pump FieF
+BEEMGMKP_00085	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+BEEMGMKP_00086	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+BEEMGMKP_00087	CDS	hypothetical protein
+BEEMGMKP_00088	CDS	aroD_1	4.2.1.10	3-dehydroquinate dehydratase
+BEEMGMKP_00089	CDS	hypothetical protein
+BEEMGMKP_00090	CDS	topB_2	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_00091	CDS	hypothetical protein
+BEEMGMKP_00092	CDS	hypothetical protein
+BEEMGMKP_00093	CDS	blaSE	3.4.21.19	Glutamyl endopeptidase
+BEEMGMKP_00094	CDS	hypothetical protein
+BEEMGMKP_00095	CDS	hypothetical protein
+BEEMGMKP_00096	CDS	hypothetical protein
+BEEMGMKP_00097	CDS	topB_3	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_00098	CDS	hypothetical protein
+BEEMGMKP_00099	CDS	hypothetical protein
+BEEMGMKP_00100	CDS	hypothetical protein
+BEEMGMKP_00101	CDS	hypothetical protein
+BEEMGMKP_00102	CDS	hypothetical protein
+BEEMGMKP_00103	CDS	hypothetical protein
+BEEMGMKP_00104	CDS	hypothetical protein
+BEEMGMKP_00105	CDS	hypothetical protein
+BEEMGMKP_00106	CDS	hypothetical protein
+BEEMGMKP_00107	CDS	hypothetical protein
+BEEMGMKP_00108	CDS	hypothetical protein
+BEEMGMKP_00109	CDS	sphR_1	Alkaline phosphatase synthesis transcriptional regulatory protein SphR
+BEEMGMKP_00110	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+BEEMGMKP_00111	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_00112	CDS	hypothetical protein
+BEEMGMKP_00113	CDS	fliA	RNA polymerase sigma factor FliA
+BEEMGMKP_00114	CDS	hypothetical protein
+BEEMGMKP_00115	CDS	pinR_1	3.1.22.-	Serine recombinase PinR
+BEEMGMKP_00116	CDS	yeaJ_1	2.7.7.65	Putative diguanylate cyclase YeaJ
+BEEMGMKP_00117	CDS	hypothetical protein
+BEEMGMKP_00118	CDS	bcrC	3.6.1.27	Undecaprenyl-diphosphatase BcrC
+BEEMGMKP_00119	CDS	scrK	2.7.1.4	Fructokinase
+BEEMGMKP_00120	CDS	mepA_1	Multidrug export protein MepA
+BEEMGMKP_00121	CDS	rhaR	HTH-type transcriptional activator RhaR
+BEEMGMKP_00122	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+BEEMGMKP_00123	CDS	gltR	HTH-type transcriptional regulator GltR
+BEEMGMKP_00124	CDS	trmO	2.1.1.-	tRNA (adenine(37)-N6)-methyltransferase
+BEEMGMKP_00125	CDS	hypothetical protein
+BEEMGMKP_00126	CDS	lexA_1	3.4.21.88	LexA repressor
+BEEMGMKP_00127	CDS	hypothetical protein
+BEEMGMKP_00128	CDS	hypothetical protein
+BEEMGMKP_00129	CDS	hypothetical protein
+BEEMGMKP_00130	tRNA	tRNA-Val(cac)
+BEEMGMKP_00131	CDS	hypothetical protein
+BEEMGMKP_00132	CDS	hypothetical protein
+BEEMGMKP_00133	CDS	hypothetical protein
+BEEMGMKP_00134	CDS	hypothetical protein
+BEEMGMKP_00135	CDS	hypothetical protein
+BEEMGMKP_00136	CDS	hypothetical protein
+BEEMGMKP_00137	CDS	hypothetical protein
+BEEMGMKP_00138	CDS	hypothetical protein
+BEEMGMKP_00139	CDS	hypothetical protein
+BEEMGMKP_00140	CDS	hypothetical protein
+BEEMGMKP_00141	CDS	hypothetical protein
+BEEMGMKP_00142	CDS	hypothetical protein
+BEEMGMKP_00143	CDS	hypothetical protein
+BEEMGMKP_00144	CDS	hypothetical protein
+BEEMGMKP_00145	CDS	ftsH4_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 4
+BEEMGMKP_00146	CDS	puuR	HTH-type transcriptional regulator PuuR
+BEEMGMKP_00147	CDS	hypothetical protein
+BEEMGMKP_00148	CDS	hypothetical protein
+BEEMGMKP_00149	CDS	engB_1	GTP-binding protein EngB
+BEEMGMKP_00150	CDS	hypothetical protein
+BEEMGMKP_00151	CDS	hypothetical protein
+BEEMGMKP_00152	CDS	hypothetical protein
+BEEMGMKP_00153	CDS	tnpR_1	Transposon Tn3 resolvase
+BEEMGMKP_00154	CDS	hypothetical protein
+BEEMGMKP_00155	CDS	hypothetical protein
+BEEMGMKP_00156	CDS	hypothetical protein
+BEEMGMKP_00157	CDS	hypothetical protein
+BEEMGMKP_00158	CDS	hypothetical protein
+BEEMGMKP_00159	CDS	hypothetical protein
+BEEMGMKP_00160	CDS	hypothetical protein
+BEEMGMKP_00161	CDS	hypothetical protein
+BEEMGMKP_00162	CDS	fic	2.7.7.-	Adenosine monophosphate-protein transferase SoFic
+BEEMGMKP_00163	CDS	hypothetical protein
+BEEMGMKP_00164	CDS	hypothetical protein
+BEEMGMKP_00165	CDS	hypothetical protein
+BEEMGMKP_00166	CDS	hypothetical protein
+BEEMGMKP_00167	CDS	hypothetical protein
+BEEMGMKP_00168	CDS	hypothetical protein
+BEEMGMKP_00169	CDS	hypothetical protein
+BEEMGMKP_00170	CDS	hypothetical protein
+BEEMGMKP_00171	CDS	lon	3.4.21.53	Lon protease
+BEEMGMKP_00172	CDS	hypothetical protein
+BEEMGMKP_00173	CDS	hypothetical protein
+BEEMGMKP_00174	CDS	panS	Pantothenate precursors transporter PanS
+BEEMGMKP_00175	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+BEEMGMKP_00176	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+BEEMGMKP_00177	CDS	blaI	Penicillinase repressor
+BEEMGMKP_00178	CDS	gltA	2.3.3.16	Citrate synthase
+BEEMGMKP_00179	CDS	hypothetical protein
+BEEMGMKP_00180	CDS	comEC_1	ComE operon protein 3
+BEEMGMKP_00181	CDS	hypothetical protein
+BEEMGMKP_00182	CDS	spoIIIE	DNA translocase SpoIIIE
+BEEMGMKP_00183	CDS	tepA	Translocation-enhancing protein TepA
+BEEMGMKP_00184	CDS	rex	Redox-sensing transcriptional repressor Rex
+BEEMGMKP_00185	CDS	tdk	2.7.1.21	Thymidine kinase
+BEEMGMKP_00186	CDS	yesO	Putative ABC transporter substrate-binding protein YesO
+BEEMGMKP_00187	CDS	lacF_1	Lactose transport system permease protein LacF
+BEEMGMKP_00188	CDS	araQ_1	L-arabinose transport system permease protein AraQ
+BEEMGMKP_00189	CDS	soxS	Regulatory protein SoxS
+BEEMGMKP_00190	CDS	pgl	3.2.1.15	Polygalacturonase
+BEEMGMKP_00191	CDS	yteR	3.2.1.172	Unsaturated rhamnogalacturonyl hydrolase YteR
+BEEMGMKP_00192	CDS	hypothetical protein
+BEEMGMKP_00193	CDS	hypothetical protein
+BEEMGMKP_00194	CDS	kstR2	HTH-type transcriptional repressor KstR2
+BEEMGMKP_00195	CDS	hypothetical protein
+BEEMGMKP_00196	CDS	cmk_1	2.7.4.25	Cytidylate kinase
+BEEMGMKP_00197	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+BEEMGMKP_00198	CDS	rpsA_1	30S ribosomal protein S1
+BEEMGMKP_00199	CDS	hypothetical protein
+BEEMGMKP_00200	CDS	hypothetical protein
+BEEMGMKP_00201	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+BEEMGMKP_00202	CDS	yeaJ_2	2.7.7.65	Putative diguanylate cyclase YeaJ
+BEEMGMKP_00203	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+BEEMGMKP_00204	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+BEEMGMKP_00205	CDS	hypothetical protein
+BEEMGMKP_00206	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_00207	CDS	hypothetical protein
+BEEMGMKP_00208	CDS	pbuG	Guanine/hypoxanthine permease PbuG
+BEEMGMKP_00209	CDS	hypothetical protein
+BEEMGMKP_00210	CDS	hypothetical protein
+BEEMGMKP_00211	CDS	mglC_1	Galactoside transport system permease protein MglC
+BEEMGMKP_00212	CDS	mglA_1	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+BEEMGMKP_00213	CDS	mglB	D-galactose-binding periplasmic protein
+BEEMGMKP_00214	CDS	hypothetical protein
+BEEMGMKP_00215	CDS	hypothetical protein
+BEEMGMKP_00216	CDS	hypothetical protein
+BEEMGMKP_00217	CDS	hypothetical protein
+BEEMGMKP_00218	CDS	hypothetical protein
+BEEMGMKP_00219	CDS	hypothetical protein
+BEEMGMKP_00220	CDS	hypothetical protein
+BEEMGMKP_00221	CDS	hypothetical protein
+BEEMGMKP_00222	CDS	hypothetical protein
+BEEMGMKP_00223	CDS	hypothetical protein
+BEEMGMKP_00224	tRNA	tRNA-His(gtg)
+BEEMGMKP_00225	tRNA	tRNA-Arg(tct)
+BEEMGMKP_00226	CDS	hypothetical protein
+BEEMGMKP_00227	CDS	hypothetical protein
+BEEMGMKP_00228	CDS	Purine-binding protein
+BEEMGMKP_00229	CDS	hypothetical protein
+BEEMGMKP_00230	CDS	hypothetical protein
+BEEMGMKP_00231	CDS	hypothetical protein
+BEEMGMKP_00232	CDS	hypothetical protein
+BEEMGMKP_00233	CDS	hypothetical protein
+BEEMGMKP_00234	CDS	Int-Tn_1	Transposase from transposon Tn916
+BEEMGMKP_00235	CDS	hypothetical protein
+BEEMGMKP_00236	CDS	wecA_1	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+BEEMGMKP_00237	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+BEEMGMKP_00238	CDS	hypothetical protein
+BEEMGMKP_00239	CDS	6.3.1.12	D-aspartate ligase
+BEEMGMKP_00240	CDS	glgM	2.4.1.-	Alpha-maltose-1-phosphate synthase
+BEEMGMKP_00241	CDS	hypothetical protein
+BEEMGMKP_00242	CDS	hddA	2.7.1.168	D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+BEEMGMKP_00243	CDS	hypothetical protein
+BEEMGMKP_00244	CDS	hypothetical protein
+BEEMGMKP_00245	CDS	hypothetical protein
+BEEMGMKP_00246	CDS	Ferredoxin-1
+BEEMGMKP_00247	CDS	hypothetical protein
+BEEMGMKP_00248	CDS	hypothetical protein
+BEEMGMKP_00249	CDS	hypothetical protein
+BEEMGMKP_00250	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+BEEMGMKP_00251	CDS	gmhA	5.3.1.28	Phosphoheptose isomerase
+BEEMGMKP_00252	CDS	glmM_1	5.4.2.10	Phosphoglucosamine mutase
+BEEMGMKP_00253	CDS	hypothetical protein
+BEEMGMKP_00254	CDS	hypothetical protein
+BEEMGMKP_00255	CDS	hypothetical protein
+BEEMGMKP_00256	CDS	hypothetical protein
+BEEMGMKP_00257	CDS	hypothetical protein
+BEEMGMKP_00258	CDS	hypothetical protein
+BEEMGMKP_00259	CDS	hypothetical protein
+BEEMGMKP_00260	CDS	hypothetical protein
+BEEMGMKP_00261	CDS	ndoA_1	3.1.27.-	Endoribonuclease EndoA
+BEEMGMKP_00262	CDS	hypothetical protein
+BEEMGMKP_00263	tRNA	tRNA-Leu(caa)
+BEEMGMKP_00264	CDS	hypothetical protein
+BEEMGMKP_00265	CDS	kfoC_1	Chondroitin synthase
+BEEMGMKP_00266	CDS	wbbL_1	2.4.1.-	Rhamnosyltransferase WbbL
+BEEMGMKP_00267	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+BEEMGMKP_00268	CDS	rmlD_1	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+BEEMGMKP_00269	CDS	hypothetical protein
+BEEMGMKP_00270	CDS	rffG	4.2.1.46	dTDP-glucose 4,6-dehydratase 2
+BEEMGMKP_00271	CDS	hypothetical protein
+BEEMGMKP_00272	CDS	hypothetical protein
+BEEMGMKP_00273	CDS	hypothetical protein
+BEEMGMKP_00274	CDS	feoA	Fe(2+) transport protein A
+BEEMGMKP_00275	CDS	feoB_1	Fe(2+) transporter FeoB
+BEEMGMKP_00276	CDS	hypothetical protein
+BEEMGMKP_00277	CDS	hypothetical protein
+BEEMGMKP_00278	CDS	hypothetical protein
+BEEMGMKP_00279	CDS	lcfB	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+BEEMGMKP_00280	CDS	hypothetical protein
+BEEMGMKP_00281	CDS	tig_1	5.2.1.8	Trigger factor
+BEEMGMKP_00282	CDS	hypothetical protein
+BEEMGMKP_00283	CDS	glgB_1	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+BEEMGMKP_00284	CDS	tvaII	3.2.1.135	Neopullulanase 2
+BEEMGMKP_00285	CDS	niaR	putative transcription repressor NiaR
+BEEMGMKP_00286	CDS	fabR	HTH-type transcriptional repressor FabR
+BEEMGMKP_00287	CDS	hypothetical protein
+BEEMGMKP_00288	CDS	putative signaling protein
+BEEMGMKP_00289	CDS	yjiA	putative GTP-binding protein YjiA
+BEEMGMKP_00290	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+BEEMGMKP_00291	CDS	hypothetical protein
+BEEMGMKP_00292	CDS	ltaE	4.1.2.48	Low specificity L-threonine aldolase
+BEEMGMKP_00293	tRNA	tRNA-Leu(cag)
+BEEMGMKP_00294	CDS	hypothetical protein
+BEEMGMKP_00295	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+BEEMGMKP_00296	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+BEEMGMKP_00297	CDS	hypothetical protein
+BEEMGMKP_00298	CDS	hypothetical protein
+BEEMGMKP_00299	CDS	ziaR_1	Transcriptional repressor SmtB 
+BEEMGMKP_00300	CDS	cadA_1	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+BEEMGMKP_00301	CDS	hypothetical protein
+BEEMGMKP_00302	CDS	hypothetical protein
+BEEMGMKP_00303	CDS	hypothetical protein
+BEEMGMKP_00304	CDS	hypothetical protein
+BEEMGMKP_00305	CDS	hypothetical protein
+BEEMGMKP_00306	CDS	hypothetical protein
+BEEMGMKP_00307	CDS	hypothetical protein
+BEEMGMKP_00308	CDS	betC	3.1.6.6	Choline-sulfatase
+BEEMGMKP_00309	CDS	araR	Arabinose metabolism transcriptional repressor
+BEEMGMKP_00310	CDS	1.8.98.-	Anaerobic sulfatase-maturating enzyme
+BEEMGMKP_00311	CDS	srpC_1	putative chromate transport protein
+BEEMGMKP_00312	CDS	srpC_2	putative chromate transport protein
+BEEMGMKP_00313	CDS	hypothetical protein
+BEEMGMKP_00314	CDS	hypothetical protein
+BEEMGMKP_00315	CDS	hypothetical protein
+BEEMGMKP_00316	CDS	ypdB_1	Transcriptional regulatory protein YpdB
+BEEMGMKP_00317	CDS	hypothetical protein
+BEEMGMKP_00318	CDS	mgtE_1	Magnesium transporter MgtE
+BEEMGMKP_00319	CDS	hypothetical protein
+BEEMGMKP_00320	CDS	ctpC	3.6.3.-	putative manganese/zinc-exporting P-type ATPase
+BEEMGMKP_00321	CDS	yccM_1	Putative electron transport protein YccM
+BEEMGMKP_00322	CDS	hypothetical protein
+BEEMGMKP_00323	CDS	rsxG_1	Electron transport complex subunit RsxG
+BEEMGMKP_00324	CDS	3.4.-.-	Putative DD-carboxypeptidase
+BEEMGMKP_00325	CDS	yeeO_1	putative FMN/FAD exporter YeeO
+BEEMGMKP_00326	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+BEEMGMKP_00327	CDS	hypothetical protein
+BEEMGMKP_00328	CDS	pepV	3.4.13.-	Beta-Ala-Xaa dipeptidase
+BEEMGMKP_00329	CDS	hypothetical protein
+BEEMGMKP_00330	CDS	hypothetical protein
+BEEMGMKP_00331	CDS	hypothetical protein
+BEEMGMKP_00332	CDS	hypothetical protein
+BEEMGMKP_00333	CDS	sbcC	Nuclease SbcCD subunit C
+BEEMGMKP_00334	CDS	sbcD	Nuclease SbcCD subunit D
+BEEMGMKP_00335	CDS	3.4.17.14	Zinc D-Ala-D-Ala carboxypeptidase
+BEEMGMKP_00336	CDS	hypothetical protein
+BEEMGMKP_00337	CDS	hypothetical protein
+BEEMGMKP_00338	CDS	hypothetical protein
+BEEMGMKP_00339	CDS	hypothetical protein
+BEEMGMKP_00340	CDS	patA_1	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+BEEMGMKP_00341	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+BEEMGMKP_00342	CDS	hypothetical protein
+BEEMGMKP_00343	CDS	hypothetical protein
+BEEMGMKP_00344	CDS	hypothetical protein
+BEEMGMKP_00345	CDS	5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+BEEMGMKP_00346	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+BEEMGMKP_00347	CDS	addB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+BEEMGMKP_00348	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+BEEMGMKP_00349	CDS	infC	Translation initiation factor IF-3
+BEEMGMKP_00350	CDS	rpmI	50S ribosomal protein L35
+BEEMGMKP_00351	CDS	rplT	50S ribosomal protein L20
+BEEMGMKP_00352	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+BEEMGMKP_00353	CDS	dprA	DNA processing protein DprA
+BEEMGMKP_00354	CDS	topA	5.99.1.2	DNA topoisomerase 1
+BEEMGMKP_00355	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+BEEMGMKP_00356	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+BEEMGMKP_00357	CDS	rnc	3.1.26.3	Ribonuclease 3
+BEEMGMKP_00358	CDS	smc_1	Chromosome partition protein Smc
+BEEMGMKP_00359	CDS	ftsY	Signal recognition particle receptor FtsY
+BEEMGMKP_00360	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+BEEMGMKP_00361	CDS	yhbY	RNA-binding protein YhbY
+BEEMGMKP_00362	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+BEEMGMKP_00363	CDS	hypothetical protein
+BEEMGMKP_00364	CDS	lytR_1	Transcriptional regulator LytR
+BEEMGMKP_00365	CDS	rsfS	Ribosomal silencing factor RsfS
+BEEMGMKP_00366	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+BEEMGMKP_00367	CDS	rpsU	30S ribosomal protein S21
+BEEMGMKP_00368	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+BEEMGMKP_00369	CDS	nfo	3.1.21.2	putative endonuclease 4
+BEEMGMKP_00370	CDS	efp	Elongation factor P
+BEEMGMKP_00371	CDS	hypothetical protein
+BEEMGMKP_00372	CDS	hypothetical protein
+BEEMGMKP_00373	CDS	hypothetical protein
+BEEMGMKP_00374	CDS	fhs	6.3.4.3	Formate--tetrahydrofolate ligase
+BEEMGMKP_00375	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+BEEMGMKP_00376	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+BEEMGMKP_00377	CDS	cinA_1	Putative competence-damage inducible protein
+BEEMGMKP_00378	CDS	hypothetical protein
+BEEMGMKP_00379	CDS	hypothetical protein
+BEEMGMKP_00380	CDS	xerC_1	Tyrosine recombinase XerC
+BEEMGMKP_00381	CDS	hypothetical protein
+BEEMGMKP_00382	CDS	hypothetical protein
+BEEMGMKP_00383	CDS	hypothetical protein
+BEEMGMKP_00384	CDS	mazF_1	3.1.-.-	Endoribonuclease MazF
+BEEMGMKP_00385	CDS	xre	HTH-type transcriptional regulator Xre
+BEEMGMKP_00386	CDS	mgtE_2	Magnesium transporter MgtE
+BEEMGMKP_00387	CDS	hypothetical protein
+BEEMGMKP_00388	CDS	ppk_1	2.7.4.1	Polyphosphate kinase
+BEEMGMKP_00389	CDS	rny_1	3.1.-.-	Ribonuclease Y
+BEEMGMKP_00390	CDS	hypothetical protein
+BEEMGMKP_00391	CDS	ywiE_1	2.7.8.-	putative cardiolipin synthase YwiE
+BEEMGMKP_00392	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+BEEMGMKP_00393	CDS	hssR	Heme response regulator HssR
+BEEMGMKP_00394	CDS	baeS	2.7.13.3	Signal transduction histidine-protein kinase BaeS
+BEEMGMKP_00395	CDS	hypothetical protein
+BEEMGMKP_00396	CDS	hypothetical protein
+BEEMGMKP_00397	CDS	hypothetical protein
+BEEMGMKP_00398	CDS	hypothetical protein
+BEEMGMKP_00399	CDS	yfiN	2.7.7.65	putative diguanylate cyclase YfiN
+BEEMGMKP_00400	CDS	hypothetical protein
+BEEMGMKP_00401	CDS	bcd_1	1.3.8.1	Acyl-CoA dehydrogenase, short-chain specific
+BEEMGMKP_00402	CDS	fprA	1.-.-.-	Nitric oxide reductase
+BEEMGMKP_00403	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+BEEMGMKP_00404	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+BEEMGMKP_00405	CDS	hypothetical protein
+BEEMGMKP_00406	CDS	fprA1_1	1.6.3.4	Flavo-diiron protein FprA1
+BEEMGMKP_00407	CDS	trxA	Thioredoxin 1
+BEEMGMKP_00408	CDS	trxB_1	1.8.1.9	Thioredoxin reductase
+BEEMGMKP_00409	CDS	ftn	1.16.3.2	Bacterial non-heme ferritin
+BEEMGMKP_00410	CDS	rsxG_2	Electron transport complex subunit RsxG
+BEEMGMKP_00411	CDS	iolC	2.7.1.92	5-dehydro-2-deoxygluconokinase
+BEEMGMKP_00412	CDS	sigX	ECF RNA polymerase sigma factor SigX
+BEEMGMKP_00413	CDS	hypothetical protein
+BEEMGMKP_00414	CDS	hypothetical protein
+BEEMGMKP_00415	CDS	hypothetical protein
+BEEMGMKP_00416	CDS	hypothetical protein
+BEEMGMKP_00417	CDS	hypothetical protein
+BEEMGMKP_00418	CDS	mbeC	Mobilization protein MbeC
+BEEMGMKP_00419	CDS	hypothetical protein
+BEEMGMKP_00420	CDS	hypothetical protein
+BEEMGMKP_00421	CDS	hypothetical protein
+BEEMGMKP_00422	CDS	hypothetical protein
+BEEMGMKP_00423	CDS	hypothetical protein
+BEEMGMKP_00424	CDS	hypothetical protein
+BEEMGMKP_00425	CDS	hypothetical protein
+BEEMGMKP_00426	CDS	hypothetical protein
+BEEMGMKP_00427	CDS	recF_1	DNA replication and repair protein RecF
+BEEMGMKP_00428	CDS	hypothetical protein
+BEEMGMKP_00429	CDS	hypothetical protein
+BEEMGMKP_00430	CDS	hypothetical protein
+BEEMGMKP_00431	CDS	hypothetical protein
+BEEMGMKP_00432	CDS	hypothetical protein
+BEEMGMKP_00433	CDS	topB_4	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_00434	CDS	hypothetical protein
+BEEMGMKP_00435	CDS	hypothetical protein
+BEEMGMKP_00436	CDS	hypothetical protein
+BEEMGMKP_00437	CDS	dnaI_1	Primosomal protein DnaI
+BEEMGMKP_00438	CDS	hypothetical protein
+BEEMGMKP_00439	CDS	hypothetical protein
+BEEMGMKP_00440	CDS	hypothetical protein
+BEEMGMKP_00441	CDS	hypothetical protein
+BEEMGMKP_00442	CDS	hypothetical protein
+BEEMGMKP_00443	CDS	hypothetical protein
+BEEMGMKP_00444	CDS	blaR1	Regulatory protein BlaR1
+BEEMGMKP_00445	CDS	mecI	Methicillin resistance regulatory protein MecI
+BEEMGMKP_00446	CDS	sigF	RNA polymerase sigma-F factor
+BEEMGMKP_00447	CDS	spoIIAB	2.7.11.1	Anti-sigma F factor
+BEEMGMKP_00448	CDS	spoIIAA	Anti-sigma F factor antagonist
+BEEMGMKP_00449	CDS	fpgS_1	6.3.2.17	Folylpolyglutamate synthase
+BEEMGMKP_00450	CDS	hypothetical protein
+BEEMGMKP_00451	CDS	valS	6.1.1.9	Valine--tRNA ligase
+BEEMGMKP_00452	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_00453	CDS	hypothetical protein
+BEEMGMKP_00454	CDS	epsJ_3	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_00455	CDS	yitJ	Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+BEEMGMKP_00456	CDS	ydaF	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+BEEMGMKP_00457	CDS	hflX_1	GTPase HflX
+BEEMGMKP_00458	CDS	hflX_2	GTPase HflX
+BEEMGMKP_00459	CDS	lrpC	HTH-type transcriptional regulator LrpC
+BEEMGMKP_00460	CDS	hypothetical protein
+BEEMGMKP_00461	CDS	wbbL_2	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+BEEMGMKP_00462	CDS	hypothetical protein
+BEEMGMKP_00463	CDS	hypothetical protein
+BEEMGMKP_00464	CDS	fdx	Ferredoxin
+BEEMGMKP_00465	CDS	polA	2.7.7.7	DNA polymerase I
+BEEMGMKP_00466	CDS	tsaD_1	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+BEEMGMKP_00467	CDS	nfrA2_1	1.5.1.39	FMN reductase [NAD(P)H]
+BEEMGMKP_00468	CDS	nnr_1	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BEEMGMKP_00469	CDS	fusA_1	Elongation factor G
+BEEMGMKP_00470	CDS	hypothetical protein
+BEEMGMKP_00471	CDS	hypothetical protein
+BEEMGMKP_00472	CDS	hadI	3.-.-.-	2-hydroxyisocaproyl-CoA dehydratase activator
+BEEMGMKP_00473	CDS	hypothetical protein
+BEEMGMKP_00474	CDS	hypothetical protein
+BEEMGMKP_00475	CDS	hypothetical protein
+BEEMGMKP_00476	CDS	hypothetical protein
+BEEMGMKP_00477	CDS	rhaS	HTH-type transcriptional activator RhaS
+BEEMGMKP_00478	CDS	yokD	2.3.1.-	SPBc2 prophage-derived aminoglycoside N(3')-acetyltransferase-like protein YokD
+BEEMGMKP_00479	CDS	rspR_1	HTH-type transcriptional repressor RspR
+BEEMGMKP_00480	tRNA	tRNA-Gln(ttg)
+BEEMGMKP_00481	CDS	inlB	Internalin B
+BEEMGMKP_00482	CDS	hypothetical protein
+BEEMGMKP_00483	CDS	hypothetical protein
+BEEMGMKP_00484	CDS	sipS	3.4.21.89	Signal peptidase I S
+BEEMGMKP_00485	CDS	hypothetical protein
+BEEMGMKP_00486	CDS	hypothetical protein
+BEEMGMKP_00487	CDS	hypothetical protein
+BEEMGMKP_00488	CDS	bag	IgA FC receptor
+BEEMGMKP_00489	CDS	pnp_1	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+BEEMGMKP_00490	CDS	pnp_2	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+BEEMGMKP_00491	CDS	rpsO	30S ribosomal protein S15
+BEEMGMKP_00492	CDS	hypothetical protein
+BEEMGMKP_00493	CDS	secA	Protein translocase subunit SecA
+BEEMGMKP_00494	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+BEEMGMKP_00495	CDS	glpP	Glycerol uptake operon antiterminator regulatory protein
+BEEMGMKP_00496	CDS	lhgO	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+BEEMGMKP_00497	CDS	trxB_2	1.8.1.9	Thioredoxin reductase
+BEEMGMKP_00498	CDS	hypothetical protein
+BEEMGMKP_00499	CDS	potA_1	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+BEEMGMKP_00500	CDS	modB	Molybdenum transport system permease protein ModB
+BEEMGMKP_00501	CDS	modA	Molybdate-binding periplasmic protein
+BEEMGMKP_00502	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+BEEMGMKP_00503	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+BEEMGMKP_00504	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+BEEMGMKP_00505	CDS	cinA_2	CinA-like protein
+BEEMGMKP_00506	CDS	mobB	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+BEEMGMKP_00507	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+BEEMGMKP_00508	CDS	hypothetical protein
+BEEMGMKP_00509	CDS	ydhV	1.-.-.-	putative oxidoreductase YdhV
+BEEMGMKP_00510	CDS	ydhY	putative ferredoxin-like protein YdhY
+BEEMGMKP_00511	CDS	rsxG_3	Electron transport complex subunit RsxG
+BEEMGMKP_00512	CDS	fdhD	Sulfurtransferase FdhD
+BEEMGMKP_00513	CDS	adeC	3.5.4.2	Adenine deaminase
+BEEMGMKP_00514	CDS	hypothetical protein
+BEEMGMKP_00515	CDS	hypothetical protein
+BEEMGMKP_00516	CDS	fruA	PTS system fructose-specific EIIABC component
+BEEMGMKP_00517	CDS	lacC	2.7.1.144	Tagatose-6-phosphate kinase
+BEEMGMKP_00518	CDS	lacR	Lactose phosphotransferase system repressor
+BEEMGMKP_00519	CDS	pepD	3.4.-.-	Dipeptidase
+BEEMGMKP_00520	CDS	hypothetical protein
+BEEMGMKP_00521	CDS	fixK	Nitrogen fixation regulation protein FixK
+BEEMGMKP_00522	CDS	ykoT	2.4.-.-	putative glycosyltransferase YkoT
+BEEMGMKP_00523	CDS	flr	Flavoredoxin
+BEEMGMKP_00524	CDS	queT	Queuosine precursor transporter QueT
+BEEMGMKP_00525	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+BEEMGMKP_00526	tRNA	tRNA-Pro(cgg)
+BEEMGMKP_00527	tRNA	tRNA-Gln(ctg)
+BEEMGMKP_00528	CDS	pfp_1	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+BEEMGMKP_00529	CDS	pepT	3.4.11.4	Peptidase T
+BEEMGMKP_00530	CDS	ktrB	Ktr system potassium uptake protein B
+BEEMGMKP_00531	tRNA	tRNA-Arg(cct)
+BEEMGMKP_00532	CDS	hypothetical protein
+BEEMGMKP_00533	CDS	hypothetical protein
+BEEMGMKP_00534	CDS	hypothetical protein
+BEEMGMKP_00535	CDS	soj_2	3.6.-.-	Sporulation initiation inhibitor protein Soj
+BEEMGMKP_00536	CDS	spo0C_2	Chromosome-partitioning protein Spo0J
+BEEMGMKP_00537	CDS	hypothetical protein
+BEEMGMKP_00538	CDS	hypothetical protein
+BEEMGMKP_00539	CDS	hypothetical protein
+BEEMGMKP_00540	CDS	hypothetical protein
+BEEMGMKP_00541	CDS	hypothetical protein
+BEEMGMKP_00542	CDS	hypothetical protein
+BEEMGMKP_00543	CDS	hypothetical protein
+BEEMGMKP_00544	CDS	hypothetical protein
+BEEMGMKP_00545	CDS	hypothetical protein
+BEEMGMKP_00546	CDS	hypothetical protein
+BEEMGMKP_00547	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+BEEMGMKP_00548	CDS	cssS	2.7.13.3	Sensor histidine kinase CssS
+BEEMGMKP_00549	CDS	phoP_2	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+BEEMGMKP_00550	CDS	hypothetical protein
+BEEMGMKP_00551	CDS	hypothetical protein
+BEEMGMKP_00552	CDS	hypothetical protein
+BEEMGMKP_00553	CDS	hypothetical protein
+BEEMGMKP_00554	CDS	hypothetical protein
+BEEMGMKP_00555	CDS	hypothetical protein
+BEEMGMKP_00556	CDS	hypothetical protein
+BEEMGMKP_00557	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+BEEMGMKP_00558	CDS	2.1.1.-	putative tRNA/rRNA methyltransferase
+BEEMGMKP_00559	CDS	hypothetical protein
+BEEMGMKP_00560	CDS	alsT_1	Amino-acid carrier protein AlsT
+BEEMGMKP_00561	CDS	thiC	4.1.99.17	Phosphomethylpyrimidine synthase
+BEEMGMKP_00562	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+BEEMGMKP_00563	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+BEEMGMKP_00564	CDS	hypothetical protein
+BEEMGMKP_00565	CDS	cbpA	2.4.1.20	Cellobiose phosphorylase
+BEEMGMKP_00566	CDS	rbsR	Ribose operon repressor
+BEEMGMKP_00567	CDS	hypothetical protein
+BEEMGMKP_00568	CDS	lacF_2	Lactose transport system permease protein LacF
+BEEMGMKP_00569	CDS	araQ_2	L-arabinose transport system permease protein AraQ
+BEEMGMKP_00570	CDS	def	3.5.1.88	Peptide deformylase
+BEEMGMKP_00571	CDS	brnQ	Branched-chain amino acid transport system 2 carrier protein
+BEEMGMKP_00572	CDS	ssuC	Putative aliphatic sulfonates transport permease protein SsuC
+BEEMGMKP_00573	CDS	ftsE_1	Cell division ATP-binding protein FtsE
+BEEMGMKP_00574	CDS	rodA	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+BEEMGMKP_00575	CDS	hypothetical protein
+BEEMGMKP_00576	CDS	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+BEEMGMKP_00577	CDS	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+BEEMGMKP_00578	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+BEEMGMKP_00579	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+BEEMGMKP_00580	CDS	mepA_2	Multidrug export protein MepA
+BEEMGMKP_00581	CDS	cysK	2.5.1.47	Cysteine synthase
+BEEMGMKP_00582	CDS	hypothetical protein
+BEEMGMKP_00583	CDS	ffh	Signal recognition particle protein
+BEEMGMKP_00584	CDS	rpsP	30S ribosomal protein S16
+BEEMGMKP_00585	CDS	hypothetical protein
+BEEMGMKP_00586	CDS	rimM	Ribosome maturation factor RimM
+BEEMGMKP_00587	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+BEEMGMKP_00588	CDS	crh	HPr-like protein Crh
+BEEMGMKP_00589	CDS	uvrC	UvrABC system protein C
+BEEMGMKP_00590	CDS	hypothetical protein
+BEEMGMKP_00591	CDS	hypothetical protein
+BEEMGMKP_00592	CDS	putative amino-acid ABC transporter-binding protein
+BEEMGMKP_00593	CDS	tcyC_1	3.6.3.-	L-cystine import ATP-binding protein TcyC
+BEEMGMKP_00594	CDS	tcyB_1	L-cystine transport system permease protein TcyB
+BEEMGMKP_00595	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+BEEMGMKP_00596	CDS	hypothetical protein
+BEEMGMKP_00597	CDS	hypothetical protein
+BEEMGMKP_00598	CDS	mgl_1	4.4.1.11	L-methionine gamma-lyase
+BEEMGMKP_00599	CDS	hypothetical protein
+BEEMGMKP_00600	CDS	ftsH4_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 4
+BEEMGMKP_00601	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+BEEMGMKP_00602	CDS	dmdA_1	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+BEEMGMKP_00603	CDS	DmdB	4.2.1.85	2,3-dimethylmalate dehydratase small subunit
+BEEMGMKP_00604	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+BEEMGMKP_00605	CDS	glnQ	Glutamine transport ATP-binding protein GlnQ
+BEEMGMKP_00606	CDS	artQ	Arginine transport system permease protein ArtQ
+BEEMGMKP_00607	CDS	fliY_1	L-cystine-binding protein FliY
+BEEMGMKP_00608	CDS	nfrA2_2	1.5.1.39	FMN reductase [NAD(P)H]
+BEEMGMKP_00609	CDS	hypothetical protein
+BEEMGMKP_00610	CDS	hypothetical protein
+BEEMGMKP_00611	CDS	hypothetical protein
+BEEMGMKP_00612	CDS	Membrane lipoprotein TpN32
+BEEMGMKP_00613	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+BEEMGMKP_00614	CDS	metI	D-methionine transport system permease protein MetI
+BEEMGMKP_00615	CDS	mgl_2	4.4.1.11	L-methionine gamma-lyase
+BEEMGMKP_00616	CDS	metA	2.3.1.46	Homoserine O-succinyltransferase
+BEEMGMKP_00617	CDS	DegV domain-containing protein
+BEEMGMKP_00618	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+BEEMGMKP_00619	CDS	pdxY	2.7.1.35	Pyridoxal kinase PdxY
+BEEMGMKP_00620	CDS	hypothetical protein
+BEEMGMKP_00621	CDS	hypothetical protein
+BEEMGMKP_00622	CDS	1.12.7.2	Iron hydrogenase 1
+BEEMGMKP_00623	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+BEEMGMKP_00624	CDS	dacF_1	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacF
+BEEMGMKP_00625	CDS	pgiB	5.3.1.9	Glucose-6-phosphate isomerase B
+BEEMGMKP_00626	CDS	hypothetical protein
+BEEMGMKP_00627	CDS	hypothetical protein
+BEEMGMKP_00628	CDS	rpmF	50S ribosomal protein L32
+BEEMGMKP_00629	CDS	hypothetical protein
+BEEMGMKP_00630	CDS	der	GTPase Der
+BEEMGMKP_00631	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+BEEMGMKP_00632	CDS	hypothetical protein
+BEEMGMKP_00633	CDS	pstS1_1	Phosphate-binding protein PstS 1
+BEEMGMKP_00634	CDS	hypothetical protein
+BEEMGMKP_00635	CDS	mepA_3	Multidrug export protein MepA
+BEEMGMKP_00636	CDS	hypothetical protein
+BEEMGMKP_00637	CDS	hypothetical protein
+BEEMGMKP_00638	tRNA	tRNA-Ser(gga)
+BEEMGMKP_00639	CDS	hmo	1.1.3.46	4-hydroxymandelate oxidase
+BEEMGMKP_00640	CDS	rluD_1	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+BEEMGMKP_00641	CDS	hypothetical protein
+BEEMGMKP_00642	CDS	alaS_1	6.1.1.7	Alanine--tRNA ligase
+BEEMGMKP_00643	CDS	3.9.1.-	Purine nucleoside phosphoramidase
+BEEMGMKP_00644	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+BEEMGMKP_00645	CDS	comEC_2	ComE operon protein 3
+BEEMGMKP_00646	CDS	hypothetical protein
+BEEMGMKP_00647	CDS	rnmV	3.1.26.8	Ribonuclease M5
+BEEMGMKP_00648	CDS	sigE_1	RNA polymerase sigma-E factor
+BEEMGMKP_00649	CDS	hypothetical protein
+BEEMGMKP_00650	CDS	mgrA	HTH-type transcriptional regulator MgrA
+BEEMGMKP_00651	CDS	hypothetical protein
+BEEMGMKP_00652	CDS	hypothetical protein
+BEEMGMKP_00653	CDS	hypothetical protein
+BEEMGMKP_00654	CDS	hypothetical protein
+BEEMGMKP_00655	CDS	hypothetical protein
+BEEMGMKP_00656	CDS	hypothetical protein
+BEEMGMKP_00657	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+BEEMGMKP_00658	CDS	ymdB_1	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+BEEMGMKP_00659	CDS	sfsA	Sugar fermentation stimulation protein A
+BEEMGMKP_00660	CDS	mta	HTH-type transcriptional activator mta
+BEEMGMKP_00661	CDS	dfx_1	1.15.1.2	Desulfoferrodoxin
+BEEMGMKP_00662	CDS	hypothetical protein
+BEEMGMKP_00663	CDS	hypothetical protein
+BEEMGMKP_00664	CDS	Pentapeptide repeat protein
+BEEMGMKP_00665	CDS	hypothetical protein
+BEEMGMKP_00666	CDS	hypothetical protein
+BEEMGMKP_00667	CDS	hypothetical protein
+BEEMGMKP_00668	CDS	hypothetical protein
+BEEMGMKP_00669	CDS	punA	2.4.2.1	Purine nucleoside phosphorylase 1
+BEEMGMKP_00670	CDS	cysK1_1	2.5.1.47	O-acetylserine sulfhydrylase
+BEEMGMKP_00671	CDS	putative Hsp20 family chaperone
+BEEMGMKP_00672	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+BEEMGMKP_00673	CDS	msrAB	Peptide methionine sulfoxide reductase msrA/msrB
+BEEMGMKP_00674	CDS	hypothetical protein
+BEEMGMKP_00675	CDS	hypothetical protein
+BEEMGMKP_00676	CDS	hypothetical protein
+BEEMGMKP_00677	CDS	nudC	3.6.1.22	NADH pyrophosphatase
+BEEMGMKP_00678	CDS	hypothetical protein
+BEEMGMKP_00679	CDS	bioC	2.1.1.197	Malonyl-[acyl-carrier protein] O-methyltransferase
+BEEMGMKP_00680	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+BEEMGMKP_00681	CDS	baeB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+BEEMGMKP_00682	CDS	hypothetical protein
+BEEMGMKP_00683	CDS	hypothetical protein
+BEEMGMKP_00684	CDS	hypothetical protein
+BEEMGMKP_00685	CDS	hypothetical protein
+BEEMGMKP_00686	CDS	hypothetical protein
+BEEMGMKP_00687	CDS	hypothetical protein
+BEEMGMKP_00688	CDS	hypothetical protein
+BEEMGMKP_00689	CDS	hypothetical protein
+BEEMGMKP_00690	CDS	hypothetical protein
+BEEMGMKP_00691	CDS	hypothetical protein
+BEEMGMKP_00692	CDS	hypothetical protein
+BEEMGMKP_00693	CDS	hypothetical protein
+BEEMGMKP_00694	CDS	hypothetical protein
+BEEMGMKP_00695	CDS	ndoA_2	3.1.27.-	Endoribonuclease EndoA
+BEEMGMKP_00696	CDS	hypothetical protein
+BEEMGMKP_00697	CDS	hypothetical protein
+BEEMGMKP_00698	CDS	hypothetical protein
+BEEMGMKP_00699	CDS	catD	3.1.1.24	3-oxoadipate enol-lactonase 2
+BEEMGMKP_00700	CDS	hypothetical protein
+BEEMGMKP_00701	CDS	2.4.1.161	Oligosaccharide 4-alpha-D-glucosyltransferase
+BEEMGMKP_00702	CDS	dinB	2.7.7.7	DNA polymerase IV
+BEEMGMKP_00703	CDS	hypothetical protein
+BEEMGMKP_00704	CDS	hypothetical protein
+BEEMGMKP_00705	CDS	dfx_2	1.15.1.2	Desulfoferrodoxin
+BEEMGMKP_00706	CDS	ymdB_2	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+BEEMGMKP_00707	CDS	hypothetical protein
+BEEMGMKP_00708	CDS	nnr_2	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BEEMGMKP_00709	CDS	afr	1.1.1.292	1,5-anhydro-D-fructose reductase
+BEEMGMKP_00710	CDS	hypothetical protein
+BEEMGMKP_00711	CDS	Ferredoxin-2
+BEEMGMKP_00712	CDS	hypothetical protein
+BEEMGMKP_00713	CDS	hypothetical protein
+BEEMGMKP_00714	CDS	hypothetical protein
+BEEMGMKP_00715	CDS	zupT_1	Zinc transporter ZupT
+BEEMGMKP_00716	CDS	hypothetical protein
+BEEMGMKP_00717	CDS	hypothetical protein
+BEEMGMKP_00718	CDS	ybiR	Inner membrane protein YbiR
+BEEMGMKP_00719	CDS	hypothetical protein
+BEEMGMKP_00720	CDS	hypothetical protein
+BEEMGMKP_00721	CDS	cmpR	HTH-type transcriptional activator CmpR
+BEEMGMKP_00722	CDS	Solute-binding protein
+BEEMGMKP_00723	CDS	dctM_1	C4-dicarboxylate TRAP transporter large permease protein DctM
+BEEMGMKP_00724	CDS	siaQ_1	Sialic acid TRAP transporter small permease protein SiaQ
+BEEMGMKP_00725	CDS	dctP_1	Solute-binding protein
+BEEMGMKP_00726	CDS	putative response regulatory protein
+BEEMGMKP_00727	CDS	ypdA_1	2.7.13.3	Sensor histidine kinase YpdA
+BEEMGMKP_00728	CDS	hypothetical protein
+BEEMGMKP_00729	CDS	rsxB_1	Electron transport complex subunit RsxB
+BEEMGMKP_00730	CDS	rcsC	2.7.13.3	Sensor histidine kinase RcsC
+BEEMGMKP_00731	CDS	hypothetical protein
+BEEMGMKP_00732	CDS	hypothetical protein
+BEEMGMKP_00733	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+BEEMGMKP_00734	CDS	cpnA	1.1.1.163	Cyclopentanol dehydrogenase
+BEEMGMKP_00735	CDS	barA_1	2.7.13.3	Signal transduction histidine-protein kinase BarA
+BEEMGMKP_00736	CDS	hypothetical protein
+BEEMGMKP_00737	CDS	hypothetical protein
+BEEMGMKP_00738	CDS	hypothetical protein
+BEEMGMKP_00739	CDS	hypothetical protein
+BEEMGMKP_00740	CDS	hypothetical protein
+BEEMGMKP_00741	CDS	hypothetical protein
+BEEMGMKP_00742	CDS	hypothetical protein
+BEEMGMKP_00743	CDS	hypothetical protein
+BEEMGMKP_00744	CDS	hypothetical protein
+BEEMGMKP_00745	CDS	hypothetical protein
+BEEMGMKP_00746	CDS	hypothetical protein
+BEEMGMKP_00747	CDS	hypothetical protein
+BEEMGMKP_00748	CDS	hypothetical protein
+BEEMGMKP_00749	CDS	hypothetical protein
+BEEMGMKP_00750	CDS	hypothetical protein
+BEEMGMKP_00751	CDS	hypothetical protein
+BEEMGMKP_00752	CDS	hypothetical protein
+BEEMGMKP_00753	CDS	hypothetical protein
+BEEMGMKP_00754	CDS	mggB	3.1.3.-	Mannosylglucosyl-3-phosphoglycerate phosphatase
+BEEMGMKP_00755	CDS	hypothetical protein
+BEEMGMKP_00756	CDS	hypothetical protein
+BEEMGMKP_00757	CDS	hypothetical protein
+BEEMGMKP_00758	CDS	adaA_1	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+BEEMGMKP_00759	CDS	hypothetical protein
+BEEMGMKP_00760	CDS	hypothetical protein
+BEEMGMKP_00761	CDS	soj_3	3.6.-.-	Sporulation initiation inhibitor protein Soj
+BEEMGMKP_00762	CDS	spo0C_3	Chromosome-partitioning protein Spo0J
+BEEMGMKP_00763	CDS	hypothetical protein
+BEEMGMKP_00764	CDS	hypothetical protein
+BEEMGMKP_00765	CDS	hypothetical protein
+BEEMGMKP_00766	CDS	hypothetical protein
+BEEMGMKP_00767	CDS	hypothetical protein
+BEEMGMKP_00768	CDS	hypothetical protein
+BEEMGMKP_00769	CDS	hypothetical protein
+BEEMGMKP_00770	CDS	hypothetical protein
+BEEMGMKP_00771	CDS	hypothetical protein
+BEEMGMKP_00772	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+BEEMGMKP_00773	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+BEEMGMKP_00774	CDS	hypothetical protein
+BEEMGMKP_00775	CDS	yxdL_2	ABC transporter ATP-binding protein YxdL
+BEEMGMKP_00776	CDS	hypothetical protein
+BEEMGMKP_00777	CDS	ypdB_2	Transcriptional regulatory protein YpdB
+BEEMGMKP_00778	CDS	hypothetical protein
+BEEMGMKP_00779	CDS	hypothetical protein
+BEEMGMKP_00780	CDS	hypothetical protein
+BEEMGMKP_00781	CDS	hypothetical protein
+BEEMGMKP_00782	CDS	hypothetical protein
+BEEMGMKP_00783	CDS	hypothetical protein
+BEEMGMKP_00784	CDS	hypothetical protein
+BEEMGMKP_00785	CDS	ylaC	RNA polymerase sigma factor YlaC
+BEEMGMKP_00786	CDS	hypothetical protein
+BEEMGMKP_00787	CDS	hypothetical protein
+BEEMGMKP_00788	CDS	hypothetical protein
+BEEMGMKP_00789	CDS	hypothetical protein
+BEEMGMKP_00790	CDS	hypothetical protein
+BEEMGMKP_00791	CDS	hypothetical protein
+BEEMGMKP_00792	CDS	hypothetical protein
+BEEMGMKP_00793	CDS	hypothetical protein
+BEEMGMKP_00794	CDS	dnaI_2	Primosomal protein DnaI
+BEEMGMKP_00795	CDS	hypothetical protein
+BEEMGMKP_00796	CDS	hypothetical protein
+BEEMGMKP_00797	CDS	hypothetical protein
+BEEMGMKP_00798	CDS	hypothetical protein
+BEEMGMKP_00799	CDS	hypothetical protein
+BEEMGMKP_00800	CDS	ltrA_1	Group II intron-encoded protein LtrA
+BEEMGMKP_00801	CDS	hypothetical protein
+BEEMGMKP_00802	CDS	hypothetical protein
+BEEMGMKP_00803	CDS	hypothetical protein
+BEEMGMKP_00804	CDS	hypothetical protein
+BEEMGMKP_00805	CDS	hypothetical protein
+BEEMGMKP_00806	CDS	mobA_3	Mobilization protein A
+BEEMGMKP_00807	CDS	dnaG_2	2.7.7.-	DNA primase
+BEEMGMKP_00808	CDS	hypothetical protein
+BEEMGMKP_00809	CDS	hypothetical protein
+BEEMGMKP_00810	CDS	hypothetical protein
+BEEMGMKP_00811	CDS	hypothetical protein
+BEEMGMKP_00812	CDS	hypothetical protein
+BEEMGMKP_00813	CDS	hypothetical protein
+BEEMGMKP_00814	CDS	coaX_1	2.7.1.33	Type III pantothenate kinase
+BEEMGMKP_00815	tRNA	tRNA-Arg(ccg)
+BEEMGMKP_00816	CDS	hypothetical protein
+BEEMGMKP_00817	CDS	melR	Melibiose operon regulatory protein
+BEEMGMKP_00818	CDS	yicJ_1	Inner membrane symporter YicJ
+BEEMGMKP_00819	CDS	3.2.1.23	Beta-galactosidase BoGH2A
+BEEMGMKP_00820	CDS	hypothetical protein
+BEEMGMKP_00821	CDS	hypothetical protein
+BEEMGMKP_00822	CDS	hypothetical protein
+BEEMGMKP_00823	CDS	hypothetical protein
+BEEMGMKP_00824	CDS	ypdB_3	Transcriptional regulatory protein YpdB
+BEEMGMKP_00825	CDS	agrB_1	3.4.-.-	Accessory gene regulator protein B
+BEEMGMKP_00826	CDS	hypothetical protein
+BEEMGMKP_00827	CDS	hypothetical protein
+BEEMGMKP_00828	CDS	hypothetical protein
+BEEMGMKP_00829	CDS	hypothetical protein
+BEEMGMKP_00830	CDS	hypothetical protein
+BEEMGMKP_00831	CDS	hypothetical protein
+BEEMGMKP_00832	CDS	hypothetical protein
+BEEMGMKP_00833	CDS	hypothetical protein
+BEEMGMKP_00834	CDS	mepA_4	Multidrug export protein MepA
+BEEMGMKP_00835	CDS	urdA_1	1.3.99.33	Urocanate reductase
+BEEMGMKP_00836	CDS	hcaR_1	Hca operon transcriptional activator HcaR
+BEEMGMKP_00837	CDS	hypothetical protein
+BEEMGMKP_00838	CDS	cstA_1	Carbon starvation protein A
+BEEMGMKP_00839	CDS	oxyR	Hydrogen peroxide-inducible genes activator
+BEEMGMKP_00840	CDS	hypothetical protein
+BEEMGMKP_00841	CDS	pspA	3.1.3.3	Phosphoserine phosphatase 1
+BEEMGMKP_00842	CDS	mepA_5	Multidrug export protein MepA
+BEEMGMKP_00843	CDS	smc_2	Chromosome partition protein Smc
+BEEMGMKP_00844	CDS	hypothetical protein
+BEEMGMKP_00845	CDS	hypothetical protein
+BEEMGMKP_00846	CDS	hypothetical protein
+BEEMGMKP_00847	CDS	hypothetical protein
+BEEMGMKP_00848	CDS	hypothetical protein
+BEEMGMKP_00849	CDS	yccX	3.6.1.7	Acylphosphatase
+BEEMGMKP_00850	CDS	3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+BEEMGMKP_00851	CDS	yeeO_2	putative FMN/FAD exporter YeeO
+BEEMGMKP_00852	CDS	hypothetical protein
+BEEMGMKP_00853	CDS	gltX_1	6.1.1.17	Glutamate--tRNA ligase
+BEEMGMKP_00854	CDS	aglB	3.2.1.122	6-phospho-alpha-glucosidase
+BEEMGMKP_00855	CDS	glcB	PTS system glucoside-specific EIICBA component
+BEEMGMKP_00856	CDS	licT_1	Transcription antiterminator LicT
+BEEMGMKP_00857	CDS	hypothetical protein
+BEEMGMKP_00858	CDS	rsxB_2	Electron transport complex subunit RsxB
+BEEMGMKP_00859	CDS	eriC	Chloride/fluoride channel protein
+BEEMGMKP_00860	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+BEEMGMKP_00861	CDS	trkA_1	Trk system potassium uptake protein TrkA
+BEEMGMKP_00862	CDS	trkA_2	Trk system potassium uptake protein TrkA
+BEEMGMKP_00863	CDS	hypothetical protein
+BEEMGMKP_00864	CDS	hypothetical protein
+BEEMGMKP_00865	CDS	gph_3	3.1.3.18	Phosphoglycolate phosphatase
+BEEMGMKP_00866	tRNA	tRNA-Glu(ttc)
+BEEMGMKP_00867	tRNA	tRNA-Met(cat)
+BEEMGMKP_00868	CDS	serS	6.1.1.11	Serine--tRNA ligase
+BEEMGMKP_00869	CDS	spo0C_4	Chromosome-partitioning protein Spo0J
+BEEMGMKP_00870	CDS	soj_4	3.6.-.-	Sporulation initiation inhibitor protein Soj
+BEEMGMKP_00871	CDS	noc	Nucleoid occlusion protein
+BEEMGMKP_00872	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+BEEMGMKP_00873	CDS	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+BEEMGMKP_00874	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+BEEMGMKP_00875	CDS	hypothetical protein
+BEEMGMKP_00876	CDS	yidC	Membrane protein insertase YidC
+BEEMGMKP_00877	CDS	Putative membrane protein insertion efficiency factor
+BEEMGMKP_00878	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+BEEMGMKP_00879	CDS	rpmH	50S ribosomal protein L34
+BEEMGMKP_00880	CDS	dnaA	Chromosomal replication initiator protein DnaA
+BEEMGMKP_00881	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+BEEMGMKP_00882	CDS	hypothetical protein
+BEEMGMKP_00883	CDS	recF_2	DNA replication and repair protein RecF
+BEEMGMKP_00884	CDS	hypothetical protein
+BEEMGMKP_00885	CDS	gyrB_1	5.99.1.3	DNA gyrase subunit B
+BEEMGMKP_00886	CDS	gyrA_1	5.99.1.3	DNA gyrase subunit A
+BEEMGMKP_00887	CDS	mntP	putative manganese efflux pump MntP
+BEEMGMKP_00888	CDS	rspR_2	HTH-type transcriptional repressor RspR
+BEEMGMKP_00889	CDS	5.4.99.-	putative RNA pseudouridine synthase
+BEEMGMKP_00890	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+BEEMGMKP_00891	CDS	por_1	1.2.7.1	Pyruvate synthase
+BEEMGMKP_00892	CDS	higA1	Antitoxin HigA1
+BEEMGMKP_00893	CDS	hypothetical protein
+BEEMGMKP_00894	CDS	Magnesium transporter MgtE
+BEEMGMKP_00895	CDS	hypothetical protein
+BEEMGMKP_00896	CDS	hypothetical protein
+BEEMGMKP_00897	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit gamma/tau
+BEEMGMKP_00898	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+BEEMGMKP_00899	CDS	dacF_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacF
+BEEMGMKP_00900	CDS	birA_1	6.3.4.15	Bifunctional ligase/repressor BirA
+BEEMGMKP_00901	CDS	yfcE_1	3.1.4.-	Phosphodiesterase YfcE
+BEEMGMKP_00902	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+BEEMGMKP_00903	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+BEEMGMKP_00904	CDS	Ferredoxin
+BEEMGMKP_00905	CDS	hypothetical protein
+BEEMGMKP_00906	CDS	czcA	Cobalt-zinc-cadmium resistance protein CzcA
+BEEMGMKP_00907	CDS	mro	5.1.3.3	Aldose 1-epimerase
+BEEMGMKP_00908	CDS	lnpD	5.1.3.2	UDP-glucose 4-epimerase
+BEEMGMKP_00909	CDS	feoB_2	Fe(2+) transporter FeoB
+BEEMGMKP_00910	CDS	hypothetical protein
+BEEMGMKP_00911	CDS	hypothetical protein
+BEEMGMKP_00912	CDS	tig_2	5.2.1.8	Trigger factor
+BEEMGMKP_00913	CDS	sdhB	4.3.1.17	L-serine dehydratase, beta chain
+BEEMGMKP_00914	CDS	sdhA	4.3.1.17	L-serine dehydratase, alpha chain
+BEEMGMKP_00915	tRNA	tRNA-Arg(acg)
+BEEMGMKP_00916	CDS	xerC_2	Tyrosine recombinase XerC
+BEEMGMKP_00917	CDS	hypothetical protein
+BEEMGMKP_00918	CDS	pre_1	Plasmid recombination enzyme
+BEEMGMKP_00919	CDS	hypothetical protein
+BEEMGMKP_00920	CDS	dnaG_3	2.7.7.-	DNA primase
+BEEMGMKP_00921	CDS	hypothetical protein
+BEEMGMKP_00922	CDS	hhaIM_1	2.1.1.37	Modification methylase HhaI
+BEEMGMKP_00923	CDS	hhaIM_2	2.1.1.37	Modification methylase HhaI
+BEEMGMKP_00924	CDS	sau3AIR	3.1.21.4	Type-2 restriction enzyme Sau3AI
+BEEMGMKP_00925	CDS	hypothetical protein
+BEEMGMKP_00926	CDS	vsr	3.1.-.-	Very short patch repair protein
+BEEMGMKP_00927	CDS	hypothetical protein
+BEEMGMKP_00928	CDS	hypothetical protein
+BEEMGMKP_00929	CDS	hypothetical protein
+BEEMGMKP_00930	CDS	ptsH_1	2.7.11.-	Phosphocarrier protein HPr
+BEEMGMKP_00931	CDS	mtlA	PTS system mannitol-specific EIICBA component
+BEEMGMKP_00932	CDS	mtlR	Transcriptional regulator MtlR
+BEEMGMKP_00933	CDS	hypothetical protein
+BEEMGMKP_00934	CDS	glpR	Glycerol-3-phosphate regulon repressor
+BEEMGMKP_00935	CDS	nagB_1	3.5.99.6	Glucosamine-6-phosphate deaminase 1
+BEEMGMKP_00936	CDS	hypothetical protein
+BEEMGMKP_00937	CDS	hypothetical protein
+BEEMGMKP_00938	CDS	ypdB_4	Transcriptional regulatory protein YpdB
+BEEMGMKP_00939	CDS	hypothetical protein
+BEEMGMKP_00940	CDS	bglB_1	3.2.1.21	Thermostable beta-glucosidase B
+BEEMGMKP_00941	CDS	bglB_2	3.2.1.21	Thermostable beta-glucosidase B
+BEEMGMKP_00942	CDS	hypothetical protein
+BEEMGMKP_00943	CDS	rny_2	3.1.-.-	Ribonuclease Y
+BEEMGMKP_00944	CDS	hypothetical protein
+BEEMGMKP_00945	CDS	sstT	Serine/threonine transporter SstT
+BEEMGMKP_00946	CDS	hypothetical protein
+BEEMGMKP_00947	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+BEEMGMKP_00948	CDS	nrgA	Ammonium transporter NrgA
+BEEMGMKP_00949	CDS	hypothetical protein
+BEEMGMKP_00950	CDS	hypothetical protein
+BEEMGMKP_00951	CDS	hypothetical protein
+BEEMGMKP_00952	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+BEEMGMKP_00953	CDS	bdhA	1.1.1.30	D-beta-hydroxybutyrate dehydrogenase
+BEEMGMKP_00954	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+BEEMGMKP_00955	tRNA	tRNA-Asn(gtt)
+BEEMGMKP_00956	tRNA	tRNA-Glu(ctc)
+BEEMGMKP_00957	CDS	hypothetical protein
+BEEMGMKP_00958	CDS	hypothetical protein
+BEEMGMKP_00959	CDS	pstS1_2	Phosphate-binding protein PstS 1
+BEEMGMKP_00960	CDS	pstC	Phosphate transport system permease protein PstC
+BEEMGMKP_00961	CDS	pstA1	Phosphate transport system permease protein PstA 1
+BEEMGMKP_00962	CDS	pstB3	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+BEEMGMKP_00963	CDS	phoU	Phosphate-specific transport system accessory protein PhoU 
+BEEMGMKP_00964	CDS	btr_1	HTH-type transcriptional activator Btr
+BEEMGMKP_00965	CDS	hypothetical protein
+BEEMGMKP_00966	CDS	hypothetical protein
+BEEMGMKP_00967	CDS	hypothetical protein
+BEEMGMKP_00968	CDS	adrA_1	2.7.7.65	putative diguanylate cyclase AdrA
+BEEMGMKP_00969	CDS	malQ_1	2.4.1.25	4-alpha-glucanotransferase
+BEEMGMKP_00970	CDS	alaS_2	6.1.1.7	Alanine--tRNA ligase
+BEEMGMKP_00971	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+BEEMGMKP_00972	CDS	hypothetical protein
+BEEMGMKP_00973	CDS	hypothetical protein
+BEEMGMKP_00974	CDS	putative signaling protein
+BEEMGMKP_00975	CDS	ansA	3.5.1.1	L-asparaginase 1
+BEEMGMKP_00976	CDS	trxB_3	1.8.1.9	Thioredoxin reductase
+BEEMGMKP_00977	CDS	Cyclic AMP receptor protein
+BEEMGMKP_00978	CDS	yhdN	1.1.1.-	General stress protein 69
+BEEMGMKP_00979	CDS	prfC	Peptide chain release factor 3
+BEEMGMKP_00980	CDS	rsmH_1	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+BEEMGMKP_00981	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+BEEMGMKP_00982	CDS	pulA	3.2.1.41	Pullulanase
+BEEMGMKP_00983	CDS	cynR	HTH-type transcriptional regulator CynR
+BEEMGMKP_00984	CDS	nagB_2	3.5.99.6	Glucosamine-6-phosphate deaminase 1
+BEEMGMKP_00985	CDS	hypothetical protein
+BEEMGMKP_00986	CDS	tktA	2.2.1.1	Transketolase 1
+BEEMGMKP_00987	CDS	dxs_1	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+BEEMGMKP_00988	CDS	oppA_1	Periplasmic oligopeptide-binding protein
+BEEMGMKP_00989	CDS	oppC_1	Oligopeptide transport system permease protein OppC
+BEEMGMKP_00990	CDS	oppD_1	Oligopeptide transport ATP-binding protein OppD
+BEEMGMKP_00991	CDS	oppF_1	Oligopeptide transport ATP-binding protein OppF
+BEEMGMKP_00992	CDS	hypothetical protein
+BEEMGMKP_00993	CDS	recF_3	DNA replication and repair protein RecF
+BEEMGMKP_00994	CDS	hypothetical protein
+BEEMGMKP_00995	CDS	hypothetical protein
+BEEMGMKP_00996	CDS	hypothetical protein
+BEEMGMKP_00997	CDS	hypothetical protein
+BEEMGMKP_00998	CDS	hypothetical protein
+BEEMGMKP_00999	CDS	hypothetical protein
+BEEMGMKP_01000	CDS	hypothetical protein
+BEEMGMKP_01001	CDS	dnaG_4	2.7.7.-	DNA primase
+BEEMGMKP_01002	CDS	hypothetical protein
+BEEMGMKP_01003	CDS	hypothetical protein
+BEEMGMKP_01004	CDS	xerC_3	Tyrosine recombinase XerC
+BEEMGMKP_01005	tRNA	tRNA-Lys(ttt)
+BEEMGMKP_01006	CDS	hypothetical protein
+BEEMGMKP_01007	CDS	pckA	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+BEEMGMKP_01008	CDS	Thioredoxin C-1
+BEEMGMKP_01009	CDS	gntU	Low-affinity gluconate transporter
+BEEMGMKP_01010	CDS	ilvD_1	4.2.1.9	Dihydroxy-acid dehydratase
+BEEMGMKP_01011	CDS	pdhR	Pyruvate dehydrogenase complex repressor
+BEEMGMKP_01012	CDS	hypothetical protein
+BEEMGMKP_01013	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+BEEMGMKP_01014	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+BEEMGMKP_01015	CDS	ptsI_1	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+BEEMGMKP_01016	CDS	hypothetical protein
+BEEMGMKP_01017	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+BEEMGMKP_01018	CDS	epsJ_4	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_01019	CDS	hypothetical protein
+BEEMGMKP_01020	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+BEEMGMKP_01021	CDS	yeiR	3.6.-.-	Zinc-binding GTPase YeiR
+BEEMGMKP_01022	CDS	hypothetical protein
+BEEMGMKP_01023	CDS	hypothetical protein
+BEEMGMKP_01024	CDS	spoVK	Stage V sporulation protein K
+BEEMGMKP_01025	CDS	hypothetical protein
+BEEMGMKP_01026	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+BEEMGMKP_01027	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+BEEMGMKP_01028	CDS	aroF_1	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+BEEMGMKP_01029	CDS	yqhS	4.2.1.10	3-dehydroquinate dehydratase
+BEEMGMKP_01030	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+BEEMGMKP_01031	CDS	aroC	4.2.3.5	Chorismate synthase
+BEEMGMKP_01032	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+BEEMGMKP_01033	CDS	pheA	P-protein
+BEEMGMKP_01034	CDS	hypothetical protein
+BEEMGMKP_01035	CDS	hypothetical protein
+BEEMGMKP_01036	CDS	plsC_2	2.3.1.51	1-acyl-sn-glycerol-3-phosphate acyltransferase
+BEEMGMKP_01037	CDS	hypothetical protein
+BEEMGMKP_01038	CDS	hypothetical protein
+BEEMGMKP_01039	CDS	cmk_2	2.7.4.25	Cytidylate kinase
+BEEMGMKP_01040	CDS	mepA_6	Multidrug export protein MepA
+BEEMGMKP_01041	CDS	hypothetical protein
+BEEMGMKP_01042	CDS	1.18.1.2	Ferredoxin--NADP reductase
+BEEMGMKP_01043	CDS	ppiA	5.2.1.8	Peptidyl-prolyl cis-trans isomerase A
+BEEMGMKP_01044	CDS	hypothetical protein
+BEEMGMKP_01045	CDS	sphR_2	Alkaline phosphatase synthesis transcriptional regulatory protein SphR
+BEEMGMKP_01046	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+BEEMGMKP_01047	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_01048	CDS	hypothetical protein
+BEEMGMKP_01049	CDS	hypothetical protein
+BEEMGMKP_01050	CDS	hypothetical protein
+BEEMGMKP_01051	CDS	hypothetical protein
+BEEMGMKP_01052	CDS	hypothetical protein
+BEEMGMKP_01053	CDS	mobA_4	Mobilization protein A
+BEEMGMKP_01054	CDS	hypothetical protein
+BEEMGMKP_01055	CDS	hypothetical protein
+BEEMGMKP_01056	CDS	hypothetical protein
+BEEMGMKP_01057	CDS	hypothetical protein
+BEEMGMKP_01058	CDS	hypothetical protein
+BEEMGMKP_01059	CDS	lexA_2	3.4.21.88	LexA repressor
+BEEMGMKP_01060	tRNA	tRNA-Ser(tga)
+BEEMGMKP_01061	tRNA	tRNA-Ser(gct)
+BEEMGMKP_01062	CDS	hypothetical protein
+BEEMGMKP_01063	CDS	gltC	HTH-type transcriptional regulator GltC
+BEEMGMKP_01064	CDS	hypothetical protein
+BEEMGMKP_01065	CDS	hypothetical protein
+BEEMGMKP_01066	CDS	hypothetical protein
+BEEMGMKP_01067	CDS	hypothetical protein
+BEEMGMKP_01068	CDS	hypothetical protein
+BEEMGMKP_01069	tRNA	tRNA-Val(gac)
+BEEMGMKP_01070	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+BEEMGMKP_01071	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+BEEMGMKP_01072	CDS	ruvB_1	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+BEEMGMKP_01073	CDS	rlmK	2.1.1.264	Ribosomal RNA large subunit methyltransferase K
+BEEMGMKP_01074	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+BEEMGMKP_01075	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+BEEMGMKP_01076	CDS	ecfT_1	Energy-coupling factor transporter transmembrane protein EcfT
+BEEMGMKP_01077	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+BEEMGMKP_01078	CDS	hypothetical protein
+BEEMGMKP_01079	CDS	hypothetical protein
+BEEMGMKP_01080	CDS	clpC_1	ATP-dependent Clp protease ATP-binding subunit ClpC
+BEEMGMKP_01081	CDS	hypothetical protein
+BEEMGMKP_01082	CDS	hypothetical protein
+BEEMGMKP_01083	CDS	gltX_2	6.1.1.17	Glutamate--tRNA ligase
+BEEMGMKP_01084	CDS	hypothetical protein
+BEEMGMKP_01085	CDS	hypothetical protein
+BEEMGMKP_01086	CDS	spoIIE	3.1.3.16	Stage II sporulation protein E
+BEEMGMKP_01087	CDS	pemA	3.1.1.11	Pectinesterase A
+BEEMGMKP_01088	CDS	hypothetical protein
+BEEMGMKP_01089	CDS	phoR_3	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+BEEMGMKP_01090	CDS	srrA_1	Transcriptional regulatory protein SrrA
+BEEMGMKP_01091	CDS	lacA	2.3.1.18	Galactoside O-acetyltransferase
+BEEMGMKP_01092	CDS	hypothetical protein
+BEEMGMKP_01093	CDS	hypothetical protein
+BEEMGMKP_01094	CDS	hypothetical protein
+BEEMGMKP_01095	CDS	3.6.3.-	Putative multidrug export ATP-binding/permease protein
+BEEMGMKP_01096	CDS	hypothetical protein
+BEEMGMKP_01097	tRNA	tRNA-Met(cat)
+BEEMGMKP_01098	CDS	hypothetical protein
+BEEMGMKP_01099	CDS	hypothetical protein
+BEEMGMKP_01100	CDS	hypothetical protein
+BEEMGMKP_01101	CDS	hypothetical protein
+BEEMGMKP_01102	CDS	hypothetical protein
+BEEMGMKP_01103	CDS	hypothetical protein
+BEEMGMKP_01104	CDS	hypothetical protein
+BEEMGMKP_01105	CDS	hypothetical protein
+BEEMGMKP_01106	CDS	hypothetical protein
+BEEMGMKP_01107	CDS	hypothetical protein
+BEEMGMKP_01108	CDS	hypothetical protein
+BEEMGMKP_01109	CDS	trmK	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+BEEMGMKP_01110	CDS	GTP cyclohydrolase 1 type 2 
+BEEMGMKP_01111	CDS	hypothetical protein
+BEEMGMKP_01112	CDS	rpsJ	30S ribosomal protein S10
+BEEMGMKP_01113	CDS	rplC	50S ribosomal protein L3
+BEEMGMKP_01114	CDS	rplD	50S ribosomal protein L4
+BEEMGMKP_01115	CDS	rplW	50S ribosomal protein L23
+BEEMGMKP_01116	CDS	rplB	50S ribosomal protein L2
+BEEMGMKP_01117	CDS	rpsS	30S ribosomal protein S19
+BEEMGMKP_01118	CDS	rplV	50S ribosomal protein L22
+BEEMGMKP_01119	CDS	rpsC	30S ribosomal protein S3
+BEEMGMKP_01120	CDS	rplP	50S ribosomal protein L16
+BEEMGMKP_01121	CDS	rpmC	50S ribosomal protein L29
+BEEMGMKP_01122	CDS	rpsQ	30S ribosomal protein S17
+BEEMGMKP_01123	CDS	rplN	50S ribosomal protein L14
+BEEMGMKP_01124	CDS	rplX	50S ribosomal protein L24
+BEEMGMKP_01125	CDS	rplE	50S ribosomal protein L5
+BEEMGMKP_01126	CDS	rpsZ	30S ribosomal protein S14 type Z
+BEEMGMKP_01127	CDS	rpsH	30S ribosomal protein S8
+BEEMGMKP_01128	CDS	rplF	50S ribosomal protein L6
+BEEMGMKP_01129	CDS	rplR	50S ribosomal protein L18
+BEEMGMKP_01130	CDS	rpsE	30S ribosomal protein S5
+BEEMGMKP_01131	CDS	rpmD	50S ribosomal protein L30
+BEEMGMKP_01132	CDS	rplO	50S ribosomal protein L15
+BEEMGMKP_01133	CDS	secY	Protein translocase subunit SecY
+BEEMGMKP_01134	CDS	adk	2.7.4.3	Adenylate kinase
+BEEMGMKP_01135	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+BEEMGMKP_01136	CDS	infA	Translation initiation factor IF-1
+BEEMGMKP_01137	CDS	rpmJ	50S ribosomal protein L36
+BEEMGMKP_01138	CDS	rpsM	30S ribosomal protein S13
+BEEMGMKP_01139	CDS	rpsK	30S ribosomal protein S11
+BEEMGMKP_01140	CDS	rpsD	30S ribosomal protein S4
+BEEMGMKP_01141	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+BEEMGMKP_01142	CDS	rplQ	50S ribosomal protein L17
+BEEMGMKP_01143	CDS	hypothetical protein
+BEEMGMKP_01144	CDS	walR_1	Transcriptional regulatory protein WalR
+BEEMGMKP_01145	CDS	phoR_4	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+BEEMGMKP_01146	CDS	hypothetical protein
+BEEMGMKP_01147	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+BEEMGMKP_01148	CDS	recA	Protein RecA
+BEEMGMKP_01149	CDS	recX	Regulatory protein RecX
+BEEMGMKP_01150	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+BEEMGMKP_01151	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+BEEMGMKP_01152	CDS	tig_3	5.2.1.8	Trigger factor
+BEEMGMKP_01153	CDS	1.1.1.38	NAD-dependent malic enzyme
+BEEMGMKP_01154	CDS	ttdA	4.2.1.32	L(+)-tartrate dehydratase subunit alpha
+BEEMGMKP_01155	CDS	fumA	4.2.1.2	Fumarate hydratase class I, aerobic
+BEEMGMKP_01156	CDS	mntR_1	Transcriptional regulator MntR
+BEEMGMKP_01157	CDS	adrA_2	2.7.7.65	putative diguanylate cyclase AdrA
+BEEMGMKP_01158	CDS	rapA_1	3.6.4.-	RNA polymerase-associated protein RapA
+BEEMGMKP_01159	CDS	hypothetical protein
+BEEMGMKP_01160	CDS	hypothetical protein
+BEEMGMKP_01161	CDS	DegV domain-containing protein
+BEEMGMKP_01162	CDS	hypothetical protein
+BEEMGMKP_01163	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+BEEMGMKP_01164	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BEEMGMKP_01165	CDS	sigA_1	RNA polymerase sigma factor SigA
+BEEMGMKP_01166	CDS	ndoA_3	3.1.27.-	Endoribonuclease EndoA
+BEEMGMKP_01167	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+BEEMGMKP_01168	CDS	hypothetical protein
+BEEMGMKP_01169	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+BEEMGMKP_01170	CDS	cysK1_2	2.5.1.47	O-acetylserine sulfhydrylase
+BEEMGMKP_01171	CDS	cymR_1	HTH-type transcriptional regulator CymR
+BEEMGMKP_01172	CDS	hypothetical protein
+BEEMGMKP_01173	CDS	lrgA	Antiholin-like protein LrgA
+BEEMGMKP_01174	CDS	yohK	Inner membrane protein YohK
+BEEMGMKP_01175	CDS	hypothetical protein
+BEEMGMKP_01176	CDS	rob	Right origin-binding protein
+BEEMGMKP_01177	CDS	malP_1	2.4.1.1	Maltodextrin phosphorylase
+BEEMGMKP_01178	CDS	tatC	Sec-independent protein translocase protein TatC
+BEEMGMKP_01179	CDS	tatAy	Sec-independent protein translocase protein TatAy
+BEEMGMKP_01180	CDS	tatB	Sec-independent protein translocase protein TatB
+BEEMGMKP_01181	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_01182	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_01183	CDS	hypothetical protein
+BEEMGMKP_01184	CDS	dnaK_1	Chaperone protein DnaK
+BEEMGMKP_01185	CDS	hypothetical protein
+BEEMGMKP_01186	CDS	hypothetical protein
+BEEMGMKP_01187	CDS	mscL	Large-conductance mechanosensitive channel
+BEEMGMKP_01188	CDS	phoA	3.1.3.1	Alkaline phosphatase 4
+BEEMGMKP_01189	CDS	3.1.3.-	Putative phosphatase
+BEEMGMKP_01190	CDS	polC_1	2.7.7.7	DNA polymerase III PolC-type
+BEEMGMKP_01191	CDS	hypothetical protein
+BEEMGMKP_01192	CDS	tig_4	5.2.1.8	Trigger factor
+BEEMGMKP_01193	CDS	hypothetical protein
+BEEMGMKP_01194	tRNA	tRNA-Leu(cag)
+BEEMGMKP_01195	CDS	mepA_7	Multidrug export protein MepA
+BEEMGMKP_01196	CDS	hypothetical protein
+BEEMGMKP_01197	CDS	feuB	Iron-uptake system permease protein FeuB
+BEEMGMKP_01198	CDS	feuC	Iron-uptake system permease protein FeuC
+BEEMGMKP_01199	CDS	fhuC	3.6.3.34	Iron(3+)-hydroxamate import ATP-binding protein FhuC
+BEEMGMKP_01200	CDS	yclQ	putative ABC transporter solute-binding protein YclQ
+BEEMGMKP_01201	CDS	hypothetical protein
+BEEMGMKP_01202	CDS	hypothetical protein
+BEEMGMKP_01203	CDS	hypothetical protein
+BEEMGMKP_01204	CDS	iscU	Iron-sulfur cluster assembly scaffold protein IscU
+BEEMGMKP_01205	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+BEEMGMKP_01206	CDS	hypothetical protein
+BEEMGMKP_01207	CDS	pspE	2.8.1.1	Thiosulfate sulfurtransferase PspE
+BEEMGMKP_01208	CDS	cymR_2	HTH-type transcriptional regulator CymR
+BEEMGMKP_01209	tRNA	tRNA-Trp(cca)
+BEEMGMKP_01210	tRNA	tRNA-Asp(gtc)
+BEEMGMKP_01211	tRNA	tRNA-Thr(ggt)
+BEEMGMKP_01212	CDS	adhE	Aldehyde-alcohol dehydrogenase
+BEEMGMKP_01213	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+BEEMGMKP_01214	CDS	pflA	1.97.1.4	Pyruvate formate-lyase-activating enzyme
+BEEMGMKP_01215	CDS	pflB	2.3.1.54	Formate acetyltransferase
+BEEMGMKP_01216	CDS	hypothetical protein
+BEEMGMKP_01217	CDS	hypothetical protein
+BEEMGMKP_01218	CDS	pglH	2.4.1.292	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase
+BEEMGMKP_01219	CDS	hypothetical protein
+BEEMGMKP_01220	CDS	hypothetical protein
+BEEMGMKP_01221	CDS	fadD	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+BEEMGMKP_01222	CDS	acpP_1	Acyl carrier protein
+BEEMGMKP_01223	CDS	hypothetical protein
+BEEMGMKP_01224	CDS	hypothetical protein
+BEEMGMKP_01225	CDS	hypothetical protein
+BEEMGMKP_01226	CDS	hypothetical protein
+BEEMGMKP_01227	CDS	purA_1	6.3.4.4	Adenylosuccinate synthetase
+BEEMGMKP_01228	CDS	Fatty acid-binding protein
+BEEMGMKP_01229	CDS	asnA	6.3.1.1	Aspartate--ammonia ligase
+BEEMGMKP_01230	CDS	livF	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+BEEMGMKP_01231	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+BEEMGMKP_01232	CDS	hypothetical protein
+BEEMGMKP_01233	CDS	livH	High-affinity branched-chain amino acid transport system permease protein LivH
+BEEMGMKP_01234	CDS	Leu/Ile/Val-binding protein 
+BEEMGMKP_01235	CDS	yeeO_3	putative FMN/FAD exporter YeeO
+BEEMGMKP_01236	CDS	eno	4.2.1.11	Enolase
+BEEMGMKP_01237	CDS	hypothetical protein
+BEEMGMKP_01238	CDS	rpfG_1	3.1.4.52	Cyclic di-GMP phosphodiesterase response regulator RpfG
+BEEMGMKP_01239	CDS	tcyA	L-cystine-binding protein TcyA
+BEEMGMKP_01240	CDS	barA_2	2.7.13.3	Signal transduction histidine-protein kinase BarA
+BEEMGMKP_01241	CDS	dpaA	1.3.1.-	Dipicolinate synthase subunit A
+BEEMGMKP_01242	CDS	dpaB	1.3.1.-	Dipicolinate synthase subunit B
+BEEMGMKP_01243	CDS	dacB_1	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacB
+BEEMGMKP_01244	CDS	rfbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+BEEMGMKP_01245	CDS	tagG	Teichoic acid translocation permease protein TagG
+BEEMGMKP_01246	CDS	tagH	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+BEEMGMKP_01247	CDS	kfoC_2	Chondroitin synthase
+BEEMGMKP_01248	CDS	hypothetical protein
+BEEMGMKP_01249	CDS	hypothetical protein
+BEEMGMKP_01250	CDS	hypothetical protein
+BEEMGMKP_01251	CDS	rnfC	Electron transport complex subunit RnfC
+BEEMGMKP_01252	CDS	rsxD_1	Electron transport complex subunit RsxD
+BEEMGMKP_01253	CDS	rnfG	Electron transport complex subunit RnfG
+BEEMGMKP_01254	CDS	rnfE	Electron transport complex subunit RnfE
+BEEMGMKP_01255	CDS	rsxA	Electron transport complex subunit RsxA
+BEEMGMKP_01256	CDS	rsxB_3	Electron transport complex subunit RsxB
+BEEMGMKP_01257	CDS	birA_2	6.3.4.15	Bifunctional ligase/repressor BirA
+BEEMGMKP_01258	CDS	sigW	ECF RNA polymerase sigma factor SigW
+BEEMGMKP_01259	CDS	hypothetical protein
+BEEMGMKP_01260	CDS	hypothetical protein
+BEEMGMKP_01261	CDS	hypothetical protein
+BEEMGMKP_01262	tRNA	tRNA-Thr(ggt)
+BEEMGMKP_01263	CDS	hypothetical protein
+BEEMGMKP_01264	CDS	hypothetical protein
+BEEMGMKP_01265	CDS	folT	Folate transporter FolT
+BEEMGMKP_01266	CDS	fpgS_2	6.3.2.17	Folylpolyglutamate synthase
+BEEMGMKP_01267	CDS	hypothetical protein
+BEEMGMKP_01268	CDS	hypothetical protein
+BEEMGMKP_01269	CDS	bglK_1	2.7.1.85	Beta-glucoside kinase
+BEEMGMKP_01270	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+BEEMGMKP_01271	CDS	hypothetical protein
+BEEMGMKP_01272	CDS	hypothetical protein
+BEEMGMKP_01273	CDS	yqjI	Transcriptional regulator YqjI
+BEEMGMKP_01274	CDS	sigA_2	RNA polymerase sigma factor SigA
+BEEMGMKP_01275	CDS	hypothetical protein
+BEEMGMKP_01276	CDS	dnaG_5	2.7.7.-	DNA primase
+BEEMGMKP_01277	CDS	hypothetical protein
+BEEMGMKP_01278	CDS	hypothetical protein
+BEEMGMKP_01279	CDS	pre_2	Plasmid recombination enzyme
+BEEMGMKP_01280	CDS	hypothetical protein
+BEEMGMKP_01281	CDS	hypothetical protein
+BEEMGMKP_01282	CDS	tnpR_2	Transposon gamma-delta resolvase
+BEEMGMKP_01283	CDS	hypothetical protein
+BEEMGMKP_01284	CDS	hypothetical protein
+BEEMGMKP_01285	CDS	traG	Conjugal transfer protein TraG
+BEEMGMKP_01286	CDS	hypothetical protein
+BEEMGMKP_01287	CDS	hypothetical protein
+BEEMGMKP_01288	CDS	hypothetical protein
+BEEMGMKP_01289	CDS	hypothetical protein
+BEEMGMKP_01290	CDS	iap_2	3.4.-.-	putative endopeptidase p60
+BEEMGMKP_01291	CDS	hypothetical protein
+BEEMGMKP_01292	CDS	hypothetical protein
+BEEMGMKP_01293	CDS	topB_5	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_01294	CDS	hypothetical protein
+BEEMGMKP_01295	CDS	ypdB_5	Transcriptional regulatory protein YpdB
+BEEMGMKP_01296	CDS	hypothetical protein
+BEEMGMKP_01297	CDS	bshA_1	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+BEEMGMKP_01298	CDS	ywiE_2	2.7.8.-	putative cardiolipin synthase YwiE
+BEEMGMKP_01299	CDS	udk_1	2.7.1.48	Uridine kinase
+BEEMGMKP_01300	CDS	atpC_1	ATP synthase epsilon chain
+BEEMGMKP_01301	CDS	atpD_1	3.6.3.15	ATP synthase subunit beta, sodium ion specific
+BEEMGMKP_01302	CDS	atpG_1	ATP synthase gamma chain, sodium ion specific
+BEEMGMKP_01303	CDS	atpA_1	3.6.3.14	ATP synthase subunit alpha
+BEEMGMKP_01304	CDS	atpH	ATP synthase subunit delta, sodium ion specific
+BEEMGMKP_01305	CDS	atpF_1	ATP synthase subunit b, sodium ion specific
+BEEMGMKP_01306	CDS	atpE_1	ATP synthase subunit c, sodium ion specific
+BEEMGMKP_01307	CDS	atpB_1	ATP synthase subunit a
+BEEMGMKP_01308	CDS	hypothetical protein
+BEEMGMKP_01309	CDS	hypothetical protein
+BEEMGMKP_01310	CDS	glgA	2.4.1.21	Glycogen synthase
+BEEMGMKP_01311	CDS	glgD	Glycogen biosynthesis protein GlgD
+BEEMGMKP_01312	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+BEEMGMKP_01313	CDS	glgB_2	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+BEEMGMKP_01314	CDS	hypothetical protein
+BEEMGMKP_01315	CDS	hypothetical protein
+BEEMGMKP_01316	CDS	hypothetical protein
+BEEMGMKP_01317	CDS	hypothetical protein
+BEEMGMKP_01318	CDS	hypothetical protein
+BEEMGMKP_01319	CDS	hypothetical protein
+BEEMGMKP_01320	CDS	hypothetical protein
+BEEMGMKP_01321	CDS	hypothetical protein
+BEEMGMKP_01322	CDS	hypothetical protein
+BEEMGMKP_01323	CDS	yceM	1.-.-.-	Putative oxidoreductase YceM
+BEEMGMKP_01324	CDS	coaX_2	2.7.1.33	Type III pantothenate kinase
+BEEMGMKP_01325	CDS	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC
+BEEMGMKP_01326	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+BEEMGMKP_01327	CDS	hypothetical protein
+BEEMGMKP_01328	CDS	ydfJ	Membrane protein YdfJ
+BEEMGMKP_01329	CDS	bepR	HTH-type transcriptional repressor BepR
+BEEMGMKP_01330	tRNA	tRNA-Val(gac)
+BEEMGMKP_01331	CDS	hypothetical protein
+BEEMGMKP_01332	CDS	hypothetical protein
+BEEMGMKP_01333	CDS	glpK	2.7.1.30	Glycerol kinase
+BEEMGMKP_01334	CDS	gltD_1	1.4.1.13	Glutamate synthase [NADPH] small chain
+BEEMGMKP_01335	CDS	hypothetical protein
+BEEMGMKP_01336	CDS	ackA	2.7.2.1	Acetate kinase
+BEEMGMKP_01337	CDS	hypothetical protein
+BEEMGMKP_01338	CDS	epsJ_5	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_01339	CDS	hypothetical protein
+BEEMGMKP_01340	CDS	epsF	2.4.-.-	Putative glycosyltransferase EpsF
+BEEMGMKP_01341	CDS	epsJ_6	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_01342	CDS	hypothetical protein
+BEEMGMKP_01343	CDS	hypothetical protein
+BEEMGMKP_01344	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+BEEMGMKP_01345	CDS	lepA	3.6.5.-	Elongation factor 4
+BEEMGMKP_01346	CDS	alr1	5.1.1.1	Alanine racemase 1
+BEEMGMKP_01347	CDS	ttcA	tRNA 2-thiocytidine biosynthesis protein TtcA
+BEEMGMKP_01348	CDS	hypothetical protein
+BEEMGMKP_01349	CDS	rplM	50S ribosomal protein L13
+BEEMGMKP_01350	CDS	rpsI	30S ribosomal protein S9
+BEEMGMKP_01351	CDS	soj_5	3.6.-.-	Sporulation initiation inhibitor protein Soj
+BEEMGMKP_01352	CDS	spo0C_5	Chromosome-partitioning protein Spo0J
+BEEMGMKP_01353	CDS	hypothetical protein
+BEEMGMKP_01354	CDS	hypothetical protein
+BEEMGMKP_01355	CDS	hypothetical protein
+BEEMGMKP_01356	CDS	hypothetical protein
+BEEMGMKP_01357	CDS	hypothetical protein
+BEEMGMKP_01358	CDS	hypothetical protein
+BEEMGMKP_01359	CDS	hypothetical protein
+BEEMGMKP_01360	CDS	ltrA_2	Group II intron-encoded protein LtrA
+BEEMGMKP_01361	CDS	hypothetical protein
+BEEMGMKP_01362	CDS	hypothetical protein
+BEEMGMKP_01363	CDS	hypothetical protein
+BEEMGMKP_01364	CDS	hypothetical protein
+BEEMGMKP_01365	CDS	immR_2	HTH-type transcriptional regulator ImmR
+BEEMGMKP_01366	CDS	hypothetical protein
+BEEMGMKP_01367	CDS	hypothetical protein
+BEEMGMKP_01368	CDS	hypothetical protein
+BEEMGMKP_01369	CDS	hypothetical protein
+BEEMGMKP_01370	CDS	mobA_5	Mobilization protein A
+BEEMGMKP_01371	CDS	dnaG_6	2.7.7.-	DNA primase
+BEEMGMKP_01372	CDS	hypothetical protein
+BEEMGMKP_01373	CDS	hypothetical protein
+BEEMGMKP_01374	CDS	hypothetical protein
+BEEMGMKP_01375	CDS	hypothetical protein
+BEEMGMKP_01376	CDS	hypothetical protein
+BEEMGMKP_01377	CDS	hypothetical protein
+BEEMGMKP_01378	CDS	hypothetical protein
+BEEMGMKP_01379	CDS	hypothetical protein
+BEEMGMKP_01380	CDS	hypothetical protein
+BEEMGMKP_01381	CDS	hypothetical protein
+BEEMGMKP_01382	CDS	hypothetical protein
+BEEMGMKP_01383	CDS	hypothetical protein
+BEEMGMKP_01384	CDS	topB_6	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_01385	CDS	hypothetical protein
+BEEMGMKP_01386	CDS	dnaG_7	2.7.7.-	DNA primase
+BEEMGMKP_01387	CDS	hypothetical protein
+BEEMGMKP_01388	CDS	rapA_2	3.6.4.-	RNA polymerase-associated protein RapA
+BEEMGMKP_01389	CDS	hypothetical protein
+BEEMGMKP_01390	CDS	hypothetical protein
+BEEMGMKP_01391	CDS	hypothetical protein
+BEEMGMKP_01392	CDS	hypothetical protein
+BEEMGMKP_01393	CDS	hypothetical protein
+BEEMGMKP_01394	CDS	hypothetical protein
+BEEMGMKP_01395	CDS	hypothetical protein
+BEEMGMKP_01396	CDS	hypothetical protein
+BEEMGMKP_01397	CDS	hypothetical protein
+BEEMGMKP_01398	CDS	ecfT_2	Energy-coupling factor transporter transmembrane protein EcfT
+BEEMGMKP_01399	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+BEEMGMKP_01400	CDS	pchR	Regulatory protein PchR
+BEEMGMKP_01401	CDS	3.6.3.-	Putative multidrug export ATP-binding/permease protein
+BEEMGMKP_01402	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+BEEMGMKP_01403	CDS	mntR_2	Transcriptional regulator MntR
+BEEMGMKP_01404	CDS	hypothetical protein
+BEEMGMKP_01405	CDS	hypothetical protein
+BEEMGMKP_01406	CDS	hypothetical protein
+BEEMGMKP_01407	CDS	Int-Tn_2	Transposase from transposon Tn916
+BEEMGMKP_01408	CDS	intQ	Putative defective protein IntQ
+BEEMGMKP_01409	CDS	clpB1	Chaperone protein ClpB 1
+BEEMGMKP_01410	CDS	tlyC	Hemolysin C
+BEEMGMKP_01411	CDS	kduI	5.3.1.17	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+BEEMGMKP_01412	CDS	kdgK_1	2.7.1.45	2-dehydro-3-deoxygluconokinase
+BEEMGMKP_01413	CDS	eda	Putative KHG/KDPG aldolase
+BEEMGMKP_01414	CDS	3.1.3.-	Putative phosphatase
+BEEMGMKP_01415	CDS	hypothetical protein
+BEEMGMKP_01416	CDS	rspR_3	HTH-type transcriptional repressor RspR
+BEEMGMKP_01417	CDS	hypothetical protein
+BEEMGMKP_01418	CDS	betI	HTH-type transcriptional regulator BetI
+BEEMGMKP_01419	CDS	hypothetical protein
+BEEMGMKP_01420	CDS	dnaJ_1	Chaperone protein DnaJ
+BEEMGMKP_01421	CDS	hypothetical protein
+BEEMGMKP_01422	CDS	hypothetical protein
+BEEMGMKP_01423	CDS	lacZ_1	3.2.1.23	Beta-galactosidase
+BEEMGMKP_01424	CDS	sgcG_1	1.3.99.24	2-amino-4-deoxychorismate dehydrogenase
+BEEMGMKP_01425	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+BEEMGMKP_01426	CDS	hypothetical protein
+BEEMGMKP_01427	CDS	mraZ	Transcriptional regulator MraZ
+BEEMGMKP_01428	CDS	rsmH_2	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+BEEMGMKP_01429	CDS	ftsL_1	Cell division protein FtsL
+BEEMGMKP_01430	CDS	spoVD_1	Stage V sporulation protein D
+BEEMGMKP_01431	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+BEEMGMKP_01432	CDS	mraY_1	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+BEEMGMKP_01433	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+BEEMGMKP_01434	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BEEMGMKP_01435	CDS	ftsQ	Cell division protein FtsQ
+BEEMGMKP_01436	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+BEEMGMKP_01437	CDS	acpP_2	Acyl carrier protein
+BEEMGMKP_01438	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+BEEMGMKP_01439	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+BEEMGMKP_01440	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+BEEMGMKP_01441	CDS	1.13.12.16	Nitronate monooxygenase
+BEEMGMKP_01442	CDS	1.13.12.-	Putative monooxygenase
+BEEMGMKP_01443	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+BEEMGMKP_01444	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BEEMGMKP_01445	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+BEEMGMKP_01446	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+BEEMGMKP_01447	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+BEEMGMKP_01448	CDS	bglH_1	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+BEEMGMKP_01449	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+BEEMGMKP_01450	CDS	hypothetical protein
+BEEMGMKP_01451	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_01452	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_01453	CDS	lacL	3.2.1.23	Beta-galactosidase large subunit
+BEEMGMKP_01454	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+BEEMGMKP_01455	CDS	hypothetical protein
+BEEMGMKP_01456	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+BEEMGMKP_01457	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+BEEMGMKP_01458	CDS	hypothetical protein
+BEEMGMKP_01459	CDS	glmU	Bifunctional protein GlmU
+BEEMGMKP_01460	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+BEEMGMKP_01461	CDS	hypothetical protein
+BEEMGMKP_01462	CDS	hypothetical protein
+BEEMGMKP_01463	CDS	hypothetical protein
+BEEMGMKP_01464	CDS	hypothetical protein
+BEEMGMKP_01465	CDS	tnpR_3	Transposon Tn3 resolvase
+BEEMGMKP_01466	CDS	hypothetical protein
+BEEMGMKP_01467	CDS	hypothetical protein
+BEEMGMKP_01468	CDS	hypothetical protein
+BEEMGMKP_01469	CDS	hypothetical protein
+BEEMGMKP_01470	CDS	hypothetical protein
+BEEMGMKP_01471	CDS	hypothetical protein
+BEEMGMKP_01472	CDS	tnpR_4	Transposon Tn3 resolvase
+BEEMGMKP_01473	CDS	hypothetical protein
+BEEMGMKP_01474	CDS	hypothetical protein
+BEEMGMKP_01475	CDS	hypothetical protein
+BEEMGMKP_01476	CDS	hypothetical protein
+BEEMGMKP_01477	CDS	dnaJ_2	Chaperone protein DnaJ
+BEEMGMKP_01478	CDS	hypothetical protein
+BEEMGMKP_01479	CDS	hypothetical protein
+BEEMGMKP_01480	CDS	hypothetical protein
+BEEMGMKP_01481	CDS	licT_2	Transcription antiterminator LicT
+BEEMGMKP_01482	CDS	sacX	Negative regulator of SacY activity
+BEEMGMKP_01483	CDS	bglH_2	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+BEEMGMKP_01484	CDS	hypothetical protein
+BEEMGMKP_01485	CDS	hypothetical protein
+BEEMGMKP_01486	CDS	hypothetical protein
+BEEMGMKP_01487	CDS	smc_3	Chromosome partition protein Smc
+BEEMGMKP_01488	CDS	hypothetical protein
+BEEMGMKP_01489	CDS	hypothetical protein
+BEEMGMKP_01490	CDS	hypothetical protein
+BEEMGMKP_01491	CDS	hypothetical protein
+BEEMGMKP_01492	CDS	hypothetical protein
+BEEMGMKP_01493	CDS	hypothetical protein
+BEEMGMKP_01494	CDS	hypothetical protein
+BEEMGMKP_01495	CDS	esiB	Secretory immunoglobulin A-binding protein EsiB
+BEEMGMKP_01496	CDS	hypothetical protein
+BEEMGMKP_01497	CDS	yeeF	3.1.-.-	Putative ribonuclease YeeF
+BEEMGMKP_01498	CDS	hypothetical protein
+BEEMGMKP_01499	CDS	cas3	3.1.-.-	CRISPR-associated nuclease/helicase Cas3
+BEEMGMKP_01500	CDS	cse1	CRISPR-associated protein CasA/Cse1
+BEEMGMKP_01501	CDS	hypothetical protein
+BEEMGMKP_01502	CDS	casC	CRISPR system Cascade subunit CasC
+BEEMGMKP_01503	CDS	casD	CRISPR system Cascade subunit CasD
+BEEMGMKP_01504	CDS	cse3	3.1.-.-	CRISPR-associated endoribonuclease Cse3
+BEEMGMKP_01505	CDS	hypothetical protein
+BEEMGMKP_01506	CDS	hypothetical protein
+BEEMGMKP_01507	CDS	metH	2.1.1.13	Methionine synthase
+BEEMGMKP_01508	CDS	hypothetical protein
+BEEMGMKP_01509	tRNA	tRNA-Pro(tgg)
+BEEMGMKP_01510	CDS	hypothetical protein
+BEEMGMKP_01511	CDS	hprA_1	1.1.1.29	Glycerate dehydrogenase
+BEEMGMKP_01512	CDS	hypothetical protein
+BEEMGMKP_01513	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+BEEMGMKP_01514	CDS	hypothetical protein
+BEEMGMKP_01515	CDS	uxaC	5.3.1.12	Uronate isomerase
+BEEMGMKP_01516	CDS	uxaB	1.1.1.58	Altronate oxidoreductase
+BEEMGMKP_01517	CDS	uxaA	4.2.1.7	Altronate dehydratase
+BEEMGMKP_01518	CDS	hypothetical protein
+BEEMGMKP_01519	CDS	hypothetical protein
+BEEMGMKP_01520	CDS	hypothetical protein
+BEEMGMKP_01521	CDS	hypothetical protein
+BEEMGMKP_01522	CDS	cysB	HTH-type transcriptional regulator CysB
+BEEMGMKP_01523	CDS	purA_2	6.3.4.4	Adenylosuccinate synthetase
+BEEMGMKP_01524	CDS	pyrB_1	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+BEEMGMKP_01525	CDS	hypothetical protein
+BEEMGMKP_01526	CDS	rbn	3.1.-.-	Ribonuclease BN
+BEEMGMKP_01527	CDS	cca	2.7.7.72	CCA-adding enzyme
+BEEMGMKP_01528	CDS	mnmA_1	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+BEEMGMKP_01529	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+BEEMGMKP_01530	CDS	hypothetical protein
+BEEMGMKP_01531	CDS	yidA	3.1.3.23	Sugar phosphatase YidA
+BEEMGMKP_01532	CDS	hypothetical protein
+BEEMGMKP_01533	CDS	hypothetical protein
+BEEMGMKP_01534	CDS	TelA-like protein
+BEEMGMKP_01535	CDS	hypothetical protein
+BEEMGMKP_01536	CDS	tdcB	4.3.1.19	L-threonine ammonia-lyase
+BEEMGMKP_01537	CDS	ridA_2	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+BEEMGMKP_01538	CDS	ruvB_2	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+BEEMGMKP_01539	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+BEEMGMKP_01540	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+BEEMGMKP_01541	CDS	ilvC	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+BEEMGMKP_01542	CDS	ilvD_2	4.2.1.9	Dihydroxy-acid dehydratase
+BEEMGMKP_01543	CDS	wcaJ_1	2.7.8.31	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+BEEMGMKP_01544	CDS	hypothetical protein
+BEEMGMKP_01545	CDS	hypothetical protein
+BEEMGMKP_01546	CDS	hypothetical protein
+BEEMGMKP_01547	CDS	hypothetical protein
+BEEMGMKP_01548	CDS	sigA_3	RNA polymerase sigma factor SigA
+BEEMGMKP_01549	CDS	hypothetical protein
+BEEMGMKP_01550	CDS	hypothetical protein
+BEEMGMKP_01551	CDS	hypothetical protein
+BEEMGMKP_01552	CDS	hypothetical protein
+BEEMGMKP_01553	CDS	hypothetical protein
+BEEMGMKP_01554	CDS	hypothetical protein
+BEEMGMKP_01555	CDS	hypothetical protein
+BEEMGMKP_01556	CDS	hypothetical protein
+BEEMGMKP_01557	CDS	hypothetical protein
+BEEMGMKP_01558	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+BEEMGMKP_01559	CDS	ybhL	Inner membrane protein YbhL
+BEEMGMKP_01560	CDS	hexR	HTH-type transcriptional regulator HexR
+BEEMGMKP_01561	CDS	hypothetical protein
+BEEMGMKP_01562	CDS	lacF_3	Lactose transport system permease protein LacF
+BEEMGMKP_01563	CDS	araQ_3	L-arabinose transport system permease protein AraQ
+BEEMGMKP_01564	CDS	nanA	4.1.3.3	N-acetylneuraminate lyase
+BEEMGMKP_01565	CDS	tabA	Toxin-antitoxin biofilm protein TabA
+BEEMGMKP_01566	CDS	nanE	5.1.3.9	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+BEEMGMKP_01567	CDS	bglK_2	2.7.1.85	Beta-glucoside kinase
+BEEMGMKP_01568	CDS	hypothetical protein
+BEEMGMKP_01569	CDS	hypothetical protein
+BEEMGMKP_01570	CDS	hypothetical protein
+BEEMGMKP_01571	CDS	greA	Transcription elongation factor GreA
+BEEMGMKP_01572	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+BEEMGMKP_01573	CDS	yfkJ_1	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+BEEMGMKP_01574	CDS	yedW	putative transcriptional regulatory protein YedW
+BEEMGMKP_01575	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+BEEMGMKP_01576	CDS	ribBA	Riboflavin biosynthesis protein RibBA
+BEEMGMKP_01577	CDS	ribE	2.5.1.9	Riboflavin synthase
+BEEMGMKP_01578	CDS	ribD_1	Riboflavin biosynthesis protein RibD
+BEEMGMKP_01579	CDS	hypothetical protein
+BEEMGMKP_01580	CDS	cdhR	HTH-type transcriptional regulator CdhR
+BEEMGMKP_01581	tRNA	tRNA-Met(cat)
+BEEMGMKP_01582	CDS	1.-.-.-	putative oxidoreductase
+BEEMGMKP_01583	CDS	hypothetical protein
+BEEMGMKP_01584	CDS	sigR	ECF RNA polymerase sigma factor SigR
+BEEMGMKP_01585	CDS	hypothetical protein
+BEEMGMKP_01586	CDS	hypothetical protein
+BEEMGMKP_01587	CDS	bioY	Biotin transporter BioY
+BEEMGMKP_01588	CDS	argF_1	2.1.3.3	Ornithine carbamoyltransferase
+BEEMGMKP_01589	CDS	ribD_2	Riboflavin biosynthesis protein RibD
+BEEMGMKP_01590	CDS	hypothetical protein
+BEEMGMKP_01591	CDS	fusA_2	Elongation factor G
+BEEMGMKP_01592	CDS	asnB	6.3.5.4	Asparagine synthetase B [glutamine-hydrolyzing]
+BEEMGMKP_01593	CDS	perR_1	Peroxide operon regulator
+BEEMGMKP_01594	CDS	rspR_4	HTH-type transcriptional repressor RspR
+BEEMGMKP_01595	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+BEEMGMKP_01596	CDS	hypothetical protein
+BEEMGMKP_01597	CDS	hypothetical protein
+BEEMGMKP_01598	CDS	hypothetical protein
+BEEMGMKP_01599	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+BEEMGMKP_01600	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+BEEMGMKP_01601	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+BEEMGMKP_01602	CDS	hypothetical protein
+BEEMGMKP_01603	CDS	murI	5.1.1.3	Glutamate racemase
+BEEMGMKP_01604	CDS	ddlA	6.3.2.4	D-alanine--D-alanine ligase A
+BEEMGMKP_01605	CDS	rpmG2	50S ribosomal protein L33 2
+BEEMGMKP_01606	CDS	secE	Protein translocase subunit SecE
+BEEMGMKP_01607	CDS	nusG	Transcription termination/antitermination protein NusG
+BEEMGMKP_01608	CDS	rplK	50S ribosomal protein L11
+BEEMGMKP_01609	CDS	rplA	50S ribosomal protein L1
+BEEMGMKP_01610	CDS	rplJ	50S ribosomal protein L10
+BEEMGMKP_01611	CDS	rplL	50S ribosomal protein L7/L12
+BEEMGMKP_01612	CDS	hypothetical protein
+BEEMGMKP_01613	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+BEEMGMKP_01614	CDS	spoVD_2	Stage V sporulation protein D
+BEEMGMKP_01615	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+BEEMGMKP_01616	CDS	murAA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+BEEMGMKP_01617	CDS	ftsZ	Cell division protein FtsZ
+BEEMGMKP_01618	CDS	hypothetical protein
+BEEMGMKP_01619	CDS	rpfG_2	3.1.4.52	Cyclic di-GMP phosphodiesterase response regulator RpfG
+BEEMGMKP_01620	CDS	cysE	2.3.1.30	Serine acetyltransferase
+BEEMGMKP_01621	CDS	hypothetical protein
+BEEMGMKP_01622	CDS	pyrC	3.5.2.3	Dihydroorotase
+BEEMGMKP_01623	CDS	pyrK	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+BEEMGMKP_01624	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+BEEMGMKP_01625	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+BEEMGMKP_01626	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+BEEMGMKP_01627	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+BEEMGMKP_01628	CDS	hup	DNA-binding protein HU
+BEEMGMKP_01629	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+BEEMGMKP_01630	CDS	hmrR_1	HTH-type transcriptional regulator HmrR
+BEEMGMKP_01631	CDS	hypothetical protein
+BEEMGMKP_01632	CDS	hypothetical protein
+BEEMGMKP_01633	CDS	hypothetical protein
+BEEMGMKP_01634	CDS	iap_3	3.4.-.-	putative endopeptidase p60
+BEEMGMKP_01635	CDS	hypothetical protein
+BEEMGMKP_01636	CDS	hypothetical protein
+BEEMGMKP_01637	CDS	hypothetical protein
+BEEMGMKP_01638	CDS	hypothetical protein
+BEEMGMKP_01639	CDS	hypothetical protein
+BEEMGMKP_01640	CDS	hypothetical protein
+BEEMGMKP_01641	CDS	dnaG_8	2.7.7.-	DNA primase
+BEEMGMKP_01642	CDS	mobA_6	Mobilization protein A
+BEEMGMKP_01643	CDS	hypothetical protein
+BEEMGMKP_01644	CDS	ddrOP3	HTH-type transcriptional regulator DdrOP3
+BEEMGMKP_01645	CDS	hypothetical protein
+BEEMGMKP_01646	CDS	hypothetical protein
+BEEMGMKP_01647	CDS	hypothetical protein
+BEEMGMKP_01648	CDS	hypothetical protein
+BEEMGMKP_01649	CDS	hypothetical protein
+BEEMGMKP_01650	CDS	hypothetical protein
+BEEMGMKP_01651	CDS	hypothetical protein
+BEEMGMKP_01652	tRNA	tRNA-Lys(ctt)
+BEEMGMKP_01653	CDS	xerC_4	Tyrosine recombinase XerC
+BEEMGMKP_01654	CDS	dnaI_3	Primosomal protein DnaI
+BEEMGMKP_01655	CDS	hypothetical protein
+BEEMGMKP_01656	CDS	hypothetical protein
+BEEMGMKP_01657	CDS	hypothetical protein
+BEEMGMKP_01658	CDS	gmuF	5.3.1.8	putative mannose-6-phosphate isomerase GmuF
+BEEMGMKP_01659	CDS	pgcA_1	5.4.2.2	Phosphoglucomutase
+BEEMGMKP_01660	CDS	agaSK	Bifunctional alpha-galactosidase/sucrose kinase AgaSK
+BEEMGMKP_01661	CDS	hypothetical protein
+BEEMGMKP_01662	CDS	2.4.1.281	4-O-beta-D-mannosyl-D-glucose phosphorylase
+BEEMGMKP_01663	CDS	5.1.3.11	Cellobiose 2-epimerase
+BEEMGMKP_01664	CDS	2.4.1.319	Beta-1,4-mannooligosaccharide phosphorylase
+BEEMGMKP_01665	CDS	araQ_4	L-arabinose transport system permease protein AraQ
+BEEMGMKP_01666	CDS	araP	L-arabinose transport system permease protein AraP
+BEEMGMKP_01667	CDS	msmE_1	Multiple sugar-binding protein
+BEEMGMKP_01668	CDS	ccpA_1	Catabolite control protein A
+BEEMGMKP_01669	CDS	celE	Cellulase/esterase CelE
+BEEMGMKP_01670	CDS	hypothetical protein
+BEEMGMKP_01671	CDS	axe2	3.1.1.72	Acetylxylan esterase
+BEEMGMKP_01672	CDS	zraR	Transcriptional regulatory protein ZraR
+BEEMGMKP_01673	CDS	hypothetical protein
+BEEMGMKP_01674	CDS	hypothetical protein
+BEEMGMKP_01675	CDS	adh1	1.1.1.192	Long-chain-alcohol dehydrogenase 1
+BEEMGMKP_01676	CDS	dapA_1	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+BEEMGMKP_01677	CDS	pdxA2	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase 2
+BEEMGMKP_01678	CDS	hypothetical protein
+BEEMGMKP_01679	CDS	hypothetical protein
+BEEMGMKP_01680	CDS	yrbG_1	Inner membrane protein YrbG
+BEEMGMKP_01681	CDS	ybbH	putative HTH-type transcriptional regulator YbbH
+BEEMGMKP_01682	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+BEEMGMKP_01683	CDS	PTS system EIIBC component
+BEEMGMKP_01684	CDS	hypothetical protein
+BEEMGMKP_01685	CDS	mepA_8	Multidrug export protein MepA
+BEEMGMKP_01686	CDS	hisK	3.1.3.15	Histidinol-phosphatase
+BEEMGMKP_01687	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+BEEMGMKP_01688	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+BEEMGMKP_01689	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+BEEMGMKP_01690	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+BEEMGMKP_01691	CDS	hisB	Histidine biosynthesis bifunctional protein HisB
+BEEMGMKP_01692	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+BEEMGMKP_01693	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+BEEMGMKP_01694	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+BEEMGMKP_01695	CDS	hypothetical protein
+BEEMGMKP_01696	CDS	hypothetical protein
+BEEMGMKP_01697	CDS	mleN	Malate-2H(+)/Na(+)-lactate antiporter
+BEEMGMKP_01698	CDS	hypothetical protein
+BEEMGMKP_01699	CDS	flK	3.1.2.29	Fluoroacetyl-CoA thioesterase
+BEEMGMKP_01700	CDS	ziaR_2	Transcriptional repressor SmtB 
+BEEMGMKP_01701	CDS	hypothetical protein
+BEEMGMKP_01702	CDS	cadA_2	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+BEEMGMKP_01703	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+BEEMGMKP_01704	CDS	ychF	Ribosome-binding ATPase YchF
+BEEMGMKP_01705	CDS	hypothetical protein
+BEEMGMKP_01706	CDS	hypothetical protein
+BEEMGMKP_01707	CDS	hypothetical protein
+BEEMGMKP_01708	CDS	srrA_2	Transcriptional regulatory protein SrrA
+BEEMGMKP_01709	CDS	phoR_5	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+BEEMGMKP_01710	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+BEEMGMKP_01711	CDS	rsxD_2	Electron transport complex subunit RsxD
+BEEMGMKP_01712	CDS	rsxE	Electron transport complex subunit RsxE
+BEEMGMKP_01713	CDS	nqrE	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit E
+BEEMGMKP_01714	CDS	hypothetical protein
+BEEMGMKP_01715	CDS	hypothetical protein
+BEEMGMKP_01716	CDS	rhlE	3.6.4.13	ATP-dependent RNA helicase RhlE
+BEEMGMKP_01717	CDS	rlmA	2.1.1.187	23S rRNA (guanine(745)-N(1))-methyltransferase
+BEEMGMKP_01718	CDS	hypothetical protein
+BEEMGMKP_01719	CDS	mepA_9	Multidrug export protein MepA
+BEEMGMKP_01720	CDS	alsT_2	Amino-acid carrier protein AlsT
+BEEMGMKP_01721	CDS	hypothetical protein
+BEEMGMKP_01722	CDS	hypothetical protein
+BEEMGMKP_01723	CDS	gabR	HTH-type transcriptional regulatory protein GabR
+BEEMGMKP_01724	CDS	hypothetical protein
+BEEMGMKP_01725	CDS	hypothetical protein
+BEEMGMKP_01726	CDS	spoVT	Stage V sporulation protein T
+BEEMGMKP_01727	CDS	hypothetical protein
+BEEMGMKP_01728	CDS	hypothetical protein
+BEEMGMKP_01729	CDS	hrcA	Heat-inducible transcription repressor HrcA
+BEEMGMKP_01730	CDS	grpE	Protein GrpE
+BEEMGMKP_01731	CDS	dnaK_2	Chaperone protein DnaK
+BEEMGMKP_01732	CDS	dnaJ_3	Chaperone protein DnaJ
+BEEMGMKP_01733	CDS	hypothetical protein
+BEEMGMKP_01734	CDS	hypothetical protein
+BEEMGMKP_01735	CDS	hypothetical protein
+BEEMGMKP_01736	CDS	hypothetical protein
+BEEMGMKP_01737	CDS	hypothetical protein
+BEEMGMKP_01738	CDS	patA_2	2.3.1.-	Peptidoglycan O-acetyltransferase
+BEEMGMKP_01739	CDS	hypothetical protein
+BEEMGMKP_01740	CDS	vanYB_1	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+BEEMGMKP_01741	CDS	hypothetical protein
+BEEMGMKP_01742	CDS	spoVAD	Stage V sporulation protein AD
+BEEMGMKP_01743	CDS	hypothetical protein
+BEEMGMKP_01744	CDS	hypothetical protein
+BEEMGMKP_01745	CDS	rpsT	30S ribosomal protein S20
+BEEMGMKP_01746	CDS	gpr_1	3.4.24.78	Germination protease
+BEEMGMKP_01747	CDS	hypothetical protein
+BEEMGMKP_01748	CDS	hypothetical protein
+BEEMGMKP_01749	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+BEEMGMKP_01750	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+BEEMGMKP_01751	CDS	hypothetical protein
+BEEMGMKP_01752	CDS	hypothetical protein
+BEEMGMKP_01753	CDS	hypothetical protein
+BEEMGMKP_01754	CDS	hypothetical protein
+BEEMGMKP_01755	CDS	hypothetical protein
+BEEMGMKP_01756	CDS	hypothetical protein
+BEEMGMKP_01757	CDS	sigM	ECF RNA polymerase sigma factor SigM
+BEEMGMKP_01758	CDS	ptsI_2	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+BEEMGMKP_01759	CDS	ptsH_2	2.7.11.-	Phosphocarrier protein HPr
+BEEMGMKP_01760	CDS	hypothetical protein
+BEEMGMKP_01761	CDS	acm	3.2.1.17	Lysozyme M1
+BEEMGMKP_01762	CDS	hypothetical protein
+BEEMGMKP_01763	CDS	argG_1	6.3.4.5	Argininosuccinate synthase
+BEEMGMKP_01764	CDS	argH	4.3.2.1	Argininosuccinate lyase
+BEEMGMKP_01765	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+BEEMGMKP_01766	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ
+BEEMGMKP_01767	CDS	argB	2.7.2.8	Acetylglutamate kinase
+BEEMGMKP_01768	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+BEEMGMKP_01769	CDS	argF_2	2.1.3.3	Ornithine carbamoyltransferase
+BEEMGMKP_01770	CDS	hypothetical protein
+BEEMGMKP_01771	CDS	hypothetical protein
+BEEMGMKP_01772	CDS	hypothetical protein
+BEEMGMKP_01773	CDS	hypothetical protein
+BEEMGMKP_01774	CDS	mepA_10	Multidrug export protein MepA
+BEEMGMKP_01775	CDS	hypothetical protein
+BEEMGMKP_01776	CDS	hypothetical protein
+BEEMGMKP_01777	CDS	hypothetical protein
+BEEMGMKP_01778	CDS	ilvK	2.6.1.42	Branched-chain-amino-acid aminotransferase 2
+BEEMGMKP_01779	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+BEEMGMKP_01780	CDS	yfkN_1	Trifunctional nucleotide phosphoesterase protein YfkN
+BEEMGMKP_01781	CDS	glcK	2.7.1.2	Glucokinase
+BEEMGMKP_01782	CDS	4.3.2.3	Ureidoglycolate lyase
+BEEMGMKP_01783	CDS	yraA	3.2.-.-	Putative cysteine protease YraA
+BEEMGMKP_01784	CDS	hypothetical protein
+BEEMGMKP_01785	CDS	hypothetical protein
+BEEMGMKP_01786	CDS	frp	1.5.1.38	NADPH-flavin oxidoreductase
+BEEMGMKP_01787	CDS	xlnA	3.2.1.8	Endo-1,4-beta-xylanase A
+BEEMGMKP_01788	CDS	mutX	3.6.1.55	8-oxo-dGTP diphosphatase
+BEEMGMKP_01789	CDS	nagE	PTS system N-acetylglucosamine-specific EIICBA component
+BEEMGMKP_01790	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+BEEMGMKP_01791	CDS	ptsG	2.7.1.199	PTS system glucose-specific EIICBA component
+BEEMGMKP_01792	CDS	yerB_1	Putative lipoprotein YerB
+BEEMGMKP_01793	CDS	yerB_2	Putative lipoprotein YerB
+BEEMGMKP_01794	CDS	hypothetical protein
+BEEMGMKP_01795	CDS	cobC	3.1.3.73	Adenosylcobalamin/alpha-ribazole phosphatase
+BEEMGMKP_01796	CDS	hypothetical protein
+BEEMGMKP_01797	CDS	immR_3	HTH-type transcriptional regulator ImmR
+BEEMGMKP_01798	CDS	hypothetical protein
+BEEMGMKP_01799	CDS	hypothetical protein
+BEEMGMKP_01800	CDS	hypothetical protein
+BEEMGMKP_01801	tRNA	tRNA-Ser(cga)
+BEEMGMKP_01802	CDS	Putative prophage phiRv2 integrase
+BEEMGMKP_01803	CDS	hypothetical protein
+BEEMGMKP_01804	CDS	mazF_2	3.1.-.-	Endoribonuclease MazF
+BEEMGMKP_01805	CDS	hypothetical protein
+BEEMGMKP_01806	CDS	hypothetical protein
+BEEMGMKP_01807	CDS	hypothetical protein
+BEEMGMKP_01808	CDS	immR_4	HTH-type transcriptional regulator ImmR
+BEEMGMKP_01809	CDS	agrB_2	3.4.-.-	Accessory gene regulator protein B
+BEEMGMKP_01810	CDS	hypothetical protein
+BEEMGMKP_01811	CDS	ypdB_6	Transcriptional regulatory protein YpdB
+BEEMGMKP_01812	CDS	1.8.98.-	Anaerobic sulfatase-maturating enzyme
+BEEMGMKP_01813	CDS	hlyB	Alpha-hemolysin translocation ATP-binding protein HlyB
+BEEMGMKP_01814	CDS	hypothetical protein
+BEEMGMKP_01815	CDS	hypothetical protein
+BEEMGMKP_01816	CDS	hypothetical protein
+BEEMGMKP_01817	CDS	hypothetical protein
+BEEMGMKP_01818	CDS	hypothetical protein
+BEEMGMKP_01819	CDS	hypothetical protein
+BEEMGMKP_01820	CDS	hypothetical protein
+BEEMGMKP_01821	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+BEEMGMKP_01822	CDS	hypothetical protein
+BEEMGMKP_01823	CDS	hypothetical protein
+BEEMGMKP_01824	CDS	hypothetical protein
+BEEMGMKP_01825	CDS	hypothetical protein
+BEEMGMKP_01826	CDS	hypothetical protein
+BEEMGMKP_01827	CDS	hypothetical protein
+BEEMGMKP_01828	CDS	hypothetical protein
+BEEMGMKP_01829	CDS	hypothetical protein
+BEEMGMKP_01830	CDS	topB_7	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_01831	CDS	hypothetical protein
+BEEMGMKP_01832	CDS	topB_8	5.99.1.2	DNA topoisomerase 3
+BEEMGMKP_01833	CDS	hypothetical protein
+BEEMGMKP_01834	CDS	hypothetical protein
+BEEMGMKP_01835	CDS	hypothetical protein
+BEEMGMKP_01836	CDS	fosB	2.5.1.-	Metallothiol transferase FosB
+BEEMGMKP_01837	CDS	hypothetical protein
+BEEMGMKP_01838	CDS	hypothetical protein
+BEEMGMKP_01839	CDS	hypothetical protein
+BEEMGMKP_01840	CDS	hypothetical protein
+BEEMGMKP_01841	CDS	hypothetical protein
+BEEMGMKP_01842	CDS	hypothetical protein
+BEEMGMKP_01843	CDS	hypothetical protein
+BEEMGMKP_01844	CDS	hypothetical protein
+BEEMGMKP_01845	CDS	hypothetical protein
+BEEMGMKP_01846	CDS	hypothetical protein
+BEEMGMKP_01847	CDS	Int-Tn_3	Transposase from transposon Tn916
+BEEMGMKP_01848	CDS	hypothetical protein
+BEEMGMKP_01849	CDS	wcaJ_2	2.7.8.31	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+BEEMGMKP_01850	CDS	hypothetical protein
+BEEMGMKP_01851	CDS	hypothetical protein
+BEEMGMKP_01852	CDS	hypothetical protein
+BEEMGMKP_01853	CDS	wbbD	2.4.1.303	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+BEEMGMKP_01854	CDS	bshA_2	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+BEEMGMKP_01855	CDS	epsG	Transmembrane protein EpsG
+BEEMGMKP_01856	CDS	epsJ_7	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_01857	CDS	maa	2.3.1.79	Maltose O-acetyltransferase
+BEEMGMKP_01858	CDS	hypothetical protein
+BEEMGMKP_01859	CDS	hypothetical protein
+BEEMGMKP_01860	CDS	hypothetical protein
+BEEMGMKP_01861	CDS	hypothetical protein
+BEEMGMKP_01862	CDS	hypothetical protein
+BEEMGMKP_01863	CDS	epsJ_8	2.4.-.-	putative glycosyltransferase EpsJ
+BEEMGMKP_01864	CDS	rsxB_4	Electron transport complex subunit RsxB
+BEEMGMKP_01865	CDS	glmM_2	5.4.2.10	Phosphoglucosamine mutase
+BEEMGMKP_01866	CDS	hypothetical protein
+BEEMGMKP_01867	CDS	hypothetical protein
+BEEMGMKP_01868	CDS	hypothetical protein
+BEEMGMKP_01869	CDS	hypothetical protein
+BEEMGMKP_01870	CDS	hypothetical protein
+BEEMGMKP_01871	CDS	hypothetical protein
+BEEMGMKP_01872	CDS	hypothetical protein
+BEEMGMKP_01873	CDS	hypothetical protein
+BEEMGMKP_01874	CDS	mazF_3	3.1.-.-	Endoribonuclease MazF
+BEEMGMKP_01875	CDS	hypothetical protein
+BEEMGMKP_01876	CDS	hypothetical protein
+BEEMGMKP_01877	CDS	hypothetical protein
+BEEMGMKP_01878	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+BEEMGMKP_01879	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+BEEMGMKP_01880	CDS	hypothetical protein
+BEEMGMKP_01881	CDS	hypothetical protein
+BEEMGMKP_01882	CDS	resE_1	2.7.13.3	Sensor histidine kinase ResE
+BEEMGMKP_01883	CDS	hypothetical protein
+BEEMGMKP_01884	CDS	hypothetical protein
+BEEMGMKP_01885	CDS	ybjI	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+BEEMGMKP_01886	CDS	hypothetical protein
+BEEMGMKP_01887	CDS	hypothetical protein
+BEEMGMKP_01888	CDS	hypothetical protein
+BEEMGMKP_01889	CDS	putative Hsp20 family chaperone
+BEEMGMKP_01890	CDS	gntR	putative D-xylose utilization operon transcriptional repressor
+BEEMGMKP_01891	CDS	ycaM	Inner membrane transporter YcaM
+BEEMGMKP_01892	CDS	apeB	3.4.11.-	putative M18 family aminopeptidase 2
+BEEMGMKP_01893	CDS	hypothetical protein
+BEEMGMKP_01894	CDS	luxQ	2.7.13.3	Autoinducer 2 sensor kinase/phosphatase LuxQ
+BEEMGMKP_01895	CDS	hypothetical protein
+BEEMGMKP_01896	CDS	hypothetical protein
+BEEMGMKP_01897	CDS	mepA_11	Multidrug export protein MepA
+BEEMGMKP_01898	CDS	3.4.11.25	Beta-peptidyl aminopeptidase BapA
+BEEMGMKP_01899	CDS	dacF_3	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacF
+BEEMGMKP_01900	CDS	hypothetical protein
+BEEMGMKP_01901	CDS	hypothetical protein
+BEEMGMKP_01902	CDS	hypothetical protein
+BEEMGMKP_01903	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+BEEMGMKP_01904	CDS	hypothetical protein
+BEEMGMKP_01905	tRNA	tRNA-Cys(gca)
+BEEMGMKP_01906	tRNA	tRNA-Gly(gcc)
+BEEMGMKP_01907	tRNA	tRNA-Asp(gtc)
+BEEMGMKP_01908	tRNA	tRNA-Gly(gcc)
+BEEMGMKP_01909	tRNA	tRNA-Phe(gaa)
+BEEMGMKP_01910	CDS	gyrB_2	5.99.1.3	DNA gyrase subunit B
+BEEMGMKP_01911	CDS	gyrA_2	5.99.1.3	DNA gyrase subunit A
+BEEMGMKP_01912	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+BEEMGMKP_01913	CDS	hisJ	Histidine-binding periplasmic protein
+BEEMGMKP_01914	CDS	rpfC	2.7.13.3	Sensory/regulatory protein RpfC
+BEEMGMKP_01915	CDS	glyQS	6.1.1.14	Glycine--tRNA ligase
+BEEMGMKP_01916	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+BEEMGMKP_01917	CDS	yhjX	putative MFS-type transporter YhjX
+BEEMGMKP_01918	CDS	hypothetical protein
+BEEMGMKP_01919	CDS	hypothetical protein
+BEEMGMKP_01920	CDS	fccA	1.3.5.4	Fumarate reductase flavoprotein subunit
+BEEMGMKP_01921	CDS	hypothetical protein
+BEEMGMKP_01922	CDS	yknX	Putative efflux system component YknX
+BEEMGMKP_01923	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+BEEMGMKP_01924	CDS	macB_3	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+BEEMGMKP_01925	CDS	Surface layer protein
+BEEMGMKP_01926	CDS	purF_1	2.4.2.14	Amidophosphoribosyltransferase
+BEEMGMKP_01927	tRNA	tRNA-Pro(ggg)
+BEEMGMKP_01928	CDS	hypothetical protein
+BEEMGMKP_01929	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+BEEMGMKP_01930	CDS	hypothetical protein
+BEEMGMKP_01931	CDS	patA_3	2.3.1.-	Peptidoglycan O-acetyltransferase
+BEEMGMKP_01932	CDS	algJ	2.3.1.-	putative alginate O-acetylase AlgJ
+BEEMGMKP_01933	CDS	hypothetical protein
+BEEMGMKP_01934	CDS	toxA	3.4.22.-	Toxin A
+BEEMGMKP_01935	CDS	ddpX	3.4.13.22	D-alanyl-D-alanine dipeptidase
+BEEMGMKP_01936	CDS	2.7.1.165	D-glycerate 2-kinase
+BEEMGMKP_01937	CDS	hypothetical protein
+BEEMGMKP_01938	CDS	hypothetical protein
+BEEMGMKP_01939	CDS	lytR_2	Sensory transduction protein LytR
+BEEMGMKP_01940	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+BEEMGMKP_01941	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+BEEMGMKP_01942	CDS	hypothetical protein
+BEEMGMKP_01943	CDS	hprA_2	1.1.1.29	Glycerate dehydrogenase
+BEEMGMKP_01944	CDS	hypothetical protein
+BEEMGMKP_01945	CDS	hypothetical protein
+BEEMGMKP_01946	CDS	cwlM	3.5.1.28	N-acetylmuramoyl-L-alanine amidase CwlM
+BEEMGMKP_01947	CDS	resA	Thiol-disulfide oxidoreductase ResA
+BEEMGMKP_01948	CDS	yccM_2	Putative electron transport protein YccM
+BEEMGMKP_01949	CDS	hypothetical protein
+BEEMGMKP_01950	CDS	tcrA	Transcriptional regulatory protein TcrA
+BEEMGMKP_01951	CDS	arlS	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+BEEMGMKP_01952	CDS	hypothetical protein
+BEEMGMKP_01953	CDS	proS	6.1.1.15	Proline--tRNA ligase
+BEEMGMKP_01954	CDS	acpP_3	Acyl carrier protein
+BEEMGMKP_01955	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+BEEMGMKP_01956	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+BEEMGMKP_01957	CDS	ytrA	HTH-type transcriptional repressor YtrA
+BEEMGMKP_01958	CDS	ytrB	ABC transporter ATP-binding protein YtrB
+BEEMGMKP_01959	CDS	hypothetical protein
+BEEMGMKP_01960	CDS	hypothetical protein
+BEEMGMKP_01961	CDS	hypothetical protein
+BEEMGMKP_01962	CDS	pfp_2	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+BEEMGMKP_01963	CDS	pfp_3	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+BEEMGMKP_01964	CDS	hypothetical protein
+BEEMGMKP_01965	CDS	hypothetical protein
+BEEMGMKP_01966	CDS	hypothetical protein
+BEEMGMKP_01967	CDS	dnaG_9	2.7.7.-	DNA primase
+BEEMGMKP_01968	CDS	hypothetical protein
+BEEMGMKP_01969	CDS	hypothetical protein
+BEEMGMKP_01970	CDS	hypothetical protein
+BEEMGMKP_01971	CDS	hypothetical protein
+BEEMGMKP_01972	CDS	hypothetical protein
+BEEMGMKP_01973	CDS	hypothetical protein
+BEEMGMKP_01974	CDS	dcuS	2.7.13.3	Sensor histidine kinase DcuS
+BEEMGMKP_01975	CDS	hypothetical protein
+BEEMGMKP_01976	CDS	ypdB_7	Transcriptional regulatory protein YpdB
+BEEMGMKP_01977	CDS	speA_1	4.1.1.19	Arginine decarboxylase
+BEEMGMKP_01978	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+BEEMGMKP_01979	CDS	speB	3.5.3.11	Agmatinase
+BEEMGMKP_01980	CDS	1.5.1.43	Carboxynorspermidine synthase
+BEEMGMKP_01981	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+BEEMGMKP_01982	tRNA	tRNA-Ala(ggc)
+BEEMGMKP_01983	CDS	thiT	Thiamine transporter ThiT
+BEEMGMKP_01984	CDS	spoIIID	Stage III sporulation protein D
+BEEMGMKP_01985	CDS	sigG	RNA polymerase sigma-G factor
+BEEMGMKP_01986	CDS	sigE_2	RNA polymerase sigma-35 factor
+BEEMGMKP_01987	CDS	hypothetical protein
+BEEMGMKP_01988	CDS	hypothetical protein
+BEEMGMKP_01989	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+BEEMGMKP_01990	CDS	hypothetical protein
+BEEMGMKP_01991	CDS	lytR_3	Transcriptional regulator LytR
+BEEMGMKP_01992	CDS	rluD_2	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+BEEMGMKP_01993	CDS	nlpD	Murein hydrolase activator NlpD
+BEEMGMKP_01994	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+BEEMGMKP_01995	CDS	cdd	3.5.4.5	Cytidine deaminase
+BEEMGMKP_01996	CDS	tmpC	Membrane lipoprotein TmpC
+BEEMGMKP_01997	CDS	mglA_2	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+BEEMGMKP_01998	CDS	mglC_2	Galactoside transport system permease protein MglC
+BEEMGMKP_01999	CDS	hypothetical protein
+BEEMGMKP_02000	CDS	ywqC	putative capsular polysaccharide biosynthesis protein YwqC
+BEEMGMKP_02001	CDS	yveL	2.7.10.2	Putative tyrosine-protein kinase YveL
+BEEMGMKP_02002	CDS	ywqE	3.1.3.48	Tyrosine-protein phosphatase YwqE
+BEEMGMKP_02003	CDS	hypothetical protein
+BEEMGMKP_02004	CDS	oppB	Oligopeptide transport system permease protein OppB
+BEEMGMKP_02005	CDS	oppC_2	Oligopeptide transport system permease protein OppC
+BEEMGMKP_02006	CDS	oppD_2	Oligopeptide transport ATP-binding protein OppD
+BEEMGMKP_02007	CDS	oppF_2	Oligopeptide transport ATP-binding protein OppF
+BEEMGMKP_02008	CDS	oppA_2	Oligopeptide-binding protein OppA
+BEEMGMKP_02009	CDS	hypothetical protein
+BEEMGMKP_02010	CDS	hypothetical protein
+BEEMGMKP_02011	CDS	nirQ	Denitrification regulatory protein NirQ
+BEEMGMKP_02012	CDS	urdA_2	1.3.99.33	Urocanate reductase
+BEEMGMKP_02013	CDS	cysL	HTH-type transcriptional regulator CysL
+BEEMGMKP_02014	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_02015	CDS	putative ABC transporter ATP-binding protein
+BEEMGMKP_02016	CDS	hypothetical protein
+BEEMGMKP_02017	CDS	hypothetical protein
+BEEMGMKP_02018	CDS	hypothetical protein
+BEEMGMKP_02019	CDS	hypothetical protein
+BEEMGMKP_02020	CDS	hypothetical protein
+BEEMGMKP_02021	CDS	hypothetical protein
+BEEMGMKP_02022	CDS	pbpF	Penicillin-binding protein 1F
+BEEMGMKP_02023	CDS	hypothetical protein
+BEEMGMKP_02024	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+BEEMGMKP_02025	CDS	thrB	2.7.1.39	Homoserine kinase
+BEEMGMKP_02026	CDS	2.7.2.4	Aspartate kinase
+BEEMGMKP_02027	CDS	vanYB_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+BEEMGMKP_02028	CDS	hypothetical protein
+BEEMGMKP_02029	CDS	3.4.24.-	putative zinc protease
+BEEMGMKP_02030	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+BEEMGMKP_02031	CDS	rplU	50S ribosomal protein L21
+BEEMGMKP_02032	CDS	rpmA	50S ribosomal protein L27
+BEEMGMKP_02033	CDS	obg	3.6.5.-	GTPase Obg
+BEEMGMKP_02034	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+BEEMGMKP_02035	CDS	hypothetical protein
+BEEMGMKP_02036	CDS	rsmF	2.1.1.-	Ribosomal RNA small subunit methyltransferase F
+BEEMGMKP_02037	CDS	putative transcriptional regulatory protein
+BEEMGMKP_02038	CDS	relK	3.1.-.-	Toxin RelK
+BEEMGMKP_02039	CDS	relJ	Antitoxin RelJ
+BEEMGMKP_02040	CDS	dsdA	4.3.1.18	D-serine dehydratase
+BEEMGMKP_02041	CDS	hypothetical protein
+BEEMGMKP_02042	CDS	uxuA	4.2.1.8	Mannonate dehydratase
+BEEMGMKP_02043	CDS	por_2	1.1.1.-	Polyol:NADP oxidoreductase
+BEEMGMKP_02044	CDS	hypothetical protein
+BEEMGMKP_02045	CDS	ypdA_2	2.7.13.3	Sensor histidine kinase YpdA
+BEEMGMKP_02046	CDS	putative response regulatory protein
+BEEMGMKP_02047	CDS	Solute-binding protein
+BEEMGMKP_02048	CDS	hypothetical protein
+BEEMGMKP_02049	CDS	Solute-binding protein
+BEEMGMKP_02050	CDS	siaQ_2	Sialic acid TRAP transporter small permease protein SiaQ
+BEEMGMKP_02051	CDS	dctM_2	C4-dicarboxylate TRAP transporter large permease protein DctM
+BEEMGMKP_02052	CDS	prkC_1	2.7.11.1	Serine/threonine-protein kinase PrkC
+BEEMGMKP_02053	CDS	gltB_1	1.4.1.13	Glutamate synthase [NADPH] small chain
+BEEMGMKP_02054	CDS	gltB_2	1.4.7.1	Ferredoxin-dependent glutamate synthase 1
+BEEMGMKP_02055	CDS	hypothetical protein
+BEEMGMKP_02056	CDS	hcp	1.7.99.1	Hydroxylamine reductase
+BEEMGMKP_02057	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+BEEMGMKP_02058	CDS	apbC	Iron-sulfur cluster carrier protein
+BEEMGMKP_02059	CDS	spoVB	Stage V sporulation protein B
+BEEMGMKP_02060	CDS	pglF	4.2.1.135	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+BEEMGMKP_02061	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+BEEMGMKP_02062	CDS	hypothetical protein
+BEEMGMKP_02063	CDS	hflC	Modulator of FtsH protease HflC
+BEEMGMKP_02064	CDS	hypothetical protein
+BEEMGMKP_02065	CDS	apu	Amylopullulanase
+BEEMGMKP_02066	CDS	malP_2	2.4.1.1	Maltodextrin phosphorylase
+BEEMGMKP_02067	CDS	zapA	Cell division protein ZapA
+BEEMGMKP_02068	CDS	ydcP_1	3.4.-.-	putative protease YdcP
+BEEMGMKP_02069	CDS	dut_1	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+BEEMGMKP_02070	CDS	maf	Septum formation protein Maf
+BEEMGMKP_02071	CDS	mreB_1	Rod shape-determining protein MreB
+BEEMGMKP_02072	CDS	mreC	Cell shape-determining protein MreC
+BEEMGMKP_02073	CDS	hypothetical protein
+BEEMGMKP_02074	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+BEEMGMKP_02075	CDS	mgsA_1	4.2.3.3	Methylglyoxal synthase
+BEEMGMKP_02076	CDS	mnmA_2	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+BEEMGMKP_02077	CDS	rnhA	3.1.26.4	Ribonuclease HI
+BEEMGMKP_02078	CDS	rnjA	3.1.-.-	Ribonuclease J1
+BEEMGMKP_02079	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+BEEMGMKP_02080	CDS	glf	5.4.99.9	UDP-galactopyranose mutase
+BEEMGMKP_02081	CDS	rplI	50S ribosomal protein L9
+BEEMGMKP_02082	CDS	dnaC_2	3.6.4.12	Replicative DNA helicase
+BEEMGMKP_02083	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+BEEMGMKP_02084	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+BEEMGMKP_02085	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+BEEMGMKP_02086	CDS	hypothetical protein
+BEEMGMKP_02087	CDS	hypothetical protein
+BEEMGMKP_02088	CDS	ccpA_2	Catabolite control protein A
+BEEMGMKP_02089	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+BEEMGMKP_02090	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+BEEMGMKP_02091	CDS	pyk_1	2.7.1.40	Pyruvate kinase
+BEEMGMKP_02092	CDS	deoB	5.4.2.7	Phosphopentomutase
+BEEMGMKP_02093	CDS	pdp	2.4.2.2	Pyrimidine-nucleoside phosphorylase
+BEEMGMKP_02094	CDS	trkA_3	Trk system potassium uptake protein TrkA
+BEEMGMKP_02095	CDS	trkG	Trk system potassium uptake protein TrkG
+BEEMGMKP_02096	CDS	hypothetical protein
+BEEMGMKP_02097	CDS	hypothetical protein
+BEEMGMKP_02098	CDS	hypothetical protein
+BEEMGMKP_02099	CDS	clpC_2	ATP-dependent Clp protease ATP-binding subunit ClpC
+BEEMGMKP_02100	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+BEEMGMKP_02101	CDS	hypothetical protein
+BEEMGMKP_02102	CDS	aroD_2	4.2.1.10	3-dehydroquinate dehydratase
+BEEMGMKP_02103	CDS	lyc	3.2.1.17	Autolytic lysozyme
+BEEMGMKP_02104	CDS	hypothetical protein
+BEEMGMKP_02105	CDS	hypothetical protein
+BEEMGMKP_02106	CDS	hypothetical protein
+BEEMGMKP_02107	CDS	hypothetical protein
+BEEMGMKP_02108	CDS	hypothetical protein
+BEEMGMKP_02109	CDS	hypothetical protein
+BEEMGMKP_02110	CDS	hypothetical protein
+BEEMGMKP_02111	CDS	hypothetical protein
+BEEMGMKP_02112	CDS	hypothetical protein
+BEEMGMKP_02113	CDS	hypothetical protein
+BEEMGMKP_02114	CDS	hypothetical protein
+BEEMGMKP_02115	CDS	hypothetical protein
+BEEMGMKP_02116	CDS	hypothetical protein
+BEEMGMKP_02117	CDS	hypothetical protein
+BEEMGMKP_02118	CDS	hypothetical protein
+BEEMGMKP_02119	CDS	hypothetical protein
+BEEMGMKP_02120	CDS	hypothetical protein
+BEEMGMKP_02121	CDS	hypothetical protein
+BEEMGMKP_02122	CDS	hypothetical protein
+BEEMGMKP_02123	CDS	hypothetical protein
+BEEMGMKP_02124	CDS	hypothetical protein
+BEEMGMKP_02125	CDS	hypothetical protein
+BEEMGMKP_02126	CDS	smc_4	Chromosome partition protein Smc
+BEEMGMKP_02127	CDS	hypothetical protein
+BEEMGMKP_02128	CDS	xerC_5	Tyrosine recombinase XerC
+BEEMGMKP_02129	CDS	hypothetical protein
+BEEMGMKP_02130	CDS	hypothetical protein
+BEEMGMKP_02131	CDS	hypothetical protein
+BEEMGMKP_02132	CDS	hypothetical protein
+BEEMGMKP_02133	CDS	hypothetical protein
+BEEMGMKP_02134	CDS	hypothetical protein
+BEEMGMKP_02135	CDS	hypothetical protein
+BEEMGMKP_02136	CDS	hypothetical protein
+BEEMGMKP_02137	CDS	hypothetical protein
+BEEMGMKP_02138	CDS	hypothetical protein
+BEEMGMKP_02139	CDS	hypothetical protein
+BEEMGMKP_02140	CDS	hypothetical protein
+BEEMGMKP_02141	CDS	hypothetical protein
+BEEMGMKP_02142	CDS	hypothetical protein
+BEEMGMKP_02143	CDS	hypothetical protein
+BEEMGMKP_02144	CDS	hypothetical protein
+BEEMGMKP_02145	CDS	hypothetical protein
+BEEMGMKP_02146	CDS	hypothetical protein
+BEEMGMKP_02147	tRNA	tRNA-Ser(tga)
+BEEMGMKP_02148	tRNA	tRNA-Thr(cgt)
+BEEMGMKP_02149	tRNA	tRNA-Thr(tgt)
+BEEMGMKP_02150	CDS	hypothetical protein
+BEEMGMKP_02151	CDS	hypothetical protein
+BEEMGMKP_02152	CDS	hypothetical protein
+BEEMGMKP_02153	CDS	PhoH-like protein
+BEEMGMKP_02154	CDS	clpP_1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+BEEMGMKP_02155	CDS	hypothetical protein
+BEEMGMKP_02156	CDS	hypothetical protein
+BEEMGMKP_02157	CDS	hypothetical protein
+BEEMGMKP_02158	CDS	hypothetical protein
+BEEMGMKP_02159	CDS	hypothetical protein
+BEEMGMKP_02160	CDS	hypothetical protein
+BEEMGMKP_02161	CDS	hypothetical protein
+BEEMGMKP_02162	CDS	hypothetical protein
+BEEMGMKP_02163	CDS	hypothetical protein
+BEEMGMKP_02164	CDS	hypothetical protein
+BEEMGMKP_02165	CDS	hypothetical protein
+BEEMGMKP_02166	CDS	hypothetical protein
+BEEMGMKP_02167	CDS	hypothetical protein
+BEEMGMKP_02168	CDS	hypothetical protein
+BEEMGMKP_02169	CDS	hypothetical protein
+BEEMGMKP_02170	CDS	hypothetical protein
+BEEMGMKP_02171	CDS	hypothetical protein
+BEEMGMKP_02172	CDS	hypothetical protein
+BEEMGMKP_02173	CDS	hypothetical protein
+BEEMGMKP_02174	CDS	hypothetical protein
+BEEMGMKP_02175	CDS	hypothetical protein
+BEEMGMKP_02176	CDS	hypothetical protein
+BEEMGMKP_02177	CDS	hypothetical protein
+BEEMGMKP_02178	CDS	hypothetical protein
+BEEMGMKP_02179	CDS	hypothetical protein
+BEEMGMKP_02180	CDS	hypothetical protein
+BEEMGMKP_02181	CDS	hypothetical protein
+BEEMGMKP_02182	CDS	hypothetical protein
+BEEMGMKP_02183	CDS	hypothetical protein
+BEEMGMKP_02184	CDS	hypothetical protein
+BEEMGMKP_02185	CDS	hypothetical protein
+BEEMGMKP_02186	CDS	hypothetical protein
+BEEMGMKP_02187	CDS	hypothetical protein
+BEEMGMKP_02188	CDS	hypothetical protein
+BEEMGMKP_02189	CDS	hypothetical protein
+BEEMGMKP_02190	CDS	hypothetical protein
+BEEMGMKP_02191	CDS	hypothetical protein
+BEEMGMKP_02192	CDS	hypothetical protein
+BEEMGMKP_02193	CDS	hypothetical protein
+BEEMGMKP_02194	CDS	hypothetical protein
+BEEMGMKP_02195	CDS	hypothetical protein
+BEEMGMKP_02196	CDS	hypothetical protein
+BEEMGMKP_02197	CDS	hypothetical protein
+BEEMGMKP_02198	CDS	hypothetical protein
+BEEMGMKP_02199	CDS	hypothetical protein
+BEEMGMKP_02200	CDS	hypothetical protein
+BEEMGMKP_02201	CDS	hypothetical protein
+BEEMGMKP_02202	CDS	hypothetical protein
+BEEMGMKP_02203	CDS	hypothetical protein
+BEEMGMKP_02204	CDS	hypothetical protein
+BEEMGMKP_02205	CDS	hypothetical protein
+BEEMGMKP_02206	CDS	hypothetical protein
+BEEMGMKP_02207	CDS	hypothetical protein
+BEEMGMKP_02208	CDS	hypothetical protein
+BEEMGMKP_02209	CDS	hypothetical protein
+BEEMGMKP_02210	CDS	hypothetical protein
+BEEMGMKP_02211	CDS	hypothetical protein
+BEEMGMKP_02212	CDS	hypothetical protein
+BEEMGMKP_02213	CDS	xerC_6	Tyrosine recombinase XerC
+BEEMGMKP_02214	CDS	hypothetical protein
+BEEMGMKP_02215	CDS	hypothetical protein
+BEEMGMKP_02216	CDS	hypothetical protein
+BEEMGMKP_02217	CDS	hypothetical protein
+BEEMGMKP_02218	CDS	hypothetical protein
+BEEMGMKP_02219	CDS	hypothetical protein
+BEEMGMKP_02220	CDS	hypothetical protein
+BEEMGMKP_02221	CDS	hypothetical protein
+BEEMGMKP_02222	CDS	hypothetical protein
+BEEMGMKP_02223	CDS	hypothetical protein
+BEEMGMKP_02224	CDS	hypothetical protein
+BEEMGMKP_02225	CDS	hypothetical protein
+BEEMGMKP_02226	CDS	hypothetical protein
+BEEMGMKP_02227	CDS	hypothetical protein
+BEEMGMKP_02228	CDS	hypothetical protein
+BEEMGMKP_02229	CDS	hypothetical protein
+BEEMGMKP_02230	CDS	mazF_4	3.1.-.-	Endoribonuclease MazF
+BEEMGMKP_02231	CDS	hypothetical protein
+BEEMGMKP_02232	CDS	pphB	3.1.3.16	Serine/threonine-protein phosphatase 2
+BEEMGMKP_02233	tRNA	tRNA-Leu(caa)
+BEEMGMKP_02234	tRNA	tRNA-Leu(taa)
+BEEMGMKP_02235	tRNA	tRNA-Pro(tgg)
+BEEMGMKP_02236	tRNA	tRNA-Gln(ttg)
+BEEMGMKP_02237	tRNA	tRNA-Leu(tag)
+BEEMGMKP_02238	tRNA	tRNA-Gly(tcc)
+BEEMGMKP_02239	tRNA	tRNA-Gly(tcc)
+BEEMGMKP_02240	tRNA	tRNA-Met(cat)
+BEEMGMKP_02241	CDS	hypothetical protein
+BEEMGMKP_02242	CDS	hypothetical protein
+BEEMGMKP_02243	CDS	hypothetical protein
+BEEMGMKP_02244	CDS	hypothetical protein
+BEEMGMKP_02245	CDS	hypothetical protein
+BEEMGMKP_02246	CDS	hypothetical protein
+BEEMGMKP_02247	CDS	hypothetical protein
+BEEMGMKP_02248	CDS	hypothetical protein
+BEEMGMKP_02249	CDS	dnaG_10	2.7.7.-	DNA primase
+BEEMGMKP_02250	CDS	yorK	3.1.-.-	Putative SPBc2 prophage-derived single-strand DNA-specific exonuclease YorK
+BEEMGMKP_02251	CDS	hypothetical protein
+BEEMGMKP_02252	CDS	hypothetical protein
+BEEMGMKP_02253	CDS	hypothetical protein
+BEEMGMKP_02254	CDS	dnaE_1	2.7.7.7	DNA polymerase III subunit alpha
+BEEMGMKP_02255	CDS	recD2_1	3.6.4.12	ATP-dependent RecD-like DNA helicase
+BEEMGMKP_02256	CDS	ligA_1	6.5.1.1	DNA ligase
+BEEMGMKP_02257	CDS	hypothetical protein
+BEEMGMKP_02258	CDS	hypothetical protein
+BEEMGMKP_02259	CDS	hypothetical protein
+BEEMGMKP_02260	CDS	hypothetical protein
+BEEMGMKP_02261	CDS	hypothetical protein
+BEEMGMKP_02262	CDS	hypothetical protein
+BEEMGMKP_02263	CDS	hypothetical protein
+BEEMGMKP_02264	CDS	hypothetical protein
+BEEMGMKP_02265	CDS	hypothetical protein
+BEEMGMKP_02266	CDS	thyX_1	2.1.1.148	Flavin-dependent thymidylate synthase
+BEEMGMKP_02267	CDS	hypothetical protein
+BEEMGMKP_02268	CDS	hypothetical protein
+BEEMGMKP_02269	CDS	hypothetical protein
+BEEMGMKP_02270	CDS	nrdD_2	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+BEEMGMKP_02271	CDS	hypothetical protein
+BEEMGMKP_02272	CDS	hypothetical protein
+BEEMGMKP_02273	CDS	hypothetical protein
+BEEMGMKP_02274	CDS	hypothetical protein
+BEEMGMKP_02275	CDS	hypothetical protein
+BEEMGMKP_02276	CDS	hypothetical protein
+BEEMGMKP_02277	CDS	hypothetical protein
+BEEMGMKP_02278	CDS	hypothetical protein
+BEEMGMKP_02279	CDS	hypothetical protein
+BEEMGMKP_02280	CDS	nrdG_2	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+BEEMGMKP_02281	CDS	dut_2	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+BEEMGMKP_02282	CDS	hypothetical protein
+BEEMGMKP_02283	CDS	hypothetical protein
+BEEMGMKP_02284	CDS	hypothetical protein
+BEEMGMKP_02285	CDS	hypothetical protein
+BEEMGMKP_02286	CDS	hypothetical protein
+BEEMGMKP_02287	CDS	hypothetical protein
+BEEMGMKP_02288	CDS	hypothetical protein
+BEEMGMKP_02289	CDS	hypothetical protein
+BEEMGMKP_02290	CDS	hypothetical protein
+BEEMGMKP_02291	CDS	hypothetical protein
+BEEMGMKP_02292	CDS	folD_1	Bifunctional protein FolD protein
+BEEMGMKP_02293	CDS	hypothetical protein
+BEEMGMKP_02294	CDS	Int-Tn_4	Transposase from transposon Tn916
+BEEMGMKP_02295	CDS	groS	10 kDa chaperonin
+BEEMGMKP_02296	CDS	groL	60 kDa chaperonin
+BEEMGMKP_02297	CDS	hypothetical protein
+BEEMGMKP_02298	CDS	hypothetical protein
+BEEMGMKP_02299	CDS	hypothetical protein
+BEEMGMKP_02300	CDS	immR_5	HTH-type transcriptional regulator ImmR
+BEEMGMKP_02301	CDS	hypothetical protein
+BEEMGMKP_02302	CDS	hypothetical protein
+BEEMGMKP_02303	CDS	hypothetical protein
+BEEMGMKP_02304	CDS	hypothetical protein
+BEEMGMKP_02305	CDS	hypothetical protein
+BEEMGMKP_02306	CDS	hypothetical protein
+BEEMGMKP_02307	CDS	hypothetical protein
+BEEMGMKP_02308	CDS	hypothetical protein
+BEEMGMKP_02309	CDS	Int-Tn_5	Transposase from transposon Tn916
+BEEMGMKP_02310	CDS	pbpB	Penicillin-binding protein PbpB
+BEEMGMKP_02311	CDS	hypothetical protein
+BEEMGMKP_02312	CDS	rnr_1	3.1.13.1	Ribonuclease R
+BEEMGMKP_02313	CDS	rnr_2	3.1.13.1	Ribonuclease R
+BEEMGMKP_02314	CDS	hypothetical protein
+BEEMGMKP_02315	CDS	hypothetical protein
+BEEMGMKP_02316	CDS	lacZ_2	3.2.1.23	Beta-galactosidase
+BEEMGMKP_02317	CDS	melB_1	Melibiose carrier protein
+BEEMGMKP_02318	CDS	hypothetical protein
+BEEMGMKP_02319	CDS	galA	3.2.1.22	Alpha-galactosidase
+BEEMGMKP_02320	CDS	pinR_2	3.1.22.-	Serine recombinase PinR
+BEEMGMKP_02321	CDS	hypothetical protein
+BEEMGMKP_02322	CDS	pre_3	Plasmid recombination enzyme
+BEEMGMKP_02323	CDS	hypothetical protein
+BEEMGMKP_02324	CDS	dnaG_11	2.7.7.-	DNA primase
+BEEMGMKP_02325	CDS	hypothetical protein
+BEEMGMKP_02326	CDS	hypothetical protein
+BEEMGMKP_02327	CDS	sigE_3	RNA polymerase sigma-E factor
+BEEMGMKP_02328	CDS	graR	Response regulator protein GraR
+BEEMGMKP_02329	CDS	graS	2.7.13.3	Sensor histidine kinase GraS
+BEEMGMKP_02330	CDS	bceA	Bacitracin export ATP-binding protein BceA
+BEEMGMKP_02331	CDS	bceB	Bacitracin export permease protein BceB
+BEEMGMKP_02332	CDS	hypothetical protein
+BEEMGMKP_02333	CDS	hypothetical protein
+BEEMGMKP_02334	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+BEEMGMKP_02335	CDS	araC_1	Arabinose operon regulatory protein
+BEEMGMKP_02336	CDS	galK_1	2.7.1.6	Galactokinase
+BEEMGMKP_02337	CDS	hypothetical protein
+BEEMGMKP_02338	CDS	hypothetical protein
+BEEMGMKP_02339	CDS	malQ_2	2.4.1.25	4-alpha-glucanotransferase
+BEEMGMKP_02340	CDS	araQ_5	L-arabinose transport system permease protein AraQ
+BEEMGMKP_02341	CDS	ugpA	sn-glycerol-3-phosphate transport system permease protein UgpA
+BEEMGMKP_02342	CDS	hypothetical protein
+BEEMGMKP_02343	CDS	ccpA_3	Catabolite control protein A
+BEEMGMKP_02344	CDS	hypothetical protein
+BEEMGMKP_02345	CDS	rpsR	30S ribosomal protein S18
+BEEMGMKP_02346	CDS	ssbA	Single-stranded DNA-binding protein A
+BEEMGMKP_02347	CDS	rpsF	30S ribosomal protein S6
+BEEMGMKP_02348	CDS	gerN	Na(+)/H(+)-K(+) antiporter GerN
+BEEMGMKP_02349	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+BEEMGMKP_02350	CDS	hypothetical protein
+BEEMGMKP_02351	CDS	prfB	Peptide chain release factor 2
+BEEMGMKP_02352	CDS	spoIVB	3.4.21.116	SpoIVB peptidase
+BEEMGMKP_02353	CDS	spo0A	Stage 0 sporulation protein A
+BEEMGMKP_02354	CDS	hypothetical protein
+BEEMGMKP_02355	CDS	hypothetical protein
+BEEMGMKP_02356	CDS	hypothetical protein
+BEEMGMKP_02357	CDS	pyrH	2.7.4.22	Uridylate kinase
+BEEMGMKP_02358	CDS	frr	Ribosome-recycling factor
+BEEMGMKP_02359	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+BEEMGMKP_02360	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+BEEMGMKP_02361	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+BEEMGMKP_02362	CDS	rasP	3.4.24.-	Regulator of sigma-W protease RasP
+BEEMGMKP_02363	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+BEEMGMKP_02364	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+BEEMGMKP_02365	CDS	hypothetical protein
+BEEMGMKP_02366	CDS	hypothetical protein
+BEEMGMKP_02367	CDS	hypothetical protein
+BEEMGMKP_02368	CDS	gltD_2	1.4.1.13	Glutamate synthase [NADPH] small chain
+BEEMGMKP_02369	CDS	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+BEEMGMKP_02370	tRNA	tRNA-Gly(gcc)
+BEEMGMKP_02371	tRNA	tRNA-Val(tac)
+BEEMGMKP_02372	tRNA	tRNA-Asp(gtc)
+BEEMGMKP_02373	tRNA	tRNA-Phe(gaa)
+BEEMGMKP_02374	tRNA	tRNA-Gly(gcc)
+BEEMGMKP_02375	CDS	hypothetical protein
+BEEMGMKP_02376	CDS	hypothetical protein
+BEEMGMKP_02377	CDS	recD2_2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+BEEMGMKP_02378	CDS	mreB_2	Rod shape-determining protein MreB
+BEEMGMKP_02379	CDS	hypothetical protein
+BEEMGMKP_02380	CDS	gcdB_1	4.1.1.70	Glutaconyl-CoA decarboxylase subunit beta
+BEEMGMKP_02381	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+BEEMGMKP_02382	CDS	cstA_2	Carbon starvation protein A
+BEEMGMKP_02383	CDS	hypothetical protein
+BEEMGMKP_02384	CDS	hypothetical protein
+BEEMGMKP_02385	CDS	3.1.3.5	5'-nucleotidase
+BEEMGMKP_02386	CDS	hypothetical protein
+BEEMGMKP_02387	CDS	hypothetical protein
+BEEMGMKP_02388	CDS	yfnB	3.-.-.-	Putative HAD-hydrolase YfnB
+BEEMGMKP_02389	CDS	yheS	putative ABC transporter ATP-binding protein YheS
+BEEMGMKP_02390	CDS	hypothetical protein
+BEEMGMKP_02391	CDS	lon1	3.4.21.53	Lon protease 1
+BEEMGMKP_02392	CDS	engB_2	putative GTP-binding protein EngB
+BEEMGMKP_02393	CDS	2.1.1.-	putative methyltransferase
+BEEMGMKP_02394	CDS	hslO	33 kDa chaperonin
+BEEMGMKP_02395	CDS	hypothetical protein
+BEEMGMKP_02396	CDS	hypothetical protein
+BEEMGMKP_02397	CDS	ylbJ	Sporulation integral membrane protein YlbJ
+BEEMGMKP_02398	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+BEEMGMKP_02399	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+BEEMGMKP_02400	tRNA	tRNA-Glu(ctc)
+BEEMGMKP_02401	tRNA	tRNA-Lys(ctt)
+BEEMGMKP_02402	CDS	hypothetical protein
+BEEMGMKP_02403	CDS	hypothetical protein
+BEEMGMKP_02404	CDS	hypothetical protein
+BEEMGMKP_02405	CDS	hypothetical protein
+BEEMGMKP_02406	CDS	hypothetical protein
+BEEMGMKP_02407	CDS	hypothetical protein
+BEEMGMKP_02408	CDS	hypothetical protein
+BEEMGMKP_02409	CDS	hypothetical protein
+BEEMGMKP_02410	CDS	hypothetical protein
+BEEMGMKP_02411	CDS	hypothetical protein
+BEEMGMKP_02412	CDS	hypothetical protein
+BEEMGMKP_02413	CDS	hypothetical protein
+BEEMGMKP_02414	CDS	hypothetical protein
+BEEMGMKP_02415	CDS	hypothetical protein
+BEEMGMKP_02416	CDS	hypothetical protein
+BEEMGMKP_02417	CDS	cas6	3.1.-.-	CRISPR-associated endoribonuclease Cas6
+BEEMGMKP_02418	CDS	hypothetical protein
+BEEMGMKP_02419	CDS	csm4	CRISPR type III-associated RAMP protein Csm4
+BEEMGMKP_02420	CDS	csm3	CRISPR type III-associated RAMP protein Csm3
+BEEMGMKP_02421	CDS	csm2	CRISPR type III-associated protein Csm2
+BEEMGMKP_02422	CDS	CRISPR-associated protein Cas10/Csm1
+BEEMGMKP_02423	CDS	hypothetical protein
+BEEMGMKP_02424	CDS	hypothetical protein
+BEEMGMKP_02425	CDS	hypothetical protein
+BEEMGMKP_02426	CDS	hypothetical protein
+BEEMGMKP_02427	CDS	hypothetical protein
+BEEMGMKP_02428	CDS	xerC_7	Tyrosine recombinase XerC
+BEEMGMKP_02429	CDS	hypothetical protein
+BEEMGMKP_02430	CDS	dnaG_12	2.7.7.-	DNA primase
+BEEMGMKP_02431	CDS	hypothetical protein
+BEEMGMKP_02432	CDS	hypothetical protein
+BEEMGMKP_02433	CDS	hypothetical protein
+BEEMGMKP_02434	CDS	hypothetical protein
+BEEMGMKP_02435	CDS	btr_2	HTH-type transcriptional activator Btr
+BEEMGMKP_02436	CDS	bglF	PTS system beta-glucoside-specific EIIBCA component
+BEEMGMKP_02437	CDS	bglH_3	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+BEEMGMKP_02438	CDS	hypothetical protein
+BEEMGMKP_02439	CDS	argG_2	6.3.4.5	Argininosuccinate synthase
+BEEMGMKP_02440	CDS	hypothetical protein
+BEEMGMKP_02441	CDS	yjjP	Inner membrane protein YjjP
+BEEMGMKP_02442	CDS	hypothetical protein
+BEEMGMKP_02443	CDS	hypothetical protein
+BEEMGMKP_02444	CDS	hypothetical protein
+BEEMGMKP_02445	CDS	hypothetical protein
+BEEMGMKP_02446	CDS	btr_3	HTH-type transcriptional activator Btr
+BEEMGMKP_02447	CDS	ypdA_3	2.7.13.3	Sensor histidine kinase YpdA
+BEEMGMKP_02448	CDS	ugpB	sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+BEEMGMKP_02449	CDS	lacF_4	Lactose transport system permease protein LacF
+BEEMGMKP_02450	CDS	araQ_6	L-arabinose transport system permease protein AraQ
+BEEMGMKP_02451	CDS	uidA_1	3.2.1.31	Beta-glucuronidase
+BEEMGMKP_02452	CDS	ugl	3.2.1.180	Unsaturated chondroitin disaccharide hydrolase
+BEEMGMKP_02453	CDS	hypothetical protein
+BEEMGMKP_02454	CDS	lacZ_3	3.2.1.23	Beta-galactosidase
+BEEMGMKP_02455	CDS	hypothetical protein
+BEEMGMKP_02456	CDS	araC_2	Arabinose operon regulatory protein
+BEEMGMKP_02457	CDS	dctP_2	Solute-binding protein
+BEEMGMKP_02458	CDS	siaQ_3	Sialic acid TRAP transporter small permease protein SiaQ
+BEEMGMKP_02459	CDS	dctM_3	C4-dicarboxylate TRAP transporter large permease protein DctM
+BEEMGMKP_02460	CDS	pehA	3.2.1.15	Endo-polygalacturonase
+BEEMGMKP_02461	CDS	hypothetical protein
+BEEMGMKP_02462	CDS	hypothetical protein
+BEEMGMKP_02463	CDS	iolE	4.2.1.44	Inosose dehydratase
+BEEMGMKP_02464	CDS	hypothetical protein
+BEEMGMKP_02465	CDS	uidA_2	3.2.1.31	Beta-glucuronidase
+BEEMGMKP_02466	CDS	melB_2	Melibiose carrier protein
+BEEMGMKP_02467	CDS	gghA	3.2.1.74	1,4-beta-D-glucan glucohydrolase
+BEEMGMKP_02468	CDS	hypothetical protein
+BEEMGMKP_02469	CDS	btr_4	HTH-type transcriptional activator Btr
+BEEMGMKP_02470	CDS	rhaD	4.1.2.19	Rhamnulose-1-phosphate aldolase
+BEEMGMKP_02471	CDS	rhaA	5.3.1.14	L-rhamnose isomerase
+BEEMGMKP_02472	CDS	rhaB	2.7.1.5	L-Rhamnulokinase
+BEEMGMKP_02473	CDS	araC_3	Arabinose operon regulatory protein
+BEEMGMKP_02474	CDS	hypothetical protein
+BEEMGMKP_02475	CDS	yfkJ_2	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+BEEMGMKP_02476	CDS	hypothetical protein
+BEEMGMKP_02477	CDS	hypothetical protein
+BEEMGMKP_02478	CDS	hypothetical protein
+BEEMGMKP_02479	CDS	hypothetical protein
+BEEMGMKP_02480	tRNA	tRNA-Thr(tgt)
+BEEMGMKP_02481	CDS	fucO	1.1.1.77	Lactaldehyde reductase
+BEEMGMKP_02482	CDS	hypothetical protein
+BEEMGMKP_02483	CDS	yrbG_2	Inner membrane protein YrbG
+BEEMGMKP_02484	CDS	1.-.-.-	NADH oxidase
+BEEMGMKP_02485	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+BEEMGMKP_02486	CDS	yjmB	putative symporter YjmB
+BEEMGMKP_02487	CDS	btr_5	HTH-type transcriptional activator Btr
+BEEMGMKP_02488	CDS	hypothetical protein
+BEEMGMKP_02489	CDS	hypothetical protein
+BEEMGMKP_02490	CDS	gcdB_2	4.1.1.70	Glutaconyl-CoA decarboxylase subunit beta
+BEEMGMKP_02491	CDS	psuK	2.7.1.83	Pseudouridine kinase
+BEEMGMKP_02492	CDS	pyk_2	2.7.1.40	Pyruvate kinase
+BEEMGMKP_02493	CDS	yfcE_2	3.1.4.-	Phosphodiesterase YfcE
+BEEMGMKP_02494	CDS	mepA_12	Multidrug export protein MepA
+BEEMGMKP_02495	CDS	alsT_3	Amino-acid carrier protein AlsT
+BEEMGMKP_02496	CDS	3.4.11.-	Aminopeptidase 2
+BEEMGMKP_02497	CDS	rimP	Ribosome maturation factor RimP
+BEEMGMKP_02498	CDS	nusA	Transcription termination/antitermination protein NusA
+BEEMGMKP_02499	CDS	hypothetical protein
+BEEMGMKP_02500	CDS	hypothetical protein
+BEEMGMKP_02501	CDS	infB	Translation initiation factor IF-2
+BEEMGMKP_02502	CDS	rbfA	Ribosome-binding factor A
+BEEMGMKP_02503	CDS	nrnA	3.1.-.-	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+BEEMGMKP_02504	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+BEEMGMKP_02505	CDS	ribF	Riboflavin biosynthesis protein RibF
+BEEMGMKP_02506	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+BEEMGMKP_02507	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+BEEMGMKP_02508	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BEEMGMKP_02509	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+BEEMGMKP_02510	CDS	hypothetical protein
+BEEMGMKP_02511	CDS	aroF_2	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+BEEMGMKP_02512	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+BEEMGMKP_02513	CDS	hypothetical protein
+BEEMGMKP_02514	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+BEEMGMKP_02515	CDS	purF_2	2.4.2.14	Amidophosphoribosyltransferase
+BEEMGMKP_02516	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+BEEMGMKP_02517	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+BEEMGMKP_02518	CDS	hypothetical protein
+BEEMGMKP_02519	CDS	purH	Bifunctional purine biosynthesis protein PurH
+BEEMGMKP_02520	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+BEEMGMKP_02521	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase
+BEEMGMKP_02522	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+BEEMGMKP_02523	CDS	rsuA	5.4.99.19	Ribosomal small subunit pseudouridine synthase A
+BEEMGMKP_02524	CDS	cdaR	Carbohydrate diacid regulator
+BEEMGMKP_02525	CDS	ftsE_2	Cell division ATP-binding protein FtsE
+BEEMGMKP_02526	CDS	ftsX	Cell division protein FtsX
+BEEMGMKP_02527	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+BEEMGMKP_02528	CDS	hypothetical protein
+BEEMGMKP_02529	CDS	3.4.21.-	putative CtpA-like serine protease
+BEEMGMKP_02530	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+BEEMGMKP_02531	CDS	hypothetical protein
+BEEMGMKP_02532	CDS	hypothetical protein
+BEEMGMKP_02533	CDS	lytB	Amidase enhancer
+BEEMGMKP_02534	CDS	citZ	2.3.3.16	Citrate synthase 2
+BEEMGMKP_02535	CDS	hypothetical protein
+BEEMGMKP_02536	CDS	gap	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+BEEMGMKP_02537	CDS	glmM_3	5.4.2.10	Phosphoglucosamine mutase
+BEEMGMKP_02538	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+BEEMGMKP_02539	CDS	hypothetical protein
+BEEMGMKP_02540	CDS	dtd3	3.1.1.96	D-aminoacyl-tRNA deacylase
+BEEMGMKP_02541	CDS	hypothetical protein
+BEEMGMKP_02542	CDS	hypothetical protein
+BEEMGMKP_02543	CDS	hypothetical protein
+BEEMGMKP_02544	CDS	hypothetical protein
+BEEMGMKP_02545	CDS	hypothetical protein
+BEEMGMKP_02546	CDS	hypothetical protein
+BEEMGMKP_02547	CDS	hypothetical protein
+BEEMGMKP_02548	CDS	atpB_2	ATP synthase subunit a
+BEEMGMKP_02549	CDS	atpE_2	ATP synthase subunit c
+BEEMGMKP_02550	CDS	atpF_2	ATP synthase subunit b, sodium ion specific
+BEEMGMKP_02551	CDS	atpA_2	3.6.3.14	ATP synthase subunit alpha
+BEEMGMKP_02552	CDS	atpG_2	ATP synthase gamma chain, sodium ion specific
+BEEMGMKP_02553	CDS	atpD_2	3.6.3.14	ATP synthase subunit beta
+BEEMGMKP_02554	CDS	atpC_2	ATP synthase epsilon chain
+BEEMGMKP_02555	CDS	hypothetical protein
+BEEMGMKP_02556	CDS	hypothetical protein
+BEEMGMKP_02557	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+BEEMGMKP_02558	CDS	walR_2	Transcriptional regulatory protein WalR
+BEEMGMKP_02559	CDS	resE_2	2.7.13.3	Sensor histidine kinase ResE
+BEEMGMKP_02560	CDS	rluC	5.4.99.24	Ribosomal large subunit pseudouridine synthase C
+BEEMGMKP_02561	CDS	hypothetical protein
+BEEMGMKP_02562	CDS	uvrB	UvrABC system protein B
+BEEMGMKP_02563	CDS	uvrA	UvrABC system protein A
+BEEMGMKP_02564	tRNA	tRNA-Pro(ggg)
+BEEMGMKP_02565	CDS	hypothetical protein
+BEEMGMKP_02566	CDS	hypothetical protein
+BEEMGMKP_02567	CDS	hypothetical protein
+BEEMGMKP_02568	CDS	hypothetical protein
+BEEMGMKP_02569	CDS	hypothetical protein
+BEEMGMKP_02570	CDS	hypothetical protein
+BEEMGMKP_02571	CDS	hypothetical protein
+BEEMGMKP_02572	CDS	hypothetical protein
+BEEMGMKP_02573	CDS	hypothetical protein
+BEEMGMKP_02574	CDS	hypothetical protein
+BEEMGMKP_02575	CDS	hypothetical protein
+BEEMGMKP_02576	CDS	hypothetical protein
+BEEMGMKP_02577	CDS	hypothetical protein
+BEEMGMKP_02578	CDS	hypothetical protein
+BEEMGMKP_02579	CDS	hypothetical protein
+BEEMGMKP_02580	CDS	hypothetical protein
+BEEMGMKP_02581	CDS	yocH	Cell wall-binding protein YocH
+BEEMGMKP_02582	CDS	hypothetical protein
+BEEMGMKP_02583	CDS	hypothetical protein
+BEEMGMKP_02584	CDS	hypothetical protein
+BEEMGMKP_02585	CDS	hypothetical protein
+BEEMGMKP_02586	CDS	hypothetical protein
+BEEMGMKP_02587	CDS	hypothetical protein
+BEEMGMKP_02588	CDS	hypothetical protein
+BEEMGMKP_02589	CDS	hypothetical protein
+BEEMGMKP_02590	CDS	hypothetical protein
+BEEMGMKP_02591	CDS	hypothetical protein
+BEEMGMKP_02592	CDS	hypothetical protein
+BEEMGMKP_02593	CDS	hypothetical protein
+BEEMGMKP_02594	CDS	hypothetical protein
+BEEMGMKP_02595	CDS	hypothetical protein
+BEEMGMKP_02596	CDS	hypothetical protein
+BEEMGMKP_02597	CDS	hypothetical protein
+BEEMGMKP_02598	CDS	hypothetical protein
+BEEMGMKP_02599	CDS	hypothetical protein
+BEEMGMKP_02600	CDS	hypothetical protein
+BEEMGMKP_02601	CDS	hypothetical protein
+BEEMGMKP_02602	CDS	hypothetical protein
+BEEMGMKP_02603	CDS	hypothetical protein
+BEEMGMKP_02604	CDS	hypothetical protein
+BEEMGMKP_02605	CDS	hypothetical protein
+BEEMGMKP_02606	CDS	hypothetical protein
+BEEMGMKP_02607	CDS	hypothetical protein
+BEEMGMKP_02608	CDS	hypothetical protein
+BEEMGMKP_02609	CDS	hypothetical protein
+BEEMGMKP_02610	CDS	clpP1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 1
+BEEMGMKP_02611	CDS	hypothetical protein
+BEEMGMKP_02612	CDS	hypothetical protein
+BEEMGMKP_02613	CDS	hypothetical protein
+BEEMGMKP_02614	CDS	hypothetical protein
+BEEMGMKP_02615	CDS	hypothetical protein
+BEEMGMKP_02616	CDS	hypothetical protein
+BEEMGMKP_02617	CDS	gpFI	Putative prophage major tail sheath protein
+BEEMGMKP_02618	CDS	hypothetical protein
+BEEMGMKP_02619	CDS	hypothetical protein
+BEEMGMKP_02620	CDS	hypothetical protein
+BEEMGMKP_02621	CDS	hypothetical protein
+BEEMGMKP_02622	CDS	hypothetical protein
+BEEMGMKP_02623	CDS	hypothetical protein
+BEEMGMKP_02624	CDS	hypothetical protein
+BEEMGMKP_02625	CDS	hypothetical protein
+BEEMGMKP_02626	CDS	hypothetical protein
+BEEMGMKP_02627	CDS	hypothetical protein
+BEEMGMKP_02628	CDS	hypothetical protein
+BEEMGMKP_02629	CDS	hypothetical protein
+BEEMGMKP_02630	CDS	hypothetical protein
+BEEMGMKP_02631	CDS	hypothetical protein
+BEEMGMKP_02632	CDS	albA	1.21.98.-	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+BEEMGMKP_02633	CDS	hypothetical protein
+BEEMGMKP_02634	CDS	hypothetical protein
+BEEMGMKP_02635	CDS	hypothetical protein
+BEEMGMKP_02636	CDS	hypothetical protein
+BEEMGMKP_02637	CDS	hypothetical protein
+BEEMGMKP_02638	CDS	hypothetical protein
+BEEMGMKP_02639	CDS	hypothetical protein
+BEEMGMKP_02640	CDS	hypothetical protein
+BEEMGMKP_02641	CDS	hypothetical protein
+BEEMGMKP_02642	CDS	hypothetical protein
+BEEMGMKP_02643	CDS	xerD_1	Tyrosine recombinase XerD
+BEEMGMKP_02644	CDS	hypothetical protein
+BEEMGMKP_02645	CDS	ndoA_4	3.1.27.-	Endoribonuclease EndoA
+BEEMGMKP_02646	CDS	hypothetical protein
+BEEMGMKP_02647	CDS	hypothetical protein
+BEEMGMKP_02648	CDS	hypothetical protein
+BEEMGMKP_02649	CDS	hypothetical protein
+BEEMGMKP_02650	CDS	gpr_2	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+BEEMGMKP_02651	CDS	axeA1_1	3.1.1.72	Acetylxylan esterase
+BEEMGMKP_02652	CDS	hypothetical protein
+BEEMGMKP_02653	CDS	hypothetical protein
+BEEMGMKP_02654	CDS	Iron-sulfur flavoprotein
+BEEMGMKP_02655	CDS	hypothetical protein
+BEEMGMKP_02656	CDS	hypothetical protein
+BEEMGMKP_02657	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+BEEMGMKP_02658	CDS	adh2	1.1.1.192	Long-chain-alcohol dehydrogenase 2
+BEEMGMKP_02659	CDS	sgcG_2	1.3.99.24	2-amino-4-deoxychorismate dehydrogenase
+BEEMGMKP_02660	CDS	hcaR_2	Hca operon transcriptional activator HcaR
+BEEMGMKP_02661	CDS	hypothetical protein
+BEEMGMKP_02662	CDS	ntpJ	Potassium/sodium uptake protein NtpJ
+BEEMGMKP_02663	CDS	ktrA	Ktr system potassium uptake protein A
+BEEMGMKP_02664	CDS	kdpD	2.7.13.3	Sensor protein KdpD
+BEEMGMKP_02665	CDS	kdpE	KDP operon transcriptional regulatory protein KdpE
+BEEMGMKP_02666	CDS	nahK	2.7.1.162	N-acetylhexosamine 1-kinase
+BEEMGMKP_02667	CDS	adaA_2	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+BEEMGMKP_02668	CDS	msmE_2	Multiple sugar-binding protein
+BEEMGMKP_02669	CDS	yteP	putative multiple-sugar transport system permease YteP
+BEEMGMKP_02670	CDS	sugB	Trehalose transport system permease protein SugB
+BEEMGMKP_02671	CDS	hypothetical protein
+BEEMGMKP_02672	CDS	2.4.1.211	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+BEEMGMKP_02673	CDS	cbgA	3.2.1.23	Beta-galactosidase
+BEEMGMKP_02674	CDS	yicJ_2	Inner membrane symporter YicJ
+BEEMGMKP_02675	CDS	araC_4	Arabinose operon regulatory protein
+BEEMGMKP_02676	CDS	hypothetical protein
+BEEMGMKP_02677	CDS	hutI	3.5.2.7	Imidazolonepropionase
+BEEMGMKP_02678	CDS	comM	Competence protein ComM
+BEEMGMKP_02679	CDS	hypothetical protein
+BEEMGMKP_02680	CDS	pgcA_2	5.4.2.2	Phosphoglucomutase
+BEEMGMKP_02681	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+BEEMGMKP_02682	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+BEEMGMKP_02683	CDS	hypothetical protein
+BEEMGMKP_02684	CDS	hypothetical protein
+BEEMGMKP_02685	CDS	hypothetical protein
+BEEMGMKP_02686	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+BEEMGMKP_02687	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+BEEMGMKP_02688	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+BEEMGMKP_02689	CDS	gloC_2	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+BEEMGMKP_02690	CDS	hemZ	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+BEEMGMKP_02691	CDS	udk_2	2.7.1.48	Uridine kinase
+BEEMGMKP_02692	CDS	hypothetical protein
+BEEMGMKP_02693	CDS	mazG	3.6.1.8	Nucleoside triphosphate pyrophosphohydrolase
+BEEMGMKP_02694	CDS	hupA	DNA-binding protein HU 1
+BEEMGMKP_02695	CDS	hypothetical protein
+BEEMGMKP_02696	CDS	yabP	Spore protein YabP
+BEEMGMKP_02697	CDS	hypothetical protein
+BEEMGMKP_02698	CDS	ftsL_2	Cell division protein FtsL
+BEEMGMKP_02699	CDS	hypothetical protein
+BEEMGMKP_02700	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+BEEMGMKP_02701	CDS	hypothetical protein
+BEEMGMKP_02702	CDS	hypothetical protein
+BEEMGMKP_02703	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BEEMGMKP_02704	CDS	hypothetical protein
+BEEMGMKP_02705	CDS	hlyD	Hemolysin secretion protein D, chromosomal
+BEEMGMKP_02706	CDS	hypothetical protein
+BEEMGMKP_02707	CDS	lagD	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+BEEMGMKP_02708	tRNA	tRNA-Asn(gtt)
+BEEMGMKP_02709	CDS	typA	GTP-binding protein TypA/BipA 
+BEEMGMKP_02710	CDS	3.1.-.-	Ribonuclease
+BEEMGMKP_02711	tRNA	tRNA-Ala(ggc)
+BEEMGMKP_02712	tRNA	tRNA-Gly(tcc)
+BEEMGMKP_02713	CDS	hypothetical protein
+BEEMGMKP_02714	CDS	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+BEEMGMKP_02715	CDS	hypothetical protein
+BEEMGMKP_02716	CDS	ynaI	Low conductance mechanosensitive channel YnaI
+BEEMGMKP_02717	CDS	fmnP	Riboflavin transporter FmnP
+BEEMGMKP_02718	CDS	yeeO_4	putative FMN/FAD exporter YeeO
+BEEMGMKP_02719	CDS	mraY_2	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+BEEMGMKP_02720	CDS	folD_2	Bifunctional protein FolD protein
+BEEMGMKP_02721	CDS	fchA	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase
+BEEMGMKP_02722	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+BEEMGMKP_02723	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+BEEMGMKP_02724	CDS	btuR	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+BEEMGMKP_02725	CDS	hypothetical protein
+BEEMGMKP_02726	CDS	hypothetical protein
+BEEMGMKP_02727	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+BEEMGMKP_02728	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+BEEMGMKP_02729	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+BEEMGMKP_02730	CDS	Nucleoid-associated protein
+BEEMGMKP_02731	CDS	recR	Recombination protein RecR
+BEEMGMKP_02732	CDS	smpB	SsrA-binding protein
+BEEMGMKP_02733	tmRNA	ssrA	transfer-messenger RNA, SsrA
+BEEMGMKP_02734	CDS	hypothetical protein
+BEEMGMKP_02735	CDS	DegV domain-containing protein
+BEEMGMKP_02736	CDS	ywiE_3	2.7.8.-	putative cardiolipin synthase YwiE
+BEEMGMKP_02737	CDS	hypothetical protein
+BEEMGMKP_02738	CDS	fliY_2	L-cystine-binding protein FliY
+BEEMGMKP_02739	CDS	tcyB_2	L-cystine transport system permease protein TcyB
+BEEMGMKP_02740	CDS	tcyC_2	3.6.3.-	L-cystine import ATP-binding protein TcyC
+BEEMGMKP_02741	CDS	mepA_13	Multidrug export protein MepA
+BEEMGMKP_02742	CDS	acnM	4.2.1.3	Aconitate hydratase A
+BEEMGMKP_02743	CDS	dmdA_2	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+BEEMGMKP_02744	CDS	phnPP	3.1.4.57	Phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase
+BEEMGMKP_02745	CDS	hypothetical protein
+BEEMGMKP_02746	CDS	4.2.1.53	Oleate hydratase
+BEEMGMKP_02747	CDS	yfkN_2	Trifunctional nucleotide phosphoesterase protein YfkN
+BEEMGMKP_02748	tRNA	tRNA-Gln(ctg)
+BEEMGMKP_02749	CDS	hypothetical protein
+BEEMGMKP_02750	CDS	hypothetical protein
+BEEMGMKP_02751	CDS	1.8.98.-	Anaerobic sulfatase-maturating enzyme
+BEEMGMKP_02752	CDS	speA_2	4.1.1.19	Arginine decarboxylase
+BEEMGMKP_02753	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+BEEMGMKP_02754	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+BEEMGMKP_02755	CDS	1.1.1.29	Glycerate dehydrogenase
+BEEMGMKP_02756	CDS	nadX	1.4.1.21	L-aspartate dehydrogenase
+BEEMGMKP_02757	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+BEEMGMKP_02758	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+BEEMGMKP_02759	tRNA	tRNA-Leu(taa)
+BEEMGMKP_02760	CDS	xerD_2	Tyrosine recombinase XerD
+BEEMGMKP_02761	CDS	hypothetical protein
+BEEMGMKP_02762	CDS	hypothetical protein
+BEEMGMKP_02763	CDS	hypothetical protein
+BEEMGMKP_02764	CDS	immR_6	HTH-type transcriptional regulator ImmR
+BEEMGMKP_02765	CDS	hypothetical protein
+BEEMGMKP_02766	CDS	hypothetical protein
+BEEMGMKP_02767	CDS	hypothetical protein
+BEEMGMKP_02768	CDS	hypothetical protein
+BEEMGMKP_02769	CDS	pglC	2.7.8.36	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+BEEMGMKP_02770	CDS	pgcA_3	5.4.2.2	Phosphoglucomutase
+BEEMGMKP_02771	CDS	manC1	2.7.7.13	Mannose-1-phosphate guanylyltransferase 1
+BEEMGMKP_02772	CDS	yvyI	5.3.1.8	Putative mannose-6-phosphate isomerase YvyI
+BEEMGMKP_02773	CDS	wecA_2	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+BEEMGMKP_02774	CDS	mshA_1	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+BEEMGMKP_02775	CDS	hypothetical protein
+BEEMGMKP_02776	CDS	hypothetical protein
+BEEMGMKP_02777	CDS	mshA_2	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+BEEMGMKP_02778	CDS	pimB	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+BEEMGMKP_02779	CDS	rfbX	Putative O-antigen transporter
+BEEMGMKP_02780	CDS	hypothetical protein
+BEEMGMKP_02781	CDS	immR_7	HTH-type transcriptional regulator ImmR
+BEEMGMKP_02782	CDS	hypothetical protein
+BEEMGMKP_02783	CDS	rpmE	50S ribosomal protein L31
+BEEMGMKP_02784	CDS	yxlF_3	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+BEEMGMKP_02785	CDS	hypothetical protein
+BEEMGMKP_02786	CDS	hypothetical protein
+BEEMGMKP_02787	CDS	hypothetical protein
+BEEMGMKP_02788	CDS	potA_2	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+BEEMGMKP_02789	CDS	potH	Putrescine transport system permease protein PotH
+BEEMGMKP_02790	CDS	ydcV	Inner membrane ABC transporter permease protein YdcV
+BEEMGMKP_02791	CDS	potD	Spermidine/putrescine-binding periplasmic protein
+BEEMGMKP_02792	CDS	hypothetical protein
+BEEMGMKP_02793	CDS	chrA_1	Chromate transport protein
+BEEMGMKP_02794	CDS	chrA_2	Chromate transport protein
+BEEMGMKP_02795	CDS	fas6	3.2.2.-	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+BEEMGMKP_02796	CDS	hypothetical protein
+BEEMGMKP_02797	CDS	hypothetical protein
+BEEMGMKP_02798	CDS	zupT_2	Zinc transporter ZupT
+BEEMGMKP_02799	CDS	mepA_14	Multidrug export protein MepA
+BEEMGMKP_02800	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+BEEMGMKP_02801	CDS	aspS2	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+BEEMGMKP_02802	CDS	spoIVA	3.6.1.3	Stage IV sporulation protein A
+BEEMGMKP_02803	CDS	hypothetical protein
+BEEMGMKP_02804	CDS	rpsA_2	30S ribosomal protein S1
+BEEMGMKP_02805	CDS	hypothetical protein
+BEEMGMKP_02806	CDS	prfA	Peptide chain release factor 1
+BEEMGMKP_02807	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+BEEMGMKP_02808	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+BEEMGMKP_02809	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+BEEMGMKP_02810	CDS	apeA	3.4.11.-	putative M18 family aminopeptidase 1
+BEEMGMKP_02811	CDS	hmrR_2	HTH-type transcriptional regulator HmrR
+BEEMGMKP_02812	CDS	Bifunctional xylanase/deacetylase
+BEEMGMKP_02813	tRNA	tRNA-Leu(gag)
+BEEMGMKP_02814	tRNA	tRNA-Leu(tag)
+BEEMGMKP_02815	CDS	putative signaling protein
+BEEMGMKP_02816	CDS	pyrG	6.3.4.2	CTP synthase
+BEEMGMKP_02817	CDS	pdtaR	putative transcriptional regulatory protein pdtaR
+BEEMGMKP_02818	CDS	glnA_1	6.3.1.2	Glutamine synthetase
+BEEMGMKP_02819	CDS	glnA_2	6.3.1.2	Glutamine synthetase
+BEEMGMKP_02820	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+BEEMGMKP_02821	CDS	3.6.1.25	Inorganic triphosphatase
+BEEMGMKP_02822	CDS	hypothetical protein
+BEEMGMKP_02823	CDS	pat	2.3.1.183	Phosphinothricin N-acetyltransferase
+BEEMGMKP_02824	CDS	cbiC	5.4.99.60	Cobalt-precorrin-8 methylmutase
+BEEMGMKP_02825	CDS	cobQ	Cobyric acid synthase
+BEEMGMKP_02826	CDS	cobD_1	4.1.1.81	Threonine-phosphate decarboxylase
+BEEMGMKP_02827	CDS	cobD_2	Cobalamin biosynthesis protein CobD
+BEEMGMKP_02828	CDS	pspB	3.1.3.3	Putative phosphoserine phosphatase 2
+BEEMGMKP_02829	CDS	hypothetical protein
+BEEMGMKP_02830	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+BEEMGMKP_02831	CDS	cobU	2.7.1.156	Bifunctional adenosylcobalamin biosynthesis protein CobU
+BEEMGMKP_02832	CDS	cobT	2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+BEEMGMKP_02833	CDS	cbiA	6.3.5.11	Cobyrinate a,c-diamide synthase
+BEEMGMKP_02834	CDS	cbiET	Cobalamin biosynthesis bifunctional protein CbiET
+BEEMGMKP_02835	CDS	cbiJ	1.3.1.106	Cobalt-precorrin-6A reductase
+BEEMGMKP_02836	CDS	cbiH	2.1.1.-	putative cobalt-factor III C(17)-methyltransferase
+BEEMGMKP_02837	CDS	cbiG	3.7.1.12	Cobalt-precorrin-5A hydrolase
+BEEMGMKP_02838	CDS	cbiF	2.1.1.271	Cobalt-precorrin-4 C(11)-methyltransferase
+BEEMGMKP_02839	CDS	cbiD	2.1.1.195	Cobalt-precorrin-5B C(1)-methyltransferase
+BEEMGMKP_02840	CDS	hmuU	Hemin transport system permease protein HmuU
+BEEMGMKP_02841	CDS	hypothetical protein
+BEEMGMKP_02842	CDS	hypothetical protein
+BEEMGMKP_02843	CDS	cbiK	4.99.1.3	Sirohydrochlorin cobaltochelatase
+BEEMGMKP_02844	CDS	ecsA	ABC-type transporter ATP-binding protein EcsA
+BEEMGMKP_02845	CDS	hypothetical protein
+BEEMGMKP_02846	CDS	cutC	Copper homeostasis protein CutC
+BEEMGMKP_02847	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+BEEMGMKP_02848	CDS	galK_2	2.7.1.6	Galactokinase
+BEEMGMKP_02849	CDS	hypothetical protein
+BEEMGMKP_02850	CDS	htpG	Chaperone protein HtpG
+BEEMGMKP_02851	CDS	hypothetical protein
+BEEMGMKP_02852	CDS	axeA1_2	3.1.1.72	Acetylxylan esterase
+BEEMGMKP_02853	CDS	hypothetical protein
+BEEMGMKP_02854	CDS	hypothetical protein
+BEEMGMKP_02855	CDS	pitA	2.3.1.-	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+BEEMGMKP_02856	CDS	axeA1_3	3.1.1.72	Acetylxylan esterase
+BEEMGMKP_02857	CDS	hypothetical protein
+BEEMGMKP_02858	CDS	hypothetical protein
+BEEMGMKP_02859	CDS	fprA1_2	1.6.3.4	Flavo-diiron protein FprA1
+BEEMGMKP_02860	tRNA	tRNA-Gly(ccc)
+BEEMGMKP_02861	CDS	dppE	Dipeptide-binding protein DppE
+BEEMGMKP_02862	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+BEEMGMKP_02863	CDS	hypothetical protein
+BEEMGMKP_02864	CDS	hypothetical protein
+BEEMGMKP_02865	CDS	mgsA_2	4.2.3.3	Methylglyoxal synthase
+BEEMGMKP_02866	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+BEEMGMKP_02867	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+BEEMGMKP_02868	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+BEEMGMKP_02869	CDS	dhaS	HTH-type dhaKLM operon transcriptional activator DhaS
+BEEMGMKP_02870	CDS	mftC	2.-.-.-	Putative mycofactocin radical SAM maturase MftC
+BEEMGMKP_02871	CDS	hypothetical protein
+BEEMGMKP_02872	CDS	hypothetical protein
+BEEMGMKP_02873	CDS	cat1	2.8.3.-	Succinyl-CoA:coenzyme A transferase
+BEEMGMKP_02874	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+BEEMGMKP_02875	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+BEEMGMKP_02876	CDS	crt	4.2.1.150	Short-chain-enoyl-CoA hydratase
+BEEMGMKP_02877	CDS	hbd	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+BEEMGMKP_02878	CDS	bcd_2	1.3.8.1	Acyl-CoA dehydrogenase, short-chain specific
+BEEMGMKP_02879	CDS	acrB	Acryloyl-CoA reductase electron transfer subunit gamma
+BEEMGMKP_02880	CDS	acrA	Acryloyl-CoA reductase electron transfer subunit beta
+BEEMGMKP_02881	CDS	hypothetical protein
+BEEMGMKP_02882	CDS	yigZ	IMPACT family member YigZ
+BEEMGMKP_02883	CDS	dgt	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+BEEMGMKP_02884	CDS	dnaG_13	2.7.7.-	DNA primase
+BEEMGMKP_02885	CDS	sigA_4	RNA polymerase sigma factor SigA
+BEEMGMKP_02886	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+BEEMGMKP_02887	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+BEEMGMKP_02888	CDS	rpsL	30S ribosomal protein S12
+BEEMGMKP_02889	CDS	rpsG	30S ribosomal protein S7
+BEEMGMKP_02890	CDS	fusA_3	Elongation factor G
+BEEMGMKP_02891	CDS	tufA	Elongation factor Tu-A
+BEEMGMKP_02892	CDS	iscS_3	2.8.1.7	Cysteine desulfurase IscS
+BEEMGMKP_02893	CDS	pyrP	Uracil permease
+BEEMGMKP_02894	CDS	rbr3B	1.11.1.1	Reverse rubrerythrin-2
+BEEMGMKP_02895	CDS	copA	3.6.3.54	putative copper-importing P-type ATPase A
+BEEMGMKP_02896	CDS	csoR	Copper-sensing transcriptional repressor CsoR
+BEEMGMKP_02897	CDS	hypothetical protein
+BEEMGMKP_02898	CDS	hypothetical protein
+BEEMGMKP_02899	CDS	rpmB	50S ribosomal protein L28
+BEEMGMKP_02900	CDS	hypothetical protein
+BEEMGMKP_02901	CDS	scpA	Segregation and condensation protein A
+BEEMGMKP_02902	CDS	scpB	Segregation and condensation protein B
+BEEMGMKP_02903	CDS	hypothetical protein
+BEEMGMKP_02904	CDS	ytfJ	putative spore protein YtfJ
+BEEMGMKP_02905	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+BEEMGMKP_02906	CDS	lytR_4	Sensory transduction protein LytR
+BEEMGMKP_02907	CDS	hypothetical protein
+BEEMGMKP_02908	CDS	pyrI	Aspartate carbamoyltransferase regulatory chain
+BEEMGMKP_02909	CDS	pyrB_2	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+BEEMGMKP_02910	CDS	yurK	putative HTH-type transcriptional regulator YurK
+BEEMGMKP_02911	CDS	hypothetical protein
+BEEMGMKP_02912	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+BEEMGMKP_02913	CDS	thyX_2	2.1.1.148	Flavin-dependent thymidylate synthase
+BEEMGMKP_02914	CDS	tmk	2.7.4.9	Thymidylate kinase
+BEEMGMKP_02915	CDS	hypothetical protein
+BEEMGMKP_02916	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+BEEMGMKP_02917	CDS	ydcP_2	3.4.-.-	putative protease YdcP
+BEEMGMKP_02918	CDS	hypothetical protein
+BEEMGMKP_02919	CDS	Flavodoxin
+BEEMGMKP_02920	CDS	hypothetical protein
+BEEMGMKP_02921	CDS	3.1.3.-	D-ribitol-5-phosphate phosphatase
+BEEMGMKP_02922	CDS	hypothetical protein
+BEEMGMKP_02923	CDS	hypothetical protein
+BEEMGMKP_02924	CDS	rpsB	30S ribosomal protein S2
+BEEMGMKP_02925	CDS	tsf	Elongation factor Ts
+BEEMGMKP_02926	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+BEEMGMKP_02927	CDS	2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+BEEMGMKP_02928	CDS	gcdC	4.1.1.70	Glutaconyl-CoA decarboxylase subunit gamma
+BEEMGMKP_02929	CDS	2.1.3.1	Methylmalonyl-CoA carboxyltransferase 5S subunit
+BEEMGMKP_02930	CDS	hypothetical protein
+BEEMGMKP_02931	CDS	hypothetical protein
+BEEMGMKP_02932	CDS	hypothetical protein
+BEEMGMKP_02933	CDS	gmk	2.7.4.8	Guanylate kinase
+BEEMGMKP_02934	CDS	priA	3.6.4.-	Primosomal protein N'
+BEEMGMKP_02935	CDS	def1	3.5.1.88	Peptide deformylase 1
+BEEMGMKP_02936	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+BEEMGMKP_02937	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+BEEMGMKP_02938	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+BEEMGMKP_02939	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+BEEMGMKP_02940	CDS	prkC_2	2.7.11.1	Serine/threonine-protein kinase PrkC
+BEEMGMKP_02941	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+BEEMGMKP_02942	CDS	hypothetical protein
+BEEMGMKP_02943	CDS	hypothetical protein
+BEEMGMKP_02944	CDS	ligA_2	6.5.1.2	DNA ligase
+BEEMGMKP_02945	CDS	hypothetical protein
+BEEMGMKP_02946	CDS	hypothetical protein
+BEEMGMKP_02947	CDS	hypothetical protein
+BEEMGMKP_02948	CDS	hypothetical protein
+BEEMGMKP_02949	CDS	hypothetical protein
+BEEMGMKP_02950	CDS	hypothetical protein
+BEEMGMKP_02951	CDS	hypothetical protein
+BEEMGMKP_02952	CDS	hypothetical protein
+BEEMGMKP_02953	CDS	Alkaline shock protein 23
+BEEMGMKP_02954	CDS	nusB	N utilization substance protein B 
+BEEMGMKP_02955	CDS	tsaD_2	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+BEEMGMKP_02956	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+BEEMGMKP_02957	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+BEEMGMKP_02958	CDS	2.5.1.10	Farnesyl diphosphate synthase
+BEEMGMKP_02959	CDS	hypothetical protein
+BEEMGMKP_02960	CDS	dxs_2	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+BEEMGMKP_02961	CDS	tlyA	Hemolysin A
+BEEMGMKP_02962	CDS	nadK	2.7.1.23	NAD kinase
+BEEMGMKP_02963	CDS	argR	Arginine repressor
+BEEMGMKP_02964	CDS	recN	DNA repair protein RecN
+BEEMGMKP_02965	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+BEEMGMKP_02966	CDS	crr	2.7.1.199	PTS system glucose-specific EIIA component
+BEEMGMKP_02967	CDS	lysC	2.7.2.4	Aspartokinase
+BEEMGMKP_02968	CDS	capA	Capsule biosynthesis protein CapA
+BEEMGMKP_02969	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+BEEMGMKP_02970	CDS	dapA_2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+BEEMGMKP_02971	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+BEEMGMKP_02972	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+BEEMGMKP_02973	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+BEEMGMKP_02974	CDS	hypothetical protein
+BEEMGMKP_02975	CDS	hypothetical protein
+BEEMGMKP_02976	CDS	hypothetical protein
+BEEMGMKP_02977	CDS	radA	3.6.4.-	DNA repair protein RadA
+BEEMGMKP_02978	CDS	xerD_3	Tyrosine recombinase XerD
+BEEMGMKP_02979	CDS	amiB	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiB
+BEEMGMKP_02980	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+BEEMGMKP_02981	CDS	recO	DNA repair protein RecO
+BEEMGMKP_02982	CDS	hypothetical protein
+BEEMGMKP_02983	CDS	era	GTPase Era
+BEEMGMKP_02984	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+BEEMGMKP_02985	CDS	PhoH-like protein
+BEEMGMKP_02986	CDS	hypothetical protein
+BEEMGMKP_02987	CDS	hypothetical protein
+BEEMGMKP_02988	CDS	hypothetical protein
+BEEMGMKP_02989	CDS	hypothetical protein
+BEEMGMKP_02990	CDS	pucA	1.17.1.4	putative xanthine dehydrogenase subunit A
+BEEMGMKP_02991	CDS	hypothetical protein
+BEEMGMKP_02992	CDS	csdA	2.8.1.7	Cysteine desulfurase CsdA
+BEEMGMKP_02993	CDS	hypothetical protein
+BEEMGMKP_02994	CDS	selD	2.7.9.3	Selenide, water dikinase
+BEEMGMKP_02995	CDS	hypothetical protein
+BEEMGMKP_02996	CDS	xdhA	1.17.1.4	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+BEEMGMKP_02997	CDS	hcrC	1.3.7.9	4-hydroxybenzoyl-CoA reductase subunit gamma
+BEEMGMKP_02998	CDS	hypothetical protein
+BEEMGMKP_02999	CDS	mobA_7	2.7.7.77	Molybdenum cofactor guanylyltransferase
+BEEMGMKP_03000	CDS	xanP	Xanthine permease XanP
+BEEMGMKP_03001	CDS	rmlD_2	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+BEEMGMKP_03002	CDS	hypothetical protein
+BEEMGMKP_03003	CDS	ygaZ	Inner membrane protein YgaZ
+BEEMGMKP_03004	CDS	hypothetical protein
+BEEMGMKP_03005	CDS	hsdR	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+BEEMGMKP_03006	CDS	hypothetical protein
+BEEMGMKP_03007	CDS	hypothetical protein
+BEEMGMKP_03008	CDS	hypothetical protein
+BEEMGMKP_03009	CDS	hypothetical protein
+BEEMGMKP_03010	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+BEEMGMKP_03011	CDS	hypothetical protein
+BEEMGMKP_03012	CDS	hypothetical protein
+BEEMGMKP_03013	CDS	hypothetical protein
+BEEMGMKP_03014	CDS	hypothetical protein
+BEEMGMKP_03015	CDS	hypothetical protein
+BEEMGMKP_03016	CDS	Putative prophage phiRv2 integrase
+BEEMGMKP_03017	CDS	hypothetical protein
+BEEMGMKP_03018	CDS	hypothetical protein
+BEEMGMKP_03019	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+BEEMGMKP_03020	CDS	hypothetical protein
+BEEMGMKP_03021	CDS	hypothetical protein
+BEEMGMKP_03022	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+BEEMGMKP_03023	CDS	dnaE_2	2.7.7.7	DNA polymerase III subunit alpha
+BEEMGMKP_03024	CDS	whiA	Putative sporulation transcription regulator WhiA
+BEEMGMKP_03025	CDS	yvcJ	Nucleotide-binding protein YvcJ
+BEEMGMKP_03026	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+BEEMGMKP_03027	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+BEEMGMKP_03028	CDS	hypothetical protein
+BEEMGMKP_03029	CDS	phoB	Phosphate regulon transcriptional regulatory protein PhoB
+BEEMGMKP_03030	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+BEEMGMKP_03031	CDS	hypothetical protein
+BEEMGMKP_03032	CDS	hypothetical protein
+BEEMGMKP_03033	CDS	gerBA	Spore germination protein B1
+BEEMGMKP_03034	CDS	hypothetical protein
+BEEMGMKP_03035	CDS	hypothetical protein
+BEEMGMKP_03036	CDS	nrdR	Transcriptional repressor NrdR
+BEEMGMKP_03037	CDS	hypothetical protein
+BEEMGMKP_03038	CDS	Putative aminotransferase/MSMEI_6121
+BEEMGMKP_03039	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+BEEMGMKP_03040	CDS	clpP_2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+BEEMGMKP_03041	CDS	tig_5	5.2.1.8	Trigger factor
+BEEMGMKP_03042	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+BEEMGMKP_03043	CDS	thrC	4.2.3.1	Threonine synthase
+BEEMGMKP_03044	CDS	hypothetical protein
+BEEMGMKP_03045	CDS	rnhB	3.1.26.4	Ribonuclease HII
+BEEMGMKP_03046	CDS	rbgA	Ribosome biogenesis GTPase A
+BEEMGMKP_03047	CDS	sipT	3.4.21.89	Signal peptidase I T
+BEEMGMKP_03048	CDS	rplS	50S ribosomal protein L19
+BEEMGMKP_03049	CDS	hypothetical protein
+BEEMGMKP_03050	CDS	hypothetical protein
+BEEMGMKP_03051	CDS	hypothetical protein
+BEEMGMKP_03052	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+BEEMGMKP_03053	CDS	ppk_2	2.7.4.1	Polyphosphate kinase
+BEEMGMKP_03054	CDS	comEA	ComE operon protein 1
+BEEMGMKP_03055	CDS	hypothetical protein
+BEEMGMKP_03056	CDS	rluD_3	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+BEEMGMKP_03057	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+BEEMGMKP_03058	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+BEEMGMKP_03059	CDS	gpsB	Cell cycle protein GpsB
+BEEMGMKP_03060	CDS	hypothetical protein
+BEEMGMKP_03061	CDS	sepF	Cell division protein SepF
+BEEMGMKP_03062	CDS	hypothetical protein
+BEEMGMKP_03063	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+BEEMGMKP_03064	CDS	mutL	DNA mismatch repair protein MutL
+BEEMGMKP_03065	CDS	mutS	DNA mismatch repair protein MutS
+BEEMGMKP_03066	CDS	hypothetical protein
+BEEMGMKP_03067	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+BEEMGMKP_03068	CDS	perR_2	Peroxide operon regulator
+BEEMGMKP_03069	CDS	putative AAA domain-containing protein
+BEEMGMKP_03070	CDS	pdg	Ultraviolet N-glycosylase/AP lyase
+BEEMGMKP_03071	CDS	hypothetical protein
+BEEMGMKP_03072	tRNA	tRNA-Thr(cgt)
+BEEMGMKP_03073	CDS	hypothetical protein
+BEEMGMKP_03074	CDS	hypothetical protein
+BEEMGMKP_03075	CDS	dnaC_3	DNA replication protein DnaC
+BEEMGMKP_03076	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+BEEMGMKP_03077	CDS	murAB	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+BEEMGMKP_03078	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 3
+BEEMGMKP_03079	CDS	hypothetical protein
+BEEMGMKP_03080	CDS	kdgK_2	2.7.1.45	2-dehydro-3-deoxygluconokinase
+BEEMGMKP_03081	CDS	opuBA	Choline transport ATP-binding protein OpuBA
+BEEMGMKP_03082	CDS	hypothetical protein
+BEEMGMKP_03083	CDS	hypothetical protein
+BEEMGMKP_03084	CDS	hypothetical protein
+BEEMGMKP_03085	CDS	dacB_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacB
+BEEMGMKP_03086	CDS	hypothetical protein
+BEEMGMKP_03087	CDS	hypothetical protein

@@ -1,0 +1,83 @@
+[19:25:38] This is prokka 1.12
+[19:25:38] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[19:25:38] Homepage is https://github.com/tseemann/prokka
+[19:25:38] Local time is Wed May  1 19:25:38 2024
+[19:25:38] You are TongqingWei
+[19:25:38] Operating system is linux
+[19:25:38] You have BioPerl 1.006924
+[19:25:38] System has 40 cores.
+[19:25:38] Will use maximum of 8 cores.
+[19:25:38] Annotating as >>> Bacteria <<<
+[19:25:38] Generating locus_tag from './example_phage/NC_053009.fasta' contents.
+[19:25:38] Setting --locustag GFLIGANH from MD5 0f520a71756fde64e471838e26e0c0f9
+[19:25:38] Creating new output folder: ./tmp/prokka_NC_053009
+[19:25:38] Running: mkdir -p \.\/tmp\/prokka_NC_053009
+[19:25:38] Using filename prefix: NC_053009.XXX
+[19:25:38] Setting HMMER_NCPU=1
+[19:25:38] Writing log to: ./tmp/prokka_NC_053009/NC_053009.log
+[19:25:38] Command: /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/prokka ./example_phage/NC_053009.fasta --outdir ./tmp/prokka_NC_053009 --prefix NC_053009 --force
+[19:25:38] Looking for 'aragorn' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/aragorn
+[19:25:38] Determined aragorn version is 1.2
+[19:25:38] Looking for 'blastp' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/blastp
+[19:25:38] Determined blastp version is 2.5
+[19:25:38] Looking for 'cmpress' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/cmpress
+[19:25:38] Determined cmpress version is 1.1
+[19:25:38] Looking for 'cmscan' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/cmscan
+[19:25:38] Determined cmscan version is 1.1
+[19:25:38] Looking for 'egrep' - found /bios-store1/software/bin/egrep
+[19:25:38] Looking for 'find' - found /usr/bin/find
+[19:25:38] Looking for 'grep' - found /bios-store1/software/bin/grep
+[19:25:38] Looking for 'hmmpress' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/hmmpress
+[19:25:38] Determined hmmpress version is 3.1
+[19:25:38] Looking for 'hmmscan' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/hmmscan
+[19:25:38] Determined hmmscan version is 3.1
+[19:25:38] Looking for 'java' - found /usr/bin/java
+[19:25:38] Looking for 'less' - found /usr/bin/less
+[19:25:38] Looking for 'makeblastdb' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/makeblastdb
+[19:25:38] Determined makeblastdb version is 2.5
+[19:25:38] Looking for 'parallel' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/parallel
+[19:25:38] Determined parallel version is 20240322
+[19:25:38] Looking for 'prodigal' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/prodigal
+[19:25:39] Determined prodigal version is 2.6
+[19:25:39] Looking for 'prokka-genbank_to_fasta_db' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/prokka-genbank_to_fasta_db
+[19:25:39] Looking for 'sed' - found /bios-store1/software/bin/sed
+[19:25:39] Looking for 'tbl2asn' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/tbl2asn
+[19:25:39] Determined tbl2asn version is 25.3
+[19:25:39] Using genetic code table 11.
+[19:25:39] Loading and checking input file: ./example_phage/NC_053009.fasta
+[19:25:39] Wrote 1 contigs totalling 60727 bp.
+[19:25:39] Predicting tRNAs and tmRNAs
+[19:25:39] Running: aragorn -l -gc11  -w \.\/tmp\/prokka_NC_053009\/NC_053009\.fna
+[19:25:39] Found 0 tRNAs
+[19:25:39] Predicting Ribosomal RNAs
+[19:25:39] You need either Barrnap or RNAmmer installed to predict rRNAs!
+[19:25:39] Skipping ncRNA search, enable with --rfam if desired.
+[19:25:39] Total of 0 tRNA + rRNA features
+[19:25:39] Predicting coding sequences
+[19:25:39] Contigs total 60727 bp, so using meta mode
+[19:25:39] Running: prodigal -i \.\/tmp\/prokka_NC_053009\/NC_053009\.fna -c -m -g 11 -p meta -f sco -q
+[19:25:40] Found 74 CDS
+[19:25:40] Connecting features back to sequences
+[19:25:40] Not using genus-specific database. Try --usegenus to enable it.
+[19:25:40] Annotating CDS, please be patient.
+[19:25:40] Will use 8 CPUs for similarity searching.
+[19:25:40] There are still 74 unannotated CDS left (started with 74)
+[19:25:40] Will use blast to search against /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/kingdom/Bacteria/sprot with 8 CPUs
+[19:25:40] Running: cat \.\/tmp\/prokka_NC_053009\/sprot\.faa | parallel --gnu --plain -j 8 --block 1208 --recstart '>' --pipe blastp -query - -db /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/tmp\/prokka_NC_053009\/sprot\.blast 2> /dev/null
+[19:25:41] Deleting unwanted file: ./tmp/prokka_NC_053009/sprot.faa
+[19:25:41] Deleting unwanted file: ./tmp/prokka_NC_053009/sprot.blast
+[19:25:41] There are still 73 unannotated CDS left (started with 74)
+[19:25:41] Will use hmmer3 to search against /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/hmm/HAMAP.hmm with 8 CPUs
+[19:25:41] Running: cat \.\/tmp\/prokka_NC_053009\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 1181 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/hmm/HAMAP.hmm /dev/stdin > \.\/tmp\/prokka_NC_053009\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[19:25:42] Deleting unwanted file: ./tmp/prokka_NC_053009/HAMAP.hmm.faa
+[19:25:42] Deleting unwanted file: ./tmp/prokka_NC_053009/HAMAP.hmm.hmmer3
+[19:25:42] Labelling remaining 71 proteins as 'hypothetical protein'
+[19:25:42] Found 3 unique /gene codes.
+[19:25:42] Fixed 0 colliding /gene names.
+[19:25:42] Adding /locus_tag identifiers
+[19:25:42] Assigned 74 locus_tags to CDS and RNA features.
+[19:25:42] Writing outputs to ./tmp/prokka_NC_053009/
+[19:25:42] Generating annotation statistics file
+[19:25:42] Generating Genbank and Sequin files
+[19:25:42] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.12 from https://github.com/tseemann/prokka' -Z \.\/tmp\/prokka_NC_053009\/NC_053009\.err -i \.\/tmp\/prokka_NC_053009\/NC_053009\.fsa 2> /dev/null
+[19:25:43] Could not run command: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.12 from https://github.com/tseemann/prokka' -Z \.\/tmp\/prokka_NC_053009\/NC_053009\.err -i \.\/tmp\/prokka_NC_053009\/NC_053009\.fsa 2> /dev/null

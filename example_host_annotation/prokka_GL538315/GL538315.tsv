@@ -1,0 +1,271 @@
+locus_tag	ftype	gene	EC_number	product
+CDBOEMCK_00001	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+CDBOEMCK_00002	CDS	mreB	Rod shape-determining protein MreB
+CDBOEMCK_00003	CDS	hypothetical protein
+CDBOEMCK_00004	CDS	gcdB	4.1.1.70	Glutaconyl-CoA decarboxylase subunit beta
+CDBOEMCK_00005	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+CDBOEMCK_00006	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+CDBOEMCK_00007	CDS	tmk	2.7.4.9	Thymidylate kinase
+CDBOEMCK_00008	CDS	hypothetical protein
+CDBOEMCK_00009	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+CDBOEMCK_00010	CDS	ydcP	3.4.-.-	putative protease YdcP
+CDBOEMCK_00011	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+CDBOEMCK_00012	CDS	gltB_1	1.4.1.13	Glutamate synthase [NADPH] small chain
+CDBOEMCK_00013	CDS	gltB_2	1.4.7.1	Ferredoxin-dependent glutamate synthase 1
+CDBOEMCK_00014	CDS	hcp	1.7.99.1	Hydroxylamine reductase
+CDBOEMCK_00015	CDS	gdh	1.4.1.4	NADP-specific glutamate dehydrogenase
+CDBOEMCK_00016	CDS	apbC	Iron-sulfur cluster carrier protein
+CDBOEMCK_00017	CDS	spoVB	Stage V sporulation protein B
+CDBOEMCK_00018	CDS	pglF	4.2.1.135	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+CDBOEMCK_00019	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+CDBOEMCK_00020	CDS	hypothetical protein
+CDBOEMCK_00021	CDS	rluC	5.4.99.24	Ribosomal large subunit pseudouridine synthase C
+CDBOEMCK_00022	CDS	hypothetical protein
+CDBOEMCK_00023	CDS	uvrB	UvrABC system protein B
+CDBOEMCK_00024	CDS	uvrA	UvrABC system protein A
+CDBOEMCK_00025	tRNA	tRNA-Pro(ggg)
+CDBOEMCK_00026	CDS	hypothetical protein
+CDBOEMCK_00027	CDS	putative HTH-type transcriptional regulator
+CDBOEMCK_00028	CDS	ywqN	1.-.-.-	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+CDBOEMCK_00029	CDS	hypothetical protein
+CDBOEMCK_00030	CDS	cbgA	3.2.1.23	Beta-galactosidase
+CDBOEMCK_00031	CDS	yicJ	Inner membrane symporter YicJ
+CDBOEMCK_00032	CDS	araC	Arabinose operon regulatory protein
+CDBOEMCK_00033	CDS	hypothetical protein
+CDBOEMCK_00034	CDS	hypothetical protein
+CDBOEMCK_00035	CDS	hypothetical protein
+CDBOEMCK_00036	CDS	hypothetical protein
+CDBOEMCK_00037	CDS	hypothetical protein
+CDBOEMCK_00038	CDS	hypothetical protein
+CDBOEMCK_00039	CDS	recF	DNA replication and repair protein RecF
+CDBOEMCK_00040	CDS	hypothetical protein
+CDBOEMCK_00041	CDS	hypothetical protein
+CDBOEMCK_00042	CDS	hypothetical protein
+CDBOEMCK_00043	CDS	luxQ	2.7.13.3	Autoinducer 2 sensor kinase/phosphatase LuxQ
+CDBOEMCK_00044	CDS	yxeM	putative amino-acid-binding protein YxeM
+CDBOEMCK_00045	CDS	barA	2.7.13.3	Signal transduction histidine-protein kinase BarA
+CDBOEMCK_00046	CDS	rcsC	2.7.13.3	Sensor histidine kinase RcsC
+CDBOEMCK_00047	CDS	hypothetical protein
+CDBOEMCK_00048	CDS	intQ	Putative defective protein IntQ
+CDBOEMCK_00049	CDS	hypothetical protein
+CDBOEMCK_00050	CDS	pezA	Antitoxin PezA
+CDBOEMCK_00051	CDS	hypothetical protein
+CDBOEMCK_00052	CDS	hypothetical protein
+CDBOEMCK_00053	CDS	hypothetical protein
+CDBOEMCK_00054	CDS	hypothetical protein
+CDBOEMCK_00055	CDS	hypothetical protein
+CDBOEMCK_00056	CDS	hypothetical protein
+CDBOEMCK_00057	CDS	hypothetical protein
+CDBOEMCK_00058	CDS	hypothetical protein
+CDBOEMCK_00059	CDS	hypothetical protein
+CDBOEMCK_00060	CDS	hypothetical protein
+CDBOEMCK_00061	CDS	hypothetical protein
+CDBOEMCK_00062	CDS	hypothetical protein
+CDBOEMCK_00063	CDS	hypothetical protein
+CDBOEMCK_00064	CDS	hypothetical protein
+CDBOEMCK_00065	CDS	hypothetical protein
+CDBOEMCK_00066	CDS	hypothetical protein
+CDBOEMCK_00067	CDS	hypothetical protein
+CDBOEMCK_00068	CDS	hypothetical protein
+CDBOEMCK_00069	CDS	hypothetical protein
+CDBOEMCK_00070	CDS	hypothetical protein
+CDBOEMCK_00071	CDS	hypothetical protein
+CDBOEMCK_00072	CDS	hypothetical protein
+CDBOEMCK_00073	CDS	hypothetical protein
+CDBOEMCK_00074	CDS	hypothetical protein
+CDBOEMCK_00075	CDS	hypothetical protein
+CDBOEMCK_00076	CDS	hypothetical protein
+CDBOEMCK_00077	CDS	hypothetical protein
+CDBOEMCK_00078	CDS	hypothetical protein
+CDBOEMCK_00079	CDS	hypothetical protein
+CDBOEMCK_00080	CDS	hypothetical protein
+CDBOEMCK_00081	CDS	hypothetical protein
+CDBOEMCK_00082	CDS	hypothetical protein
+CDBOEMCK_00083	CDS	hypothetical protein
+CDBOEMCK_00084	CDS	hypothetical protein
+CDBOEMCK_00085	CDS	hypothetical protein
+CDBOEMCK_00086	tRNA	tRNA-Thr(cgt)
+CDBOEMCK_00087	CDS	hypothetical protein
+CDBOEMCK_00088	CDS	pdg	Ultraviolet N-glycosylase/AP lyase
+CDBOEMCK_00089	CDS	putative AAA domain-containing protein
+CDBOEMCK_00090	CDS	perR	Peroxide-responsive repressor PerR
+CDBOEMCK_00091	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+CDBOEMCK_00092	CDS	hypothetical protein
+CDBOEMCK_00093	CDS	hypothetical protein
+CDBOEMCK_00094	tmRNA	ssrA	transfer-messenger RNA, SsrA
+CDBOEMCK_00095	CDS	smpB	SsrA-binding protein
+CDBOEMCK_00096	CDS	recR	Recombination protein RecR
+CDBOEMCK_00097	CDS	Nucleoid-associated protein
+CDBOEMCK_00098	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+CDBOEMCK_00099	CDS	zupT	Zinc transporter ZupT
+CDBOEMCK_00100	CDS	hypothetical protein
+CDBOEMCK_00101	CDS	hypothetical protein
+CDBOEMCK_00102	CDS	chrA	Chromate transport protein
+CDBOEMCK_00103	CDS	chrA1	Chromate transport protein
+CDBOEMCK_00104	CDS	nadX	1.4.1.21	L-aspartate dehydrogenase
+CDBOEMCK_00105	CDS	1.1.1.29	Glycerate dehydrogenase
+CDBOEMCK_00106	CDS	fas6	3.2.2.-	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+CDBOEMCK_00107	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+CDBOEMCK_00108	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+CDBOEMCK_00109	CDS	glpG	3.4.21.105	Rhomboid protease GlpG
+CDBOEMCK_00110	CDS	3.6.1.25	Inorganic triphosphatase
+CDBOEMCK_00111	CDS	xerD	Tyrosine recombinase XerD
+CDBOEMCK_00112	CDS	hypothetical protein
+CDBOEMCK_00113	CDS	hypothetical protein
+CDBOEMCK_00114	CDS	pccR	Propionyl-CoA carboxylase regulator
+CDBOEMCK_00115	CDS	hypothetical protein
+CDBOEMCK_00116	CDS	hypothetical protein
+CDBOEMCK_00117	CDS	hypothetical protein
+CDBOEMCK_00118	CDS	hypothetical protein
+CDBOEMCK_00119	CDS	hypothetical protein
+CDBOEMCK_00120	CDS	hypothetical protein
+CDBOEMCK_00121	CDS	hypothetical protein
+CDBOEMCK_00122	CDS	hypothetical protein
+CDBOEMCK_00123	CDS	hypothetical protein
+CDBOEMCK_00124	CDS	hypothetical protein
+CDBOEMCK_00125	CDS	hypothetical protein
+CDBOEMCK_00126	CDS	hypothetical protein
+CDBOEMCK_00127	CDS	hypothetical protein
+CDBOEMCK_00128	CDS	smc	Chromosome partition protein Smc
+CDBOEMCK_00129	CDS	hypothetical protein
+CDBOEMCK_00130	CDS	hypothetical protein
+CDBOEMCK_00131	CDS	hypothetical protein
+CDBOEMCK_00132	CDS	radD	3.6.4.12	Putative DNA repair helicase RadD
+CDBOEMCK_00133	CDS	hypothetical protein
+CDBOEMCK_00134	CDS	hypothetical protein
+CDBOEMCK_00135	CDS	hypothetical protein
+CDBOEMCK_00136	CDS	hypothetical protein
+CDBOEMCK_00137	CDS	hypothetical protein
+CDBOEMCK_00138	CDS	hypothetical protein
+CDBOEMCK_00139	CDS	hypothetical protein
+CDBOEMCK_00140	CDS	hypothetical protein
+CDBOEMCK_00141	CDS	hypothetical protein
+CDBOEMCK_00142	tRNA	tRNA-Trp(cca)
+CDBOEMCK_00143	CDS	mutS	DNA mismatch repair protein MutS
+CDBOEMCK_00144	CDS	mutL	DNA mismatch repair protein MutL
+CDBOEMCK_00145	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+CDBOEMCK_00146	CDS	hypothetical protein
+CDBOEMCK_00147	CDS	sepF	Cell division protein SepF
+CDBOEMCK_00148	CDS	hypothetical protein
+CDBOEMCK_00149	CDS	divIVA	Septum site-determining protein DivIVA
+CDBOEMCK_00150	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+CDBOEMCK_00151	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+CDBOEMCK_00152	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+CDBOEMCK_00153	CDS	hypothetical protein
+CDBOEMCK_00154	CDS	comEA	ComE operon protein 1
+CDBOEMCK_00155	CDS	ppk	2.7.4.1	Polyphosphate kinase
+CDBOEMCK_00156	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+CDBOEMCK_00157	CDS	hypothetical protein
+CDBOEMCK_00158	CDS	hypothetical protein
+CDBOEMCK_00159	CDS	hypothetical protein
+CDBOEMCK_00160	CDS	rplS	50S ribosomal protein L19
+CDBOEMCK_00161	CDS	sipT	3.4.21.89	Signal peptidase I T
+CDBOEMCK_00162	CDS	rbgA	Ribosome biogenesis GTPase A
+CDBOEMCK_00163	CDS	rnhB	3.1.26.4	Ribonuclease HII
+CDBOEMCK_00164	CDS	hypothetical protein
+CDBOEMCK_00165	CDS	thrC	4.2.3.1	Threonine synthase
+CDBOEMCK_00166	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+CDBOEMCK_00167	CDS	tig	5.2.1.8	Trigger factor
+CDBOEMCK_00168	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+CDBOEMCK_00169	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+CDBOEMCK_00170	CDS	Putative aminotransferase/MSMEI_6121
+CDBOEMCK_00171	CDS	hypothetical protein
+CDBOEMCK_00172	CDS	nrdR	Transcriptional repressor NrdR
+CDBOEMCK_00173	CDS	hypothetical protein
+CDBOEMCK_00174	CDS	hypothetical protein
+CDBOEMCK_00175	CDS	gerBA	Spore germination protein B1
+CDBOEMCK_00176	CDS	hypothetical protein
+CDBOEMCK_00177	CDS	hypothetical protein
+CDBOEMCK_00178	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+CDBOEMCK_00179	CDS	phoB	Phosphate regulon transcriptional regulatory protein PhoB
+CDBOEMCK_00180	CDS	hypothetical protein
+CDBOEMCK_00181	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+CDBOEMCK_00182	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+CDBOEMCK_00183	CDS	yvcJ	Nucleotide-binding protein YvcJ
+CDBOEMCK_00184	CDS	whiA	Putative sporulation transcription regulator WhiA
+CDBOEMCK_00185	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+CDBOEMCK_00186	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+CDBOEMCK_00187	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+CDBOEMCK_00188	CDS	ynaI	Low conductance mechanosensitive channel YnaI
+CDBOEMCK_00189	CDS	ribU	Riboflavin transporter RibU
+CDBOEMCK_00190	CDS	yeeO	putative FMN/FAD exporter YeeO
+CDBOEMCK_00191	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+CDBOEMCK_00192	CDS	folD	Bifunctional protein FolD protein
+CDBOEMCK_00193	CDS	fchA	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase
+CDBOEMCK_00194	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+CDBOEMCK_00195	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+CDBOEMCK_00196	CDS	btuR	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+CDBOEMCK_00197	CDS	hypothetical protein
+CDBOEMCK_00198	CDS	hypothetical protein
+CDBOEMCK_00199	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+CDBOEMCK_00200	CDS	hypothetical protein
+CDBOEMCK_00201	CDS	hypothetical protein
+CDBOEMCK_00202	CDS	ligA	6.5.1.2	DNA ligase
+CDBOEMCK_00203	CDS	hypothetical protein
+CDBOEMCK_00204	CDS	hypothetical protein
+CDBOEMCK_00205	CDS	hypothetical protein
+CDBOEMCK_00206	CDS	hypothetical protein
+CDBOEMCK_00207	CDS	hypothetical protein
+CDBOEMCK_00208	CDS	hypothetical protein
+CDBOEMCK_00209	CDS	hypothetical protein
+CDBOEMCK_00210	CDS	hypothetical protein
+CDBOEMCK_00211	CDS	Alkaline shock protein 23
+CDBOEMCK_00212	CDS	nusB	N utilization substance protein B 
+CDBOEMCK_00213	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+CDBOEMCK_00214	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+CDBOEMCK_00215	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+CDBOEMCK_00216	CDS	2.5.1.10	Farnesyl diphosphate synthase
+CDBOEMCK_00217	CDS	hypothetical protein
+CDBOEMCK_00218	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+CDBOEMCK_00219	CDS	tlyA	Hemolysin A
+CDBOEMCK_00220	CDS	nadK	2.7.1.23	NAD kinase
+CDBOEMCK_00221	CDS	argR	Arginine repressor
+CDBOEMCK_00222	CDS	recN	DNA repair protein RecN
+CDBOEMCK_00223	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+CDBOEMCK_00224	CDS	lysC	2.7.2.4	Aspartokinase
+CDBOEMCK_00225	CDS	capA	Capsule biosynthesis protein CapA
+CDBOEMCK_00226	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+CDBOEMCK_00227	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+CDBOEMCK_00228	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+CDBOEMCK_00229	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+CDBOEMCK_00230	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+CDBOEMCK_00231	CDS	hypothetical protein
+CDBOEMCK_00232	CDS	hypothetical protein
+CDBOEMCK_00233	CDS	hypothetical protein
+CDBOEMCK_00234	CDS	radA	3.6.4.-	DNA repair protein RadA
+CDBOEMCK_00235	CDS	xerC	Tyrosine recombinase XerC
+CDBOEMCK_00236	CDS	amiB	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiB
+CDBOEMCK_00237	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+CDBOEMCK_00238	CDS	recO	DNA repair protein RecO
+CDBOEMCK_00239	CDS	era	GTPase Era
+CDBOEMCK_00240	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+CDBOEMCK_00241	CDS	PhoH-like protein
+CDBOEMCK_00242	CDS	hypothetical protein
+CDBOEMCK_00243	CDS	hypothetical protein
+CDBOEMCK_00244	CDS	pucA	1.17.1.4	putative xanthine dehydrogenase subunit A
+CDBOEMCK_00245	CDS	hypothetical protein
+CDBOEMCK_00246	CDS	csdA	2.8.1.7	Cysteine desulfurase CsdA
+CDBOEMCK_00247	CDS	hypothetical protein
+CDBOEMCK_00248	CDS	selD	2.7.9.3	Selenide, water dikinase
+CDBOEMCK_00249	CDS	hypothetical protein
+CDBOEMCK_00250	CDS	xdhA	1.17.1.4	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+CDBOEMCK_00251	CDS	hcrC	1.3.7.9	4-hydroxybenzoyl-CoA reductase subunit gamma
+CDBOEMCK_00252	CDS	hypothetical protein
+CDBOEMCK_00253	CDS	mobA	2.7.7.77	Molybdenum cofactor guanylyltransferase
+CDBOEMCK_00254	CDS	xanP	Xanthine permease XanP
+CDBOEMCK_00255	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+CDBOEMCK_00256	CDS	hypothetical protein
+CDBOEMCK_00257	CDS	ygaZ	Inner membrane protein YgaZ
+CDBOEMCK_00258	CDS	hypothetical protein
+CDBOEMCK_00259	CDS	speA	4.1.1.19	Arginine decarboxylase
+CDBOEMCK_00260	CDS	1.8.98.-	Anaerobic sulfatase-maturating enzyme
+CDBOEMCK_00261	CDS	hypothetical protein
+CDBOEMCK_00262	CDS	hypothetical protein
+CDBOEMCK_00263	tRNA	tRNA-Gln(ctg)
+CDBOEMCK_00264	CDS	mggB	3.1.3.-	Mannosylglucosyl-3-phosphoglycerate phosphatase
+CDBOEMCK_00265	CDS	4.2.1.53	Oleate hydratase
+CDBOEMCK_00266	CDS	hypothetical protein
+CDBOEMCK_00267	CDS	hypothetical protein
+CDBOEMCK_00268	CDS	hypothetical protein
+CDBOEMCK_00269	CDS	hypothetical protein
+CDBOEMCK_00270	CDS	hypothetical protein

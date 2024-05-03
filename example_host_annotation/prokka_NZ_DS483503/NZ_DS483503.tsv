@@ -1,0 +1,943 @@
+locus_tag	ftype	gene	EC_number	product
+MCNONEBL_00001	CDS	hrcA	Heat-inducible transcription repressor HrcA
+MCNONEBL_00002	CDS	grpE	Protein GrpE
+MCNONEBL_00003	CDS	dnaK	Chaperone protein DnaK
+MCNONEBL_00004	CDS	dnaJ	Chaperone protein DnaJ
+MCNONEBL_00005	CDS	hypothetical protein
+MCNONEBL_00006	CDS	hypothetical protein
+MCNONEBL_00007	CDS	hypothetical protein
+MCNONEBL_00008	CDS	patA_1	2.3.1.-	Peptidoglycan O-acetyltransferase
+MCNONEBL_00009	CDS	hypothetical protein
+MCNONEBL_00010	CDS	vanYB	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+MCNONEBL_00011	CDS	hypothetical protein
+MCNONEBL_00012	CDS	spoVAD	Stage V sporulation protein AD
+MCNONEBL_00013	CDS	hypothetical protein
+MCNONEBL_00014	CDS	hypothetical protein
+MCNONEBL_00015	CDS	rpsT	30S ribosomal protein S20
+MCNONEBL_00016	CDS	gpr_1	3.4.24.78	Germination protease
+MCNONEBL_00017	CDS	hypothetical protein
+MCNONEBL_00018	CDS	hypothetical protein
+MCNONEBL_00019	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+MCNONEBL_00020	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+MCNONEBL_00021	CDS	hypothetical protein
+MCNONEBL_00022	CDS	hypothetical protein
+MCNONEBL_00023	CDS	hypothetical protein
+MCNONEBL_00024	CDS	hypothetical protein
+MCNONEBL_00025	CDS	hypothetical protein
+MCNONEBL_00026	CDS	sigM	ECF RNA polymerase sigma factor SigM
+MCNONEBL_00027	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+MCNONEBL_00028	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+MCNONEBL_00029	CDS	hypothetical protein
+MCNONEBL_00030	CDS	acm	3.2.1.17	Lysozyme M1
+MCNONEBL_00031	CDS	hypothetical protein
+MCNONEBL_00032	CDS	argG	6.3.4.5	Argininosuccinate synthase
+MCNONEBL_00033	CDS	argH	4.3.2.1	Argininosuccinate lyase
+MCNONEBL_00034	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+MCNONEBL_00035	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ
+MCNONEBL_00036	CDS	argB	2.7.2.8	Acetylglutamate kinase
+MCNONEBL_00037	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+MCNONEBL_00038	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+MCNONEBL_00039	CDS	hypothetical protein
+MCNONEBL_00040	CDS	hypothetical protein
+MCNONEBL_00041	CDS	hypothetical protein
+MCNONEBL_00042	CDS	hypothetical protein
+MCNONEBL_00043	CDS	hypothetical protein
+MCNONEBL_00044	CDS	mepA_1	Multidrug export protein MepA
+MCNONEBL_00045	CDS	hypothetical protein
+MCNONEBL_00046	CDS	hypothetical protein
+MCNONEBL_00047	CDS	hypothetical protein
+MCNONEBL_00048	CDS	ilvK	2.6.1.42	Branched-chain-amino-acid aminotransferase 2
+MCNONEBL_00049	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+MCNONEBL_00050	CDS	yfkN_1	Trifunctional nucleotide phosphoesterase protein YfkN
+MCNONEBL_00051	CDS	glcK	2.7.1.2	Glucokinase
+MCNONEBL_00052	CDS	4.3.2.3	Ureidoglycolate lyase
+MCNONEBL_00053	CDS	yraA	3.2.-.-	Putative cysteine protease YraA
+MCNONEBL_00054	CDS	hypothetical protein
+MCNONEBL_00055	CDS	hypothetical protein
+MCNONEBL_00056	CDS	frp	1.5.1.38	NADPH-flavin oxidoreductase
+MCNONEBL_00057	CDS	xlnA	3.2.1.8	Endo-1,4-beta-xylanase A
+MCNONEBL_00058	CDS	mutX	3.6.1.55	8-oxo-dGTP diphosphatase
+MCNONEBL_00059	CDS	nagE	PTS system N-acetylglucosamine-specific EIICBA component
+MCNONEBL_00060	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+MCNONEBL_00061	CDS	ptsG	2.7.1.199	PTS system glucose-specific EIICBA component
+MCNONEBL_00062	CDS	yerB_1	Putative lipoprotein YerB
+MCNONEBL_00063	CDS	yerB_2	Putative lipoprotein YerB
+MCNONEBL_00064	CDS	hypothetical protein
+MCNONEBL_00065	CDS	cobC	3.1.3.73	Adenosylcobalamin/alpha-ribazole phosphatase
+MCNONEBL_00066	CDS	hypothetical protein
+MCNONEBL_00067	CDS	immR_1	HTH-type transcriptional regulator ImmR
+MCNONEBL_00068	CDS	hypothetical protein
+MCNONEBL_00069	CDS	hypothetical protein
+MCNONEBL_00070	CDS	hypothetical protein
+MCNONEBL_00071	tRNA	tRNA-Ser(cga)
+MCNONEBL_00072	CDS	hypothetical protein
+MCNONEBL_00073	CDS	hypothetical protein
+MCNONEBL_00074	CDS	dauR	Transcriptional regulator DauR
+MCNONEBL_00075	CDS	ridA	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+MCNONEBL_00076	CDS	hypothetical protein
+MCNONEBL_00077	CDS	hypothetical protein
+MCNONEBL_00078	CDS	fieF	Ferrous-iron efflux pump FieF
+MCNONEBL_00079	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+MCNONEBL_00080	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+MCNONEBL_00081	CDS	hypothetical protein
+MCNONEBL_00082	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+MCNONEBL_00083	CDS	hypothetical protein
+MCNONEBL_00084	CDS	hypothetical protein
+MCNONEBL_00085	CDS	dacB	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacB
+MCNONEBL_00086	CDS	hypothetical protein
+MCNONEBL_00087	CDS	hypothetical protein
+MCNONEBL_00088	CDS	hypothetical protein
+MCNONEBL_00089	CDS	opuBA	Choline transport ATP-binding protein OpuBA
+MCNONEBL_00090	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+MCNONEBL_00091	CDS	hypothetical protein
+MCNONEBL_00092	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 3
+MCNONEBL_00093	CDS	murAB	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+MCNONEBL_00094	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+MCNONEBL_00095	CDS	dnaC	DNA replication protein DnaC
+MCNONEBL_00096	CDS	hypothetical protein
+MCNONEBL_00097	CDS	hypothetical protein
+MCNONEBL_00098	tRNA	tRNA-Thr(cgt)
+MCNONEBL_00099	CDS	hypothetical protein
+MCNONEBL_00100	CDS	nth	4.2.99.18	Endonuclease III
+MCNONEBL_00101	CDS	putative AAA domain-containing protein
+MCNONEBL_00102	CDS	perR	Peroxide operon regulator
+MCNONEBL_00103	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MCNONEBL_00104	CDS	hypothetical protein
+MCNONEBL_00105	CDS	mutS_1	DNA mismatch repair protein MutS
+MCNONEBL_00106	CDS	mutL	DNA mismatch repair protein MutL
+MCNONEBL_00107	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+MCNONEBL_00108	CDS	hypothetical protein
+MCNONEBL_00109	CDS	sepF	Cell division protein SepF
+MCNONEBL_00110	CDS	hypothetical protein
+MCNONEBL_00111	CDS	gpsB	Cell cycle protein GpsB
+MCNONEBL_00112	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+MCNONEBL_00113	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+MCNONEBL_00114	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+MCNONEBL_00115	CDS	hypothetical protein
+MCNONEBL_00116	CDS	comEA	ComE operon protein 1
+MCNONEBL_00117	CDS	ppk	2.7.4.1	Polyphosphate kinase
+MCNONEBL_00118	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+MCNONEBL_00119	CDS	hypothetical protein
+MCNONEBL_00120	CDS	hypothetical protein
+MCNONEBL_00121	CDS	hypothetical protein
+MCNONEBL_00122	CDS	rplS	50S ribosomal protein L19
+MCNONEBL_00123	CDS	sipT	3.4.21.89	Signal peptidase I T
+MCNONEBL_00124	CDS	rbgA	Ribosome biogenesis GTPase A
+MCNONEBL_00125	CDS	rnhB	3.1.26.4	Ribonuclease HII
+MCNONEBL_00126	CDS	hypothetical protein
+MCNONEBL_00127	CDS	thrC	4.2.3.1	Threonine synthase
+MCNONEBL_00128	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+MCNONEBL_00129	CDS	tig_1	5.2.1.8	Trigger factor
+MCNONEBL_00130	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+MCNONEBL_00131	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX
+MCNONEBL_00132	CDS	Putative aminotransferase/MSMEI_6121
+MCNONEBL_00133	CDS	hypothetical protein
+MCNONEBL_00134	CDS	nrdR	Transcriptional repressor NrdR
+MCNONEBL_00135	CDS	hypothetical protein
+MCNONEBL_00136	CDS	hypothetical protein
+MCNONEBL_00137	CDS	gerBA	Spore germination protein B1
+MCNONEBL_00138	CDS	hypothetical protein
+MCNONEBL_00139	CDS	hypothetical protein
+MCNONEBL_00140	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+MCNONEBL_00141	CDS	phoB	Phosphate regulon transcriptional regulatory protein PhoB
+MCNONEBL_00142	CDS	hypothetical protein
+MCNONEBL_00143	CDS	hypothetical protein
+MCNONEBL_00144	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+MCNONEBL_00145	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+MCNONEBL_00146	CDS	yvcJ	Nucleotide-binding protein YvcJ
+MCNONEBL_00147	CDS	whiA	Putative sporulation transcription regulator WhiA
+MCNONEBL_00148	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+MCNONEBL_00149	CDS	pfkA	2.7.1.11	ATP-dependent 6-phosphofructokinase
+MCNONEBL_00150	CDS	hypothetical protein
+MCNONEBL_00151	CDS	hypothetical protein
+MCNONEBL_00152	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+MCNONEBL_00153	CDS	hypothetical protein
+MCNONEBL_00154	CDS	Putative prophage phiRv2 integrase
+MCNONEBL_00155	CDS	hypothetical protein
+MCNONEBL_00156	CDS	hypothetical protein
+MCNONEBL_00157	CDS	hypothetical protein
+MCNONEBL_00158	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+MCNONEBL_00159	CDS	hypothetical protein
+MCNONEBL_00160	CDS	hypothetical protein
+MCNONEBL_00161	CDS	hypothetical protein
+MCNONEBL_00162	CDS	hypothetical protein
+MCNONEBL_00163	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+MCNONEBL_00164	CDS	ygaZ	Inner membrane protein YgaZ
+MCNONEBL_00165	CDS	hypothetical protein
+MCNONEBL_00166	CDS	rmlD_1	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+MCNONEBL_00167	CDS	xanP	Xanthine permease XanP
+MCNONEBL_00168	CDS	mobA_1	2.7.7.77	Molybdenum cofactor guanylyltransferase
+MCNONEBL_00169	CDS	hypothetical protein
+MCNONEBL_00170	CDS	hcrC	1.3.7.9	4-hydroxybenzoyl-CoA reductase subunit gamma
+MCNONEBL_00171	CDS	xdhA	1.17.1.4	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+MCNONEBL_00172	CDS	hypothetical protein
+MCNONEBL_00173	CDS	selD	2.7.9.3	Selenide, water dikinase
+MCNONEBL_00174	CDS	hypothetical protein
+MCNONEBL_00175	CDS	csdA	2.8.1.7	Cysteine desulfurase CsdA
+MCNONEBL_00176	CDS	hypothetical protein
+MCNONEBL_00177	CDS	pucA	1.17.1.4	putative xanthine dehydrogenase subunit A
+MCNONEBL_00178	CDS	hypothetical protein
+MCNONEBL_00179	CDS	hypothetical protein
+MCNONEBL_00180	CDS	hypothetical protein
+MCNONEBL_00181	CDS	hypothetical protein
+MCNONEBL_00182	CDS	PhoH-like protein
+MCNONEBL_00183	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+MCNONEBL_00184	CDS	era	GTPase Era
+MCNONEBL_00185	CDS	hypothetical protein
+MCNONEBL_00186	CDS	recO	DNA repair protein RecO
+MCNONEBL_00187	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+MCNONEBL_00188	CDS	amiB	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiB
+MCNONEBL_00189	CDS	xerC_1	Tyrosine recombinase XerC
+MCNONEBL_00190	CDS	radA_1	3.6.4.-	DNA repair protein RadA
+MCNONEBL_00191	CDS	hypothetical protein
+MCNONEBL_00192	CDS	hypothetical protein
+MCNONEBL_00193	CDS	hypothetical protein
+MCNONEBL_00194	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+MCNONEBL_00195	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MCNONEBL_00196	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+MCNONEBL_00197	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+MCNONEBL_00198	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+MCNONEBL_00199	CDS	capA	Capsule biosynthesis protein CapA
+MCNONEBL_00200	CDS	lysC	2.7.2.4	Aspartokinase
+MCNONEBL_00201	CDS	crr	2.7.1.199	PTS system glucose-specific EIIA component
+MCNONEBL_00202	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+MCNONEBL_00203	CDS	recN	DNA repair protein RecN
+MCNONEBL_00204	CDS	argR	Arginine repressor
+MCNONEBL_00205	CDS	nadK	2.7.1.23	NAD kinase
+MCNONEBL_00206	CDS	tlyA	Hemolysin A
+MCNONEBL_00207	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+MCNONEBL_00208	CDS	hypothetical protein
+MCNONEBL_00209	CDS	2.5.1.10	Farnesyl diphosphate synthase
+MCNONEBL_00210	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+MCNONEBL_00211	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+MCNONEBL_00212	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+MCNONEBL_00213	CDS	nusB	N utilization substance protein B 
+MCNONEBL_00214	CDS	Alkaline shock protein 23
+MCNONEBL_00215	CDS	hypothetical protein
+MCNONEBL_00216	CDS	hypothetical protein
+MCNONEBL_00217	CDS	hypothetical protein
+MCNONEBL_00218	CDS	hypothetical protein
+MCNONEBL_00219	CDS	hypothetical protein
+MCNONEBL_00220	CDS	hypothetical protein
+MCNONEBL_00221	CDS	hypothetical protein
+MCNONEBL_00222	CDS	hypothetical protein
+MCNONEBL_00223	CDS	ligA	6.5.1.2	DNA ligase
+MCNONEBL_00224	CDS	hypothetical protein
+MCNONEBL_00225	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+MCNONEBL_00226	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+MCNONEBL_00227	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+MCNONEBL_00228	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+MCNONEBL_00229	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+MCNONEBL_00230	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+MCNONEBL_00231	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+MCNONEBL_00232	CDS	def1	3.5.1.88	Peptide deformylase 1
+MCNONEBL_00233	CDS	priA	3.6.4.-	Primosomal protein N'
+MCNONEBL_00234	CDS	gmk	2.7.4.8	Guanylate kinase
+MCNONEBL_00235	CDS	hypothetical protein
+MCNONEBL_00236	CDS	hypothetical protein
+MCNONEBL_00237	CDS	hypothetical protein
+MCNONEBL_00238	CDS	2.1.3.1	Methylmalonyl-CoA carboxyltransferase 5S subunit
+MCNONEBL_00239	CDS	gcdC	4.1.1.70	Glutaconyl-CoA decarboxylase subunit gamma
+MCNONEBL_00240	CDS	2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+MCNONEBL_00241	CDS	glpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase
+MCNONEBL_00242	CDS	tsf	Elongation factor Ts
+MCNONEBL_00243	CDS	rpsB	30S ribosomal protein S2
+MCNONEBL_00244	CDS	hypothetical protein
+MCNONEBL_00245	CDS	hypothetical protein
+MCNONEBL_00246	CDS	3.1.3.-	D-ribitol-5-phosphate phosphatase
+MCNONEBL_00247	CDS	hypothetical protein
+MCNONEBL_00248	CDS	Flavodoxin
+MCNONEBL_00249	CDS	hypothetical protein
+MCNONEBL_00250	CDS	ydcP	3.4.-.-	putative protease YdcP
+MCNONEBL_00251	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+MCNONEBL_00252	CDS	hypothetical protein
+MCNONEBL_00253	CDS	tmk	2.7.4.9	Thymidylate kinase
+MCNONEBL_00254	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+MCNONEBL_00255	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+MCNONEBL_00256	CDS	hypothetical protein
+MCNONEBL_00257	CDS	yurK	putative HTH-type transcriptional regulator YurK
+MCNONEBL_00258	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+MCNONEBL_00259	CDS	pyrI	Aspartate carbamoyltransferase regulatory chain
+MCNONEBL_00260	CDS	hypothetical protein
+MCNONEBL_00261	CDS	lytR_1	Sensory transduction protein LytR
+MCNONEBL_00262	CDS	hypothetical protein
+MCNONEBL_00263	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+MCNONEBL_00264	CDS	ytfJ	putative spore protein YtfJ
+MCNONEBL_00265	CDS	hypothetical protein
+MCNONEBL_00266	CDS	scpB	Segregation and condensation protein B
+MCNONEBL_00267	CDS	scpA	Segregation and condensation protein A
+MCNONEBL_00268	CDS	hypothetical protein
+MCNONEBL_00269	CDS	rpmB	50S ribosomal protein L28
+MCNONEBL_00270	CDS	hypothetical protein
+MCNONEBL_00271	CDS	hypothetical protein
+MCNONEBL_00272	CDS	csoR	Copper-sensing transcriptional repressor CsoR
+MCNONEBL_00273	CDS	copA	3.6.3.54	putative copper-importing P-type ATPase A
+MCNONEBL_00274	CDS	rbr3B	1.11.1.1	Reverse rubrerythrin-2
+MCNONEBL_00275	CDS	pyrP	Uracil permease
+MCNONEBL_00276	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+MCNONEBL_00277	CDS	tufB	Elongation factor Tu-B
+MCNONEBL_00278	CDS	fusA	Elongation factor G
+MCNONEBL_00279	CDS	rpsG	30S ribosomal protein S7
+MCNONEBL_00280	CDS	rpsL	30S ribosomal protein S12
+MCNONEBL_00281	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+MCNONEBL_00282	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+MCNONEBL_00283	CDS	sigA	RNA polymerase sigma factor SigA
+MCNONEBL_00284	CDS	dnaG_1	2.7.7.-	DNA primase
+MCNONEBL_00285	CDS	dgt	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+MCNONEBL_00286	CDS	yigZ	IMPACT family member YigZ
+MCNONEBL_00287	CDS	hypothetical protein
+MCNONEBL_00288	CDS	acrA	Acryloyl-CoA reductase electron transfer subunit beta
+MCNONEBL_00289	CDS	acrB	Acryloyl-CoA reductase electron transfer subunit gamma
+MCNONEBL_00290	CDS	bcd	1.3.8.1	Acyl-CoA dehydrogenase, short-chain specific
+MCNONEBL_00291	CDS	hbd	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+MCNONEBL_00292	CDS	crt	4.2.1.150	Short-chain-enoyl-CoA hydratase
+MCNONEBL_00293	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+MCNONEBL_00294	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+MCNONEBL_00295	CDS	cat1	2.8.3.-	Succinyl-CoA:coenzyme A transferase
+MCNONEBL_00296	CDS	hypothetical protein
+MCNONEBL_00297	CDS	hypothetical protein
+MCNONEBL_00298	CDS	mftC	2.-.-.-	Putative mycofactocin radical SAM maturase MftC
+MCNONEBL_00299	CDS	dhaS	HTH-type dhaKLM operon transcriptional activator DhaS
+MCNONEBL_00300	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+MCNONEBL_00301	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+MCNONEBL_00302	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+MCNONEBL_00303	CDS	mgsA	4.2.3.3	Methylglyoxal synthase
+MCNONEBL_00304	CDS	hypothetical protein
+MCNONEBL_00305	CDS	hypothetical protein
+MCNONEBL_00306	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+MCNONEBL_00307	CDS	dppE	Dipeptide-binding protein DppE
+MCNONEBL_00308	tRNA	tRNA-Gly(ccc)
+MCNONEBL_00309	CDS	fprA1	1.6.3.4	Flavo-diiron protein FprA1
+MCNONEBL_00310	CDS	hypothetical protein
+MCNONEBL_00311	CDS	hypothetical protein
+MCNONEBL_00312	CDS	axeA1_1	3.1.1.72	Acetylxylan esterase
+MCNONEBL_00313	CDS	pitA	2.3.1.-	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+MCNONEBL_00314	CDS	hypothetical protein
+MCNONEBL_00315	CDS	hypothetical protein
+MCNONEBL_00316	CDS	axeA1_2	3.1.1.72	Acetylxylan esterase
+MCNONEBL_00317	CDS	hypothetical protein
+MCNONEBL_00318	CDS	htpG	Chaperone protein HtpG
+MCNONEBL_00319	CDS	hypothetical protein
+MCNONEBL_00320	CDS	galK	2.7.1.6	Galactokinase
+MCNONEBL_00321	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+MCNONEBL_00322	CDS	cutC	Copper homeostasis protein CutC
+MCNONEBL_00323	CDS	hypothetical protein
+MCNONEBL_00324	CDS	ecsA	ABC-type transporter ATP-binding protein EcsA
+MCNONEBL_00325	CDS	cbiK	4.99.1.3	Sirohydrochlorin cobaltochelatase
+MCNONEBL_00326	CDS	hypothetical protein
+MCNONEBL_00327	CDS	hypothetical protein
+MCNONEBL_00328	CDS	hmuU	Hemin transport system permease protein HmuU
+MCNONEBL_00329	CDS	cbiD	2.1.1.195	Cobalt-precorrin-5B C(1)-methyltransferase
+MCNONEBL_00330	CDS	cbiF	2.1.1.271	Cobalt-precorrin-4 C(11)-methyltransferase
+MCNONEBL_00331	CDS	cbiG	3.7.1.12	Cobalt-precorrin-5A hydrolase
+MCNONEBL_00332	CDS	cbiH	2.1.1.-	putative cobalt-factor III C(17)-methyltransferase
+MCNONEBL_00333	CDS	cbiJ	1.3.1.106	Cobalt-precorrin-6A reductase
+MCNONEBL_00334	CDS	cbiET	Cobalamin biosynthesis bifunctional protein CbiET
+MCNONEBL_00335	CDS	cbiA	6.3.5.11	Cobyrinate a,c-diamide synthase
+MCNONEBL_00336	CDS	cobT	2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MCNONEBL_00337	CDS	cobU	2.7.1.156	Bifunctional adenosylcobalamin biosynthesis protein CobU
+MCNONEBL_00338	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+MCNONEBL_00339	CDS	hypothetical protein
+MCNONEBL_00340	CDS	pspB	3.1.3.3	Putative phosphoserine phosphatase 2
+MCNONEBL_00341	CDS	cobD_1	Cobalamin biosynthesis protein CobD
+MCNONEBL_00342	CDS	cobD_2	4.1.1.81	Threonine-phosphate decarboxylase
+MCNONEBL_00343	CDS	cobQ	Cobyric acid synthase
+MCNONEBL_00344	CDS	cbiC	5.4.99.60	Cobalt-precorrin-8 methylmutase
+MCNONEBL_00345	CDS	3.4.21.-	putative peptidase
+MCNONEBL_00346	CDS	hypothetical protein
+MCNONEBL_00347	CDS	3.6.1.25	Inorganic triphosphatase
+MCNONEBL_00348	CDS	rlmI	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+MCNONEBL_00349	CDS	glnA_1	6.3.1.2	Glutamine synthetase
+MCNONEBL_00350	CDS	glnA_2	6.3.1.2	Glutamine synthetase
+MCNONEBL_00351	CDS	pdtaR	putative transcriptional regulatory protein pdtaR
+MCNONEBL_00352	CDS	pyrG	6.3.4.2	CTP synthase
+MCNONEBL_00353	CDS	putative signaling protein
+MCNONEBL_00354	tRNA	tRNA-Leu(tag)
+MCNONEBL_00355	tRNA	tRNA-Leu(gag)
+MCNONEBL_00356	CDS	Bifunctional xylanase/deacetylase
+MCNONEBL_00357	CDS	hmrR	HTH-type transcriptional regulator HmrR
+MCNONEBL_00358	CDS	apeA	3.4.11.-	putative M18 family aminopeptidase 1
+MCNONEBL_00359	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+MCNONEBL_00360	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+MCNONEBL_00361	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+MCNONEBL_00362	CDS	prfA	Peptide chain release factor 1
+MCNONEBL_00363	CDS	hypothetical protein
+MCNONEBL_00364	CDS	rpsA_1	30S ribosomal protein S1
+MCNONEBL_00365	CDS	hypothetical protein
+MCNONEBL_00366	CDS	spoIVA	3.6.1.3	Stage IV sporulation protein A
+MCNONEBL_00367	CDS	aspS2	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+MCNONEBL_00368	CDS	hypothetical protein
+MCNONEBL_00369	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+MCNONEBL_00370	CDS	mepA_2	Multidrug export protein MepA
+MCNONEBL_00371	CDS	zupT	Zinc transporter ZupT
+MCNONEBL_00372	CDS	hypothetical protein
+MCNONEBL_00373	CDS	hypothetical protein
+MCNONEBL_00374	CDS	fas6	3.2.2.-	Cytokinin riboside 5'-monophosphate phosphoribohydrolase
+MCNONEBL_00375	CDS	chrA	Chromate transport protein
+MCNONEBL_00376	CDS	chrA1	Chromate transport protein
+MCNONEBL_00377	CDS	hypothetical protein
+MCNONEBL_00378	CDS	potD	Spermidine/putrescine-binding periplasmic protein
+MCNONEBL_00379	CDS	ydcV	Inner membrane ABC transporter permease protein YdcV
+MCNONEBL_00380	CDS	potH	Putrescine transport system permease protein PotH
+MCNONEBL_00381	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+MCNONEBL_00382	CDS	hypothetical protein
+MCNONEBL_00383	CDS	hypothetical protein
+MCNONEBL_00384	CDS	hypothetical protein
+MCNONEBL_00385	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+MCNONEBL_00386	CDS	rpmE	50S ribosomal protein L31
+MCNONEBL_00387	CDS	hypothetical protein
+MCNONEBL_00388	CDS	immR_2	HTH-type transcriptional regulator ImmR
+MCNONEBL_00389	CDS	hypothetical protein
+MCNONEBL_00390	CDS	hypothetical protein
+MCNONEBL_00391	CDS	hypothetical protein
+MCNONEBL_00392	CDS	glmM_1	5.4.2.10	Phosphoglucosamine mutase
+MCNONEBL_00393	CDS	rfbB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+MCNONEBL_00394	CDS	tarI'	2.7.7.40	Ribitol-5-phosphate cytidylyltransferase 2
+MCNONEBL_00395	CDS	hypothetical protein
+MCNONEBL_00396	CDS	rfbX	Putative O-antigen transporter
+MCNONEBL_00397	CDS	glf	5.4.99.9	UDP-galactopyranose mutase
+MCNONEBL_00398	CDS	epsH	2.4.-.-	Putative glycosyltransferase EpsH
+MCNONEBL_00399	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+MCNONEBL_00400	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+MCNONEBL_00401	CDS	hypothetical protein
+MCNONEBL_00402	CDS	2.3.1.-	Putative acetyltransferase
+MCNONEBL_00403	CDS	bshA	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+MCNONEBL_00404	CDS	tagA	2.4.1.187	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+MCNONEBL_00405	CDS	wbpI_1	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+MCNONEBL_00406	CDS	wbjC_1	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+MCNONEBL_00407	CDS	epsM	2.3.1.-	Putative acetyltransferase EpsM
+MCNONEBL_00408	CDS	capD_1	5.1.3.2	UDP-glucose 4-epimerase
+MCNONEBL_00409	CDS	wecA	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+MCNONEBL_00410	CDS	hypothetical protein
+MCNONEBL_00411	CDS	hypothetical protein
+MCNONEBL_00412	CDS	hypothetical protein
+MCNONEBL_00413	CDS	hypothetical protein
+MCNONEBL_00414	CDS	immR_3	HTH-type transcriptional regulator ImmR
+MCNONEBL_00415	CDS	hypothetical protein
+MCNONEBL_00416	CDS	hypothetical protein
+MCNONEBL_00417	CDS	hypothetical protein
+MCNONEBL_00418	CDS	xerD_1	Tyrosine recombinase XerD
+MCNONEBL_00419	tRNA	tRNA-Leu(taa)
+MCNONEBL_00420	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+MCNONEBL_00421	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+MCNONEBL_00422	CDS	nadX	1.4.1.21	L-aspartate dehydrogenase
+MCNONEBL_00423	CDS	1.1.1.29	Glycerate dehydrogenase
+MCNONEBL_00424	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+MCNONEBL_00425	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+MCNONEBL_00426	CDS	speA	4.1.1.19	Arginine decarboxylase
+MCNONEBL_00427	CDS	1.8.98.-	Anaerobic sulfatase-maturating enzyme
+MCNONEBL_00428	CDS	hypothetical protein
+MCNONEBL_00429	CDS	hypothetical protein
+MCNONEBL_00430	tRNA	tRNA-Gln(ctg)
+MCNONEBL_00431	CDS	yfkN_2	Trifunctional nucleotide phosphoesterase protein YfkN
+MCNONEBL_00432	CDS	4.2.1.53	Oleate hydratase
+MCNONEBL_00433	CDS	hypothetical protein
+MCNONEBL_00434	CDS	phnPP	3.1.4.57	Phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase
+MCNONEBL_00435	CDS	dmdA	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+MCNONEBL_00436	CDS	mepA_3	Multidrug export protein MepA
+MCNONEBL_00437	CDS	tcyC	3.6.3.-	L-cystine import ATP-binding protein TcyC
+MCNONEBL_00438	CDS	tcyB	L-cystine transport system permease protein TcyB
+MCNONEBL_00439	CDS	fliY	L-cystine-binding protein FliY
+MCNONEBL_00440	CDS	hypothetical protein
+MCNONEBL_00441	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+MCNONEBL_00442	CDS	DegV domain-containing protein
+MCNONEBL_00443	CDS	hypothetical protein
+MCNONEBL_00444	tmRNA	ssrA	transfer-messenger RNA, SsrA
+MCNONEBL_00445	CDS	smpB	SsrA-binding protein
+MCNONEBL_00446	CDS	recR	Recombination protein RecR
+MCNONEBL_00447	CDS	Nucleoid-associated protein
+MCNONEBL_00448	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+MCNONEBL_00449	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+MCNONEBL_00450	CDS	hypothetical protein
+MCNONEBL_00451	CDS	hypothetical protein
+MCNONEBL_00452	CDS	hypothetical protein
+MCNONEBL_00453	CDS	btuR	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+MCNONEBL_00454	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+MCNONEBL_00455	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+MCNONEBL_00456	CDS	fchA	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase
+MCNONEBL_00457	CDS	folD	Bifunctional protein FolD protein
+MCNONEBL_00458	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MCNONEBL_00459	CDS	yeeO_1	putative FMN/FAD exporter YeeO
+MCNONEBL_00460	CDS	fmnP	Riboflavin transporter FmnP
+MCNONEBL_00461	CDS	ynaI	Low conductance mechanosensitive channel YnaI
+MCNONEBL_00462	CDS	hypothetical protein
+MCNONEBL_00463	CDS	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+MCNONEBL_00464	CDS	hypothetical protein
+MCNONEBL_00465	tRNA	tRNA-Gly(tcc)
+MCNONEBL_00466	tRNA	tRNA-Ala(ggc)
+MCNONEBL_00467	CDS	3.1.-.-	Ribonuclease
+MCNONEBL_00468	CDS	typA	GTP-binding protein TypA/BipA 
+MCNONEBL_00469	tRNA	tRNA-Asn(gtt)
+MCNONEBL_00470	CDS	lagD	3.4.22.-	Lactococcin-G-processing and transport ATP-binding protein LagD
+MCNONEBL_00471	CDS	hypothetical protein
+MCNONEBL_00472	CDS	hlyD	Hemolysin secretion protein D, chromosomal
+MCNONEBL_00473	CDS	hypothetical protein
+MCNONEBL_00474	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+MCNONEBL_00475	CDS	hypothetical protein
+MCNONEBL_00476	CDS	hypothetical protein
+MCNONEBL_00477	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+MCNONEBL_00478	CDS	yugI	General stress protein 13
+MCNONEBL_00479	CDS	ftsL	Cell division protein FtsL
+MCNONEBL_00480	CDS	hypothetical protein
+MCNONEBL_00481	CDS	yabP	Spore protein YabP
+MCNONEBL_00482	CDS	hypothetical protein
+MCNONEBL_00483	CDS	hupA	DNA-binding protein HU 1
+MCNONEBL_00484	CDS	mazG	3.6.1.8	Nucleoside triphosphate pyrophosphohydrolase
+MCNONEBL_00485	CDS	hypothetical protein
+MCNONEBL_00486	CDS	udk	2.7.1.48	Uridine kinase
+MCNONEBL_00487	CDS	hemZ	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+MCNONEBL_00488	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+MCNONEBL_00489	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+MCNONEBL_00490	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+MCNONEBL_00491	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+MCNONEBL_00492	CDS	hypothetical protein
+MCNONEBL_00493	CDS	hypothetical protein
+MCNONEBL_00494	CDS	hypothetical protein
+MCNONEBL_00495	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+MCNONEBL_00496	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+MCNONEBL_00497	CDS	pgcA	5.4.2.2	Phosphoglucomutase
+MCNONEBL_00498	CDS	hypothetical protein
+MCNONEBL_00499	CDS	comM	Competence protein ComM
+MCNONEBL_00500	CDS	hutI	3.5.2.7	Imidazolonepropionase
+MCNONEBL_00501	CDS	hypothetical protein
+MCNONEBL_00502	CDS	araC	Arabinose operon regulatory protein
+MCNONEBL_00503	CDS	yicJ	Inner membrane symporter YicJ
+MCNONEBL_00504	CDS	cbgA	3.2.1.23	Beta-galactosidase
+MCNONEBL_00505	CDS	2.4.1.211	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+MCNONEBL_00506	CDS	hypothetical protein
+MCNONEBL_00507	CDS	sugB	Trehalose transport system permease protein SugB
+MCNONEBL_00508	CDS	yteP	putative multiple-sugar transport system permease YteP
+MCNONEBL_00509	CDS	msmE	Multiple sugar-binding protein
+MCNONEBL_00510	CDS	adaA_1	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+MCNONEBL_00511	CDS	nahK	2.7.1.162	N-acetylhexosamine 1-kinase
+MCNONEBL_00512	CDS	kdpE	KDP operon transcriptional regulatory protein KdpE
+MCNONEBL_00513	CDS	kdpD	2.7.13.3	Sensor protein KdpD
+MCNONEBL_00514	CDS	ktrA	Ktr system potassium uptake protein A
+MCNONEBL_00515	CDS	ntpJ	Potassium/sodium uptake protein NtpJ
+MCNONEBL_00516	CDS	hypothetical protein
+MCNONEBL_00517	CDS	hcaR	Hca operon transcriptional activator HcaR
+MCNONEBL_00518	CDS	ywqN	1.-.-.-	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+MCNONEBL_00519	CDS	adh2	1.1.1.192	Long-chain-alcohol dehydrogenase 2
+MCNONEBL_00520	CDS	1.-.-.-	putative oxidoreductase/MSMEI_2347
+MCNONEBL_00521	CDS	hypothetical protein
+MCNONEBL_00522	CDS	hypothetical protein
+MCNONEBL_00523	CDS	Iron-sulfur flavoprotein
+MCNONEBL_00524	CDS	hypothetical protein
+MCNONEBL_00525	CDS	hypothetical protein
+MCNONEBL_00526	CDS	axeA1_3	3.1.1.72	Acetylxylan esterase
+MCNONEBL_00527	CDS	gpr_2	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+MCNONEBL_00528	CDS	hypothetical protein
+MCNONEBL_00529	CDS	hypothetical protein
+MCNONEBL_00530	CDS	hypothetical protein
+MCNONEBL_00531	CDS	hypothetical protein
+MCNONEBL_00532	CDS	ndoA	3.1.27.-	Endoribonuclease EndoA
+MCNONEBL_00533	CDS	hypothetical protein
+MCNONEBL_00534	CDS	hypothetical protein
+MCNONEBL_00535	CDS	xerD_2	Tyrosine recombinase XerD
+MCNONEBL_00536	CDS	hypothetical protein
+MCNONEBL_00537	CDS	hypothetical protein
+MCNONEBL_00538	CDS	hypothetical protein
+MCNONEBL_00539	CDS	hypothetical protein
+MCNONEBL_00540	CDS	hypothetical protein
+MCNONEBL_00541	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+MCNONEBL_00542	CDS	hypothetical protein
+MCNONEBL_00543	CDS	hypothetical protein
+MCNONEBL_00544	CDS	hypothetical protein
+MCNONEBL_00545	CDS	xerC_2	Tyrosine recombinase XerC
+MCNONEBL_00546	CDS	hypothetical protein
+MCNONEBL_00547	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+MCNONEBL_00548	CDS	hypothetical protein
+MCNONEBL_00549	CDS	hypothetical protein
+MCNONEBL_00550	CDS	hypothetical protein
+MCNONEBL_00551	CDS	hypothetical protein
+MCNONEBL_00552	CDS	hypothetical protein
+MCNONEBL_00553	CDS	hypothetical protein
+MCNONEBL_00554	CDS	hypothetical protein
+MCNONEBL_00555	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+MCNONEBL_00556	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+MCNONEBL_00557	CDS	blaI	Penicillinase repressor
+MCNONEBL_00558	CDS	gltA	2.3.3.16	Citrate synthase
+MCNONEBL_00559	CDS	hypothetical protein
+MCNONEBL_00560	CDS	comEC	ComE operon protein 3
+MCNONEBL_00561	CDS	hypothetical protein
+MCNONEBL_00562	CDS	spoIIIE	DNA translocase SpoIIIE
+MCNONEBL_00563	CDS	tepA	Translocation-enhancing protein TepA
+MCNONEBL_00564	CDS	rex	Redox-sensing transcriptional repressor Rex
+MCNONEBL_00565	CDS	tdk	2.7.1.21	Thymidine kinase
+MCNONEBL_00566	CDS	yesO	Putative ABC transporter substrate-binding protein YesO
+MCNONEBL_00567	CDS	lacF	Lactose transport system permease protein LacF
+MCNONEBL_00568	CDS	araQ	L-arabinose transport system permease protein AraQ
+MCNONEBL_00569	CDS	soxS	Regulatory protein SoxS
+MCNONEBL_00570	CDS	pgl	3.2.1.15	Polygalacturonase
+MCNONEBL_00571	CDS	yteR	3.2.1.172	Unsaturated rhamnogalacturonyl hydrolase YteR
+MCNONEBL_00572	CDS	hypothetical protein
+MCNONEBL_00573	CDS	hypothetical protein
+MCNONEBL_00574	CDS	kstR2	HTH-type transcriptional repressor KstR2
+MCNONEBL_00575	CDS	hypothetical protein
+MCNONEBL_00576	CDS	cmk	2.7.4.25	Cytidylate kinase
+MCNONEBL_00577	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+MCNONEBL_00578	CDS	rpsA_2	30S ribosomal protein S1
+MCNONEBL_00579	CDS	hypothetical protein
+MCNONEBL_00580	CDS	hypothetical protein
+MCNONEBL_00581	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+MCNONEBL_00582	CDS	yeaJ	2.7.7.65	Putative diguanylate cyclase YeaJ
+MCNONEBL_00583	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+MCNONEBL_00584	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+MCNONEBL_00585	CDS	hypothetical protein
+MCNONEBL_00586	CDS	putative ABC transporter ATP-binding protein
+MCNONEBL_00587	CDS	hypothetical protein
+MCNONEBL_00588	CDS	pbuG	Guanine/hypoxanthine permease PbuG
+MCNONEBL_00589	CDS	hypothetical protein
+MCNONEBL_00590	CDS	hypothetical protein
+MCNONEBL_00591	CDS	mglC	Galactoside transport system permease protein MglC
+MCNONEBL_00592	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+MCNONEBL_00593	CDS	mglB	D-galactose-binding periplasmic protein
+MCNONEBL_00594	CDS	hypothetical protein
+MCNONEBL_00595	CDS	hypothetical protein
+MCNONEBL_00596	CDS	hypothetical protein
+MCNONEBL_00597	CDS	hypothetical protein
+MCNONEBL_00598	CDS	hypothetical protein
+MCNONEBL_00599	CDS	hypothetical protein
+MCNONEBL_00600	CDS	hypothetical protein
+MCNONEBL_00601	CDS	hypothetical protein
+MCNONEBL_00602	CDS	hypothetical protein
+MCNONEBL_00603	CDS	hypothetical protein
+MCNONEBL_00604	tRNA	tRNA-His(gtg)
+MCNONEBL_00605	tRNA	tRNA-Arg(tct)
+MCNONEBL_00606	CDS	hypothetical protein
+MCNONEBL_00607	CDS	hypothetical protein
+MCNONEBL_00608	CDS	Purine-binding protein
+MCNONEBL_00609	CDS	hypothetical protein
+MCNONEBL_00610	CDS	hypothetical protein
+MCNONEBL_00611	CDS	hypothetical protein
+MCNONEBL_00612	CDS	hypothetical protein
+MCNONEBL_00613	CDS	Int-Tn_1	Transposase from transposon Tn916
+MCNONEBL_00614	CDS	radD	3.6.4.12	Putative DNA repair helicase RadD
+MCNONEBL_00615	CDS	gumD	2.7.8.31	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+MCNONEBL_00616	CDS	pglA	2.4.1.290	N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+MCNONEBL_00617	CDS	lacA	2.3.1.18	Galactoside O-acetyltransferase
+MCNONEBL_00618	CDS	hypothetical protein
+MCNONEBL_00619	CDS	hypothetical protein
+MCNONEBL_00620	CDS	hypothetical protein
+MCNONEBL_00621	CDS	hypothetical protein
+MCNONEBL_00622	CDS	capD_2	5.1.3.2	UDP-glucose 4-epimerase
+MCNONEBL_00623	CDS	pglD	2.3.1.203	UDP-N-acetylbacillosamine N-acetyltransferase
+MCNONEBL_00624	CDS	wbjC_2	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+MCNONEBL_00625	CDS	wbpI_2	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+MCNONEBL_00626	CDS	wbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+MCNONEBL_00627	CDS	ugd	1.1.1.22	UDP-glucose 6-dehydrogenase
+MCNONEBL_00628	CDS	hypothetical protein
+MCNONEBL_00629	CDS	glmM_2	5.4.2.10	Phosphoglucosamine mutase
+MCNONEBL_00630	CDS	hypothetical protein
+MCNONEBL_00631	CDS	recF	DNA replication and repair protein RecF
+MCNONEBL_00632	CDS	hypothetical protein
+MCNONEBL_00633	CDS	hypothetical protein
+MCNONEBL_00634	CDS	hypothetical protein
+MCNONEBL_00635	CDS	hypothetical protein
+MCNONEBL_00636	CDS	hypothetical protein
+MCNONEBL_00637	CDS	hypothetical protein
+MCNONEBL_00638	CDS	hypothetical protein
+MCNONEBL_00639	CDS	hypothetical protein
+MCNONEBL_00640	CDS	mazF_1	3.1.-.-	Endoribonuclease MazF
+MCNONEBL_00641	CDS	hypothetical protein
+MCNONEBL_00642	CDS	hypothetical protein
+MCNONEBL_00643	CDS	Int-Tn_2	Transposase from transposon Tn916
+MCNONEBL_00644	tRNA	tRNA-Leu(caa)
+MCNONEBL_00645	CDS	hypothetical protein
+MCNONEBL_00646	CDS	kfoC	Chondroitin synthase
+MCNONEBL_00647	CDS	wbbL	2.4.1.-	Rhamnosyltransferase WbbL
+MCNONEBL_00648	CDS	rfbA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 1
+MCNONEBL_00649	CDS	rmlD_2	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+MCNONEBL_00650	CDS	hypothetical protein
+MCNONEBL_00651	CDS	rffG	4.2.1.46	dTDP-glucose 4,6-dehydratase 2
+MCNONEBL_00652	CDS	hypothetical protein
+MCNONEBL_00653	CDS	hypothetical protein
+MCNONEBL_00654	CDS	hypothetical protein
+MCNONEBL_00655	CDS	feoA	Fe(2+) transport protein A
+MCNONEBL_00656	CDS	feoB	Fe(2+) transporter FeoB
+MCNONEBL_00657	CDS	hypothetical protein
+MCNONEBL_00658	CDS	hypothetical protein
+MCNONEBL_00659	CDS	hypothetical protein
+MCNONEBL_00660	CDS	lcfB	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+MCNONEBL_00661	CDS	hypothetical protein
+MCNONEBL_00662	CDS	tig_2	5.2.1.8	Trigger factor
+MCNONEBL_00663	CDS	hypothetical protein
+MCNONEBL_00664	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+MCNONEBL_00665	CDS	tvaII	3.2.1.135	Neopullulanase 2
+MCNONEBL_00666	CDS	niaR	putative transcription repressor NiaR
+MCNONEBL_00667	CDS	fabR	HTH-type transcriptional repressor FabR
+MCNONEBL_00668	CDS	hypothetical protein
+MCNONEBL_00669	CDS	putative signaling protein
+MCNONEBL_00670	CDS	yjiA	putative GTP-binding protein YjiA
+MCNONEBL_00671	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+MCNONEBL_00672	CDS	hypothetical protein
+MCNONEBL_00673	CDS	ltaE	4.1.2.48	Low specificity L-threonine aldolase
+MCNONEBL_00674	tRNA	tRNA-Leu(cag)
+MCNONEBL_00675	CDS	hypothetical protein
+MCNONEBL_00676	CDS	hypothetical protein
+MCNONEBL_00677	CDS	hypothetical protein
+MCNONEBL_00678	CDS	hypothetical protein
+MCNONEBL_00679	CDS	hypothetical protein
+MCNONEBL_00680	CDS	bioC	2.1.1.197	Malonyl-[acyl-carrier protein] O-methyltransferase
+MCNONEBL_00681	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+MCNONEBL_00682	CDS	baeB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+MCNONEBL_00683	CDS	hypothetical protein
+MCNONEBL_00684	CDS	hypothetical protein
+MCNONEBL_00685	CDS	hypothetical protein
+MCNONEBL_00686	CDS	hypothetical protein
+MCNONEBL_00687	CDS	hypothetical protein
+MCNONEBL_00688	CDS	hypothetical protein
+MCNONEBL_00689	CDS	hypothetical protein
+MCNONEBL_00690	CDS	pchR	Regulatory protein PchR
+MCNONEBL_00691	CDS	hypothetical protein
+MCNONEBL_00692	CDS	irtA	3.6.3.-	Iron import ATP-binding/permease protein IrtA
+MCNONEBL_00693	CDS	putative ABC transporter ATP-binding protein
+MCNONEBL_00694	CDS	hypothetical protein
+MCNONEBL_00695	CDS	hypothetical protein
+MCNONEBL_00696	CDS	hypothetical protein
+MCNONEBL_00697	CDS	hypothetical protein
+MCNONEBL_00698	CDS	hypothetical protein
+MCNONEBL_00699	CDS	hypothetical protein
+MCNONEBL_00700	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+MCNONEBL_00701	CDS	hypothetical protein
+MCNONEBL_00702	CDS	hin	DNA-invertase hin
+MCNONEBL_00703	CDS	hypothetical protein
+MCNONEBL_00704	CDS	hypothetical protein
+MCNONEBL_00705	CDS	hypothetical protein
+MCNONEBL_00706	CDS	hypothetical protein
+MCNONEBL_00707	CDS	hypothetical protein
+MCNONEBL_00708	CDS	hypothetical protein
+MCNONEBL_00709	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+MCNONEBL_00710	CDS	regX3	Sensory transduction protein regX3
+MCNONEBL_00711	CDS	tcrY	2.7.13.3	putative sensor histidine kinase TcrY
+MCNONEBL_00712	CDS	immR_4	HTH-type transcriptional regulator ImmR
+MCNONEBL_00713	CDS	hypothetical protein
+MCNONEBL_00714	CDS	hypothetical protein
+MCNONEBL_00715	CDS	hypothetical protein
+MCNONEBL_00716	CDS	hypothetical protein
+MCNONEBL_00717	CDS	hypothetical protein
+MCNONEBL_00718	CDS	hypothetical protein
+MCNONEBL_00719	CDS	hypothetical protein
+MCNONEBL_00720	CDS	hypothetical protein
+MCNONEBL_00721	CDS	hypothetical protein
+MCNONEBL_00722	CDS	iap_1	3.4.-.-	putative endopeptidase p60
+MCNONEBL_00723	CDS	hypothetical protein
+MCNONEBL_00724	CDS	hypothetical protein
+MCNONEBL_00725	CDS	hypothetical protein
+MCNONEBL_00726	CDS	spoVG	Putative septation protein SpoVG
+MCNONEBL_00727	CDS	hypothetical protein
+MCNONEBL_00728	CDS	hypothetical protein
+MCNONEBL_00729	CDS	hypothetical protein
+MCNONEBL_00730	CDS	hypothetical protein
+MCNONEBL_00731	CDS	dnaG_2	2.7.7.-	DNA primase
+MCNONEBL_00732	CDS	mobA_2	Mobilization protein A
+MCNONEBL_00733	CDS	hypothetical protein
+MCNONEBL_00734	CDS	hypothetical protein
+MCNONEBL_00735	CDS	hypothetical protein
+MCNONEBL_00736	CDS	hypothetical protein
+MCNONEBL_00737	CDS	hypothetical protein
+MCNONEBL_00738	CDS	hypothetical protein
+MCNONEBL_00739	CDS	hypothetical protein
+MCNONEBL_00740	CDS	hypothetical protein
+MCNONEBL_00741	CDS	hypothetical protein
+MCNONEBL_00742	CDS	hypothetical protein
+MCNONEBL_00743	CDS	hypothetical protein
+MCNONEBL_00744	CDS	hypothetical protein
+MCNONEBL_00745	CDS	hypothetical protein
+MCNONEBL_00746	CDS	hypothetical protein
+MCNONEBL_00747	CDS	hypothetical protein
+MCNONEBL_00748	CDS	spo0C_1	Chromosome-partitioning protein Spo0J
+MCNONEBL_00749	CDS	hypothetical protein
+MCNONEBL_00750	CDS	phoR	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+MCNONEBL_00751	CDS	sphR	Alkaline phosphatase synthesis transcriptional regulatory protein SphR
+MCNONEBL_00752	CDS	hypothetical protein
+MCNONEBL_00753	CDS	hypothetical protein
+MCNONEBL_00754	CDS	hypothetical protein
+MCNONEBL_00755	CDS	hypothetical protein
+MCNONEBL_00756	CDS	hypothetical protein
+MCNONEBL_00757	CDS	hypothetical protein
+MCNONEBL_00758	CDS	hypothetical protein
+MCNONEBL_00759	CDS	hypothetical protein
+MCNONEBL_00760	CDS	topB_1	5.99.1.2	DNA topoisomerase 3
+MCNONEBL_00761	CDS	hypothetical protein
+MCNONEBL_00762	CDS	hypothetical protein
+MCNONEBL_00763	CDS	iap_2	3.4.-.-	putative endopeptidase p60
+MCNONEBL_00764	CDS	hypothetical protein
+MCNONEBL_00765	CDS	hypothetical protein
+MCNONEBL_00766	CDS	hypothetical protein
+MCNONEBL_00767	CDS	hypothetical protein
+MCNONEBL_00768	CDS	hypothetical protein
+MCNONEBL_00769	CDS	hypothetical protein
+MCNONEBL_00770	CDS	dnaI	Primosomal protein DnaI
+MCNONEBL_00771	CDS	hypothetical protein
+MCNONEBL_00772	CDS	hypothetical protein
+MCNONEBL_00773	CDS	hypothetical protein
+MCNONEBL_00774	CDS	hypothetical protein
+MCNONEBL_00775	CDS	hypothetical protein
+MCNONEBL_00776	CDS	hypothetical protein
+MCNONEBL_00777	CDS	hypothetical protein
+MCNONEBL_00778	CDS	hypothetical protein
+MCNONEBL_00779	CDS	hypothetical protein
+MCNONEBL_00780	CDS	hypothetical protein
+MCNONEBL_00781	CDS	radA_2	3.6.4.-	DNA repair protein RadA
+MCNONEBL_00782	CDS	mobA_3	Mobilization protein A
+MCNONEBL_00783	CDS	hypothetical protein
+MCNONEBL_00784	CDS	hypothetical protein
+MCNONEBL_00785	CDS	phoP	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+MCNONEBL_00786	CDS	cssS	2.7.13.3	Sensor histidine kinase CssS
+MCNONEBL_00787	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+MCNONEBL_00788	CDS	hypothetical protein
+MCNONEBL_00789	CDS	hypothetical protein
+MCNONEBL_00790	CDS	hypothetical protein
+MCNONEBL_00791	CDS	hypothetical protein
+MCNONEBL_00792	CDS	hypothetical protein
+MCNONEBL_00793	CDS	hypothetical protein
+MCNONEBL_00794	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+MCNONEBL_00795	CDS	spo0C_2	Chromosome-partitioning protein Spo0J
+MCNONEBL_00796	CDS	hypothetical protein
+MCNONEBL_00797	CDS	hypothetical protein
+MCNONEBL_00798	CDS	hypothetical protein
+MCNONEBL_00799	CDS	hypothetical protein
+MCNONEBL_00800	CDS	hypothetical protein
+MCNONEBL_00801	CDS	hypothetical protein
+MCNONEBL_00802	CDS	hypothetical protein
+MCNONEBL_00803	CDS	hypothetical protein
+MCNONEBL_00804	CDS	hypothetical protein
+MCNONEBL_00805	CDS	hypothetical protein
+MCNONEBL_00806	CDS	hypothetical protein
+MCNONEBL_00807	CDS	hypothetical protein
+MCNONEBL_00808	CDS	hypothetical protein
+MCNONEBL_00809	CDS	hypothetical protein
+MCNONEBL_00810	CDS	hypothetical protein
+MCNONEBL_00811	CDS	hypothetical protein
+MCNONEBL_00812	CDS	hypothetical protein
+MCNONEBL_00813	CDS	topB_2	5.99.1.2	DNA topoisomerase 3
+MCNONEBL_00814	CDS	hypothetical protein
+MCNONEBL_00815	CDS	dnaG_3	2.7.7.-	DNA primase
+MCNONEBL_00816	CDS	hypothetical protein
+MCNONEBL_00817	CDS	mutS_2	DNA mismatch repair protein MutS
+MCNONEBL_00818	CDS	hypothetical protein
+MCNONEBL_00819	CDS	hypothetical protein
+MCNONEBL_00820	CDS	hypothetical protein
+MCNONEBL_00821	CDS	hypothetical protein
+MCNONEBL_00822	CDS	hypothetical protein
+MCNONEBL_00823	CDS	hypothetical protein
+MCNONEBL_00824	CDS	hypothetical protein
+MCNONEBL_00825	CDS	hypothetical protein
+MCNONEBL_00826	CDS	hypothetical protein
+MCNONEBL_00827	CDS	hypothetical protein
+MCNONEBL_00828	CDS	hypothetical protein
+MCNONEBL_00829	CDS	hypothetical protein
+MCNONEBL_00830	CDS	hypothetical protein
+MCNONEBL_00831	CDS	hypothetical protein
+MCNONEBL_00832	CDS	hypothetical protein
+MCNONEBL_00833	CDS	hypothetical protein
+MCNONEBL_00834	CDS	ybiA	3.2.2.-	N-glycosidase YbiA
+MCNONEBL_00835	CDS	hypothetical protein
+MCNONEBL_00836	CDS	hypothetical protein
+MCNONEBL_00837	CDS	hypothetical protein
+MCNONEBL_00838	CDS	hypothetical protein
+MCNONEBL_00839	CDS	xre_1	HTH-type transcriptional regulator Xre
+MCNONEBL_00840	CDS	hypothetical protein
+MCNONEBL_00841	CDS	hypothetical protein
+MCNONEBL_00842	CDS	hypothetical protein
+MCNONEBL_00843	CDS	hypothetical protein
+MCNONEBL_00844	CDS	hypothetical protein
+MCNONEBL_00845	CDS	hypothetical protein
+MCNONEBL_00846	CDS	hypothetical protein
+MCNONEBL_00847	CDS	hypothetical protein
+MCNONEBL_00848	CDS	hypothetical protein
+MCNONEBL_00849	CDS	hypothetical protein
+MCNONEBL_00850	CDS	spo0C_3	Chromosome-partitioning protein Spo0J
+MCNONEBL_00851	CDS	hypothetical protein
+MCNONEBL_00852	CDS	hypothetical protein
+MCNONEBL_00853	CDS	traG	Conjugal transfer protein TraG
+MCNONEBL_00854	CDS	hypothetical protein
+MCNONEBL_00855	CDS	hypothetical protein
+MCNONEBL_00856	CDS	treR	HTH-type transcriptional regulator TreR
+MCNONEBL_00857	CDS	treB	PTS system trehalose-specific EIIBC component
+MCNONEBL_00858	CDS	treA	3.2.1.93	Trehalose-6-phosphate hydrolase
+MCNONEBL_00859	CDS	yesR	3.2.1.172	Unsaturated rhamnogalacturonyl hydrolase YesR
+MCNONEBL_00860	CDS	adaA_2	2.1.1.-	Bifunctional transcriptional activator/DNA repair enzyme AdaA
+MCNONEBL_00861	CDS	dctM	C4-dicarboxylate TRAP transporter large permease protein DctM
+MCNONEBL_00862	CDS	rhaM	5.1.3.32	L-rhamnose mutarotase
+MCNONEBL_00863	CDS	rhaD	4.1.2.19	Rhamnulose-1-phosphate aldolase
+MCNONEBL_00864	CDS	hypothetical protein
+MCNONEBL_00865	CDS	hypothetical protein
+MCNONEBL_00866	CDS	hypothetical protein
+MCNONEBL_00867	CDS	hypothetical protein
+MCNONEBL_00868	CDS	ypdB	Transcriptional regulatory protein YpdB
+MCNONEBL_00869	CDS	hypothetical protein
+MCNONEBL_00870	CDS	mgtE	Magnesium transporter MgtE
+MCNONEBL_00871	CDS	hypothetical protein
+MCNONEBL_00872	CDS	ctpC	3.6.3.-	putative manganese/zinc-exporting P-type ATPase
+MCNONEBL_00873	CDS	yccM	Putative electron transport protein YccM
+MCNONEBL_00874	CDS	hypothetical protein
+MCNONEBL_00875	CDS	rsxG	Electron transport complex subunit RsxG
+MCNONEBL_00876	CDS	3.4.-.-	Putative DD-carboxypeptidase
+MCNONEBL_00877	CDS	yeeO_2	putative FMN/FAD exporter YeeO
+MCNONEBL_00878	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+MCNONEBL_00879	CDS	hypothetical protein
+MCNONEBL_00880	CDS	pepV	3.4.13.-	Beta-Ala-Xaa dipeptidase
+MCNONEBL_00881	CDS	hypothetical protein
+MCNONEBL_00882	CDS	hypothetical protein
+MCNONEBL_00883	CDS	hypothetical protein
+MCNONEBL_00884	CDS	hypothetical protein
+MCNONEBL_00885	CDS	sbcC	Nuclease SbcCD subunit C
+MCNONEBL_00886	CDS	sbcD	Nuclease SbcCD subunit D
+MCNONEBL_00887	CDS	3.4.17.14	Zinc D-Ala-D-Ala carboxypeptidase
+MCNONEBL_00888	CDS	hypothetical protein
+MCNONEBL_00889	CDS	hypothetical protein
+MCNONEBL_00890	CDS	hypothetical protein
+MCNONEBL_00891	CDS	hypothetical protein
+MCNONEBL_00892	CDS	patA_2	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+MCNONEBL_00893	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MCNONEBL_00894	CDS	hypothetical protein
+MCNONEBL_00895	CDS	hypothetical protein
+MCNONEBL_00896	CDS	hypothetical protein
+MCNONEBL_00897	CDS	5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+MCNONEBL_00898	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+MCNONEBL_00899	CDS	addB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+MCNONEBL_00900	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+MCNONEBL_00901	CDS	infC	Translation initiation factor IF-3
+MCNONEBL_00902	CDS	rpmI	50S ribosomal protein L35
+MCNONEBL_00903	CDS	rplT	50S ribosomal protein L20
+MCNONEBL_00904	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+MCNONEBL_00905	CDS	dprA	DNA processing protein DprA
+MCNONEBL_00906	CDS	topA	5.99.1.2	DNA topoisomerase 1
+MCNONEBL_00907	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+MCNONEBL_00908	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+MCNONEBL_00909	CDS	rnc	3.1.26.3	Ribonuclease 3
+MCNONEBL_00910	CDS	smc	Chromosome partition protein Smc
+MCNONEBL_00911	CDS	ftsY	Signal recognition particle receptor FtsY
+MCNONEBL_00912	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase
+MCNONEBL_00913	CDS	yhbY	RNA-binding protein YhbY
+MCNONEBL_00914	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+MCNONEBL_00915	CDS	hypothetical protein
+MCNONEBL_00916	CDS	lytR_2	Transcriptional regulator LytR
+MCNONEBL_00917	CDS	rsfS	Ribosomal silencing factor RsfS
+MCNONEBL_00918	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+MCNONEBL_00919	CDS	rpsU	30S ribosomal protein S21
+MCNONEBL_00920	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+MCNONEBL_00921	CDS	nfo	3.1.21.2	putative endonuclease 4
+MCNONEBL_00922	CDS	efp	Elongation factor P
+MCNONEBL_00923	CDS	hypothetical protein
+MCNONEBL_00924	CDS	hypothetical protein
+MCNONEBL_00925	CDS	hypothetical protein
+MCNONEBL_00926	CDS	fhs	6.3.4.3	Formate--tetrahydrofolate ligase
+MCNONEBL_00927	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+MCNONEBL_00928	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+MCNONEBL_00929	CDS	cinA	Putative competence-damage inducible protein
+MCNONEBL_00930	CDS	hypothetical protein
+MCNONEBL_00931	CDS	hypothetical protein
+MCNONEBL_00932	CDS	xerC_3	Tyrosine recombinase XerC
+MCNONEBL_00933	CDS	hypothetical protein
+MCNONEBL_00934	CDS	hypothetical protein
+MCNONEBL_00935	CDS	hypothetical protein
+MCNONEBL_00936	CDS	mazF_2	3.1.-.-	Endoribonuclease MazF
+MCNONEBL_00937	CDS	xre_2	HTH-type transcriptional regulator Xre
+MCNONEBL_00938	CDS	hypothetical protein
+MCNONEBL_00939	CDS	hypothetical protein
+MCNONEBL_00940	CDS	hypothetical protein
+MCNONEBL_00941	CDS	hypothetical protein
+MCNONEBL_00942	CDS	hypothetical protein

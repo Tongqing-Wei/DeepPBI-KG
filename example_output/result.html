@@ -1,0 +1,1445 @@
+<html>
+  <head>
+    <style type="text/css">
+        body{
+			font-family: verdana,arial,sans-serif;
+			font-size:11px;
+		}
+		table.gridtable {
+			color: #333333;
+			border-width: 1px;
+			border-color: #666666;
+			border-collapse: collapse;
+            font-size:11px;
+		}
+		table.gridtable th {
+			border-width: 1px;
+			padding: 8px;
+			border-style: solid;
+			border-color: #666666;
+			background-color: #DDEBF7;
+		}
+		table.gridtable td {
+			border-width: 1px;
+			padding: 8px;
+			border-style: solid;
+			border-color: #666666;
+			background-color: #ffffff;
+			text-align:center;
+		}
+		table.gridtable td.key_gene_output {
+            font-weight:bold;
+			color:#ED5F5F;
+		}
+		table.gridtable td.wgs_output {
+			font-weight:bold;
+			color:green;
+		}
+		li {
+			margin-top:5px;
+		}
+        div{
+            font-family: arial;
+            font-size:20px;
+            color:#0B610B;
+            margin-top:15px;
+        }
+    </style>
+  </head>
+  <body>
+    <div id="hello">
+      <b>
+        <font>Hi Users,</font>
+      </b>
+      <b>
+        <font>this is the prediction result of DeepPBI-KG</font>
+      </b>
+    </div>
+    <div id="test case result">
+      <table class="gridtable">
+        <tbody>
+          <tr>
+            <th style="background-color:white"></th>
+            <th>Phage</th>
+            <th>Bacterium</th>
+            <th>Key_gene_output</th>
+            <th>Wgs_output</th>
+            <th>Phage_optimum_align</th>
+            <th>Bacterium_optimum_align</th>
+            <th>Phage_interaction_infor_in_raw_data</th>
+            <th>Bacterium_interaction_infor_in_raw_data</th>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>MG711460</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.07480254</td>
+            <td class="wgs_output">0.5342371</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>MG711460</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">1.0</td>
+            <td class="wgs_output">0.5834373</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>MG711460</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">2.2237284e-06</td>
+            <td class="wgs_output">0.0004039297</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>MG711460</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.00023616124</td>
+            <td class="wgs_output">0.5079826</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>MG711460</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.00022577534</td>
+            <td class="wgs_output">0.51180834</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>MG711460</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">1.4623071e-05</td>
+            <td class="wgs_output">0.00026847952</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>MG711460</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.0016327905</td>
+            <td class="wgs_output">0.51763284</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>MG711460</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.00059109286</td>
+            <td class="wgs_output">0.5147541</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>MG711461</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.10173243</td>
+            <td class="wgs_output">0.5365898</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td>MG711461</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">0.99999976</td>
+            <td class="wgs_output">0.56395483</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td>MG711461</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">8.0280464e-05</td>
+            <td class="wgs_output">0.0003700319</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>12</td>
+            <td>MG711461</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.41966248</td>
+            <td class="wgs_output">0.51699203</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>13</td>
+            <td>MG711461</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.314022</td>
+            <td class="wgs_output">0.5184262</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>14</td>
+            <td>MG711461</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">0.0004912503</td>
+            <td class="wgs_output">0.0003648957</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>15</td>
+            <td>MG711461</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.033503726</td>
+            <td class="wgs_output">0.5225606</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>16</td>
+            <td>MG711461</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.32920632</td>
+            <td class="wgs_output">0.5204902</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>17</td>
+            <td>MG711462</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.024770096</td>
+            <td class="wgs_output">0.53959614</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>18</td>
+            <td>MG711462</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">0.9999999</td>
+            <td class="wgs_output">0.5910126</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>19</td>
+            <td>MG711462</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">6.5704708e-06</td>
+            <td class="wgs_output">0.00010870425</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>20</td>
+            <td>MG711462</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.0005388339</td>
+            <td class="wgs_output">0.5052334</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>21</td>
+            <td>MG711462</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.0005475706</td>
+            <td class="wgs_output">0.5100956</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>22</td>
+            <td>MG711462</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">4.869294e-05</td>
+            <td class="wgs_output">7.546976e-05</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>23</td>
+            <td>MG711462</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.0032449672</td>
+            <td class="wgs_output">0.516961</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>24</td>
+            <td>MG711462</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.0013154354</td>
+            <td class="wgs_output">0.5138413</td>
+            <td>
+              <a href="phage_target_align/MH271296.fasta">MH271296(4.01e-09)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/MH271296.log">MH271296_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>25</td>
+            <td>MG711464</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.8162369</td>
+            <td class="wgs_output">0.55451</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>26</td>
+            <td>MG711464</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">0.9998148</td>
+            <td class="wgs_output">0.59210867</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>27</td>
+            <td>MG711464</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">0.00017897233</td>
+            <td class="wgs_output">0.0055416436</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>28</td>
+            <td>MG711464</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.07634909</td>
+            <td class="wgs_output">0.53591543</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>29</td>
+            <td>MG711464</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.05710081</td>
+            <td class="wgs_output">0.5369903</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>30</td>
+            <td>MG711464</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">0.0017965467</td>
+            <td class="wgs_output">0.0033281138</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>31</td>
+            <td>MG711464</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.05701334</td>
+            <td class="wgs_output">0.54021823</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>32</td>
+            <td>MG711464</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.101647384</td>
+            <td class="wgs_output">0.53857493</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>33</td>
+            <td>MG711466</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.9969963</td>
+            <td class="wgs_output">0.5571747</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>34</td>
+            <td>MG711466</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">0.99727124</td>
+            <td class="wgs_output">0.58361626</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>35</td>
+            <td>MG711466</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">0.016672552</td>
+            <td class="wgs_output">0.0005780559</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>36</td>
+            <td>MG711466</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.99994755</td>
+            <td class="wgs_output">0.53658396</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>37</td>
+            <td>MG711466</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.99994504</td>
+            <td class="wgs_output">0.53757626</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>38</td>
+            <td>MG711466</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">0.99770135</td>
+            <td class="wgs_output">0.00033744273</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>39</td>
+            <td>MG711466</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.9914956</td>
+            <td class="wgs_output">0.5423618</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>40</td>
+            <td>MG711466</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.9999573</td>
+            <td class="wgs_output">0.541452</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>41</td>
+            <td>MG711467</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.0017796016</td>
+            <td class="wgs_output">0.56157136</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>42</td>
+            <td>MG711467</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">1.0</td>
+            <td class="wgs_output">0.6013176</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>43</td>
+            <td>MG711467</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">3.9604693e-06</td>
+            <td class="wgs_output">0.0006968334</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>44</td>
+            <td>MG711467</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.00032355552</td>
+            <td class="wgs_output">0.53915644</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>45</td>
+            <td>MG711467</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.00034546852</td>
+            <td class="wgs_output">0.5400522</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>46</td>
+            <td>MG711467</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">2.6625969e-05</td>
+            <td class="wgs_output">0.00040798596</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>47</td>
+            <td>MG711467</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.0007244294</td>
+            <td class="wgs_output">0.54486465</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>48</td>
+            <td>MG711467</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.00039031226</td>
+            <td class="wgs_output">0.54266745</td>
+            <td>
+              <a href=" ">not hit</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href=" "> </a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>49</td>
+            <td>NC_052969</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.021238847</td>
+            <td class="wgs_output">0.5498498</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>50</td>
+            <td>NC_052969</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">0.9999994</td>
+            <td class="wgs_output">0.61653113</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>51</td>
+            <td>NC_052969</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">5.4810134e-05</td>
+            <td class="wgs_output">0.0004744654</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>52</td>
+            <td>NC_052969</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.0018723159</td>
+            <td class="wgs_output">0.5101152</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>53</td>
+            <td>NC_052969</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.0018828121</td>
+            <td class="wgs_output">0.51646304</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>54</td>
+            <td>NC_052969</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">0.00040595094</td>
+            <td class="wgs_output">0.00018624174</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>55</td>
+            <td>NC_052969</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.008134533</td>
+            <td class="wgs_output">0.52335227</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>56</td>
+            <td>NC_052969</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.002508739</td>
+            <td class="wgs_output">0.5214884</td>
+            <td>
+              <a href="phage_target_align/NC_025428.fasta">NC_025428(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_025428.log">NC_025428_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>57</td>
+            <td>NC_052979</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.055113245</td>
+            <td class="wgs_output">0.52291983</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>58</td>
+            <td>NC_052979</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">0.003967015</td>
+            <td class="wgs_output">0.529477</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>59</td>
+            <td>NC_052979</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">6.2104606e-05</td>
+            <td class="wgs_output">0.017231558</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>60</td>
+            <td>NC_052979</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.014927083</td>
+            <td class="wgs_output">0.5246138</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>61</td>
+            <td>NC_052979</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.019360999</td>
+            <td class="wgs_output">0.5188073</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>62</td>
+            <td>NC_052979</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">0.0005145803</td>
+            <td class="wgs_output">0.018024512</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>63</td>
+            <td>NC_052979</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.035242096</td>
+            <td class="wgs_output">0.51920176</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>64</td>
+            <td>NC_052979</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.021360088</td>
+            <td class="wgs_output">0.52017635</td>
+            <td>
+              <a href="phage_target_align/NC_028812.fasta">NC_028812(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_028812.log">NC_028812_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>65</td>
+            <td>NC_053009</td>
+            <td>GL538315</td>
+            <td class="key_gene_output">0.4290982</td>
+            <td class="wgs_output">0.5068278</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP032788.fasta">CP032788(2.47e-124)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP032788.log">CP032788_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>66</td>
+            <td>NC_053009</td>
+            <td>NC_003911</td>
+            <td class="key_gene_output">0.99937063</td>
+            <td class="wgs_output">0.5092893</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP000031.fasta">CP000031(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP000031.log">CP000031_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>67</td>
+            <td>NC_053009</td>
+            <td>NC_017731</td>
+            <td class="key_gene_output">0.9949228</td>
+            <td class="wgs_output">0.04770624</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>68</td>
+            <td>NC_053009</td>
+            <td>NC_021020</td>
+            <td class="key_gene_output">0.9993243</td>
+            <td class="wgs_output">0.50726944</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>69</td>
+            <td>NC_053009</td>
+            <td>NC_021042</td>
+            <td class="key_gene_output">0.9992949</td>
+            <td class="wgs_output">0.46953353</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>70</td>
+            <td>NC_053009</td>
+            <td>NZ_CP029736</td>
+            <td class="key_gene_output">0.99963427</td>
+            <td class="wgs_output">0.058932047</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/CP003488.fasta">CP003488(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/CP003488.log">CP003488_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>71</td>
+            <td>NC_053009</td>
+            <td>NZ_DS483503</td>
+            <td class="key_gene_output">0.91649777</td>
+            <td class="wgs_output">0.4859352</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+          <tr>
+            <td>72</td>
+            <td>NC_053009</td>
+            <td>NZ_GG697149</td>
+            <td class="key_gene_output">0.99924123</td>
+            <td class="wgs_output">0.49871153</td>
+            <td>
+              <a href="phage_target_align/NC_018832.fasta">NC_018832(0.0)</a>
+            </td>
+            <td>
+              <a href="host_target_align/NC_013316.fasta">NC_013316(0.0)</a>
+            </td>
+            <td>
+              <a href="phage_target_interaction/NC_018832.log">NC_018832_interact_bacteria</a>
+            </td>
+            <td>
+              <a href="host_target_interaction/NC_013316.log">NC_013316_interact_phage</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div><br>
+    <p>** Feel free to connect 20210700125@fudan.edu.cn if you have any question. **</p>
+  </body>
+</html>

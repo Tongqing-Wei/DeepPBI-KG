@@ -1,0 +1,356 @@
+>Feature MG711467.1
+1812	1	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00001
+			product	hypothetical protein
+2586	2032	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00002
+			product	hypothetical protein
+2757	2963	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00003
+			product	hypothetical protein
+3000	3176	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00004
+			product	hypothetical protein
+3173	3367	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00005
+			product	hypothetical protein
+3351	3527	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00006
+			product	hypothetical protein
+3533	3907	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00007
+			product	hypothetical protein
+3907	4191	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00008
+			product	hypothetical protein
+4188	4343	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00009
+			product	hypothetical protein
+4372	5316	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00010
+			product	hypothetical protein
+5316	5927	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00011
+			product	hypothetical protein
+5924	6454	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00012
+			product	hypothetical protein
+6451	6840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00013
+			product	hypothetical protein
+6828	7019	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00014
+			product	hypothetical protein
+7009	7548	CDS
+			gene	ssbA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37455
+			locus_tag	MONPDEIE_00015
+			product	Single-stranded DNA-binding protein A
+7561	8415	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00016
+			product	hypothetical protein
+8412	8996	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00017
+			product	hypothetical protein
+8993	9565	CDS
+			gene	yocH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34669
+			locus_tag	MONPDEIE_00018
+			product	Cell wall-binding protein YocH
+9552	9749	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00019
+			product	hypothetical protein
+9736	10059	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00020
+			product	hypothetical protein
+10056	10565	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00021
+			product	hypothetical protein
+10580	11290	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00022
+			product	hypothetical protein
+11294	12187	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00023
+			product	hypothetical protein
+12202	12516	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00024
+			product	hypothetical protein
+12543	14099	CDS
+			gene	spo0C
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72H91
+			locus_tag	MONPDEIE_00025
+			product	Chromosome-partitioning protein Spo0J
+14096	14440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00026
+			product	hypothetical protein
+14444	14572	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00027
+			product	hypothetical protein
+14565	14783	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00028
+			product	hypothetical protein
+14764	15072	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00029
+			product	hypothetical protein
+15069	15467	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00030
+			product	hypothetical protein
+15464	15727	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00031
+			product	hypothetical protein
+15696	16262	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00032
+			product	hypothetical protein
+16259	16423	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00033
+			product	hypothetical protein
+16634	17029	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00034
+			product	hypothetical protein
+17476	18477	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00035
+			product	hypothetical protein
+18474	19160	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00036
+			product	hypothetical protein
+19151	20299	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00037
+			product	hypothetical protein
+20286	20813	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00038
+			product	hypothetical protein
+20875	21138	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00039
+			product	hypothetical protein
+21154	21315	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00040
+			product	hypothetical protein
+21460	22032	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00041
+			product	hypothetical protein
+21983	23953	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00042
+			product	hypothetical protein
+23964	24218	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00043
+			product	hypothetical protein
+24324	25931	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00044
+			product	hypothetical protein
+25912	27159	CDS
+			EC_number	3.4.21.92
+			gene	clpP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00444
+			locus_tag	MONPDEIE_00045
+			product	ATP-dependent Clp protease proteolytic subunit
+27174	27578	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00046
+			product	hypothetical protein
+27592	28674	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00047
+			product	hypothetical protein
+28699	29136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00048
+			product	hypothetical protein
+29133	29492	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00049
+			product	hypothetical protein
+29489	30100	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00050
+			product	hypothetical protein
+30088	30633	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00051
+			product	hypothetical protein
+30624	30935	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00052
+			product	hypothetical protein
+30951	32105	CDS
+			gene	gpFI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q02TE1
+			locus_tag	MONPDEIE_00053
+			product	Putative prophage major tail sheath protein
+32121	32636	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00054
+			product	hypothetical protein
+32713	33087	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00055
+			product	hypothetical protein
+33257	36826	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	MONPDEIE_00056
+			product	Chromosome partition protein Smc
+36823	37035	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00057
+			product	hypothetical protein
+37032	38348	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00058
+			product	hypothetical protein
+38348	38743	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00059
+			product	hypothetical protein
+38740	39138	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00060
+			product	hypothetical protein
+39149	39472	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00061
+			product	hypothetical protein
+39465	40610	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00062
+			product	hypothetical protein
+40603	41373	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00063
+			product	hypothetical protein
+41370	42470	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00064
+			product	hypothetical protein
+42504	43529	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00065
+			product	hypothetical protein
+43609	44022	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00066
+			product	hypothetical protein
+44027	45667	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00067
+			product	hypothetical protein
+45882	46067	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00068
+			product	hypothetical protein
+46074	46532	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00069
+			product	hypothetical protein
+46917	48098	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00070
+			product	hypothetical protein
+48050	48385	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00071
+			product	hypothetical protein
+48401	48574	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00072
+			product	hypothetical protein
+48578	48985	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00073
+			product	hypothetical protein
+49046	49354	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00074
+			product	hypothetical protein
+49367	50020	CDS
+			EC_number	3.4.17.14
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00733
+			locus_tag	MONPDEIE_00075
+			product	Zinc D-Ala-D-Ala carboxypeptidase
+50099	50416	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00076
+			product	hypothetical protein
+50761	50582	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00077
+			product	hypothetical protein
+51012	50767	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00078
+			product	hypothetical protein
+51420	51025	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00079
+			product	hypothetical protein
+51835	51434	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00080
+			product	hypothetical protein
+52825	51887	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00081
+			product	hypothetical protein
+53404	52841	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00082
+			product	hypothetical protein
+53593	53495	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00083
+			product	hypothetical protein
+53773	54000	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00084
+			product	hypothetical protein
+54286	54020	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	MONPDEIE_00085
+			product	hypothetical protein

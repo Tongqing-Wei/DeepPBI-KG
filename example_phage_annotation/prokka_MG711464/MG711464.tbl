@@ -1,0 +1,186 @@
+>Feature MG711464.1
+1482	325	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00001
+			product	hypothetical protein
+2531	1623	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00002
+			product	hypothetical protein
+3259	2549	CDS
+			EC_number	3.4.21.88
+			gene	lexA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0DN68
+			locus_tag	OEGKHONN_00003
+			product	LexA repressor
+3463	3657	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00004
+			product	hypothetical protein
+3677	3922	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00005
+			product	hypothetical protein
+3919	4176	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00006
+			product	hypothetical protein
+4173	4391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00007
+			product	hypothetical protein
+4381	4662	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00008
+			product	hypothetical protein
+4770	5084	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00009
+			product	hypothetical protein
+5081	6544	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	OEGKHONN_00010
+			product	Chromosome partition protein Smc
+6535	7833	CDS
+			gene	recF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00365
+			locus_tag	OEGKHONN_00011
+			product	DNA replication and repair protein RecF
+7834	8907	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00012
+			product	hypothetical protein
+8930	9415	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00013
+			product	hypothetical protein
+9415	11043	CDS
+			EC_number	3.6.4.12
+			gene	radD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P33919
+			locus_tag	OEGKHONN_00014
+			product	Putative DNA repair helicase RadD
+11049	13277	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00015
+			product	hypothetical protein
+13544	13969	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00016
+			product	hypothetical protein
+13966	14379	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00017
+			product	hypothetical protein
+14628	15122	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00018
+			product	hypothetical protein
+15109	16311	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00019
+			product	hypothetical protein
+16311	17738	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00020
+			product	hypothetical protein
+17738	19501	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00021
+			product	hypothetical protein
+19488	19688	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00022
+			product	hypothetical protein
+19698	20021	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00023
+			product	hypothetical protein
+20075	20150	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OEGKHONN_00024
+			product	tRNA-Trp(cca)
+20290	20829	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00025
+			product	hypothetical protein
+20835	21773	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00026
+			product	hypothetical protein
+21784	22167	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00027
+			product	hypothetical protein
+22167	22547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00028
+			product	hypothetical protein
+22552	23010	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00029
+			product	hypothetical protein
+23007	23465	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00030
+			product	hypothetical protein
+23462	23974	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00031
+			product	hypothetical protein
+24037	24417	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00032
+			product	hypothetical protein
+24410	25030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00033
+			product	hypothetical protein
+25023	28277	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00034
+			product	hypothetical protein
+28293	29165	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00035
+			product	hypothetical protein
+29162	30169	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00036
+			product	hypothetical protein
+30182	31813	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00037
+			product	hypothetical protein
+31825	32277	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00038
+			product	hypothetical protein
+32282	32467	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00039
+			product	hypothetical protein
+32448	33098	CDS
+			EC_number	3.2.1.17
+			gene	lyc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P34020
+			locus_tag	OEGKHONN_00040
+			product	Autolytic lysozyme
+33104	33364	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00041
+			product	hypothetical protein
+33370	33654	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00042
+			product	hypothetical protein
+33672	33944	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OEGKHONN_00043
+			product	hypothetical protein

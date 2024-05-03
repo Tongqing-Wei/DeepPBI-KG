@@ -1,0 +1,286 @@
+>Feature MG711461.1
+84	662	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00001
+			product	hypothetical protein
+646	2568	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00002
+			product	hypothetical protein
+2581	2847	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00003
+			product	hypothetical protein
+3064	4650	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00004
+			product	hypothetical protein
+4655	5905	CDS
+			EC_number	3.4.21.92
+			gene	clpP1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F315
+			locus_tag	PADPHJIN_00005
+			product	ATP-dependent Clp protease proteolytic subunit 1
+5905	6312	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00006
+			product	hypothetical protein
+6333	7409	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00007
+			product	hypothetical protein
+7437	7841	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00008
+			product	hypothetical protein
+7855	8181	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00009
+			product	hypothetical protein
+8186	8512	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00010
+			product	hypothetical protein
+8528	9157	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00011
+			product	hypothetical protein
+9171	10640	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00012
+			product	hypothetical protein
+10655	11164	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00013
+			product	hypothetical protein
+11240	11647	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00014
+			product	hypothetical protein
+11765	15556	CDS
+			gene	smc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	PADPHJIN_00015
+			product	Chromosome partition protein Smc
+15549	15797	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00016
+			product	hypothetical protein
+15794	16711	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00017
+			product	hypothetical protein
+16711	17061	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00018
+			product	hypothetical protein
+17074	17760	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00019
+			product	hypothetical protein
+17773	18054	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00020
+			product	hypothetical protein
+18051	19397	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00021
+			product	hypothetical protein
+19412	20317	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00022
+			product	hypothetical protein
+20337	20648	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00023
+			product	hypothetical protein
+20669	21094	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00024
+			product	hypothetical protein
+21098	21466	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00025
+			product	hypothetical protein
+21487	22584	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00026
+			product	hypothetical protein
+22656	23000	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00027
+			product	hypothetical protein
+23428	24573	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00028
+			product	hypothetical protein
+24552	24908	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00029
+			product	hypothetical protein
+24921	25301	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00030
+			product	hypothetical protein
+25313	26896	CDS
+			EC_number	3.5.1.28
+			gene	cwlC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06320
+			locus_tag	PADPHJIN_00031
+			product	Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+27053	27580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00032
+			product	hypothetical protein
+28284	27646	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00033
+			product	hypothetical protein
+28411	28659	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00034
+			product	hypothetical protein
+28819	28944	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00035
+			product	hypothetical protein
+29026	29286	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00036
+			product	hypothetical protein
+29349	30392	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00037
+			product	hypothetical protein
+30528	30776	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00038
+			product	hypothetical protein
+30796	31611	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00039
+			product	hypothetical protein
+31798	33060	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00040
+			product	hypothetical protein
+33053	33787	CDS
+			EC_number	2.7.7.7
+			gene	polC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63982
+			locus_tag	PADPHJIN_00041
+			product	DNA polymerase III PolC-type
+33793	34548	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00042
+			product	hypothetical protein
+34545	34796	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00043
+			product	hypothetical protein
+34768	35424	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00044
+			product	hypothetical protein
+35436	36266	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00045
+			product	hypothetical protein
+36259	36660	CDS
+			gene	ssb
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WZ73
+			locus_tag	PADPHJIN_00046
+			product	Single-stranded DNA-binding protein
+36747	37613	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00047
+			product	hypothetical protein
+37610	38293	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00048
+			product	hypothetical protein
+38290	39180	CDS
+			EC_number	2.1.1.72
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	PADPHJIN_00049
+			product	DNA adenine methyltransferase YhdJ
+39177	39686	CDS
+			EC_number	3.1.-.-
+			gene	mazF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2FWI8
+			locus_tag	PADPHJIN_00050
+			product	Endoribonuclease MazF
+39683	40222	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00051
+			product	hypothetical protein
+40219	40827	CDS
+			EC_number	3.1.22.-
+			gene	recU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00130
+			locus_tag	PADPHJIN_00052
+			product	Holliday junction resolvase RecU
+40824	41051	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00053
+			product	hypothetical protein
+41208	41501	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00054
+			product	hypothetical protein
+41556	41843	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00055
+			product	hypothetical protein
+41848	42450	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00056
+			product	hypothetical protein
+42464	43207	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00057
+			product	hypothetical protein
+43281	43430	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00058
+			product	hypothetical protein
+43444	44085	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00059
+			product	hypothetical protein
+44069	44431	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00060
+			product	hypothetical protein
+44421	44984	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00061
+			product	hypothetical protein
+44988	45131	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00062
+			product	hypothetical protein
+45132	46469	CDS
+			EC_number	2.1.1.72
+			gene	dpnA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09358
+			locus_tag	PADPHJIN_00063
+			product	Modification methylase DpnIIB
+46493	46996	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00064
+			product	hypothetical protein
+47278	47970	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	PADPHJIN_00065
+			product	hypothetical protein

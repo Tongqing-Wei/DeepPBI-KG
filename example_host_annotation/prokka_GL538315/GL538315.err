@@ -1,0 +1,1431 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:265 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 265 present
+DISC_FEATURE_COUNT:tRNA: 4 present
+DISC_FEATURE_COUNT:tmRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:270 features have inconsistent gene locations.
+OVERLAPPING_CDS:2 coding regions overlap another coding region with a similar or identical name.
+SUSPECT_PRODUCT_NAMES:2 product_names contain suspect phrase or characters
+	May contain database identifier more appropriate in note; remove from product name
+		1 features contains three or more numbers together that may be identifiers more appropriate in note
+		1 features Contains underscore
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:5 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:266 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+DISC_GAPS:1 sequences contain gaps
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::265 proteins have invalid IDs.
+./tmp/prokka_GL538315/GL538315:GL538315.1_1 (length 740)
+./tmp/prokka_GL538315/GL538315:GL538315.1_2 (length 341)
+./tmp/prokka_GL538315/GL538315:GL538315.1_3 (length 119)
+./tmp/prokka_GL538315/GL538315:GL538315.1_4 (length 402)
+./tmp/prokka_GL538315/GL538315:GL538315.1_5 (length 892)
+./tmp/prokka_GL538315/GL538315:GL538315.1_6 (length 259)
+./tmp/prokka_GL538315/GL538315:GL538315.1_7 (length 223)
+./tmp/prokka_GL538315/GL538315:GL538315.1_8 (length 271)
+./tmp/prokka_GL538315/GL538315:GL538315.1_9 (length 379)
+./tmp/prokka_GL538315/GL538315:GL538315.1_10 (length 407)
+./tmp/prokka_GL538315/GL538315:GL538315.1_11 (length 569)
+./tmp/prokka_GL538315/GL538315:GL538315.1_12 (length 492)
+./tmp/prokka_GL538315/GL538315:GL538315.1_13 (length 1515)
+./tmp/prokka_GL538315/GL538315:GL538315.1_14 (length 526)
+./tmp/prokka_GL538315/GL538315:GL538315.1_15 (length 450)
+./tmp/prokka_GL538315/GL538315:GL538315.1_16 (length 277)
+./tmp/prokka_GL538315/GL538315:GL538315.1_17 (length 523)
+./tmp/prokka_GL538315/GL538315:GL538315.1_18 (length 653)
+./tmp/prokka_GL538315/GL538315:GL538315.1_19 (length 428)
+./tmp/prokka_GL538315/GL538315:GL538315.1_20 (length 134)
+./tmp/prokka_GL538315/GL538315:GL538315.1_21 (length 335)
+./tmp/prokka_GL538315/GL538315:GL538315.1_22 (length 239)
+./tmp/prokka_GL538315/GL538315:GL538315.1_23 (length 685)
+./tmp/prokka_GL538315/GL538315:GL538315.1_24 (length 953)
+./tmp/prokka_GL538315/GL538315:GL538315.1_25 (length 83)
+./tmp/prokka_GL538315/GL538315:GL538315.1_26 (length 155)
+./tmp/prokka_GL538315/GL538315:GL538315.1_27 (length 179)
+./tmp/prokka_GL538315/GL538315:GL538315.1_28 (length 250)
+./tmp/prokka_GL538315/GL538315:GL538315.1_29 (length 1028)
+./tmp/prokka_GL538315/GL538315:GL538315.1_30 (length 456)
+./tmp/prokka_GL538315/GL538315:GL538315.1_31 (length 287)
+./tmp/prokka_GL538315/GL538315:GL538315.1_32 (length 33)
+./tmp/prokka_GL538315/GL538315:GL538315.1_33 (length 82)
+./tmp/prokka_GL538315/GL538315:GL538315.1_34 (length 302)
+./tmp/prokka_GL538315/GL538315:GL538315.1_35 (length 115)
+./tmp/prokka_GL538315/GL538315:GL538315.1_36 (length 121)
+./tmp/prokka_GL538315/GL538315:GL538315.1_37 (length 218)
+./tmp/prokka_GL538315/GL538315:GL538315.1_38 (length 240)
+./tmp/prokka_GL538315/GL538315:GL538315.1_39 (length 119)
+./tmp/prokka_GL538315/GL538315:GL538315.1_40 (length 115)
+./tmp/prokka_GL538315/GL538315:GL538315.1_41 (length 595)
+./tmp/prokka_GL538315/GL538315:GL538315.1_42 (length 768)
+./tmp/prokka_GL538315/GL538315:GL538315.1_43 (length 275)
+./tmp/prokka_GL538315/GL538315:GL538315.1_44 (length 858)
+./tmp/prokka_GL538315/GL538315:GL538315.1_45 (length 982)
+./tmp/prokka_GL538315/GL538315:GL538315.1_46 (length 574)
+./tmp/prokka_GL538315/GL538315:GL538315.1_47 (length 377)
+./tmp/prokka_GL538315/GL538315:GL538315.1_48 (length 291)
+./tmp/prokka_GL538315/GL538315:GL538315.1_49 (length 136)
+./tmp/prokka_GL538315/GL538315:GL538315.1_50 (length 55)
+./tmp/prokka_GL538315/GL538315:GL538315.1_51 (length 47)
+./tmp/prokka_GL538315/GL538315:GL538315.1_52 (length 109)
+./tmp/prokka_GL538315/GL538315:GL538315.1_53 (length 82)
+./tmp/prokka_GL538315/GL538315:GL538315.1_54 (length 82)
+./tmp/prokka_GL538315/GL538315:GL538315.1_55 (length 90)
+./tmp/prokka_GL538315/GL538315:GL538315.1_56 (length 72)
+./tmp/prokka_GL538315/GL538315:GL538315.1_57 (length 61)
+./tmp/prokka_GL538315/GL538315:GL538315.1_58 (length 252)
+./tmp/prokka_GL538315/GL538315:GL538315.1_59 (length 72)
+./tmp/prokka_GL538315/GL538315:GL538315.1_60 (length 54)
+./tmp/prokka_GL538315/GL538315:GL538315.1_61 (length 220)
+./tmp/prokka_GL538315/GL538315:GL538315.1_62 (length 68)
+./tmp/prokka_GL538315/GL538315:GL538315.1_63 (length 368)
+./tmp/prokka_GL538315/GL538315:GL538315.1_64 (length 103)
+./tmp/prokka_GL538315/GL538315:GL538315.1_65 (length 236)
+./tmp/prokka_GL538315/GL538315:GL538315.1_66 (length 486)
+./tmp/prokka_GL538315/GL538315:GL538315.1_67 (length 649)
+./tmp/prokka_GL538315/GL538315:GL538315.1_68 (length 87)
+./tmp/prokka_GL538315/GL538315:GL538315.1_69 (length 454)
+./tmp/prokka_GL538315/GL538315:GL538315.1_70 (length 340)
+./tmp/prokka_GL538315/GL538315:GL538315.1_71 (length 91)
+./tmp/prokka_GL538315/GL538315:GL538315.1_72 (length 127)
+./tmp/prokka_GL538315/GL538315:GL538315.1_73 (length 633)
+./tmp/prokka_GL538315/GL538315:GL538315.1_74 (length 63)
+./tmp/prokka_GL538315/GL538315:GL538315.1_75 (length 200)
+./tmp/prokka_GL538315/GL538315:GL538315.1_76 (length 459)
+./tmp/prokka_GL538315/GL538315:GL538315.1_77 (length 3567)
+./tmp/prokka_GL538315/GL538315:GL538315.1_78 (length 480)
+./tmp/prokka_GL538315/GL538315:GL538315.1_79 (length 142)
+./tmp/prokka_GL538315/GL538315:GL538315.1_80 (length 50)
+./tmp/prokka_GL538315/GL538315:GL538315.1_81 (length 140)
+./tmp/prokka_GL538315/GL538315:GL538315.1_82 (length 100)
+./tmp/prokka_GL538315/GL538315:GL538315.1_83 (length 77)
+./tmp/prokka_GL538315/GL538315:GL538315.1_84 (length 88)
+./tmp/prokka_GL538315/GL538315:GL538315.1_85 (length 79)
+./tmp/prokka_GL538315/GL538315:GL538315.1_86 (length 229)
+./tmp/prokka_GL538315/GL538315:GL538315.1_87 (length 424)
+./tmp/prokka_GL538315/GL538315:GL538315.1_88 (length 130)
+./tmp/prokka_GL538315/GL538315:GL538315.1_89 (length 459)
+./tmp/prokka_GL538315/GL538315:GL538315.1_90 (length 159)
+./tmp/prokka_GL538315/GL538315:GL538315.1_91 (length 113)
+./tmp/prokka_GL538315/GL538315:GL538315.1_92 (length 160)
+./tmp/prokka_GL538315/GL538315:GL538315.1_93 (length 199)
+./tmp/prokka_GL538315/GL538315:GL538315.1_94 (length 112)
+./tmp/prokka_GL538315/GL538315:GL538315.1_95 (length 620)
+./tmp/prokka_GL538315/GL538315:GL538315.1_96 (length 250)
+./tmp/prokka_GL538315/GL538315:GL538315.1_97 (length 124)
+./tmp/prokka_GL538315/GL538315:GL538315.1_98 (length 91)
+./tmp/prokka_GL538315/GL538315:GL538315.1_99 (length 190)
+./tmp/prokka_GL538315/GL538315:GL538315.1_100 (length 190)
+./tmp/prokka_GL538315/GL538315:GL538315.1_101 (length 266)
+./tmp/prokka_GL538315/GL538315:GL538315.1_102 (length 298)
+./tmp/prokka_GL538315/GL538315:GL538315.1_103 (length 178)
+./tmp/prokka_GL538315/GL538315:GL538315.1_104 (length 266)
+./tmp/prokka_GL538315/GL538315:GL538315.1_105 (length 225)
+./tmp/prokka_GL538315/GL538315:GL538315.1_106 (length 210)
+./tmp/prokka_GL538315/GL538315:GL538315.1_107 (length 162)
+./tmp/prokka_GL538315/GL538315:GL538315.1_108 (length 338)
+./tmp/prokka_GL538315/GL538315:GL538315.1_109 (length 337)
+./tmp/prokka_GL538315/GL538315:GL538315.1_110 (length 34)
+./tmp/prokka_GL538315/GL538315:GL538315.1_111 (length 125)
+./tmp/prokka_GL538315/GL538315:GL538315.1_112 (length 65)
+./tmp/prokka_GL538315/GL538315:GL538315.1_113 (length 58)
+./tmp/prokka_GL538315/GL538315:GL538315.1_114 (length 74)
+./tmp/prokka_GL538315/GL538315:GL538315.1_115 (length 63)
+./tmp/prokka_GL538315/GL538315:GL538315.1_116 (length 277)
+./tmp/prokka_GL538315/GL538315:GL538315.1_117 (length 39)
+./tmp/prokka_GL538315/GL538315:GL538315.1_118 (length 226)
+./tmp/prokka_GL538315/GL538315:GL538315.1_119 (length 143)
+./tmp/prokka_GL538315/GL538315:GL538315.1_120 (length 74)
+./tmp/prokka_GL538315/GL538315:GL538315.1_121 (length 87)
+./tmp/prokka_GL538315/GL538315:GL538315.1_122 (length 109)
+./tmp/prokka_GL538315/GL538315:GL538315.1_123 (length 133)
+./tmp/prokka_GL538315/GL538315:GL538315.1_124 (length 71)
+./tmp/prokka_GL538315/GL538315:GL538315.1_125 (length 478)
+./tmp/prokka_GL538315/GL538315:GL538315.1_126 (length 189)
+./tmp/prokka_GL538315/GL538315:GL538315.1_127 (length 299)
+./tmp/prokka_GL538315/GL538315:GL538315.1_128 (length 150)
+./tmp/prokka_GL538315/GL538315:GL538315.1_129 (length 463)
+./tmp/prokka_GL538315/GL538315:GL538315.1_130 (length 167)
+./tmp/prokka_GL538315/GL538315:GL538315.1_131 (length 799)
+./tmp/prokka_GL538315/GL538315:GL538315.1_132 (length 139)
+./tmp/prokka_GL538315/GL538315:GL538315.1_133 (length 115)
+./tmp/prokka_GL538315/GL538315:GL538315.1_134 (length 90)
+./tmp/prokka_GL538315/GL538315:GL538315.1_135 (length 465)
+./tmp/prokka_GL538315/GL538315:GL538315.1_136 (length 469)
+./tmp/prokka_GL538315/GL538315:GL538315.1_137 (length 343)
+./tmp/prokka_GL538315/GL538315:GL538315.1_138 (length 66)
+./tmp/prokka_GL538315/GL538315:GL538315.1_139 (length 871)
+./tmp/prokka_GL538315/GL538315:GL538315.1_140 (length 713)
+./tmp/prokka_GL538315/GL538315:GL538315.1_141 (length 314)
+./tmp/prokka_GL538315/GL538315:GL538315.1_142 (length 437)
+./tmp/prokka_GL538315/GL538315:GL538315.1_143 (length 154)
+./tmp/prokka_GL538315/GL538315:GL538315.1_144 (length 272)
+./tmp/prokka_GL538315/GL538315:GL538315.1_145 (length 277)
+./tmp/prokka_GL538315/GL538315:GL538315.1_146 (length 931)
+./tmp/prokka_GL538315/GL538315:GL538315.1_147 (length 161)
+./tmp/prokka_GL538315/GL538315:GL538315.1_148 (length 310)
+./tmp/prokka_GL538315/GL538315:GL538315.1_149 (length 276)
+./tmp/prokka_GL538315/GL538315:GL538315.1_150 (length 119)
+./tmp/prokka_GL538315/GL538315:GL538315.1_151 (length 795)
+./tmp/prokka_GL538315/GL538315:GL538315.1_152 (length 176)
+./tmp/prokka_GL538315/GL538315:GL538315.1_153 (length 161)
+./tmp/prokka_GL538315/GL538315:GL538315.1_154 (length 620)
+./tmp/prokka_GL538315/GL538315:GL538315.1_155 (length 214)
+./tmp/prokka_GL538315/GL538315:GL538315.1_156 (length 113)
+./tmp/prokka_GL538315/GL538315:GL538315.1_157 (length 182)
+./tmp/prokka_GL538315/GL538315:GL538315.1_158 (length 307)
+./tmp/prokka_GL538315/GL538315:GL538315.1_159 (length 215)
+./tmp/prokka_GL538315/GL538315:GL538315.1_160 (length 120)
+./tmp/prokka_GL538315/GL538315:GL538315.1_161 (length 486)
+./tmp/prokka_GL538315/GL538315:GL538315.1_162 (length 227)
+./tmp/prokka_GL538315/GL538315:GL538315.1_163 (length 438)
+./tmp/prokka_GL538315/GL538315:GL538315.1_164 (length 198)
+./tmp/prokka_GL538315/GL538315:GL538315.1_165 (length 440)
+./tmp/prokka_GL538315/GL538315:GL538315.1_166 (length 427)
+./tmp/prokka_GL538315/GL538315:GL538315.1_167 (length 778)
+./tmp/prokka_GL538315/GL538315:GL538315.1_168 (length 156)
+./tmp/prokka_GL538315/GL538315:GL538315.1_169 (length 122)
+./tmp/prokka_GL538315/GL538315:GL538315.1_170 (length 230)
+./tmp/prokka_GL538315/GL538315:GL538315.1_171 (length 486)
+./tmp/prokka_GL538315/GL538315:GL538315.1_172 (length 265)
+./tmp/prokka_GL538315/GL538315:GL538315.1_173 (length 323)
+./tmp/prokka_GL538315/GL538315:GL538315.1_174 (length 449)
+./tmp/prokka_GL538315/GL538315:GL538315.1_175 (length 229)
+./tmp/prokka_GL538315/GL538315:GL538315.1_176 (length 595)
+./tmp/prokka_GL538315/GL538315:GL538315.1_177 (length 311)
+./tmp/prokka_GL538315/GL538315:GL538315.1_178 (length 298)
+./tmp/prokka_GL538315/GL538315:GL538315.1_179 (length 287)
+./tmp/prokka_GL538315/GL538315:GL538315.1_180 (length 309)
+./tmp/prokka_GL538315/GL538315:GL538315.1_181 (length 1169)
+./tmp/prokka_GL538315/GL538315:GL538315.1_182 (length 324)
+./tmp/prokka_GL538315/GL538315:GL538315.1_183 (length 341)
+./tmp/prokka_GL538315/GL538315:GL538315.1_184 (length 360)
+./tmp/prokka_GL538315/GL538315:GL538315.1_185 (length 199)
+./tmp/prokka_GL538315/GL538315:GL538315.1_186 (length 472)
+./tmp/prokka_GL538315/GL538315:GL538315.1_187 (length 317)
+./tmp/prokka_GL538315/GL538315:GL538315.1_188 (length 284)
+./tmp/prokka_GL538315/GL538315:GL538315.1_189 (length 211)
+./tmp/prokka_GL538315/GL538315:GL538315.1_190 (length 190)
+./tmp/prokka_GL538315/GL538315:GL538315.1_191 (length 417)
+./tmp/prokka_GL538315/GL538315:GL538315.1_192 (length 171)
+./tmp/prokka_GL538315/GL538315:GL538315.1_193 (length 86)
+./tmp/prokka_GL538315/GL538315:GL538315.1_194 (length 323)
+./tmp/prokka_GL538315/GL538315:GL538315.1_195 (length 828)
+./tmp/prokka_GL538315/GL538315:GL538315.1_196 (length 361)
+./tmp/prokka_GL538315/GL538315:GL538315.1_197 (length 191)
+./tmp/prokka_GL538315/GL538315:GL538315.1_198 (length 663)
+./tmp/prokka_GL538315/GL538315:GL538315.1_199 (length 297)
+./tmp/prokka_GL538315/GL538315:GL538315.1_200 (length 154)
+./tmp/prokka_GL538315/GL538315:GL538315.1_201 (length 64)
+./tmp/prokka_GL538315/GL538315:GL538315.1_202 (length 127)
+./tmp/prokka_GL538315/GL538315:GL538315.1_203 (length 360)
+./tmp/prokka_GL538315/GL538315:GL538315.1_204 (length 156)
+./tmp/prokka_GL538315/GL538315:GL538315.1_205 (length 177)
+./tmp/prokka_GL538315/GL538315:GL538315.1_206 (length 208)
+./tmp/prokka_GL538315/GL538315:GL538315.1_207 (length 123)
+./tmp/prokka_GL538315/GL538315:GL538315.1_208 (length 144)
+./tmp/prokka_GL538315/GL538315:GL538315.1_209 (length 313)
+./tmp/prokka_GL538315/GL538315:GL538315.1_210 (length 407)
+./tmp/prokka_GL538315/GL538315:GL538315.1_211 (length 71)
+./tmp/prokka_GL538315/GL538315:GL538315.1_212 (length 293)
+./tmp/prokka_GL538315/GL538315:GL538315.1_213 (length 155)
+./tmp/prokka_GL538315/GL538315:GL538315.1_214 (length 627)
+./tmp/prokka_GL538315/GL538315:GL538315.1_215 (length 267)
+./tmp/prokka_GL538315/GL538315:GL538315.1_216 (length 283)
+./tmp/prokka_GL538315/GL538315:GL538315.1_217 (length 160)
+./tmp/prokka_GL538315/GL538315:GL538315.1_218 (length 554)
+./tmp/prokka_GL538315/GL538315:GL538315.1_219 (length 406)
+./tmp/prokka_GL538315/GL538315:GL538315.1_220 (length 155)
+./tmp/prokka_GL538315/GL538315:GL538315.1_221 (length 439)
+./tmp/prokka_GL538315/GL538315:GL538315.1_222 (length 252)
+./tmp/prokka_GL538315/GL538315:GL538315.1_223 (length 297)
+./tmp/prokka_GL538315/GL538315:GL538315.1_224 (length 360)
+./tmp/prokka_GL538315/GL538315:GL538315.1_225 (length 342)
+./tmp/prokka_GL538315/GL538315:GL538315.1_226 (length 381)
+./tmp/prokka_GL538315/GL538315:GL538315.1_227 (length 103)
+./tmp/prokka_GL538315/GL538315:GL538315.1_228 (length 131)
+./tmp/prokka_GL538315/GL538315:GL538315.1_229 (length 246)
+./tmp/prokka_GL538315/GL538315:GL538315.1_230 (length 470)
+./tmp/prokka_GL538315/GL538315:GL538315.1_231 (length 401)
+./tmp/prokka_GL538315/GL538315:GL538315.1_232 (length 288)
+./tmp/prokka_GL538315/GL538315:GL538315.1_233 (length 803)
+./tmp/prokka_GL538315/GL538315:GL538315.1_234 (length 248)
+./tmp/prokka_GL538315/GL538315:GL538315.1_235 (length 312)
+./tmp/prokka_GL538315/GL538315:GL538315.1_236 (length 163)
+./tmp/prokka_GL538315/GL538315:GL538315.1_237 (length 319)
+./tmp/prokka_GL538315/GL538315:GL538315.1_238 (length 64)
+./tmp/prokka_GL538315/GL538315:GL538315.1_239 (length 271)
+./tmp/prokka_GL538315/GL538315:GL538315.1_240 (length 351)
+./tmp/prokka_GL538315/GL538315:GL538315.1_241 (length 76)
+./tmp/prokka_GL538315/GL538315:GL538315.1_242 (length 379)
+./tmp/prokka_GL538315/GL538315:GL538315.1_243 (length 202)
+./tmp/prokka_GL538315/GL538315:GL538315.1_244 (length 344)
+./tmp/prokka_GL538315/GL538315:GL538315.1_245 (length 235)
+./tmp/prokka_GL538315/GL538315:GL538315.1_246 (length 763)
+./tmp/prokka_GL538315/GL538315:GL538315.1_247 (length 156)
+./tmp/prokka_GL538315/GL538315:GL538315.1_248 (length 267)
+./tmp/prokka_GL538315/GL538315:GL538315.1_249 (length 219)
+./tmp/prokka_GL538315/GL538315:GL538315.1_250 (length 465)
+./tmp/prokka_GL538315/GL538315:GL538315.1_251 (length 280)
+./tmp/prokka_GL538315/GL538315:GL538315.1_252 (length 101)
+./tmp/prokka_GL538315/GL538315:GL538315.1_253 (length 261)
+./tmp/prokka_GL538315/GL538315:GL538315.1_254 (length 506)
+./tmp/prokka_GL538315/GL538315:GL538315.1_255 (length 473)
+./tmp/prokka_GL538315/GL538315:GL538315.1_256 (length 483)
+./tmp/prokka_GL538315/GL538315:GL538315.1_257 (length 48)
+./tmp/prokka_GL538315/GL538315:GL538315.1_258 (length 97)
+./tmp/prokka_GL538315/GL538315:GL538315.1_259 (length 585)
+./tmp/prokka_GL538315/GL538315:GL538315.1_260 (length 590)
+./tmp/prokka_GL538315/GL538315:GL538315.1_261 (length 497)
+./tmp/prokka_GL538315/GL538315:GL538315.1_262 (length 106)
+./tmp/prokka_GL538315/GL538315:GL538315.1_263 (length 101)
+./tmp/prokka_GL538315/GL538315:GL538315.1_264 (length 169)
+./tmp/prokka_GL538315/GL538315:GL538315.1_265 (length 118)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 265 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 4 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tmRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::270 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	ATP-dependent RecD-like DNA helicase	GL538315.1:260-2482	CDBOEMCK_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Rod shape-determining protein MreB	GL538315.1:2836-3861	CDBOEMCK_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:4025-4384	CDBOEMCK_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Glutaconyl-CoA decarboxylase subunit beta	GL538315.1:4400-5608	CDBOEMCK_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	ATP-dependent DNA helicase PcrA	GL538315.1:6012-8690	CDBOEMCK_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Flavin-dependent thymidylate synthase	GL538315.1:8698-9477	CDBOEMCK_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Thymidylate kinase	GL538315.1:9474-10145	CDBOEMCK_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:10174-10989	CDBOEMCK_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Endolytic murein transglycosylase	GL538315.1:11008-12147	CDBOEMCK_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	putative protease YdcP	GL538315.1:12162-13385	CDBOEMCK_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Serine/threonine-protein kinase PrkC	GL538315.1:13396-15105	CDBOEMCK_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Glutamate synthase [NADPH] small chain	GL538315.1:c16660-15182	CDBOEMCK_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Ferredoxin-dependent glutamate synthase 1	GL538315.1:c21221-16674	CDBOEMCK_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Hydroxylamine reductase	GL538315.1:c23041-21461	CDBOEMCK_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	NADP-specific glutamate dehydrogenase	GL538315.1:c24507-23155	CDBOEMCK_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Iron-sulfur cluster carrier protein	GL538315.1:c25768-24935	CDBOEMCK_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Stage V sporulation protein B	GL538315.1:25964-27535	CDBOEMCK_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase	GL538315.1:27629-29590	CDBOEMCK_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Diaminopimelate decarboxylase	GL538315.1:29863-31149	CDBOEMCK_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:31162-31566	CDBOEMCK_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Ribosomal large subunit pseudouridine synthase C	GL538315.1:c32663-31656	CDBOEMCK_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:32826-33545	CDBOEMCK_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	UvrABC system protein B	GL538315.1:33657-35714	CDBOEMCK_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	UvrABC system protein A	GL538315.1:35701-38562	CDBOEMCK_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:39023-39274	CDBOEMCK_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	putative HTH-type transcriptional regulator	GL538315.1:c39780-39313	CDBOEMCK_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN	GL538315.1:39898-40437	CDBOEMCK_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:40439-41191	CDBOEMCK_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Beta-galactosidase	GL538315.1:c44950-41864	CDBOEMCK_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Inner membrane symporter YicJ	GL538315.1:c46435-45065	CDBOEMCK_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Arabinose operon regulatory protein	GL538315.1:46685-47548	CDBOEMCK_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:47582-47683	CDBOEMCK_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:47761-48009	CDBOEMCK_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c49058-48150	CDBOEMCK_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c49705-49358	CDBOEMCK_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c50087-49722	CDBOEMCK_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c50860-50204	CDBOEMCK_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA replication and repair protein RecF	GL538315.1:c51604-50882	CDBOEMCK_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c51998-51639	CDBOEMCK_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c52347-52000	CDBOEMCK_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:53097-54884	CDBOEMCK_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Autoinducer 2 sensor kinase/phosphatase LuxQ	GL538315.1:54922-57228	CDBOEMCK_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	putative amino-acid-binding protein YxeM	GL538315.1:57439-58266	CDBOEMCK_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Signal transduction histidine-protein kinase BarA	GL538315.1:58256-60832	CDBOEMCK_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Sensor histidine kinase RcsC	GL538315.1:c63890-60942	CDBOEMCK_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c65792-64068	CDBOEMCK_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Putative defective protein IntQ	GL538315.1:c67605-66472	CDBOEMCK_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c68698-67823	CDBOEMCK_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Antitoxin PezA	GL538315.1:c70086-69676	CDBOEMCK_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:70228-70395	CDBOEMCK_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:70392-70535	CDBOEMCK_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c70958-70629	CDBOEMCK_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:71112-71360	CDBOEMCK_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:71376-71624	CDBOEMCK_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:71678-71950	CDBOEMCK_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:71952-72170	CDBOEMCK_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:72184-72369	CDBOEMCK_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:72366-73124	CDBOEMCK_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:73121-73339	CDBOEMCK_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:73357-73521	CDBOEMCK_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:73473-74135	CDBOEMCK_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:74132-74338	CDBOEMCK_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:74374-75480	CDBOEMCK_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:75640-75951	CDBOEMCK_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:76195-76905	CDBOEMCK_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:76886-78346	CDBOEMCK_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:78501-80450	CDBOEMCK_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:80463-80726	CDBOEMCK_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:80745-82109	CDBOEMCK_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:82168-83190	CDBOEMCK_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:83203-83478	CDBOEMCK_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:83663-84046	CDBOEMCK_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:84050-85951	CDBOEMCK_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:85968-86159	CDBOEMCK_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:86163-86765	CDBOEMCK_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:86781-88160	CDBOEMCK_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:88176-98879	CDBOEMCK_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:99027-100469	CDBOEMCK_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:100488-100916	CDBOEMCK_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:100936-101088	CDBOEMCK_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:101112-101534	CDBOEMCK_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:101543-101845	CDBOEMCK_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:101851-102084	CDBOEMCK_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:102087-102353	CDBOEMCK_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c103030-102791	CDBOEMCK_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Ultraviolet N-glycosylase/AP lyase	GL538315.1:c103740-103051	CDBOEMCK_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	putative AAA domain-containing protein	GL538315.1:103924-105198	CDBOEMCK_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Peroxide-responsive repressor PerR	GL538315.1:105238-105630	CDBOEMCK_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	GL538315.1:105765-107144	CDBOEMCK_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:107198-107677	CDBOEMCK_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:107819-108160	CDBOEMCK_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	SsrA-binding protein	GL538315.1:c109144-108662	CDBOEMCK_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Recombination protein RecR	GL538315.1:c109846-109247	CDBOEMCK_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Nucleoid-associated protein	GL538315.1:c110204-109866	CDBOEMCK_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA polymerase III subunit tau	GL538315.1:c112098-110236	CDBOEMCK_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Zinc transporter ZupT	GL538315.1:c113300-112548	CDBOEMCK_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c113767-113393	CDBOEMCK_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:114326-114601	CDBOEMCK_00101
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Chromate transport protein	GL538315.1:c115354-114782	CDBOEMCK_00102
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Chromate transport protein	GL538315.1:c115923-115351	CDBOEMCK_00103
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	L-aspartate dehydrogenase	GL538315.1:116032-116832	CDBOEMCK_00104
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Glycerate dehydrogenase	GL538315.1:116848-117744	CDBOEMCK_00105
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Cytokinin riboside 5'-monophosphate phosphoribohydrolase	GL538315.1:c118322-117786	CDBOEMCK_00106
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	GL538315.1:118582-119382	CDBOEMCK_00107
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Aminopyrimidine aminohydrolase	GL538315.1:119375-120052	CDBOEMCK_00108
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Rhomboid protease GlpG	GL538315.1:c121276-120644	CDBOEMCK_00109
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Inorganic triphosphatase	GL538315.1:c121761-121273	CDBOEMCK_00110
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Tyrosine recombinase XerD	GL538315.1:c122933-121917	CDBOEMCK_00111
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c124100-123087	CDBOEMCK_00112
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:124239-124343	CDBOEMCK_00113
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Propionyl-CoA carboxylase regulator	GL538315.1:c124749-124372	CDBOEMCK_00114
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:124931-125128	CDBOEMCK_00115
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c125264-125088	CDBOEMCK_00116
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:125598-125822	CDBOEMCK_00117
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:125906-126097	CDBOEMCK_00118
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c127026-126193	CDBOEMCK_00119
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:127055-127174	CDBOEMCK_00120
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:127192-127872	CDBOEMCK_00121
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:127876-128307	CDBOEMCK_00122
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:128304-128528	CDBOEMCK_00123
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:128518-128781	CDBOEMCK_00124
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:128784-129113	CDBOEMCK_00125
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:129164-129565	CDBOEMCK_00126
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:129562-129777	CDBOEMCK_00127
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Chromosome partition protein Smc	GL538315.1:129833-131269	CDBOEMCK_00128
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:131266-131835	CDBOEMCK_00129
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:131848-132747	CDBOEMCK_00130
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:132734-133186	CDBOEMCK_00131
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Putative DNA repair helicase RadD	GL538315.1:133183-134574	CDBOEMCK_00132
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:134580-135083	CDBOEMCK_00133
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:135096-137495	CDBOEMCK_00134
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:137625-138044	CDBOEMCK_00135
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:138417-138764	CDBOEMCK_00136
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:138862-139134	CDBOEMCK_00137
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:139082-140479	CDBOEMCK_00138
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:140490-141899	CDBOEMCK_00139
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:141871-142902	CDBOEMCK_00140
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:142877-143077	CDBOEMCK_00141
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA mismatch repair protein MutS	GL538315.1:143412-146027	CDBOEMCK_00143
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA mismatch repair protein MutL	GL538315.1:146071-148212	CDBOEMCK_00144
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	tRNA dimethylallyltransferase	GL538315.1:148196-149140	CDBOEMCK_00145
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:149146-150459	CDBOEMCK_00146
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Cell division protein SepF	GL538315.1:150570-151034	CDBOEMCK_00147
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:151018-151836	CDBOEMCK_00148
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Septum site-determining protein DivIVA	GL538315.1:151858-152691	CDBOEMCK_00149
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Isoleucine--tRNA ligase	GL538315.1:152731-155526	CDBOEMCK_00150
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Lipoprotein signal peptidase	GL538315.1:155617-156102	CDBOEMCK_00151
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Ribosomal large subunit pseudouridine synthase D	GL538315.1:156106-157038	CDBOEMCK_00152
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:157035-157865	CDBOEMCK_00153
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	ComE operon protein 1	GL538315.1:157932-158291	CDBOEMCK_00154
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Polyphosphate kinase	GL538315.1:158333-160720	CDBOEMCK_00155
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Murein DD-endopeptidase MepM	GL538315.1:160815-161345	CDBOEMCK_00156
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:161342-161827	CDBOEMCK_00157
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:161893-163755	CDBOEMCK_00158
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:163730-164374	CDBOEMCK_00159
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	50S ribosomal protein L19	GL538315.1:164590-164931	CDBOEMCK_00160
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Signal peptidase I T	GL538315.1:165102-165650	CDBOEMCK_00161
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Ribosome biogenesis GTPase A	GL538315.1:165647-166570	CDBOEMCK_00162
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Ribonuclease HII	GL538315.1:166567-167214	CDBOEMCK_00163
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:167211-167573	CDBOEMCK_00164
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Threonine synthase	GL538315.1:167673-169133	CDBOEMCK_00165
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA	GL538315.1:169168-169851	CDBOEMCK_00166
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Trigger factor	GL538315.1:170061-171377	CDBOEMCK_00167
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	ATP-dependent Clp protease proteolytic subunit	GL538315.1:171524-172120	CDBOEMCK_00168
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	ATP-dependent Clp protease ATP-binding subunit ClpX	GL538315.1:172162-173484	CDBOEMCK_00169
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Putative aminotransferase/MSMEI_6121	GL538315.1:173715-174998	CDBOEMCK_00170
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:175179-177515	CDBOEMCK_00171
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Transcriptional repressor NrdR	GL538315.1:177554-178024	CDBOEMCK_00172
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c178445-178077	CDBOEMCK_00173
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c179147-178455	CDBOEMCK_00174
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Spore germination protein B1	GL538315.1:179226-180686	CDBOEMCK_00175
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:180686-181483	CDBOEMCK_00176
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:181480-182451	CDBOEMCK_00177
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Signal-transduction histidine kinase senX3	GL538315.1:c183802-182453	CDBOEMCK_00178
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Phosphate regulon transcriptional regulatory protein PhoB	GL538315.1:c184488-183799	CDBOEMCK_00179
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c186272-184485	CDBOEMCK_00180
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	HPr kinase/phosphorylase	GL538315.1:186570-187505	CDBOEMCK_00181
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	UDP-N-acetylenolpyruvoylglucosamine reductase	GL538315.1:187534-188430	CDBOEMCK_00182
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Nucleotide-binding protein YvcJ	GL538315.1:188465-189328	CDBOEMCK_00183
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Putative sporulation transcription regulator WhiA	GL538315.1:189345-190274	CDBOEMCK_00184
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA polymerase III subunit alpha	GL538315.1:190271-193780	CDBOEMCK_00185
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	ATP-dependent 6-phosphofructokinase	GL538315.1:193951-194925	CDBOEMCK_00186
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Phosphate acetyltransferase	GL538315.1:195307-196332	CDBOEMCK_00187
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Low conductance mechanosensitive channel YnaI	GL538315.1:c197653-196571	CDBOEMCK_00188
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Riboflavin transporter RibU	GL538315.1:198092-198691	CDBOEMCK_00189
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	putative FMN/FAD exporter YeeO	GL538315.1:c200236-198818	CDBOEMCK_00190
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Phospho-N-acetylmuramoyl-pentapeptide-transferase	GL538315.1:200408-201361	CDBOEMCK_00191
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Bifunctional protein FolD protein	GL538315.1:c202323-201469	CDBOEMCK_00192
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Methenyltetrahydrofolate cyclohydrolase	GL538315.1:c202970-202335	CDBOEMCK_00193
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	5-formyltetrahydrofolate cyclo-ligase	GL538315.1:c203533-202961	CDBOEMCK_00194
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Serine hydroxymethyltransferase	GL538315.1:203784-205037	CDBOEMCK_00195
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Cob(I)yrinic acid a,c-diamide adenosyltransferase	GL538315.1:205139-205654	CDBOEMCK_00196
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:205925-206185	CDBOEMCK_00197
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:206221-207192	CDBOEMCK_00198
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	putative ATP-dependent helicase DinG	GL538315.1:c209745-207259	CDBOEMCK_00199
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c210991-209906	CDBOEMCK_00200
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c211637-211062	CDBOEMCK_00201
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA ligase	GL538315.1:212272-214263	CDBOEMCK_00202
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:214392-215285	CDBOEMCK_00203
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:215282-215746	CDBOEMCK_00204
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:215765-215959	CDBOEMCK_00205
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:215956-216339	CDBOEMCK_00206
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:216336-217418	CDBOEMCK_00207
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:217422-217892	CDBOEMCK_00208
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:217889-218422	CDBOEMCK_00209
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:218455-219081	CDBOEMCK_00210
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Alkaline shock protein 23	GL538315.1:219257-219628	CDBOEMCK_00211
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	N utilization substance protein B	GL538315.1:219703-220137	CDBOEMCK_00212
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	tRNA N6-adenosine threonylcarbamoyltransferase	GL538315.1:220134-221075	CDBOEMCK_00213
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Exodeoxyribonuclease 7 large subunit	GL538315.1:221063-222286	CDBOEMCK_00214
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Exodeoxyribonuclease 7 small subunit	GL538315.1:222264-222479	CDBOEMCK_00215
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Farnesyl diphosphate synthase	GL538315.1:222479-223360	CDBOEMCK_00216
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:223393-223860	CDBOEMCK_00217
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	1-deoxy-D-xylulose-5-phosphate synthase	GL538315.1:223929-225812	CDBOEMCK_00218
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Hemolysin A	GL538315.1:225809-226612	CDBOEMCK_00219
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	NAD kinase	GL538315.1:226651-227502	CDBOEMCK_00220
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Arginine repressor	GL538315.1:227521-228003	CDBOEMCK_00221
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA repair protein RecN	GL538315.1:228025-229689	CDBOEMCK_00222
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Tyrosine--tRNA ligase	GL538315.1:230075-231295	CDBOEMCK_00223
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Aspartokinase	GL538315.1:c231855-231388	CDBOEMCK_00224
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Capsule biosynthesis protein CapA	GL538315.1:c233225-231906	CDBOEMCK_00225
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	4-hydroxy-tetrahydrodipicolinate reductase	GL538315.1:c234026-233268	CDBOEMCK_00226
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	4-hydroxy-tetrahydrodipicolinate synthase	GL538315.1:c235010-234117	CDBOEMCK_00227
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Aspartate-semialdehyde dehydrogenase	GL538315.1:c236134-235052	CDBOEMCK_00228
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	GL538315.1:236305-237333	CDBOEMCK_00229
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Queuine tRNA-ribosyltransferase	GL538315.1:237431-238576	CDBOEMCK_00230
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:238650-238961	CDBOEMCK_00231
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:239037-239432	CDBOEMCK_00232
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:239458-240198	CDBOEMCK_00233
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA repair protein RadA	GL538315.1:240283-241695	CDBOEMCK_00234
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Tyrosine recombinase XerC	GL538315.1:241707-242912	CDBOEMCK_00235
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	N-acetylmuramoyl-L-alanine amidase AmiB	GL538315.1:c244384-243518	CDBOEMCK_00236
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Endonuclease MutS2	GL538315.1:c246905-244494	CDBOEMCK_00237
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	DNA repair protein RecO	GL538315.1:c247667-246921	CDBOEMCK_00238
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	GTPase Era	GL538315.1:c248800-247862	CDBOEMCK_00239
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Endoribonuclease YbeY	GL538315.1:c249338-248847	CDBOEMCK_00240
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	PhoH-like protein	GL538315.1:c250351-249392	CDBOEMCK_00241
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:250707-250901	CDBOEMCK_00242
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c251783-250968	CDBOEMCK_00243
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	putative xanthine dehydrogenase subunit A	GL538315.1:c252835-251780	CDBOEMCK_00244
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c253091-252861	CDBOEMCK_00245
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Cysteine desulfurase CsdA	GL538315.1:c254232-253093	CDBOEMCK_00246
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c254837-254229	CDBOEMCK_00247
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Selenide, water dikinase	GL538315.1:c255887-254853	CDBOEMCK_00248
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c256591-255884	CDBOEMCK_00249
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA	GL538315.1:c258879-256588	CDBOEMCK_00250
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	4-hydroxybenzoyl-CoA reductase subunit gamma	GL538315.1:c259346-258876	CDBOEMCK_00251
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c260150-259347	CDBOEMCK_00252
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Molybdenum cofactor guanylyltransferase	GL538315.1:260250-260909	CDBOEMCK_00253
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Xanthine permease XanP	GL538315.1:c262310-260913	CDBOEMCK_00254
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	dTDP-4-dehydrorhamnose reductase	GL538315.1:c263404-262562	CDBOEMCK_00255
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c263778-263473	CDBOEMCK_00256
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Inner membrane protein YgaZ	GL538315.1:c264553-263768	CDBOEMCK_00257
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c266213-264693	CDBOEMCK_00258
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Arginine decarboxylase	GL538315.1:c267753-266332	CDBOEMCK_00259
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Anaerobic sulfatase-maturating enzyme	GL538315.1:c269201-267750	CDBOEMCK_00260
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c269413-269267	CDBOEMCK_00261
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c269829-269536	CDBOEMCK_00262
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Mannosylglucosyl-3-phosphoglycerate phosphatase	GL538315.1:c271983-270226	CDBOEMCK_00264
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	Oleate hydratase	GL538315.1:c274025-272253	CDBOEMCK_00265
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c275773-274280	CDBOEMCK_00266
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c276107-275787	CDBOEMCK_00267
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c276409-276104	CDBOEMCK_00268
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c277714-277205	CDBOEMCK_00269
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_GL538315/GL538315:CDS	hypothetical protein	GL538315.1:c279056-278700	CDBOEMCK_00270
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./tmp/prokka_GL538315/GL538315:tRNA	Pro	GL538315.1:38702-38779	CDBOEMCK_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./tmp/prokka_GL538315/GL538315:tRNA	Thr	GL538315.1:c102625-102550	CDBOEMCK_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./tmp/prokka_GL538315/GL538315:tmRNA	transfer-messenger RNA, SsrA	GL538315.1:c108591-108241	CDBOEMCK_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./tmp/prokka_GL538315/GL538315:tRNA	Trp	GL538315.1:143159-143235	CDBOEMCK_00142
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+./tmp/prokka_GL538315/GL538315:tRNA	Gln	GL538315.1:270054-270127	CDBOEMCK_00263
+
+DiscRep_ALL:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+./tmp/prokka_GL538315/GL538315:CDS	Chromate transport protein	GL538315.1:c115354-114782	CDBOEMCK_00102
+./tmp/prokka_GL538315/GL538315:CDS	Chromate transport protein	GL538315.1:c115923-115351	CDBOEMCK_00103
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::2 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features contains three or more numbers together that may be identifiers more appropriate in note
+./tmp/prokka_GL538315/GL538315:CDS	Putative aminotransferase/MSMEI_6121	GL538315.1:173715-174998	CDBOEMCK_00170
+
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::1 features Contains underscore
+./tmp/prokka_GL538315/GL538315:CDS	Putative aminotransferase/MSMEI_6121	GL538315.1:173715-174998	CDBOEMCK_00170
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./tmp/prokka_GL538315/GL538315:GL538315.1:Annotated using prokka 1.12 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::5 protein sequences are shorter than 50 aa.
+./tmp/prokka_GL538315/GL538315:GL538315.1_32 (length 33)
+./tmp/prokka_GL538315/GL538315:GL538315.1_51 (length 47)
+./tmp/prokka_GL538315/GL538315:GL538315.1_110 (length 34)
+./tmp/prokka_GL538315/GL538315:GL538315.1_117 (length 39)
+./tmp/prokka_GL538315/GL538315:GL538315.1_257 (length 48)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+
+DiscRep_ALL:MISSING_PROJECT::266 sequences do not include project.
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+./tmp/prokka_GL538315/GL538315:GL538315.1_1 (length 740)
+./tmp/prokka_GL538315/GL538315:GL538315.1_2 (length 341)
+./tmp/prokka_GL538315/GL538315:GL538315.1_3 (length 119)
+./tmp/prokka_GL538315/GL538315:GL538315.1_4 (length 402)
+./tmp/prokka_GL538315/GL538315:GL538315.1_5 (length 892)
+./tmp/prokka_GL538315/GL538315:GL538315.1_6 (length 259)
+./tmp/prokka_GL538315/GL538315:GL538315.1_7 (length 223)
+./tmp/prokka_GL538315/GL538315:GL538315.1_8 (length 271)
+./tmp/prokka_GL538315/GL538315:GL538315.1_9 (length 379)
+./tmp/prokka_GL538315/GL538315:GL538315.1_10 (length 407)
+./tmp/prokka_GL538315/GL538315:GL538315.1_11 (length 569)
+./tmp/prokka_GL538315/GL538315:GL538315.1_12 (length 492)
+./tmp/prokka_GL538315/GL538315:GL538315.1_13 (length 1515)
+./tmp/prokka_GL538315/GL538315:GL538315.1_14 (length 526)
+./tmp/prokka_GL538315/GL538315:GL538315.1_15 (length 450)
+./tmp/prokka_GL538315/GL538315:GL538315.1_16 (length 277)
+./tmp/prokka_GL538315/GL538315:GL538315.1_17 (length 523)
+./tmp/prokka_GL538315/GL538315:GL538315.1_18 (length 653)
+./tmp/prokka_GL538315/GL538315:GL538315.1_19 (length 428)
+./tmp/prokka_GL538315/GL538315:GL538315.1_20 (length 134)
+./tmp/prokka_GL538315/GL538315:GL538315.1_21 (length 335)
+./tmp/prokka_GL538315/GL538315:GL538315.1_22 (length 239)
+./tmp/prokka_GL538315/GL538315:GL538315.1_23 (length 685)
+./tmp/prokka_GL538315/GL538315:GL538315.1_24 (length 953)
+./tmp/prokka_GL538315/GL538315:GL538315.1_25 (length 83)
+./tmp/prokka_GL538315/GL538315:GL538315.1_26 (length 155)
+./tmp/prokka_GL538315/GL538315:GL538315.1_27 (length 179)
+./tmp/prokka_GL538315/GL538315:GL538315.1_28 (length 250)
+./tmp/prokka_GL538315/GL538315:GL538315.1_29 (length 1028)
+./tmp/prokka_GL538315/GL538315:GL538315.1_30 (length 456)
+./tmp/prokka_GL538315/GL538315:GL538315.1_31 (length 287)
+./tmp/prokka_GL538315/GL538315:GL538315.1_32 (length 33)
+./tmp/prokka_GL538315/GL538315:GL538315.1_33 (length 82)
+./tmp/prokka_GL538315/GL538315:GL538315.1_34 (length 302)
+./tmp/prokka_GL538315/GL538315:GL538315.1_35 (length 115)
+./tmp/prokka_GL538315/GL538315:GL538315.1_36 (length 121)
+./tmp/prokka_GL538315/GL538315:GL538315.1_37 (length 218)
+./tmp/prokka_GL538315/GL538315:GL538315.1_38 (length 240)
+./tmp/prokka_GL538315/GL538315:GL538315.1_39 (length 119)
+./tmp/prokka_GL538315/GL538315:GL538315.1_40 (length 115)
+./tmp/prokka_GL538315/GL538315:GL538315.1_41 (length 595)
+./tmp/prokka_GL538315/GL538315:GL538315.1_42 (length 768)
+./tmp/prokka_GL538315/GL538315:GL538315.1_43 (length 275)
+./tmp/prokka_GL538315/GL538315:GL538315.1_44 (length 858)
+./tmp/prokka_GL538315/GL538315:GL538315.1_45 (length 982)
+./tmp/prokka_GL538315/GL538315:GL538315.1_46 (length 574)
+./tmp/prokka_GL538315/GL538315:GL538315.1_47 (length 377)
+./tmp/prokka_GL538315/GL538315:GL538315.1_48 (length 291)
+./tmp/prokka_GL538315/GL538315:GL538315.1_49 (length 136)
+./tmp/prokka_GL538315/GL538315:GL538315.1_50 (length 55)
+./tmp/prokka_GL538315/GL538315:GL538315.1_51 (length 47)
+./tmp/prokka_GL538315/GL538315:GL538315.1_52 (length 109)
+./tmp/prokka_GL538315/GL538315:GL538315.1_53 (length 82)
+./tmp/prokka_GL538315/GL538315:GL538315.1_54 (length 82)
+./tmp/prokka_GL538315/GL538315:GL538315.1_55 (length 90)
+./tmp/prokka_GL538315/GL538315:GL538315.1_56 (length 72)
+./tmp/prokka_GL538315/GL538315:GL538315.1_57 (length 61)
+./tmp/prokka_GL538315/GL538315:GL538315.1_58 (length 252)
+./tmp/prokka_GL538315/GL538315:GL538315.1_59 (length 72)
+./tmp/prokka_GL538315/GL538315:GL538315.1_60 (length 54)
+./tmp/prokka_GL538315/GL538315:GL538315.1_61 (length 220)
+./tmp/prokka_GL538315/GL538315:GL538315.1_62 (length 68)
+./tmp/prokka_GL538315/GL538315:GL538315.1_63 (length 368)
+./tmp/prokka_GL538315/GL538315:GL538315.1_64 (length 103)
+./tmp/prokka_GL538315/GL538315:GL538315.1_65 (length 236)
+./tmp/prokka_GL538315/GL538315:GL538315.1_66 (length 486)
+./tmp/prokka_GL538315/GL538315:GL538315.1_67 (length 649)
+./tmp/prokka_GL538315/GL538315:GL538315.1_68 (length 87)
+./tmp/prokka_GL538315/GL538315:GL538315.1_69 (length 454)
+./tmp/prokka_GL538315/GL538315:GL538315.1_70 (length 340)
+./tmp/prokka_GL538315/GL538315:GL538315.1_71 (length 91)
+./tmp/prokka_GL538315/GL538315:GL538315.1_72 (length 127)
+./tmp/prokka_GL538315/GL538315:GL538315.1_73 (length 633)
+./tmp/prokka_GL538315/GL538315:GL538315.1_74 (length 63)
+./tmp/prokka_GL538315/GL538315:GL538315.1_75 (length 200)
+./tmp/prokka_GL538315/GL538315:GL538315.1_76 (length 459)
+./tmp/prokka_GL538315/GL538315:GL538315.1_77 (length 3567)
+./tmp/prokka_GL538315/GL538315:GL538315.1_78 (length 480)
+./tmp/prokka_GL538315/GL538315:GL538315.1_79 (length 142)
+./tmp/prokka_GL538315/GL538315:GL538315.1_80 (length 50)
+./tmp/prokka_GL538315/GL538315:GL538315.1_81 (length 140)
+./tmp/prokka_GL538315/GL538315:GL538315.1_82 (length 100)
+./tmp/prokka_GL538315/GL538315:GL538315.1_83 (length 77)
+./tmp/prokka_GL538315/GL538315:GL538315.1_84 (length 88)
+./tmp/prokka_GL538315/GL538315:GL538315.1_85 (length 79)
+./tmp/prokka_GL538315/GL538315:GL538315.1_86 (length 229)
+./tmp/prokka_GL538315/GL538315:GL538315.1_87 (length 424)
+./tmp/prokka_GL538315/GL538315:GL538315.1_88 (length 130)
+./tmp/prokka_GL538315/GL538315:GL538315.1_89 (length 459)
+./tmp/prokka_GL538315/GL538315:GL538315.1_90 (length 159)
+./tmp/prokka_GL538315/GL538315:GL538315.1_91 (length 113)
+./tmp/prokka_GL538315/GL538315:GL538315.1_92 (length 160)
+./tmp/prokka_GL538315/GL538315:GL538315.1_93 (length 199)
+./tmp/prokka_GL538315/GL538315:GL538315.1_94 (length 112)
+./tmp/prokka_GL538315/GL538315:GL538315.1_95 (length 620)
+./tmp/prokka_GL538315/GL538315:GL538315.1_96 (length 250)
+./tmp/prokka_GL538315/GL538315:GL538315.1_97 (length 124)
+./tmp/prokka_GL538315/GL538315:GL538315.1_98 (length 91)
+./tmp/prokka_GL538315/GL538315:GL538315.1_99 (length 190)
+./tmp/prokka_GL538315/GL538315:GL538315.1_100 (length 190)
+./tmp/prokka_GL538315/GL538315:GL538315.1_101 (length 266)
+./tmp/prokka_GL538315/GL538315:GL538315.1_102 (length 298)
+./tmp/prokka_GL538315/GL538315:GL538315.1_103 (length 178)
+./tmp/prokka_GL538315/GL538315:GL538315.1_104 (length 266)
+./tmp/prokka_GL538315/GL538315:GL538315.1_105 (length 225)
+./tmp/prokka_GL538315/GL538315:GL538315.1_106 (length 210)
+./tmp/prokka_GL538315/GL538315:GL538315.1_107 (length 162)
+./tmp/prokka_GL538315/GL538315:GL538315.1_108 (length 338)
+./tmp/prokka_GL538315/GL538315:GL538315.1_109 (length 337)
+./tmp/prokka_GL538315/GL538315:GL538315.1_110 (length 34)
+./tmp/prokka_GL538315/GL538315:GL538315.1_111 (length 125)
+./tmp/prokka_GL538315/GL538315:GL538315.1_112 (length 65)
+./tmp/prokka_GL538315/GL538315:GL538315.1_113 (length 58)
+./tmp/prokka_GL538315/GL538315:GL538315.1_114 (length 74)
+./tmp/prokka_GL538315/GL538315:GL538315.1_115 (length 63)
+./tmp/prokka_GL538315/GL538315:GL538315.1_116 (length 277)
+./tmp/prokka_GL538315/GL538315:GL538315.1_117 (length 39)
+./tmp/prokka_GL538315/GL538315:GL538315.1_118 (length 226)
+./tmp/prokka_GL538315/GL538315:GL538315.1_119 (length 143)
+./tmp/prokka_GL538315/GL538315:GL538315.1_120 (length 74)
+./tmp/prokka_GL538315/GL538315:GL538315.1_121 (length 87)
+./tmp/prokka_GL538315/GL538315:GL538315.1_122 (length 109)
+./tmp/prokka_GL538315/GL538315:GL538315.1_123 (length 133)
+./tmp/prokka_GL538315/GL538315:GL538315.1_124 (length 71)
+./tmp/prokka_GL538315/GL538315:GL538315.1_125 (length 478)
+./tmp/prokka_GL538315/GL538315:GL538315.1_126 (length 189)
+./tmp/prokka_GL538315/GL538315:GL538315.1_127 (length 299)
+./tmp/prokka_GL538315/GL538315:GL538315.1_128 (length 150)
+./tmp/prokka_GL538315/GL538315:GL538315.1_129 (length 463)
+./tmp/prokka_GL538315/GL538315:GL538315.1_130 (length 167)
+./tmp/prokka_GL538315/GL538315:GL538315.1_131 (length 799)
+./tmp/prokka_GL538315/GL538315:GL538315.1_132 (length 139)
+./tmp/prokka_GL538315/GL538315:GL538315.1_133 (length 115)
+./tmp/prokka_GL538315/GL538315:GL538315.1_134 (length 90)
+./tmp/prokka_GL538315/GL538315:GL538315.1_135 (length 465)
+./tmp/prokka_GL538315/GL538315:GL538315.1_136 (length 469)
+./tmp/prokka_GL538315/GL538315:GL538315.1_137 (length 343)
+./tmp/prokka_GL538315/GL538315:GL538315.1_138 (length 66)
+./tmp/prokka_GL538315/GL538315:GL538315.1_139 (length 871)
+./tmp/prokka_GL538315/GL538315:GL538315.1_140 (length 713)
+./tmp/prokka_GL538315/GL538315:GL538315.1_141 (length 314)
+./tmp/prokka_GL538315/GL538315:GL538315.1_142 (length 437)
+./tmp/prokka_GL538315/GL538315:GL538315.1_143 (length 154)
+./tmp/prokka_GL538315/GL538315:GL538315.1_144 (length 272)
+./tmp/prokka_GL538315/GL538315:GL538315.1_145 (length 277)
+./tmp/prokka_GL538315/GL538315:GL538315.1_146 (length 931)
+./tmp/prokka_GL538315/GL538315:GL538315.1_147 (length 161)
+./tmp/prokka_GL538315/GL538315:GL538315.1_148 (length 310)
+./tmp/prokka_GL538315/GL538315:GL538315.1_149 (length 276)
+./tmp/prokka_GL538315/GL538315:GL538315.1_150 (length 119)
+./tmp/prokka_GL538315/GL538315:GL538315.1_151 (length 795)
+./tmp/prokka_GL538315/GL538315:GL538315.1_152 (length 176)
+./tmp/prokka_GL538315/GL538315:GL538315.1_153 (length 161)
+./tmp/prokka_GL538315/GL538315:GL538315.1_154 (length 620)
+./tmp/prokka_GL538315/GL538315:GL538315.1_155 (length 214)
+./tmp/prokka_GL538315/GL538315:GL538315.1_156 (length 113)
+./tmp/prokka_GL538315/GL538315:GL538315.1_157 (length 182)
+./tmp/prokka_GL538315/GL538315:GL538315.1_158 (length 307)
+./tmp/prokka_GL538315/GL538315:GL538315.1_159 (length 215)
+./tmp/prokka_GL538315/GL538315:GL538315.1_160 (length 120)
+./tmp/prokka_GL538315/GL538315:GL538315.1_161 (length 486)
+./tmp/prokka_GL538315/GL538315:GL538315.1_162 (length 227)
+./tmp/prokka_GL538315/GL538315:GL538315.1_163 (length 438)
+./tmp/prokka_GL538315/GL538315:GL538315.1_164 (length 198)
+./tmp/prokka_GL538315/GL538315:GL538315.1_165 (length 440)
+./tmp/prokka_GL538315/GL538315:GL538315.1_166 (length 427)
+./tmp/prokka_GL538315/GL538315:GL538315.1_167 (length 778)
+./tmp/prokka_GL538315/GL538315:GL538315.1_168 (length 156)
+./tmp/prokka_GL538315/GL538315:GL538315.1_169 (length 122)
+./tmp/prokka_GL538315/GL538315:GL538315.1_170 (length 230)
+./tmp/prokka_GL538315/GL538315:GL538315.1_171 (length 486)
+./tmp/prokka_GL538315/GL538315:GL538315.1_172 (length 265)
+./tmp/prokka_GL538315/GL538315:GL538315.1_173 (length 323)
+./tmp/prokka_GL538315/GL538315:GL538315.1_174 (length 449)
+./tmp/prokka_GL538315/GL538315:GL538315.1_175 (length 229)
+./tmp/prokka_GL538315/GL538315:GL538315.1_176 (length 595)
+./tmp/prokka_GL538315/GL538315:GL538315.1_177 (length 311)
+./tmp/prokka_GL538315/GL538315:GL538315.1_178 (length 298)
+./tmp/prokka_GL538315/GL538315:GL538315.1_179 (length 287)
+./tmp/prokka_GL538315/GL538315:GL538315.1_180 (length 309)
+./tmp/prokka_GL538315/GL538315:GL538315.1_181 (length 1169)
+./tmp/prokka_GL538315/GL538315:GL538315.1_182 (length 324)
+./tmp/prokka_GL538315/GL538315:GL538315.1_183 (length 341)
+./tmp/prokka_GL538315/GL538315:GL538315.1_184 (length 360)
+./tmp/prokka_GL538315/GL538315:GL538315.1_185 (length 199)
+./tmp/prokka_GL538315/GL538315:GL538315.1_186 (length 472)
+./tmp/prokka_GL538315/GL538315:GL538315.1_187 (length 317)
+./tmp/prokka_GL538315/GL538315:GL538315.1_188 (length 284)
+./tmp/prokka_GL538315/GL538315:GL538315.1_189 (length 211)
+./tmp/prokka_GL538315/GL538315:GL538315.1_190 (length 190)
+./tmp/prokka_GL538315/GL538315:GL538315.1_191 (length 417)
+./tmp/prokka_GL538315/GL538315:GL538315.1_192 (length 171)
+./tmp/prokka_GL538315/GL538315:GL538315.1_193 (length 86)
+./tmp/prokka_GL538315/GL538315:GL538315.1_194 (length 323)
+./tmp/prokka_GL538315/GL538315:GL538315.1_195 (length 828)
+./tmp/prokka_GL538315/GL538315:GL538315.1_196 (length 361)
+./tmp/prokka_GL538315/GL538315:GL538315.1_197 (length 191)
+./tmp/prokka_GL538315/GL538315:GL538315.1_198 (length 663)
+./tmp/prokka_GL538315/GL538315:GL538315.1_199 (length 297)
+./tmp/prokka_GL538315/GL538315:GL538315.1_200 (length 154)
+./tmp/prokka_GL538315/GL538315:GL538315.1_201 (length 64)
+./tmp/prokka_GL538315/GL538315:GL538315.1_202 (length 127)
+./tmp/prokka_GL538315/GL538315:GL538315.1_203 (length 360)
+./tmp/prokka_GL538315/GL538315:GL538315.1_204 (length 156)
+./tmp/prokka_GL538315/GL538315:GL538315.1_205 (length 177)
+./tmp/prokka_GL538315/GL538315:GL538315.1_206 (length 208)
+./tmp/prokka_GL538315/GL538315:GL538315.1_207 (length 123)
+./tmp/prokka_GL538315/GL538315:GL538315.1_208 (length 144)
+./tmp/prokka_GL538315/GL538315:GL538315.1_209 (length 313)
+./tmp/prokka_GL538315/GL538315:GL538315.1_210 (length 407)
+./tmp/prokka_GL538315/GL538315:GL538315.1_211 (length 71)
+./tmp/prokka_GL538315/GL538315:GL538315.1_212 (length 293)
+./tmp/prokka_GL538315/GL538315:GL538315.1_213 (length 155)
+./tmp/prokka_GL538315/GL538315:GL538315.1_214 (length 627)
+./tmp/prokka_GL538315/GL538315:GL538315.1_215 (length 267)
+./tmp/prokka_GL538315/GL538315:GL538315.1_216 (length 283)
+./tmp/prokka_GL538315/GL538315:GL538315.1_217 (length 160)
+./tmp/prokka_GL538315/GL538315:GL538315.1_218 (length 554)
+./tmp/prokka_GL538315/GL538315:GL538315.1_219 (length 406)
+./tmp/prokka_GL538315/GL538315:GL538315.1_220 (length 155)
+./tmp/prokka_GL538315/GL538315:GL538315.1_221 (length 439)
+./tmp/prokka_GL538315/GL538315:GL538315.1_222 (length 252)
+./tmp/prokka_GL538315/GL538315:GL538315.1_223 (length 297)
+./tmp/prokka_GL538315/GL538315:GL538315.1_224 (length 360)
+./tmp/prokka_GL538315/GL538315:GL538315.1_225 (length 342)
+./tmp/prokka_GL538315/GL538315:GL538315.1_226 (length 381)
+./tmp/prokka_GL538315/GL538315:GL538315.1_227 (length 103)
+./tmp/prokka_GL538315/GL538315:GL538315.1_228 (length 131)
+./tmp/prokka_GL538315/GL538315:GL538315.1_229 (length 246)
+./tmp/prokka_GL538315/GL538315:GL538315.1_230 (length 470)
+./tmp/prokka_GL538315/GL538315:GL538315.1_231 (length 401)
+./tmp/prokka_GL538315/GL538315:GL538315.1_232 (length 288)
+./tmp/prokka_GL538315/GL538315:GL538315.1_233 (length 803)
+./tmp/prokka_GL538315/GL538315:GL538315.1_234 (length 248)
+./tmp/prokka_GL538315/GL538315:GL538315.1_235 (length 312)
+./tmp/prokka_GL538315/GL538315:GL538315.1_236 (length 163)
+./tmp/prokka_GL538315/GL538315:GL538315.1_237 (length 319)
+./tmp/prokka_GL538315/GL538315:GL538315.1_238 (length 64)
+./tmp/prokka_GL538315/GL538315:GL538315.1_239 (length 271)
+./tmp/prokka_GL538315/GL538315:GL538315.1_240 (length 351)
+./tmp/prokka_GL538315/GL538315:GL538315.1_241 (length 76)
+./tmp/prokka_GL538315/GL538315:GL538315.1_242 (length 379)
+./tmp/prokka_GL538315/GL538315:GL538315.1_243 (length 202)
+./tmp/prokka_GL538315/GL538315:GL538315.1_244 (length 344)
+./tmp/prokka_GL538315/GL538315:GL538315.1_245 (length 235)
+./tmp/prokka_GL538315/GL538315:GL538315.1_246 (length 763)
+./tmp/prokka_GL538315/GL538315:GL538315.1_247 (length 156)
+./tmp/prokka_GL538315/GL538315:GL538315.1_248 (length 267)
+./tmp/prokka_GL538315/GL538315:GL538315.1_249 (length 219)
+./tmp/prokka_GL538315/GL538315:GL538315.1_250 (length 465)
+./tmp/prokka_GL538315/GL538315:GL538315.1_251 (length 280)
+./tmp/prokka_GL538315/GL538315:GL538315.1_252 (length 101)
+./tmp/prokka_GL538315/GL538315:GL538315.1_253 (length 261)
+./tmp/prokka_GL538315/GL538315:GL538315.1_254 (length 506)
+./tmp/prokka_GL538315/GL538315:GL538315.1_255 (length 473)
+./tmp/prokka_GL538315/GL538315:GL538315.1_256 (length 483)
+./tmp/prokka_GL538315/GL538315:GL538315.1_257 (length 48)
+./tmp/prokka_GL538315/GL538315:GL538315.1_258 (length 97)
+./tmp/prokka_GL538315/GL538315:GL538315.1_259 (length 585)
+./tmp/prokka_GL538315/GL538315:GL538315.1_260 (length 590)
+./tmp/prokka_GL538315/GL538315:GL538315.1_261 (length 497)
+./tmp/prokka_GL538315/GL538315:GL538315.1_262 (length 106)
+./tmp/prokka_GL538315/GL538315:GL538315.1_263 (length 101)
+./tmp/prokka_GL538315/GL538315:GL538315.1_264 (length 169)
+./tmp/prokka_GL538315/GL538315:GL538315.1_265 (length 118)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+
+DiscRep_ALL:DISC_GAPS::1 sequences contain gaps
+./tmp/prokka_GL538315/GL538315:GL538315.1 (length 279289, 60 gap)
+

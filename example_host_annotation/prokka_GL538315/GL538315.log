@@ -1,0 +1,102 @@
+[19:27:22] This is prokka 1.12
+[19:27:22] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[19:27:22] Homepage is https://github.com/tseemann/prokka
+[19:27:22] Local time is Wed May  1 19:27:22 2024
+[19:27:22] You are TongqingWei
+[19:27:22] Operating system is linux
+[19:27:22] You have BioPerl 1.006924
+[19:27:22] System has 40 cores.
+[19:27:22] Will use maximum of 8 cores.
+[19:27:22] Annotating as >>> Bacteria <<<
+[19:27:22] Generating locus_tag from './example_host/GL538315.1.fasta' contents.
+[19:27:22] Setting --locustag CDBOEMCK from MD5 cdb8e6c4d922d28cdf2dda5ff8cfaa3b
+[19:27:22] Creating new output folder: ./tmp/prokka_GL538315
+[19:27:22] Running: mkdir -p \.\/tmp\/prokka_GL538315
+[19:27:22] Using filename prefix: GL538315.XXX
+[19:27:22] Setting HMMER_NCPU=1
+[19:27:22] Writing log to: ./tmp/prokka_GL538315/GL538315.log
+[19:27:22] Command: /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/prokka ./example_host/GL538315.1.fasta --outdir ./tmp/prokka_GL538315 --prefix GL538315 --force
+[19:27:22] Looking for 'aragorn' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/aragorn
+[19:27:22] Determined aragorn version is 1.2
+[19:27:22] Looking for 'blastp' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/blastp
+[19:27:22] Determined blastp version is 2.5
+[19:27:22] Looking for 'cmpress' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/cmpress
+[19:27:22] Determined cmpress version is 1.1
+[19:27:22] Looking for 'cmscan' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/cmscan
+[19:27:22] Determined cmscan version is 1.1
+[19:27:22] Looking for 'egrep' - found /bios-store1/software/bin/egrep
+[19:27:22] Looking for 'find' - found /usr/bin/find
+[19:27:22] Looking for 'grep' - found /bios-store1/software/bin/grep
+[19:27:22] Looking for 'hmmpress' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/hmmpress
+[19:27:22] Determined hmmpress version is 3.1
+[19:27:22] Looking for 'hmmscan' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/hmmscan
+[19:27:22] Determined hmmscan version is 3.1
+[19:27:22] Looking for 'java' - found /usr/bin/java
+[19:27:22] Looking for 'less' - found /usr/bin/less
+[19:27:22] Looking for 'makeblastdb' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/makeblastdb
+[19:27:22] Determined makeblastdb version is 2.5
+[19:27:22] Looking for 'parallel' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/parallel
+[19:27:22] Determined parallel version is 20240322
+[19:27:22] Looking for 'prodigal' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/prodigal
+[19:27:22] Determined prodigal version is 2.6
+[19:27:22] Looking for 'prokka-genbank_to_fasta_db' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/prokka-genbank_to_fasta_db
+[19:27:22] Looking for 'sed' - found /bios-store1/software/bin/sed
+[19:27:22] Looking for 'tbl2asn' - found /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/bin/tbl2asn
+[19:27:22] Determined tbl2asn version is 25.3
+[19:27:22] Using genetic code table 11.
+[19:27:22] Loading and checking input file: ./example_host/GL538315.1.fasta
+[19:27:22] Wrote 1 contigs totalling 279289 bp.
+[19:27:22] Predicting tRNAs and tmRNAs
+[19:27:22] Running: aragorn -l -gc11  -w \.\/tmp\/prokka_GL538315\/GL538315\.fna
+[19:27:23] 1 tRNA-Pro [38702,38779] 36 (ggg)
+[19:27:23] 2 tRNA-Thr c[102550,102625] 34 (cgt)
+[19:27:23] 3 tmRNA c[108241,108591] 92,124 DNNNSQLLAA*
+[19:27:23] 4 tRNA-Trp [143159,143235] 35 (cca)
+[19:27:23] 5 tRNA-Gln [270054,270127] 33 (ctg)
+[19:27:23] Found 5 tRNAs
+[19:27:23] Predicting Ribosomal RNAs
+[19:27:23] You need either Barrnap or RNAmmer installed to predict rRNAs!
+[19:27:23] Skipping ncRNA search, enable with --rfam if desired.
+[19:27:23] Total of 4 tRNA + rRNA features
+[19:27:23] Predicting coding sequences
+[19:27:23] Contigs total 279289 bp, so using single mode
+[19:27:23] Running: prodigal -i \.\/tmp\/prokka_GL538315\/GL538315\.fna -c -m -g 11 -p single -f sco -q
+[19:27:23] Found 265 CDS
+[19:27:23] Connecting features back to sequences
+[19:27:23] Not using genus-specific database. Try --usegenus to enable it.
+[19:27:23] Annotating CDS, please be patient.
+[19:27:23] Will use 8 CPUs for similarity searching.
+[19:27:24] There are still 265 unannotated CDS left (started with 265)
+[19:27:24] Will use blast to search against /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/kingdom/Bacteria/sprot with 8 CPUs
+[19:27:24] Running: cat \.\/tmp\/prokka_GL538315\/sprot\.faa | parallel --gnu --plain -j 8 --block 5294 --recstart '>' --pipe blastp -query - -db /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\/tmp\/prokka_GL538315\/sprot\.blast 2> /dev/null
+[19:27:27] Modify product: Uncharacterized AAA domain-containing protein Rv2559c => putative AAA domain-containing protein
+[19:27:27] Modify product: Nucleoid-associated protein Cthe_2143 => Nucleoid-associated protein
+[19:27:27] Modify product: Uncharacterized HTH-type transcriptional regulator HI_0186 => putative HTH-type transcriptional regulator
+[19:27:27] Modify product: Uncharacterized protease YdcP => putative protease YdcP
+[19:27:27] Modify product: Probable amino-acid-binding protein YxeM => putative amino-acid-binding protein YxeM
+[19:27:27] Modify product: Putative aminotransferase MSMEG_6286/MSMEI_6121 => Putative aminotransferase/MSMEI_6121
+[19:27:27] Modify product: Probable FMN/FAD exporter YeeO => putative FMN/FAD exporter YeeO
+[19:27:27] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[19:27:27] Modify product: Probable ATP-dependent helicase DinG homolog => putative ATP-dependent helicase DinG 
+[19:27:27] Modify product: N utilization substance protein B homolog => N utilization substance protein B 
+[19:27:27] Modify product: Probable xanthine dehydrogenase subunit A => putative xanthine dehydrogenase subunit A
+[19:27:27] Cleaned 11 /product names
+[19:27:27] Deleting unwanted file: ./tmp/prokka_GL538315/sprot.faa
+[19:27:27] Deleting unwanted file: ./tmp/prokka_GL538315/sprot.blast
+[19:27:27] There are still 136 unannotated CDS left (started with 265)
+[19:27:27] Will use hmmer3 to search against /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/hmm/HAMAP.hmm with 8 CPUs
+[19:27:27] Running: cat \.\/tmp\/prokka_GL538315\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 2039 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /bios-store1/home/TongqingWei/.conda/envs/KGDeepPBI/share/prokka/db/hmm/HAMAP.hmm /dev/stdin > \.\/tmp\/prokka_GL538315\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[19:27:29] Deleting unwanted file: ./tmp/prokka_GL538315/HAMAP.hmm.faa
+[19:27:29] Deleting unwanted file: ./tmp/prokka_GL538315/HAMAP.hmm.hmmer3
+[19:27:29] Labelling remaining 128 proteins as 'hypothetical protein'
+[19:27:29] Possible /pseudo 'Chromate transport protein' at GL538315.1 position 115351
+[19:27:29] Found 124 unique /gene codes.
+[19:27:29] Fixed 2 duplicate /gene - gltB_1 gltB_2
+[19:27:29] Fixed 1 colliding /gene names.
+[19:27:29] Adding /locus_tag identifiers
+[19:27:29] Assigned 270 locus_tags to CDS and RNA features.
+[19:27:29] Writing outputs to ./tmp/prokka_GL538315/
+[19:27:30] Generating annotation statistics file
+[19:27:30] Generating Genbank and Sequin files
+[19:27:30] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.12 from https://github.com/tseemann/prokka' -Z \.\/tmp\/prokka_GL538315\/GL538315\.err -i \.\/tmp\/prokka_GL538315\/GL538315\.fsa 2> /dev/null
+[19:27:30] Could not run command: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.12 from https://github.com/tseemann/prokka' -Z \.\/tmp\/prokka_GL538315\/GL538315\.err -i \.\/tmp\/prokka_GL538315\/GL538315\.fsa 2> /dev/null

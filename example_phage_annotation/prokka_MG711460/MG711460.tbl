@@ -1,0 +1,217 @@
+>Feature MG711460.1
+1166	678	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00001
+			product	hypothetical protein
+1370	1726	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00002
+			product	hypothetical protein
+1825	1989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00003
+			product	hypothetical protein
+2013	2237	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00004
+			product	hypothetical protein
+2318	3532	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00005
+			product	hypothetical protein
+3519	3845	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00006
+			product	hypothetical protein
+4065	3805	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00007
+			product	hypothetical protein
+4142	4537	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00008
+			product	hypothetical protein
+4569	4793	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00009
+			product	hypothetical protein
+4816	6891	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00010
+			product	hypothetical protein
+6907	7887	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00011
+			product	hypothetical protein
+7903	8097	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00012
+			product	hypothetical protein
+8135	8656	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00013
+			product	hypothetical protein
+8674	9123	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00014
+			product	hypothetical protein
+9120	9482	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00015
+			product	hypothetical protein
+9482	9856	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00016
+			product	hypothetical protein
+9870	11246	CDS
+			EC_number	3.5.1.28
+			gene	cwlA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24808
+			locus_tag	CJELMFJP_00017
+			product	N-acetylmuramoyl-L-alanine amidase CwlA
+11265	11594	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00018
+			product	hypothetical protein
+11707	12195	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00019
+			product	hypothetical protein
+12208	12498	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00020
+			product	hypothetical protein
+12503	12826	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00021
+			product	hypothetical protein
+12819	13391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00022
+			product	hypothetical protein
+13378	15153	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00023
+			product	hypothetical protein
+15167	15832	CDS
+			EC_number	2.1.1.72
+			gene	dpnA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09358
+			locus_tag	CJELMFJP_00024
+			product	Modification methylase DpnIIB
+15829	17391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00025
+			product	hypothetical protein
+17384	18124	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00026
+			product	hypothetical protein
+18254	19285	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00027
+			product	hypothetical protein
+19290	19739	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00028
+			product	hypothetical protein
+19763	20647	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00029
+			product	hypothetical protein
+20676	21131	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00030
+			product	hypothetical protein
+21135	21632	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00031
+			product	hypothetical protein
+21637	22134	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00032
+			product	hypothetical protein
+22148	22375	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00033
+			product	hypothetical protein
+22375	23820	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00034
+			product	hypothetical protein
+23837	24271	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00035
+			product	hypothetical protein
+24311	24667	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00036
+			product	hypothetical protein
+24700	24879	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00037
+			product	hypothetical protein
+24940	27327	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00038
+			product	hypothetical protein
+27342	27917	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00039
+			product	hypothetical protein
+27928	28683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00040
+			product	hypothetical protein
+28705	29064	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00041
+			product	hypothetical protein
+29061	29471	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00042
+			product	hypothetical protein
+29468	30598	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00043
+			product	hypothetical protein
+30603	31460	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00044
+			product	hypothetical protein
+31457	31786	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00045
+			product	hypothetical protein
+31773	32084	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00046
+			product	hypothetical protein
+32077	32394	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00047
+			product	hypothetical protein
+32360	32719	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00048
+			product	hypothetical protein
+33078	34331	CDS
+			gene	ltrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A3U0
+			locus_tag	CJELMFJP_00049
+			product	Group II intron-encoded protein LtrA
+34375	36099	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00050
+			product	hypothetical protein
+36092	36295	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00051
+			product	hypothetical protein
+36292	36432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	CJELMFJP_00052
+			product	hypothetical protein

@@ -1,0 +1,593 @@
+locus_tag	ftype	gene	EC_number	product
+ALPHOKDO_00001	CDS	hypothetical protein
+ALPHOKDO_00002	CDS	lyc	3.2.1.17	Autolytic lysozyme
+ALPHOKDO_00003	CDS	hypothetical protein
+ALPHOKDO_00004	CDS	yhdN	1.1.1.-	General stress protein 69
+ALPHOKDO_00005	CDS	prfC	Peptide chain release factor 3
+ALPHOKDO_00006	CDS	rsmH_1	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+ALPHOKDO_00007	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+ALPHOKDO_00008	CDS	amyX	3.2.1.41	Pullulanase
+ALPHOKDO_00009	CDS	spoVK	Stage V sporulation protein K
+ALPHOKDO_00010	CDS	hypothetical protein
+ALPHOKDO_00011	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+ALPHOKDO_00012	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+ALPHOKDO_00013	CDS	aroF	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+ALPHOKDO_00014	CDS	yqhS	4.2.1.10	3-dehydroquinate dehydratase
+ALPHOKDO_00015	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+ALPHOKDO_00016	CDS	aroC	4.2.3.5	Chorismate synthase
+ALPHOKDO_00017	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+ALPHOKDO_00018	CDS	pheA	P-protein
+ALPHOKDO_00019	CDS	hypothetical protein
+ALPHOKDO_00020	CDS	plsC_1	2.3.1.51	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ALPHOKDO_00021	CDS	hypothetical protein
+ALPHOKDO_00022	CDS	hypothetical protein
+ALPHOKDO_00023	CDS	cmk_1	2.7.4.25	Cytidylate kinase
+ALPHOKDO_00024	CDS	mepA_1	Multidrug export protein MepA
+ALPHOKDO_00025	CDS	hypothetical protein
+ALPHOKDO_00026	CDS	1.18.1.2	Ferredoxin--NADP reductase
+ALPHOKDO_00027	CDS	hexR	HTH-type transcriptional regulator HexR
+ALPHOKDO_00028	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+ALPHOKDO_00029	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+ALPHOKDO_00030	CDS	tkt	2.2.1.1	Transketolase
+ALPHOKDO_00031	CDS	hypothetical protein
+ALPHOKDO_00032	CDS	hypothetical protein
+ALPHOKDO_00033	CDS	hypothetical protein
+ALPHOKDO_00034	CDS	sstT	Serine/threonine transporter SstT
+ALPHOKDO_00035	CDS	5.1.1.20	L-Ala-D/L-Glu epimerase
+ALPHOKDO_00036	CDS	pepV_1	3.4.13.-	Beta-Ala-Xaa dipeptidase
+ALPHOKDO_00037	CDS	hypothetical protein
+ALPHOKDO_00038	CDS	hypothetical protein
+ALPHOKDO_00039	CDS	hypothetical protein
+ALPHOKDO_00040	CDS	hypothetical protein
+ALPHOKDO_00041	CDS	hypothetical protein
+ALPHOKDO_00042	CDS	hypothetical protein
+ALPHOKDO_00043	CDS	hypothetical protein
+ALPHOKDO_00044	CDS	hypothetical protein
+ALPHOKDO_00045	CDS	hypothetical protein
+ALPHOKDO_00046	CDS	hypothetical protein
+ALPHOKDO_00047	CDS	hypothetical protein
+ALPHOKDO_00048	CDS	yhdJ	2.1.1.72	DNA adenine methyltransferase YhdJ
+ALPHOKDO_00049	CDS	hypothetical protein
+ALPHOKDO_00050	CDS	hypothetical protein
+ALPHOKDO_00051	CDS	hypothetical protein
+ALPHOKDO_00052	CDS	topB_1	5.99.1.2	DNA topoisomerase 3
+ALPHOKDO_00053	CDS	hypothetical protein
+ALPHOKDO_00054	CDS	hypothetical protein
+ALPHOKDO_00055	CDS	hypothetical protein
+ALPHOKDO_00056	CDS	hypothetical protein
+ALPHOKDO_00057	CDS	hypothetical protein
+ALPHOKDO_00058	CDS	hypothetical protein
+ALPHOKDO_00059	CDS	mobA_1	Mobilization protein A
+ALPHOKDO_00060	CDS	dnaG_1	2.7.7.-	DNA primase
+ALPHOKDO_00061	CDS	hypothetical protein
+ALPHOKDO_00062	CDS	topB_2	5.99.1.2	DNA topoisomerase 3
+ALPHOKDO_00063	CDS	hypothetical protein
+ALPHOKDO_00064	CDS	hypothetical protein
+ALPHOKDO_00065	CDS	hypothetical protein
+ALPHOKDO_00066	CDS	hypothetical protein
+ALPHOKDO_00067	CDS	hypothetical protein
+ALPHOKDO_00068	CDS	hypothetical protein
+ALPHOKDO_00069	CDS	hypothetical protein
+ALPHOKDO_00070	CDS	hypothetical protein
+ALPHOKDO_00071	CDS	hypothetical protein
+ALPHOKDO_00072	CDS	srrA	Transcriptional regulatory protein SrrA
+ALPHOKDO_00073	CDS	yxlF	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+ALPHOKDO_00074	CDS	hypothetical protein
+ALPHOKDO_00075	CDS	resE	2.7.13.3	Sensor histidine kinase ResE
+ALPHOKDO_00076	CDS	hypothetical protein
+ALPHOKDO_00077	CDS	hypothetical protein
+ALPHOKDO_00078	CDS	hypothetical protein
+ALPHOKDO_00079	CDS	xerC_1	Tyrosine recombinase XerC
+ALPHOKDO_00080	CDS	hypothetical protein
+ALPHOKDO_00081	CDS	hypothetical protein
+ALPHOKDO_00082	CDS	btr	HTH-type transcriptional activator Btr
+ALPHOKDO_00083	CDS	phoU_1	Phosphate-specific transport system accessory protein PhoU 
+ALPHOKDO_00084	CDS	phoU_2	Phosphate-specific transport system accessory protein PhoU 
+ALPHOKDO_00085	CDS	pstB3	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+ALPHOKDO_00086	CDS	pstA	Phosphate transport system permease protein PstA
+ALPHOKDO_00087	CDS	pstC	Phosphate transport system permease protein PstC
+ALPHOKDO_00088	CDS	pstS1	Phosphate-binding protein PstS 1
+ALPHOKDO_00089	CDS	hypothetical protein
+ALPHOKDO_00090	CDS	hypothetical protein
+ALPHOKDO_00091	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+ALPHOKDO_00092	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase 1
+ALPHOKDO_00093	CDS	nagE	PTS system N-acetylglucosamine-specific EIICBA component
+ALPHOKDO_00094	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+ALPHOKDO_00095	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+ALPHOKDO_00096	CDS	ptsI_1	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+ALPHOKDO_00097	CDS	hypothetical protein
+ALPHOKDO_00098	CDS	3.1.3.-	Phosphorylated carbohydrates phosphatase
+ALPHOKDO_00099	CDS	ywnA	Putative HTH-type transcriptional regulator YwnA
+ALPHOKDO_00100	CDS	Ferredoxin
+ALPHOKDO_00101	CDS	hypothetical protein
+ALPHOKDO_00102	CDS	epsJ_1	2.4.-.-	putative glycosyltransferase EpsJ
+ALPHOKDO_00103	CDS	3.4.11.-	Aminopeptidase
+ALPHOKDO_00104	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+ALPHOKDO_00105	CDS	hypothetical protein
+ALPHOKDO_00106	CDS	ziaR	Transcriptional repressor SmtB 
+ALPHOKDO_00107	CDS	hypothetical protein
+ALPHOKDO_00108	CDS	flK	3.1.2.29	Fluoroacetyl-CoA thioesterase
+ALPHOKDO_00109	CDS	hypothetical protein
+ALPHOKDO_00110	CDS	mleN	Malate-2H(+)/Na(+)-lactate antiporter
+ALPHOKDO_00111	CDS	hypothetical protein
+ALPHOKDO_00112	CDS	hypothetical protein
+ALPHOKDO_00113	CDS	hypothetical protein
+ALPHOKDO_00114	CDS	vraR	Response regulator protein VraR
+ALPHOKDO_00115	CDS	hypothetical protein
+ALPHOKDO_00116	CDS	hypothetical protein
+ALPHOKDO_00117	CDS	hypothetical protein
+ALPHOKDO_00118	CDS	cesA	Multidomain esterase
+ALPHOKDO_00119	CDS	putative ABC transporter-binding protein
+ALPHOKDO_00120	CDS	yehU	2.7.13.3	Sensor histidine kinase YehU
+ALPHOKDO_00121	CDS	putative response regulatory protein
+ALPHOKDO_00122	CDS	lacF	Lactose transport system permease protein LacF
+ALPHOKDO_00123	CDS	araQ	L-arabinose transport system permease protein AraQ
+ALPHOKDO_00124	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+ALPHOKDO_00125	CDS	radD	3.6.4.12	Putative DNA repair helicase RadD
+ALPHOKDO_00126	CDS	nudG	3.6.1.65	CTP pyrophosphohydrolase
+ALPHOKDO_00127	CDS	hypothetical protein
+ALPHOKDO_00128	CDS	hypothetical protein
+ALPHOKDO_00129	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+ALPHOKDO_00130	tRNA	tRNA-Ser(cga)
+ALPHOKDO_00131	CDS	3.2.1.23	Beta-galactosidase BoGH2A
+ALPHOKDO_00132	CDS	hypothetical protein
+ALPHOKDO_00133	CDS	hypothetical protein
+ALPHOKDO_00134	CDS	uidB	Glucuronide carrier protein 
+ALPHOKDO_00135	CDS	hypothetical protein
+ALPHOKDO_00136	CDS	melB	Melibiose carrier protein
+ALPHOKDO_00137	CDS	3.2.1.21	Beta-glucosidase BoGH3B
+ALPHOKDO_00138	CDS	mepA_2	Multidrug export protein MepA
+ALPHOKDO_00139	CDS	1.-.-.-	putative oxidoreductase
+ALPHOKDO_00140	CDS	argF_1	2.1.3.3	Ornithine carbamoyltransferase
+ALPHOKDO_00141	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+ALPHOKDO_00142	CDS	argB	2.7.2.8	Acetylglutamate kinase
+ALPHOKDO_00143	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ
+ALPHOKDO_00144	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+ALPHOKDO_00145	CDS	argH	4.3.2.1	Argininosuccinate lyase
+ALPHOKDO_00146	CDS	argG	6.3.4.5	Argininosuccinate synthase
+ALPHOKDO_00147	CDS	pitA	2.3.1.-	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+ALPHOKDO_00148	CDS	hypothetical protein
+ALPHOKDO_00149	CDS	hypothetical protein
+ALPHOKDO_00150	CDS	hypothetical protein
+ALPHOKDO_00151	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+ALPHOKDO_00152	CDS	hypothetical protein
+ALPHOKDO_00153	CDS	xynZ	3.2.1.8	Endo-1,4-beta-xylanase Z
+ALPHOKDO_00154	CDS	ilvK	2.6.1.42	Branched-chain-amino-acid aminotransferase 2
+ALPHOKDO_00155	CDS	yqaB	3.1.3.-	Fructose-1-phosphate phosphatase YqaB
+ALPHOKDO_00156	CDS	hypothetical protein
+ALPHOKDO_00157	CDS	gltR	HTH-type transcriptional regulator GltR
+ALPHOKDO_00158	CDS	hypothetical protein
+ALPHOKDO_00159	CDS	hypothetical protein
+ALPHOKDO_00160	CDS	hypothetical protein
+ALPHOKDO_00161	CDS	hypothetical protein
+ALPHOKDO_00162	CDS	hypothetical protein
+ALPHOKDO_00163	CDS	hypothetical protein
+ALPHOKDO_00164	CDS	hypothetical protein
+ALPHOKDO_00165	CDS	hypothetical protein
+ALPHOKDO_00166	CDS	hypothetical protein
+ALPHOKDO_00167	CDS	hypothetical protein
+ALPHOKDO_00168	CDS	hypothetical protein
+ALPHOKDO_00169	CDS	hypothetical protein
+ALPHOKDO_00170	CDS	hypothetical protein
+ALPHOKDO_00171	CDS	dnaG_2	2.7.7.-	DNA primase
+ALPHOKDO_00172	CDS	hypothetical protein
+ALPHOKDO_00173	CDS	hypothetical protein
+ALPHOKDO_00174	CDS	xerC_2	Tyrosine recombinase XerC
+ALPHOKDO_00175	tRNA	tRNA-Arg(acg)
+ALPHOKDO_00176	CDS	sdhA	4.3.1.17	L-serine dehydratase, alpha chain
+ALPHOKDO_00177	CDS	sdhB	4.3.1.17	L-serine dehydratase, beta chain
+ALPHOKDO_00178	CDS	tig_1	5.2.1.8	Trigger factor
+ALPHOKDO_00179	CDS	hypothetical protein
+ALPHOKDO_00180	CDS	slyA	Transcriptional regulator SlyA
+ALPHOKDO_00181	CDS	feoB	Fe(2+) transporter FeoB
+ALPHOKDO_00182	CDS	lnpD	5.1.3.2	UDP-glucose 4-epimerase
+ALPHOKDO_00183	CDS	mro	5.1.3.3	Aldose 1-epimerase
+ALPHOKDO_00184	CDS	hypothetical protein
+ALPHOKDO_00185	CDS	hypothetical protein
+ALPHOKDO_00186	CDS	swrC	Swarming motility protein SwrC
+ALPHOKDO_00187	CDS	hypothetical protein
+ALPHOKDO_00188	CDS	Ferredoxin
+ALPHOKDO_00189	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+ALPHOKDO_00190	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+ALPHOKDO_00191	CDS	yfcE	3.1.4.-	Phosphodiesterase YfcE
+ALPHOKDO_00192	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+ALPHOKDO_00193	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+ALPHOKDO_00194	CDS	dacB	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacB
+ALPHOKDO_00195	CDS	dnaX	2.7.7.7	DNA polymerase III subunit gamma/tau
+ALPHOKDO_00196	CDS	hypothetical protein
+ALPHOKDO_00197	CDS	Magnesium transporter MgtE
+ALPHOKDO_00198	CDS	hypothetical protein
+ALPHOKDO_00199	CDS	higA1	Antitoxin HigA1
+ALPHOKDO_00200	CDS	por	1.2.7.1	Pyruvate synthase
+ALPHOKDO_00201	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+ALPHOKDO_00202	CDS	rluA	5.4.99.28	Ribosomal large subunit pseudouridine synthase A
+ALPHOKDO_00203	CDS	rspR	HTH-type transcriptional repressor RspR
+ALPHOKDO_00204	CDS	mntP	putative manganese efflux pump MntP
+ALPHOKDO_00205	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+ALPHOKDO_00206	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+ALPHOKDO_00207	CDS	hypothetical protein
+ALPHOKDO_00208	CDS	recF	DNA replication and repair protein RecF
+ALPHOKDO_00209	CDS	hypothetical protein
+ALPHOKDO_00210	CDS	dnaN_1	2.7.7.7	DNA polymerase III subunit beta
+ALPHOKDO_00211	CDS	dnaN_2	2.7.7.7	DNA polymerase III subunit beta
+ALPHOKDO_00212	CDS	dnaA	Chromosomal replication initiator protein DnaA
+ALPHOKDO_00213	CDS	rpmH	50S ribosomal protein L34
+ALPHOKDO_00214	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+ALPHOKDO_00215	CDS	yidD	Putative membrane protein insertion efficiency factor
+ALPHOKDO_00216	CDS	yidC	Membrane protein insertase YidC
+ALPHOKDO_00217	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+ALPHOKDO_00218	CDS	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+ALPHOKDO_00219	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+ALPHOKDO_00220	CDS	noc	Nucleoid occlusion protein
+ALPHOKDO_00221	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+ALPHOKDO_00222	CDS	spo0C_1	Chromosome-partitioning protein Spo0J
+ALPHOKDO_00223	CDS	serS	6.1.1.11	Serine--tRNA ligase
+ALPHOKDO_00224	tRNA	tRNA-Glu(ttc)
+ALPHOKDO_00225	tRNA	tRNA-Met(cat)
+ALPHOKDO_00226	CDS	hypothetical protein
+ALPHOKDO_00227	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+ALPHOKDO_00228	CDS	hypothetical protein
+ALPHOKDO_00229	CDS	hypothetical protein
+ALPHOKDO_00230	CDS	trkA_1	Trk system potassium uptake protein TrkA
+ALPHOKDO_00231	CDS	trkA_2	Trk system potassium uptake protein TrkA
+ALPHOKDO_00232	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+ALPHOKDO_00233	CDS	hypothetical protein
+ALPHOKDO_00234	CDS	rsxB	Electron transport complex subunit RsxB
+ALPHOKDO_00235	CDS	hypothetical protein
+ALPHOKDO_00236	CDS	glcB	PTS system glucoside-specific EIICBA component
+ALPHOKDO_00237	CDS	apeB	3.4.11.-	putative M18 family aminopeptidase 2
+ALPHOKDO_00238	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+ALPHOKDO_00239	CDS	hypothetical protein
+ALPHOKDO_00240	CDS	hypothetical protein
+ALPHOKDO_00241	CDS	yeeO_1	putative FMN/FAD exporter YeeO
+ALPHOKDO_00242	CDS	hypothetical protein
+ALPHOKDO_00243	CDS	3.6.1.1	Cobalt-dependent inorganic pyrophosphatase
+ALPHOKDO_00244	CDS	hypothetical protein
+ALPHOKDO_00245	CDS	hypothetical protein
+ALPHOKDO_00246	CDS	hypothetical protein
+ALPHOKDO_00247	CDS	hypothetical protein
+ALPHOKDO_00248	CDS	smc	Chromosome partition protein Smc
+ALPHOKDO_00249	CDS	hypothetical protein
+ALPHOKDO_00250	CDS	mepA_3	Multidrug export protein MepA
+ALPHOKDO_00251	CDS	cobC_1	3.1.3.73	Adenosylcobalamin/alpha-ribazole phosphatase
+ALPHOKDO_00252	CDS	tfdR	HTH-type transcriptional regulator TdfR
+ALPHOKDO_00253	CDS	cstA	Carbon starvation protein A
+ALPHOKDO_00254	CDS	yjiY	Inner membrane protein YjiY
+ALPHOKDO_00255	CDS	hypothetical protein
+ALPHOKDO_00256	CDS	dkgB	1.1.1.346	2,5-diketo-D-gluconic acid reductase B
+ALPHOKDO_00257	CDS	mepA_4	Multidrug export protein MepA
+ALPHOKDO_00258	tRNA	tRNA-Arg(ccg)
+ALPHOKDO_00259	CDS	hypothetical protein
+ALPHOKDO_00260	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+ALPHOKDO_00261	CDS	hypothetical protein
+ALPHOKDO_00262	CDS	hypothetical protein
+ALPHOKDO_00263	CDS	nolA	Nodulation protein NolA
+ALPHOKDO_00264	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+ALPHOKDO_00265	CDS	hup	DNA-binding protein HU
+ALPHOKDO_00266	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+ALPHOKDO_00267	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+ALPHOKDO_00268	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+ALPHOKDO_00269	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ALPHOKDO_00270	CDS	pyrK	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+ALPHOKDO_00271	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+ALPHOKDO_00272	CDS	pyrC	3.5.2.3	Dihydroorotase
+ALPHOKDO_00273	CDS	cysE	2.3.1.30	Serine acetyltransferase
+ALPHOKDO_00274	CDS	hypothetical protein
+ALPHOKDO_00275	CDS	pepV_2	3.4.13.-	Beta-Ala-Xaa dipeptidase
+ALPHOKDO_00276	CDS	hypothetical protein
+ALPHOKDO_00277	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+ALPHOKDO_00278	CDS	yeeO_2	putative FMN/FAD exporter YeeO
+ALPHOKDO_00279	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+ALPHOKDO_00280	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+ALPHOKDO_00281	CDS	hypothetical protein
+ALPHOKDO_00282	CDS	hypothetical protein
+ALPHOKDO_00283	CDS	rpsA	30S ribosomal protein S1
+ALPHOKDO_00284	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ALPHOKDO_00285	CDS	cmk_2	2.7.4.25	Cytidylate kinase
+ALPHOKDO_00286	CDS	hypothetical protein
+ALPHOKDO_00287	CDS	spoIIQ	Stage II sporulation protein Q
+ALPHOKDO_00288	CDS	ybhL	Inner membrane protein YbhL
+ALPHOKDO_00289	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+ALPHOKDO_00290	CDS	fbpC	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC
+ALPHOKDO_00291	CDS	ssuC	Putative aliphatic sulfonates transport permease protein SsuC
+ALPHOKDO_00292	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+ALPHOKDO_00293	CDS	hypothetical protein
+ALPHOKDO_00294	CDS	ykoT	2.4.-.-	putative glycosyltransferase YkoT
+ALPHOKDO_00295	CDS	flr	Flavoredoxin
+ALPHOKDO_00296	CDS	fusA	Elongation factor G
+ALPHOKDO_00297	CDS	ribD	Riboflavin biosynthesis protein RibD
+ALPHOKDO_00298	CDS	argF_2	2.1.3.3	Ornithine carbamoyltransferase
+ALPHOKDO_00299	CDS	hypothetical protein
+ALPHOKDO_00300	CDS	sigR	ECF RNA polymerase sigma factor SigR
+ALPHOKDO_00301	CDS	hypothetical protein
+ALPHOKDO_00302	tRNA	tRNA-Met(cat)
+ALPHOKDO_00303	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+ALPHOKDO_00304	CDS	ilvC	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+ALPHOKDO_00305	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+ALPHOKDO_00306	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+ALPHOKDO_00307	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+ALPHOKDO_00308	CDS	tdcB	4.3.1.19	L-threonine ammonia-lyase
+ALPHOKDO_00309	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+ALPHOKDO_00310	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+ALPHOKDO_00311	CDS	cca	2.7.7.72	CCA-adding enzyme
+ALPHOKDO_00312	CDS	rbn	3.1.-.-	Ribonuclease BN
+ALPHOKDO_00313	CDS	hypothetical protein
+ALPHOKDO_00314	CDS	hypothetical protein
+ALPHOKDO_00315	CDS	hypothetical protein
+ALPHOKDO_00316	CDS	hypothetical protein
+ALPHOKDO_00317	CDS	hypothetical protein
+ALPHOKDO_00318	CDS	hin	DNA-invertase hin
+ALPHOKDO_00319	CDS	hypothetical protein
+ALPHOKDO_00320	CDS	pre	Plasmid recombination enzyme
+ALPHOKDO_00321	CDS	hypothetical protein
+ALPHOKDO_00322	CDS	hypothetical protein
+ALPHOKDO_00323	CDS	hypothetical protein
+ALPHOKDO_00324	CDS	immR_1	HTH-type transcriptional regulator ImmR
+ALPHOKDO_00325	CDS	putative MFS-type transporter
+ALPHOKDO_00326	CDS	hypothetical protein
+ALPHOKDO_00327	CDS	sigA_1	RNA polymerase sigma factor SigA
+ALPHOKDO_00328	CDS	hypothetical protein
+ALPHOKDO_00329	CDS	hypothetical protein
+ALPHOKDO_00330	CDS	hypothetical protein
+ALPHOKDO_00331	CDS	hypothetical protein
+ALPHOKDO_00332	tRNA	tRNA-Tyr(gta)
+ALPHOKDO_00333	CDS	alsT	Amino-acid carrier protein AlsT
+ALPHOKDO_00334	tRNA	tRNA-Leu(cag)
+ALPHOKDO_00335	CDS	hypothetical protein
+ALPHOKDO_00336	CDS	tig_2	5.2.1.8	Trigger factor
+ALPHOKDO_00337	CDS	putative ABC transporter ATP-binding protein
+ALPHOKDO_00338	CDS	putative ABC transporter ATP-binding protein
+ALPHOKDO_00339	CDS	yeaJ	2.7.7.65	Putative diguanylate cyclase YeaJ
+ALPHOKDO_00340	CDS	rlmCD	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+ALPHOKDO_00341	CDS	blaI	Penicillinase repressor
+ALPHOKDO_00342	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+ALPHOKDO_00343	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+ALPHOKDO_00344	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+ALPHOKDO_00345	CDS	bglH	3.2.1.86	Aryl-phospho-beta-D-glucosidase BglH
+ALPHOKDO_00346	CDS	glpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase
+ALPHOKDO_00347	CDS	hypothetical protein
+ALPHOKDO_00348	CDS	hypothetical protein
+ALPHOKDO_00349	CDS	hypothetical protein
+ALPHOKDO_00350	CDS	ypdB	Transcriptional regulatory protein YpdB
+ALPHOKDO_00351	CDS	hypothetical protein
+ALPHOKDO_00352	CDS	hypothetical protein
+ALPHOKDO_00353	CDS	hsdR	3.1.21.3	Type-1 restriction enzyme R protein
+ALPHOKDO_00354	CDS	hypothetical protein
+ALPHOKDO_00355	CDS	hypothetical protein
+ALPHOKDO_00356	CDS	hypothetical protein
+ALPHOKDO_00357	CDS	hypothetical protein
+ALPHOKDO_00358	CDS	2.1.1.72	putative type I restriction enzymeP M protein
+ALPHOKDO_00359	CDS	xerC_3	Tyrosine recombinase XerC
+ALPHOKDO_00360	CDS	hypothetical protein
+ALPHOKDO_00361	CDS	xerC_4	Tyrosine recombinase XerC
+ALPHOKDO_00362	CDS	hypothetical protein
+ALPHOKDO_00363	CDS	putative HTH-type transcriptional regulator
+ALPHOKDO_00364	CDS	hypothetical protein
+ALPHOKDO_00365	CDS	hypothetical protein
+ALPHOKDO_00366	CDS	hypothetical protein
+ALPHOKDO_00367	CDS	hypothetical protein
+ALPHOKDO_00368	CDS	hypothetical protein
+ALPHOKDO_00369	CDS	hypothetical protein
+ALPHOKDO_00370	CDS	hypothetical protein
+ALPHOKDO_00371	CDS	hypothetical protein
+ALPHOKDO_00372	CDS	hypothetical protein
+ALPHOKDO_00373	CDS	hypothetical protein
+ALPHOKDO_00374	tRNA	tRNA-Lys(ttt)
+ALPHOKDO_00375	CDS	yerB_1	Putative lipoprotein YerB
+ALPHOKDO_00376	CDS	yerB_2	Putative lipoprotein YerB
+ALPHOKDO_00377	CDS	hypothetical protein
+ALPHOKDO_00378	CDS	cobC_2	3.1.3.73	Adenosylcobalamin/alpha-ribazole phosphatase
+ALPHOKDO_00379	CDS	immR_2	HTH-type transcriptional regulator ImmR
+ALPHOKDO_00380	CDS	hypothetical protein
+ALPHOKDO_00381	CDS	hypothetical protein
+ALPHOKDO_00382	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+ALPHOKDO_00383	CDS	mepA_5	Multidrug export protein MepA
+ALPHOKDO_00384	CDS	hisK	3.1.3.15	Histidinol-phosphatase
+ALPHOKDO_00385	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+ALPHOKDO_00386	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+ALPHOKDO_00387	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+ALPHOKDO_00388	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+ALPHOKDO_00389	CDS	hisB	Histidine biosynthesis bifunctional protein HisB
+ALPHOKDO_00390	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+ALPHOKDO_00391	CDS	hisD_1	1.1.1.23	Histidinol dehydrogenase
+ALPHOKDO_00392	CDS	hisD_2	1.1.1.23	Histidinol dehydrogenase
+ALPHOKDO_00393	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+ALPHOKDO_00394	CDS	hypothetical protein
+ALPHOKDO_00395	CDS	hypothetical protein
+ALPHOKDO_00396	CDS	Thioredoxin C-1
+ALPHOKDO_00397	CDS	hypothetical protein
+ALPHOKDO_00398	CDS	hypothetical protein
+ALPHOKDO_00399	CDS	hypothetical protein
+ALPHOKDO_00400	CDS	patA_1	2.3.1.-	Peptidoglycan O-acetyltransferase
+ALPHOKDO_00401	CDS	hypothetical protein
+ALPHOKDO_00402	CDS	vanYB	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+ALPHOKDO_00403	CDS	hypothetical protein
+ALPHOKDO_00404	CDS	spoVAD	Stage V sporulation protein AD
+ALPHOKDO_00405	CDS	hypothetical protein
+ALPHOKDO_00406	CDS	hypothetical protein
+ALPHOKDO_00407	CDS	rpsT	30S ribosomal protein S20
+ALPHOKDO_00408	CDS	gpr	3.4.24.78	Germination protease
+ALPHOKDO_00409	CDS	hypothetical protein
+ALPHOKDO_00410	CDS	hypothetical protein
+ALPHOKDO_00411	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+ALPHOKDO_00412	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+ALPHOKDO_00413	CDS	hypothetical protein
+ALPHOKDO_00414	CDS	hypothetical protein
+ALPHOKDO_00415	CDS	hypothetical protein
+ALPHOKDO_00416	CDS	sigM	ECF RNA polymerase sigma factor SigM
+ALPHOKDO_00417	CDS	Int-Tn_1	Transposase from transposon Tn916
+ALPHOKDO_00418	CDS	hypothetical protein
+ALPHOKDO_00419	CDS	Int-Tn_2	Transposase from transposon Tn916
+ALPHOKDO_00420	CDS	hypothetical protein
+ALPHOKDO_00421	CDS	mazF	3.1.-.-	Endoribonuclease MazF
+ALPHOKDO_00422	CDS	hypothetical protein
+ALPHOKDO_00423	CDS	hypothetical protein
+ALPHOKDO_00424	CDS	hypothetical protein
+ALPHOKDO_00425	CDS	immR_3	HTH-type transcriptional regulator ImmR
+ALPHOKDO_00426	CDS	hypothetical protein
+ALPHOKDO_00427	CDS	hypothetical protein
+ALPHOKDO_00428	CDS	hypothetical protein
+ALPHOKDO_00429	CDS	dinB	2.7.7.7	DNA polymerase IV
+ALPHOKDO_00430	CDS	immR_4	HTH-type transcriptional regulator ImmR
+ALPHOKDO_00431	CDS	hypothetical protein
+ALPHOKDO_00432	CDS	cbh	3.5.1.24	Choloylglycine hydrolase
+ALPHOKDO_00433	CDS	DegV domain-containing protein
+ALPHOKDO_00434	CDS	hypothetical protein
+ALPHOKDO_00435	CDS	3.6.3.8	Calcium-transporting ATPase 1
+ALPHOKDO_00436	CDS	hypothetical protein
+ALPHOKDO_00437	CDS	hypothetical protein
+ALPHOKDO_00438	CDS	baeS	2.7.13.3	Signal transduction histidine-protein kinase BaeS
+ALPHOKDO_00439	CDS	hssR	Heme response regulator HssR
+ALPHOKDO_00440	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+ALPHOKDO_00441	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+ALPHOKDO_00442	CDS	ywaC	2.7.6.5	GTP pyrophosphokinase YwaC
+ALPHOKDO_00443	CDS	lon	3.4.21.53	Lon protease
+ALPHOKDO_00444	CDS	hypothetical protein
+ALPHOKDO_00445	CDS	hypothetical protein
+ALPHOKDO_00446	CDS	hypothetical protein
+ALPHOKDO_00447	CDS	hypothetical protein
+ALPHOKDO_00448	CDS	hypothetical protein
+ALPHOKDO_00449	CDS	hypothetical protein
+ALPHOKDO_00450	CDS	hypothetical protein
+ALPHOKDO_00451	CDS	hypothetical protein
+ALPHOKDO_00452	CDS	hypothetical protein
+ALPHOKDO_00453	CDS	hypothetical protein
+ALPHOKDO_00454	CDS	hypothetical protein
+ALPHOKDO_00455	CDS	hypothetical protein
+ALPHOKDO_00456	CDS	hypothetical protein
+ALPHOKDO_00457	CDS	hypothetical protein
+ALPHOKDO_00458	CDS	hypothetical protein
+ALPHOKDO_00459	CDS	hypothetical protein
+ALPHOKDO_00460	CDS	hypothetical protein
+ALPHOKDO_00461	CDS	topB_3	5.99.1.2	DNA topoisomerase 3
+ALPHOKDO_00462	CDS	hypothetical protein
+ALPHOKDO_00463	CDS	epsJ_2	2.4.-.-	putative glycosyltransferase EpsJ
+ALPHOKDO_00464	CDS	bcn	Bacteriocin BCN5
+ALPHOKDO_00465	CDS	hypothetical protein
+ALPHOKDO_00466	CDS	cwlS	3.4.19.11	D-gamma-glutamyl-meso-diaminopimelic acid endopeptidase CwlS
+ALPHOKDO_00467	CDS	hypothetical protein
+ALPHOKDO_00468	CDS	hypothetical protein
+ALPHOKDO_00469	CDS	hypothetical protein
+ALPHOKDO_00470	CDS	hypothetical protein
+ALPHOKDO_00471	CDS	hypothetical protein
+ALPHOKDO_00472	CDS	hypothetical protein
+ALPHOKDO_00473	CDS	hypothetical protein
+ALPHOKDO_00474	CDS	dnaG_3	2.7.7.-	DNA primase
+ALPHOKDO_00475	CDS	mobA_2	Mobilization protein A
+ALPHOKDO_00476	CDS	hypothetical protein
+ALPHOKDO_00477	CDS	hypothetical protein
+ALPHOKDO_00478	CDS	hypothetical protein
+ALPHOKDO_00479	CDS	hypothetical protein
+ALPHOKDO_00480	CDS	hypothetical protein
+ALPHOKDO_00481	CDS	xre	HTH-type transcriptional regulator Xre
+ALPHOKDO_00482	CDS	hypothetical protein
+ALPHOKDO_00483	CDS	hypothetical protein
+ALPHOKDO_00484	CDS	hypothetical protein
+ALPHOKDO_00485	CDS	hypothetical protein
+ALPHOKDO_00486	CDS	hypothetical protein
+ALPHOKDO_00487	CDS	hypothetical protein
+ALPHOKDO_00488	CDS	hypothetical protein
+ALPHOKDO_00489	CDS	hypothetical protein
+ALPHOKDO_00490	CDS	spo0C_2	Chromosome-partitioning protein Spo0J
+ALPHOKDO_00491	CDS	hypothetical protein
+ALPHOKDO_00492	CDS	dnaI	Primosomal protein DnaI
+ALPHOKDO_00493	CDS	hypothetical protein
+ALPHOKDO_00494	CDS	hypothetical protein
+ALPHOKDO_00495	CDS	hypothetical protein
+ALPHOKDO_00496	CDS	rpsI	30S ribosomal protein S9
+ALPHOKDO_00497	CDS	rplM	50S ribosomal protein L13
+ALPHOKDO_00498	CDS	hypothetical protein
+ALPHOKDO_00499	CDS	ttcA	tRNA 2-thiocytidine biosynthesis protein TtcA
+ALPHOKDO_00500	CDS	alr1	5.1.1.1	Alanine racemase 1
+ALPHOKDO_00501	CDS	lepA	3.6.5.-	Elongation factor 4
+ALPHOKDO_00502	CDS	hypothetical protein
+ALPHOKDO_00503	CDS	hypothetical protein
+ALPHOKDO_00504	CDS	hypothetical protein
+ALPHOKDO_00505	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+ALPHOKDO_00506	CDS	hypothetical protein
+ALPHOKDO_00507	CDS	kdpD	2.7.13.3	Sensor protein KdpD
+ALPHOKDO_00508	CDS	kdpE	KDP operon transcriptional regulatory protein KdpE
+ALPHOKDO_00509	CDS	putative transporter
+ALPHOKDO_00510	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+ALPHOKDO_00511	CDS	ftsQ	Cell division protein FtsQ
+ALPHOKDO_00512	CDS	hypothetical protein
+ALPHOKDO_00513	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+ALPHOKDO_00514	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+ALPHOKDO_00515	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+ALPHOKDO_00516	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+ALPHOKDO_00517	CDS	spoVD	Stage V sporulation protein D
+ALPHOKDO_00518	CDS	ftsL	Cell division protein FtsL
+ALPHOKDO_00519	CDS	rsmH_2	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+ALPHOKDO_00520	CDS	hypothetical protein
+ALPHOKDO_00521	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+ALPHOKDO_00522	CDS	sgcG	1.3.99.24	2-amino-4-deoxychorismate dehydrogenase
+ALPHOKDO_00523	CDS	lacZ	3.2.1.23	Beta-galactosidase
+ALPHOKDO_00524	CDS	hypothetical protein
+ALPHOKDO_00525	CDS	hypothetical protein
+ALPHOKDO_00526	CDS	dnaJ	Chaperone protein DnaJ
+ALPHOKDO_00527	CDS	hypothetical protein
+ALPHOKDO_00528	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+ALPHOKDO_00529	CDS	ydjZ	TVP38/TMEM64 family inner membrane protein YdjZ
+ALPHOKDO_00530	CDS	hypothetical protein
+ALPHOKDO_00531	CDS	3.1.3.-	Putative phosphatase
+ALPHOKDO_00532	CDS	thiC	4.1.99.17	Phosphomethylpyrimidine synthase
+ALPHOKDO_00533	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+ALPHOKDO_00534	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+ALPHOKDO_00535	CDS	hypothetical protein
+ALPHOKDO_00536	CDS	hypothetical protein
+ALPHOKDO_00537	CDS	hypothetical protein
+ALPHOKDO_00538	CDS	hypothetical protein
+ALPHOKDO_00539	CDS	hypothetical protein
+ALPHOKDO_00540	CDS	mepA_6	Multidrug export protein MepA
+ALPHOKDO_00541	CDS	gltP	Proton/glutamate-aspartate symporter
+ALPHOKDO_00542	CDS	crr	2.7.1.199	PTS system glucose-specific EIIA component
+ALPHOKDO_00543	CDS	ltaE	4.1.2.48	Low specificity L-threonine aldolase
+ALPHOKDO_00544	CDS	pepD	3.4.-.-	Dipeptidase
+ALPHOKDO_00545	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+ALPHOKDO_00546	CDS	glmU	Bifunctional protein GlmU
+ALPHOKDO_00547	CDS	hypothetical protein
+ALPHOKDO_00548	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+ALPHOKDO_00549	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+ALPHOKDO_00550	CDS	hypothetical protein
+ALPHOKDO_00551	CDS	hypothetical protein
+ALPHOKDO_00552	CDS	lacL	3.2.1.23	Beta-galactosidase large subunit
+ALPHOKDO_00553	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+ALPHOKDO_00554	CDS	patA_2	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+ALPHOKDO_00555	CDS	fieF	Ferrous-iron efflux pump FieF
+ALPHOKDO_00556	CDS	ptsI_2	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+ALPHOKDO_00557	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+ALPHOKDO_00558	CDS	hypothetical protein
+ALPHOKDO_00559	CDS	sigA_2	RNA polymerase sigma factor SigA
+ALPHOKDO_00560	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALPHOKDO_00561	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+ALPHOKDO_00562	CDS	hypothetical protein
+ALPHOKDO_00563	CDS	DegV domain-containing protein
+ALPHOKDO_00564	CDS	hypothetical protein
+ALPHOKDO_00565	CDS	hypothetical protein
+ALPHOKDO_00566	CDS	hypothetical protein
+ALPHOKDO_00567	CDS	smeA	3.5.2.6	Carbapenem-hydrolyzing beta-lactamase Sme-1
+ALPHOKDO_00568	CDS	hypothetical protein
+ALPHOKDO_00569	CDS	3.4.22.-	Dipeptidyl-peptidase 6
+ALPHOKDO_00570	CDS	hypothetical protein
+ALPHOKDO_00571	CDS	hypothetical protein
+ALPHOKDO_00572	tRNA	tRNA-Ile(gat)
+ALPHOKDO_00573	tRNA	tRNA-Ala(tgc)
+ALPHOKDO_00574	tRNA	tRNA-Ala(tgc)
+ALPHOKDO_00575	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+ALPHOKDO_00576	CDS	hypothetical protein
+ALPHOKDO_00577	CDS	atpC	ATP synthase epsilon chain, sodium ion specific
+ALPHOKDO_00578	CDS	atpD	3.6.3.15	ATP synthase subunit beta, sodium ion specific
+ALPHOKDO_00579	CDS	atpG	ATP synthase gamma chain
+ALPHOKDO_00580	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+ALPHOKDO_00581	CDS	atpH	ATP synthase subunit delta, sodium ion specific
+ALPHOKDO_00582	CDS	atpF	ATP synthase subunit b, sodium ion specific
+ALPHOKDO_00583	CDS	atpE	ATP synthase subunit c, sodium ion specific
+ALPHOKDO_00584	CDS	atpB	ATP synthase subunit a
+ALPHOKDO_00585	CDS	hypothetical protein
+ALPHOKDO_00586	CDS	hypothetical protein
+ALPHOKDO_00587	CDS	hypothetical protein
+ALPHOKDO_00588	CDS	glgA	2.4.1.21	Glycogen synthase
+ALPHOKDO_00589	CDS	glgD	Glycogen biosynthesis protein GlgD
+ALPHOKDO_00590	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+ALPHOKDO_00591	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+ALPHOKDO_00592	CDS	hypothetical protein

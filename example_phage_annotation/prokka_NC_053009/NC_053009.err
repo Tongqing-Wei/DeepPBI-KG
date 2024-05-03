@@ -1,0 +1,427 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:74 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 74 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:74 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:75 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::74 proteins have invalid IDs.
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_1 (length 76)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_2 (length 860)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_3 (length 93)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_4 (length 125)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_5 (length 114)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_6 (length 449)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_7 (length 204)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_8 (length 678)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_9 (length 95)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_10 (length 502)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_11 (length 202)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_12 (length 691)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_13 (length 83)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_14 (length 554)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_15 (length 435)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_16 (length 141)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_17 (length 357)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_18 (length 98)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_19 (length 120)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_20 (length 208)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_21 (length 168)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_22 (length 379)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_23 (length 147)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_24 (length 1438)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_25 (length 566)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_26 (length 272)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_27 (length 76)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_28 (length 72)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_29 (length 1287)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_30 (length 246)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_31 (length 335)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_32 (length 320)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_33 (length 339)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_34 (length 408)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_35 (length 664)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_36 (length 108)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_37 (length 237)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_38 (length 84)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_39 (length 168)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_40 (length 232)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_41 (length 93)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_42 (length 167)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_43 (length 75)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_44 (length 186)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_45 (length 155)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_46 (length 81)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_47 (length 61)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_48 (length 471)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_49 (length 234)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_50 (length 350)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_51 (length 251)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_52 (length 246)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_53 (length 92)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_54 (length 77)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_55 (length 388)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_56 (length 102)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_57 (length 113)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_58 (length 149)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_59 (length 132)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_60 (length 192)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_61 (length 177)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_62 (length 182)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_63 (length 61)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_64 (length 205)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_65 (length 65)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_66 (length 72)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_67 (length 145)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_68 (length 62)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_69 (length 117)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_70 (length 81)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_71 (length 229)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_72 (length 109)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_73 (length 95)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_74 (length 132)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 74 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1 (length 60727)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::74 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:405-635	GFLIGANH_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c3260-678	GFLIGANH_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c3538-3257	GFLIGANH_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:3799-4176	GFLIGANH_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:4236-4580	GFLIGANH_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:4553-5902	GFLIGANH_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:5952-6566	GFLIGANH_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:6629-8665	GFLIGANH_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:8668-8955	GFLIGANH_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	RNA polymerase-associated protein RapA	NC_053009.1:8972-10480	GFLIGANH_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:10467-11075	GFLIGANH_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:11065-13140	GFLIGANH_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:13151-13402	GFLIGANH_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:13402-15066	GFLIGANH_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	Putative signal peptide peptidase SppA	NC_053009.1:15063-16370	GFLIGANH_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:16375-16800	GFLIGANH_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:16815-17888	GFLIGANH_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:17962-18258	GFLIGANH_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:18261-18623	GFLIGANH_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:18623-19249	GFLIGANH_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:19246-19752	GFLIGANH_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:19768-20907	GFLIGANH_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:21008-21451	GFLIGANH_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:21686-26002	GFLIGANH_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:26003-27703	GFLIGANH_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:27712-28530	GFLIGANH_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:28541-28771	GFLIGANH_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:28771-28989	GFLIGANH_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:28982-32845	GFLIGANH_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:32838-33578	GFLIGANH_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:33588-34595	GFLIGANH_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:34605-35567	GFLIGANH_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:35580-36599	GFLIGANH_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:36611-37837	GFLIGANH_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:37847-39841	GFLIGANH_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:39907-40233	GFLIGANH_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:40237-40950	GFLIGANH_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:40947-41201	GFLIGANH_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c41779-41273	GFLIGANH_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c42474-41776	GFLIGANH_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c42752-42471	GFLIGANH_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c43258-42755	GFLIGANH_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c43482-43255	GFLIGANH_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c44125-43565	GFLIGANH_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c44595-44128	GFLIGANH_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c44833-44588	GFLIGANH_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c45037-44852	GFLIGANH_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c46455-45040	GFLIGANH_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c47236-46532	GFLIGANH_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c48285-47233	GFLIGANH_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c49033-48278	GFLIGANH_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c49770-49030	GFLIGANH_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c50277-49999	GFLIGANH_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c50512-50279	GFLIGANH_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	Recombination-associated protein RdgC	NC_053009.1:c51681-50515	GFLIGANH_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c51991-51683	GFLIGANH_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c52322-51981	GFLIGANH_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c52752-52303	GFLIGANH_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:c53222-52824	GFLIGANH_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:53813-54391	GFLIGANH_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:54396-54929	GFLIGANH_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:55004-55552	GFLIGANH_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:55549-55734	GFLIGANH_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:55809-56426	GFLIGANH_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:56437-56634	GFLIGANH_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:56616-56834	GFLIGANH_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:56960-57397	GFLIGANH_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:57406-57594	GFLIGANH_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:57594-57947	GFLIGANH_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:57928-58173	GFLIGANH_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:58170-58859	GFLIGANH_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:59073-59402	GFLIGANH_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:59405-59692	GFLIGANH_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_NC_053009/NC_053009:CDS	hypothetical protein	NC_053009.1:59709-60107	GFLIGANH_00074
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1:Annotated using prokka 1.12 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1 (length 60727)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1 (length 60727)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1 (length 60727)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1 (length 60727)
+
+DiscRep_ALL:MISSING_PROJECT::75 sequences do not include project.
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1 (length 60727)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_1 (length 76)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_2 (length 860)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_3 (length 93)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_4 (length 125)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_5 (length 114)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_6 (length 449)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_7 (length 204)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_8 (length 678)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_9 (length 95)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_10 (length 502)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_11 (length 202)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_12 (length 691)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_13 (length 83)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_14 (length 554)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_15 (length 435)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_16 (length 141)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_17 (length 357)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_18 (length 98)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_19 (length 120)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_20 (length 208)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_21 (length 168)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_22 (length 379)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_23 (length 147)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_24 (length 1438)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_25 (length 566)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_26 (length 272)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_27 (length 76)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_28 (length 72)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_29 (length 1287)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_30 (length 246)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_31 (length 335)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_32 (length 320)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_33 (length 339)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_34 (length 408)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_35 (length 664)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_36 (length 108)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_37 (length 237)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_38 (length 84)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_39 (length 168)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_40 (length 232)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_41 (length 93)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_42 (length 167)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_43 (length 75)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_44 (length 186)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_45 (length 155)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_46 (length 81)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_47 (length 61)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_48 (length 471)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_49 (length 234)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_50 (length 350)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_51 (length 251)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_52 (length 246)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_53 (length 92)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_54 (length 77)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_55 (length 388)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_56 (length 102)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_57 (length 113)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_58 (length 149)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_59 (length 132)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_60 (length 192)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_61 (length 177)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_62 (length 182)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_63 (length 61)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_64 (length 205)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_65 (length 65)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_66 (length 72)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_67 (length 145)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_68 (length 62)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_69 (length 117)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_70 (length 81)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_71 (length 229)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_72 (length 109)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_73 (length 95)
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1_74 (length 132)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./tmp/prokka_NC_053009/NC_053009:NC_053009.1 (length 60727)
+

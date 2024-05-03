@@ -1,0 +1,305 @@
+>Feature NC_053009.1
+405	635	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00001
+			product	hypothetical protein
+3260	678	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00002
+			product	hypothetical protein
+3538	3257	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00003
+			product	hypothetical protein
+3799	4176	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00004
+			product	hypothetical protein
+4236	4580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00005
+			product	hypothetical protein
+4553	5902	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00006
+			product	hypothetical protein
+5952	6566	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00007
+			product	hypothetical protein
+6629	8665	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00008
+			product	hypothetical protein
+8668	8955	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00009
+			product	hypothetical protein
+8972	10480	CDS
+			EC_number	3.6.4.-
+			gene	rapA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01821
+			locus_tag	GFLIGANH_00010
+			product	RNA polymerase-associated protein RapA
+10467	11075	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00011
+			product	hypothetical protein
+11065	13140	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00012
+			product	hypothetical protein
+13151	13402	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00013
+			product	hypothetical protein
+13402	15066	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00014
+			product	hypothetical protein
+15063	16370	CDS
+			EC_number	3.4.21.-
+			gene	sppA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34525
+			locus_tag	GFLIGANH_00015
+			product	Putative signal peptide peptidase SppA
+16375	16800	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00016
+			product	hypothetical protein
+16815	17888	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00017
+			product	hypothetical protein
+17962	18258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00018
+			product	hypothetical protein
+18261	18623	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00019
+			product	hypothetical protein
+18623	19249	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00020
+			product	hypothetical protein
+19246	19752	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00021
+			product	hypothetical protein
+19768	20907	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00022
+			product	hypothetical protein
+21008	21451	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00023
+			product	hypothetical protein
+21686	26002	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00024
+			product	hypothetical protein
+26003	27703	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00025
+			product	hypothetical protein
+27712	28530	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00026
+			product	hypothetical protein
+28541	28771	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00027
+			product	hypothetical protein
+28771	28989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00028
+			product	hypothetical protein
+28982	32845	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00029
+			product	hypothetical protein
+32838	33578	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00030
+			product	hypothetical protein
+33588	34595	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00031
+			product	hypothetical protein
+34605	35567	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00032
+			product	hypothetical protein
+35580	36599	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00033
+			product	hypothetical protein
+36611	37837	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00034
+			product	hypothetical protein
+37847	39841	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00035
+			product	hypothetical protein
+39907	40233	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00036
+			product	hypothetical protein
+40237	40950	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00037
+			product	hypothetical protein
+40947	41201	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00038
+			product	hypothetical protein
+41779	41273	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00039
+			product	hypothetical protein
+42474	41776	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00040
+			product	hypothetical protein
+42752	42471	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00041
+			product	hypothetical protein
+43258	42755	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00042
+			product	hypothetical protein
+43482	43255	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00043
+			product	hypothetical protein
+44125	43565	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00044
+			product	hypothetical protein
+44595	44128	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00045
+			product	hypothetical protein
+44833	44588	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00046
+			product	hypothetical protein
+45037	44852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00047
+			product	hypothetical protein
+46455	45040	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00048
+			product	hypothetical protein
+47236	46532	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00049
+			product	hypothetical protein
+48285	47233	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00050
+			product	hypothetical protein
+49033	48278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00051
+			product	hypothetical protein
+49770	49030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00052
+			product	hypothetical protein
+50277	49999	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00053
+			product	hypothetical protein
+50512	50279	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00054
+			product	hypothetical protein
+51681	50515	CDS
+			gene	rdgC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00194
+			locus_tag	GFLIGANH_00055
+			product	Recombination-associated protein RdgC
+51991	51683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00056
+			product	hypothetical protein
+52322	51981	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00057
+			product	hypothetical protein
+52752	52303	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00058
+			product	hypothetical protein
+53222	52824	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00059
+			product	hypothetical protein
+53813	54391	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00060
+			product	hypothetical protein
+54396	54929	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00061
+			product	hypothetical protein
+55004	55552	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00062
+			product	hypothetical protein
+55549	55734	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00063
+			product	hypothetical protein
+55809	56426	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00064
+			product	hypothetical protein
+56437	56634	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00065
+			product	hypothetical protein
+56616	56834	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00066
+			product	hypothetical protein
+56960	57397	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00067
+			product	hypothetical protein
+57406	57594	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00068
+			product	hypothetical protein
+57594	57947	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00069
+			product	hypothetical protein
+57928	58173	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00070
+			product	hypothetical protein
+58170	58859	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00071
+			product	hypothetical protein
+59073	59402	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00072
+			product	hypothetical protein
+59405	59692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00073
+			product	hypothetical protein
+59709	60107	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	GFLIGANH_00074
+			product	hypothetical protein

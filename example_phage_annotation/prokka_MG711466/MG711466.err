@@ -1,0 +1,501 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:88 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 88 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:88 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:1 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:89 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::88 proteins have invalid IDs.
+./tmp/prokka_MG711466/MG711466:MG711466.1_1 (length 514)
+./tmp/prokka_MG711466/MG711466:MG711466.1_2 (length 117)
+./tmp/prokka_MG711466/MG711466:MG711466.1_3 (length 81)
+./tmp/prokka_MG711466/MG711466:MG711466.1_4 (length 102)
+./tmp/prokka_MG711466/MG711466:MG711466.1_5 (length 71)
+./tmp/prokka_MG711466/MG711466:MG711466.1_6 (length 94)
+./tmp/prokka_MG711466/MG711466:MG711466.1_7 (length 69)
+./tmp/prokka_MG711466/MG711466:MG711466.1_8 (length 61)
+./tmp/prokka_MG711466/MG711466:MG711466.1_9 (length 115)
+./tmp/prokka_MG711466/MG711466:MG711466.1_10 (length 98)
+./tmp/prokka_MG711466/MG711466:MG711466.1_11 (length 188)
+./tmp/prokka_MG711466/MG711466:MG711466.1_12 (length 57)
+./tmp/prokka_MG711466/MG711466:MG711466.1_13 (length 66)
+./tmp/prokka_MG711466/MG711466:MG711466.1_14 (length 201)
+./tmp/prokka_MG711466/MG711466:MG711466.1_15 (length 277)
+./tmp/prokka_MG711466/MG711466:MG711466.1_16 (length 176)
+./tmp/prokka_MG711466/MG711466:MG711466.1_17 (length 164)
+./tmp/prokka_MG711466/MG711466:MG711466.1_18 (length 83)
+./tmp/prokka_MG711466/MG711466:MG711466.1_19 (length 69)
+./tmp/prokka_MG711466/MG711466:MG711466.1_20 (length 73)
+./tmp/prokka_MG711466/MG711466:MG711466.1_21 (length 303)
+./tmp/prokka_MG711466/MG711466:MG711466.1_22 (length 61)
+./tmp/prokka_MG711466/MG711466:MG711466.1_23 (length 216)
+./tmp/prokka_MG711466/MG711466:MG711466.1_24 (length 215)
+./tmp/prokka_MG711466/MG711466:MG711466.1_25 (length 128)
+./tmp/prokka_MG711466/MG711466:MG711466.1_26 (length 130)
+./tmp/prokka_MG711466/MG711466:MG711466.1_27 (length 163)
+./tmp/prokka_MG711466/MG711466:MG711466.1_28 (length 81)
+./tmp/prokka_MG711466/MG711466:MG711466.1_29 (length 154)
+./tmp/prokka_MG711466/MG711466:MG711466.1_30 (length 85)
+./tmp/prokka_MG711466/MG711466:MG711466.1_31 (length 277)
+./tmp/prokka_MG711466/MG711466:MG711466.1_32 (length 171)
+./tmp/prokka_MG711466/MG711466:MG711466.1_33 (length 195)
+./tmp/prokka_MG711466/MG711466:MG711466.1_34 (length 166)
+./tmp/prokka_MG711466/MG711466:MG711466.1_35 (length 85)
+./tmp/prokka_MG711466/MG711466:MG711466.1_36 (length 105)
+./tmp/prokka_MG711466/MG711466:MG711466.1_37 (length 62)
+./tmp/prokka_MG711466/MG711466:MG711466.1_38 (length 85)
+./tmp/prokka_MG711466/MG711466:MG711466.1_39 (length 306)
+./tmp/prokka_MG711466/MG711466:MG711466.1_40 (length 161)
+./tmp/prokka_MG711466/MG711466:MG711466.1_41 (length 313)
+./tmp/prokka_MG711466/MG711466:MG711466.1_42 (length 59)
+./tmp/prokka_MG711466/MG711466:MG711466.1_43 (length 84)
+./tmp/prokka_MG711466/MG711466:MG711466.1_44 (length 53)
+./tmp/prokka_MG711466/MG711466:MG711466.1_45 (length 112)
+./tmp/prokka_MG711466/MG711466:MG711466.1_46 (length 129)
+./tmp/prokka_MG711466/MG711466:MG711466.1_47 (length 35)
+./tmp/prokka_MG711466/MG711466:MG711466.1_48 (length 81)
+./tmp/prokka_MG711466/MG711466:MG711466.1_49 (length 190)
+./tmp/prokka_MG711466/MG711466:MG711466.1_50 (length 253)
+./tmp/prokka_MG711466/MG711466:MG711466.1_51 (length 167)
+./tmp/prokka_MG711466/MG711466:MG711466.1_52 (length 615)
+./tmp/prokka_MG711466/MG711466:MG711466.1_53 (length 76)
+./tmp/prokka_MG711466/MG711466:MG711466.1_54 (length 540)
+./tmp/prokka_MG711466/MG711466:MG711466.1_55 (length 348)
+./tmp/prokka_MG711466/MG711466:MG711466.1_56 (length 132)
+./tmp/prokka_MG711466/MG711466:MG711466.1_57 (length 358)
+./tmp/prokka_MG711466/MG711466:MG711466.1_58 (length 92)
+./tmp/prokka_MG711466/MG711466:MG711466.1_59 (length 111)
+./tmp/prokka_MG711466/MG711466:MG711466.1_60 (length 227)
+./tmp/prokka_MG711466/MG711466:MG711466.1_61 (length 178)
+./tmp/prokka_MG711466/MG711466:MG711466.1_62 (length 98)
+./tmp/prokka_MG711466/MG711466:MG711466.1_63 (length 482)
+./tmp/prokka_MG711466/MG711466:MG711466.1_64 (length 175)
+./tmp/prokka_MG711466/MG711466:MG711466.1_65 (length 221)
+./tmp/prokka_MG711466/MG711466:MG711466.1_66 (length 1167)
+./tmp/prokka_MG711466/MG711466:MG711466.1_67 (length 67)
+./tmp/prokka_MG711466/MG711466:MG711466.1_68 (length 332)
+./tmp/prokka_MG711466/MG711466:MG711466.1_69 (length 205)
+./tmp/prokka_MG711466/MG711466:MG711466.1_70 (length 133)
+./tmp/prokka_MG711466/MG711466:MG711466.1_71 (length 108)
+./tmp/prokka_MG711466/MG711466:MG711466.1_72 (length 393)
+./tmp/prokka_MG711466/MG711466:MG711466.1_73 (length 255)
+./tmp/prokka_MG711466/MG711466:MG711466.1_74 (length 375)
+./tmp/prokka_MG711466/MG711466:MG711466.1_75 (length 291)
+./tmp/prokka_MG711466/MG711466:MG711466.1_76 (length 149)
+./tmp/prokka_MG711466/MG711466:MG711466.1_77 (length 128)
+./tmp/prokka_MG711466/MG711466:MG711466.1_78 (length 191)
+./tmp/prokka_MG711466/MG711466:MG711466.1_79 (length 50)
+./tmp/prokka_MG711466/MG711466:MG711466.1_80 (length 409)
+./tmp/prokka_MG711466/MG711466:MG711466.1_81 (length 419)
+./tmp/prokka_MG711466/MG711466:MG711466.1_82 (length 67)
+./tmp/prokka_MG711466/MG711466:MG711466.1_83 (length 56)
+./tmp/prokka_MG711466/MG711466:MG711466.1_84 (length 137)
+./tmp/prokka_MG711466/MG711466:MG711466.1_85 (length 131)
+./tmp/prokka_MG711466/MG711466:MG711466.1_86 (length 105)
+./tmp/prokka_MG711466/MG711466:MG711466.1_87 (length 83)
+./tmp/prokka_MG711466/MG711466:MG711466.1_88 (length 155)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 88 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+./tmp/prokka_MG711466/MG711466:MG711466.1 (length 54725)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::88 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c1545-1	NCBBAHBE_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c2229-1876	NCBBAHBE_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:2403-2648	NCBBAHBE_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:2632-2940	NCBBAHBE_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c3119-2904	NCBBAHBE_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:3195-3479	NCBBAHBE_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c3691-3482	NCBBAHBE_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:3778-3963	NCBBAHBE_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:4129-4476	NCBBAHBE_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:4493-4789	NCBBAHBE_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:5011-5577	NCBBAHBE_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:5586-5759	NCBBAHBE_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:6266-6466	NCBBAHBE_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:6463-7068	NCBBAHBE_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:7041-7874	NCBBAHBE_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:7828-8358	NCBBAHBE_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:8362-8856	NCBBAHBE_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:8860-9111	NCBBAHBE_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:9102-9311	NCBBAHBE_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:9313-9534	NCBBAHBE_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:9627-10538	NCBBAHBE_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:10654-10839	NCBBAHBE_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:10836-11486	NCBBAHBE_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:11505-12152	NCBBAHBE_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:12155-12541	NCBBAHBE_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:12538-12930	NCBBAHBE_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:12940-13431	NCBBAHBE_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:13428-13673	NCBBAHBE_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:13651-14115	NCBBAHBE_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:14146-14403	NCBBAHBE_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:14717-15550	NCBBAHBE_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:15547-16062	NCBBAHBE_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:16099-16686	NCBBAHBE_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:16711-17211	NCBBAHBE_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c17717-17460	NCBBAHBE_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c18258-17941	NCBBAHBE_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c18478-18290	NCBBAHBE_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c18839-18582	NCBBAHBE_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c19866-18946	NCBBAHBE_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c20444-19959	NCBBAHBE_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c21506-20565	NCBBAHBE_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c21790-21611	NCBBAHBE_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c22063-21809	NCBBAHBE_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c22333-22172	NCBBAHBE_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c22686-22348	NCBBAHBE_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c23191-22802	NCBBAHBE_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c23459-23352	NCBBAHBE_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:23678-23923	NCBBAHBE_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:c24557-23985	NCBBAHBE_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:24798-25559	NCBBAHBE_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:25540-26043	NCBBAHBE_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:26142-27989	NCBBAHBE_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:27990-28220	NCBBAHBE_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:28233-29855	NCBBAHBE_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	ATP-dependent Clp protease proteolytic subunit	MG711466.1:29956-31002	NCBBAHBE_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:31006-31404	NCBBAHBE_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:31420-32496	NCBBAHBE_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:32514-32792	NCBBAHBE_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:32805-33140	NCBBAHBE_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:33140-33823	NCBBAHBE_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:33820-34356	NCBBAHBE_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:34353-34649	NCBBAHBE_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	Putative prophage major tail sheath protein	MG711466.1:34663-36111	NCBBAHBE_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:36133-36660	NCBBAHBE_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:36737-37402	NCBBAHBE_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:37530-41033	NCBBAHBE_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:41046-41249	NCBBAHBE_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:41260-42258	NCBBAHBE_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:42263-42880	NCBBAHBE_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:42894-43295	NCBBAHBE_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:43292-43618	NCBBAHBE_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:43611-44792	NCBBAHBE_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:44785-45552	NCBBAHBE_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:45549-46676	NCBBAHBE_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:46695-47570	NCBBAHBE_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:47591-48040	NCBBAHBE_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:48041-48427	NCBBAHBE_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:48430-49005	NCBBAHBE_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:49048-49200	NCBBAHBE_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:49347-50576	NCBBAHBE_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:50596-51855	NCBBAHBE_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:51870-52073	NCBBAHBE_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:52086-52256	NCBBAHBE_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:52397-52810	NCBBAHBE_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:52829-53224	NCBBAHBE_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:53217-53534	NCBBAHBE_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	hypothetical protein	MG711466.1:53968-54219	NCBBAHBE_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+./tmp/prokka_MG711466/MG711466:CDS	putative HTH-type transcriptional regulator	MG711466.1:c54725-54258	NCBBAHBE_00088
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+./tmp/prokka_MG711466/MG711466:MG711466.1:Annotated using prokka 1.12 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::1 protein sequences are shorter than 50 aa.
+./tmp/prokka_MG711466/MG711466:MG711466.1_47 (length 35)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+./tmp/prokka_MG711466/MG711466:MG711466.1 (length 54725)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+./tmp/prokka_MG711466/MG711466:MG711466.1 (length 54725)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+./tmp/prokka_MG711466/MG711466:MG711466.1 (length 54725)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+./tmp/prokka_MG711466/MG711466:MG711466.1 (length 54725)
+
+DiscRep_ALL:MISSING_PROJECT::89 sequences do not include project.
+./tmp/prokka_MG711466/MG711466:MG711466.1 (length 54725)
+./tmp/prokka_MG711466/MG711466:MG711466.1_1 (length 514)
+./tmp/prokka_MG711466/MG711466:MG711466.1_2 (length 117)
+./tmp/prokka_MG711466/MG711466:MG711466.1_3 (length 81)
+./tmp/prokka_MG711466/MG711466:MG711466.1_4 (length 102)
+./tmp/prokka_MG711466/MG711466:MG711466.1_5 (length 71)
+./tmp/prokka_MG711466/MG711466:MG711466.1_6 (length 94)
+./tmp/prokka_MG711466/MG711466:MG711466.1_7 (length 69)
+./tmp/prokka_MG711466/MG711466:MG711466.1_8 (length 61)
+./tmp/prokka_MG711466/MG711466:MG711466.1_9 (length 115)
+./tmp/prokka_MG711466/MG711466:MG711466.1_10 (length 98)
+./tmp/prokka_MG711466/MG711466:MG711466.1_11 (length 188)
+./tmp/prokka_MG711466/MG711466:MG711466.1_12 (length 57)
+./tmp/prokka_MG711466/MG711466:MG711466.1_13 (length 66)
+./tmp/prokka_MG711466/MG711466:MG711466.1_14 (length 201)
+./tmp/prokka_MG711466/MG711466:MG711466.1_15 (length 277)
+./tmp/prokka_MG711466/MG711466:MG711466.1_16 (length 176)
+./tmp/prokka_MG711466/MG711466:MG711466.1_17 (length 164)
+./tmp/prokka_MG711466/MG711466:MG711466.1_18 (length 83)
+./tmp/prokka_MG711466/MG711466:MG711466.1_19 (length 69)
+./tmp/prokka_MG711466/MG711466:MG711466.1_20 (length 73)
+./tmp/prokka_MG711466/MG711466:MG711466.1_21 (length 303)
+./tmp/prokka_MG711466/MG711466:MG711466.1_22 (length 61)
+./tmp/prokka_MG711466/MG711466:MG711466.1_23 (length 216)
+./tmp/prokka_MG711466/MG711466:MG711466.1_24 (length 215)
+./tmp/prokka_MG711466/MG711466:MG711466.1_25 (length 128)
+./tmp/prokka_MG711466/MG711466:MG711466.1_26 (length 130)
+./tmp/prokka_MG711466/MG711466:MG711466.1_27 (length 163)
+./tmp/prokka_MG711466/MG711466:MG711466.1_28 (length 81)
+./tmp/prokka_MG711466/MG711466:MG711466.1_29 (length 154)
+./tmp/prokka_MG711466/MG711466:MG711466.1_30 (length 85)
+./tmp/prokka_MG711466/MG711466:MG711466.1_31 (length 277)
+./tmp/prokka_MG711466/MG711466:MG711466.1_32 (length 171)
+./tmp/prokka_MG711466/MG711466:MG711466.1_33 (length 195)
+./tmp/prokka_MG711466/MG711466:MG711466.1_34 (length 166)
+./tmp/prokka_MG711466/MG711466:MG711466.1_35 (length 85)
+./tmp/prokka_MG711466/MG711466:MG711466.1_36 (length 105)
+./tmp/prokka_MG711466/MG711466:MG711466.1_37 (length 62)
+./tmp/prokka_MG711466/MG711466:MG711466.1_38 (length 85)
+./tmp/prokka_MG711466/MG711466:MG711466.1_39 (length 306)
+./tmp/prokka_MG711466/MG711466:MG711466.1_40 (length 161)
+./tmp/prokka_MG711466/MG711466:MG711466.1_41 (length 313)
+./tmp/prokka_MG711466/MG711466:MG711466.1_42 (length 59)
+./tmp/prokka_MG711466/MG711466:MG711466.1_43 (length 84)
+./tmp/prokka_MG711466/MG711466:MG711466.1_44 (length 53)
+./tmp/prokka_MG711466/MG711466:MG711466.1_45 (length 112)
+./tmp/prokka_MG711466/MG711466:MG711466.1_46 (length 129)
+./tmp/prokka_MG711466/MG711466:MG711466.1_47 (length 35)
+./tmp/prokka_MG711466/MG711466:MG711466.1_48 (length 81)
+./tmp/prokka_MG711466/MG711466:MG711466.1_49 (length 190)
+./tmp/prokka_MG711466/MG711466:MG711466.1_50 (length 253)
+./tmp/prokka_MG711466/MG711466:MG711466.1_51 (length 167)
+./tmp/prokka_MG711466/MG711466:MG711466.1_52 (length 615)
+./tmp/prokka_MG711466/MG711466:MG711466.1_53 (length 76)
+./tmp/prokka_MG711466/MG711466:MG711466.1_54 (length 540)
+./tmp/prokka_MG711466/MG711466:MG711466.1_55 (length 348)
+./tmp/prokka_MG711466/MG711466:MG711466.1_56 (length 132)
+./tmp/prokka_MG711466/MG711466:MG711466.1_57 (length 358)
+./tmp/prokka_MG711466/MG711466:MG711466.1_58 (length 92)
+./tmp/prokka_MG711466/MG711466:MG711466.1_59 (length 111)
+./tmp/prokka_MG711466/MG711466:MG711466.1_60 (length 227)
+./tmp/prokka_MG711466/MG711466:MG711466.1_61 (length 178)
+./tmp/prokka_MG711466/MG711466:MG711466.1_62 (length 98)
+./tmp/prokka_MG711466/MG711466:MG711466.1_63 (length 482)
+./tmp/prokka_MG711466/MG711466:MG711466.1_64 (length 175)
+./tmp/prokka_MG711466/MG711466:MG711466.1_65 (length 221)
+./tmp/prokka_MG711466/MG711466:MG711466.1_66 (length 1167)
+./tmp/prokka_MG711466/MG711466:MG711466.1_67 (length 67)
+./tmp/prokka_MG711466/MG711466:MG711466.1_68 (length 332)
+./tmp/prokka_MG711466/MG711466:MG711466.1_69 (length 205)
+./tmp/prokka_MG711466/MG711466:MG711466.1_70 (length 133)
+./tmp/prokka_MG711466/MG711466:MG711466.1_71 (length 108)
+./tmp/prokka_MG711466/MG711466:MG711466.1_72 (length 393)
+./tmp/prokka_MG711466/MG711466:MG711466.1_73 (length 255)
+./tmp/prokka_MG711466/MG711466:MG711466.1_74 (length 375)
+./tmp/prokka_MG711466/MG711466:MG711466.1_75 (length 291)
+./tmp/prokka_MG711466/MG711466:MG711466.1_76 (length 149)
+./tmp/prokka_MG711466/MG711466:MG711466.1_77 (length 128)
+./tmp/prokka_MG711466/MG711466:MG711466.1_78 (length 191)
+./tmp/prokka_MG711466/MG711466:MG711466.1_79 (length 50)
+./tmp/prokka_MG711466/MG711466:MG711466.1_80 (length 409)
+./tmp/prokka_MG711466/MG711466:MG711466.1_81 (length 419)
+./tmp/prokka_MG711466/MG711466:MG711466.1_82 (length 67)
+./tmp/prokka_MG711466/MG711466:MG711466.1_83 (length 56)
+./tmp/prokka_MG711466/MG711466:MG711466.1_84 (length 137)
+./tmp/prokka_MG711466/MG711466:MG711466.1_85 (length 131)
+./tmp/prokka_MG711466/MG711466:MG711466.1_86 (length 105)
+./tmp/prokka_MG711466/MG711466:MG711466.1_87 (length 83)
+./tmp/prokka_MG711466/MG711466:MG711466.1_88 (length 155)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+./tmp/prokka_MG711466/MG711466:MG711466.1 (length 54725)
+
