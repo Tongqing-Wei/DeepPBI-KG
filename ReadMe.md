@@ -3,7 +3,7 @@
 ### a deep learning method for prediction of phage-bacterial interactions based on key genes
 #### Tips: If the ReadMe picture does not appear, make sure you are using VPN extranet access
 
-![](D:\我的文件\噬菌体数据\公共数据\Pipeline\iMeta_submit_file\github\figure\model framework.png)
+![](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/model%20framework.png)
 
 ## Installion
 
@@ -90,7 +90,7 @@ Run ***DeepPBI-KG.py*** to predict PBI and directly generate prediction results 
 
 - ***Bacterium_interaction_infor_in_raw_data*** is the interaction information of phage in the data set we collected that interacting with Bacterium_optimum_align. If Bacterium_optimum_align is empty, then interaction information is empty. 
 
-![](D:\我的文件\噬菌体数据\公共数据\Pipeline\iMeta_submit_file\github\figure\result_example.png)
+![](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/result_example.png)
 
 ```shell
 Usage:
@@ -113,26 +113,26 @@ Example:
 
 - Model parameter example: 
 
-![](D:\我的文件\噬菌体数据\公共数据\Pipeline\iMeta_submit_file\github\figure\model_parameter.png)
+![]](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/model_parameter.png)
 
 Where ***phage_key_gene_0.0004.csv*** and ***host_key_gene_0.0004.csv*** are the list of key genes of phage and bacteria, ***pth*** file is the model parameter, and ***pkl*** file is the standardized parameter. ***interaction_ref_infor.csv*** is all the interaction information collected for the raw data, which used to generate the Phage_interaction_infor_in_raw_data and Bacterium_interaction_infor_in_raw_data columns of  the resultant HTML files. 
 
 - Intermediate result example: 
 
 
-![](D:\我的文件\噬菌体数据\公共数据\Pipeline\iMeta_submit_file\github\figure\intermediate_result_example.png)
+![](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/intermediate_result_example.png)
 
 In ***feature_file***, feature files of phage and bacteria are displayed. ***phage_dna*** and ***phage_protein*** are fasta sequence files of DNA protein of phage cds after processing. Similarly, ***host_dna*** and ***host_protein*** are displayed.
 
 - Output result example: 
 
-![](D:\我的文件\噬菌体数据\公共数据\Pipeline\iMeta_submit_file\github\figure\output_result_example.png)
+![](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/output_result_example.png)
 
 The ***result.csv*** and ***result.html*** is the prediction result file. The ***phage_target_align*** is the fasta sequence file of the blast alignment hit phage. The ***phage_target_interaction*** is the interaction bacteria information of the blast alignment hit phage. The ***host_target_align*** is the fasta sequence file of the blast alignment hit bacteria. The ***host_target_interaction*** is the interaction phage information of the blast alignment hit bacteria. If you want to see the complete information of the result.html, you must download the entire example_output folder. 
 
 - Run example: 
 
-![](D:\我的文件\噬菌体数据\公共数据\Pipeline\iMeta_submit_file\github\figure\result_example.png)
+![](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/run_example.png)
 
 ## File description
 
