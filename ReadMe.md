@@ -113,7 +113,7 @@ Example:
 
 - Model parameter example: 
 
-![]](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/model_parameter.png)
+![](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/model_parameter.png)
 
 Where ***phage_key_gene_0.0004.csv*** and ***host_key_gene_0.0004.csv*** are the list of key genes of phage and bacteria, ***pth*** file is the model parameter, and ***pkl*** file is the standardized parameter. ***interaction_ref_infor.csv*** is all the interaction information collected for the raw data, which used to generate the Phage_interaction_infor_in_raw_data and Bacterium_interaction_infor_in_raw_data columns of  the resultant HTML files. 
 
