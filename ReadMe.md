@@ -63,9 +63,9 @@ Usage:
   -O BLAST_OUTPUT	Blastn output folders (alignment result file for each phage or bacteria)
   
 Example:
-  bash prokka_blast.sh -i ./example_phage -o ./example_phage_annotation -p ~/.conda/envs/KGDeepPBI/bin/prokka -d ./all_phage_db/all_phage_seq.db -b ~/.conda/envs/KGDeepPBI/bin/blastn -O ./phage_align_result
+  bash prokka_blast.sh -i ./example_phage -o ./example_phage_annotation -p ~/.conda/envs/DeepPBI-KG/bin/prokka -d ./all_phage_db/all_phage_seq.db -b ~/.conda/envs/DeepPBI-KG/bin/blastn -O ./phage_align_result
   
-  bash prokka_blast.sh -i ./example_host -o ./example_host_annotation -p ~/.conda/envs/KGDeepPBI/bin/prokka -d ./all_host_db/all_host_seq.db -b ~/.conda/envs/KGDeepPBI/bin/blastn -O ./host_align_result
+  bash prokka_blast.sh -i ./example_host -o ./example_host_annotation -p ~/.conda/envs/DeepPBI-KG/bin/prokka -d ./all_host_db/all_host_seq.db -b ~/.conda/envs/DeepPBI-KG/bin/blastn -O ./host_align_result
 ```
 
 ##### 2. Predictive result
