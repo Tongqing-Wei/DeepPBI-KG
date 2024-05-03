@@ -1,6 +1,7 @@
 # DeepPBI-KG
 
 ### a deep learning method for prediction of phage-bacterial interactions based on key genes
+#### Tips: If the ReadMe picture does not appear, make sure you are using VPN extranet access
 
 ![](D:\我的文件\噬菌体数据\公共数据\Pipeline\iMeta_submit_file\github\figure\model framework.png)
 
