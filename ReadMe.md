@@ -28,7 +28,7 @@ conda activate DeepPBI-KG
 To install the prokka and blast as a dependency, once the installation is finished, you can start using prokka and blast within your Conda environment.
 
 ```shell
-conda install biobuilds::prokka
+conda install biobuilds::prokka / conda install -c bioconda prokka
 # If the installation is successful, the script below should run without any issues
 prokka -h
 # set database index for prokka
@@ -63,8 +63,15 @@ Usage:
   -O BLAST_OUTPUT	Blastn output folders (alignment result file for each phage or bacteria)
   
 Example:
+  which prokka
+  which blastn
+
+  mkdir example_phage_annotation
+  mkdir phage_align_result
   bash prokka_blast.sh -i ./example_phage -o ./example_phage_annotation -p ~/.conda/envs/DeepPBI-KG/bin/prokka -d ./all_phage_db/all_phage_seq.db -b ~/.conda/envs/DeepPBI-KG/bin/blastn -O ./phage_align_result
   # You should create an empty example_phage_annotation folder and phage_align_result folder in advance
+  mkdir example_host_annotation
+  mkdir host_align_result
   bash prokka_blast.sh -i ./example_host -o ./example_host_annotation -p ~/.conda/envs/DeepPBI-KG/bin/prokka -d ./all_host_db/all_host_seq.db -b ~/.conda/envs/DeepPBI-KG/bin/blastn -O ./host_align_result
   # You should create an empty example_host_annotation folder and host_align_result folder in advance
 ```
