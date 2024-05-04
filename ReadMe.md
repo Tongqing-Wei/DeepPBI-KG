@@ -64,8 +64,9 @@ Usage:
   
 Example:
   bash prokka_blast.sh -i ./example_phage -o ./example_phage_annotation -p ~/.conda/envs/DeepPBI-KG/bin/prokka -d ./all_phage_db/all_phage_seq.db -b ~/.conda/envs/DeepPBI-KG/bin/blastn -O ./phage_align_result
-  
+  # You should create an empty example_phage_annotation folder and phage_align_result folder in advance
   bash prokka_blast.sh -i ./example_host -o ./example_host_annotation -p ~/.conda/envs/DeepPBI-KG/bin/prokka -d ./all_host_db/all_host_seq.db -b ~/.conda/envs/DeepPBI-KG/bin/blastn -O ./host_align_result
+  # You should create an empty example_host_annotation folder and host_align_result folder in advance
 ```
 
 ##### 2. Predictive result
