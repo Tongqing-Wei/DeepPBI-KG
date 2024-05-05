@@ -48,7 +48,23 @@ pip install torch==1.9.0+cpu torchvision==0.10.0+cpu torchaudio==0.9.0 -f https:
 
 ## DeepPBI-KG main workflow
 
-##### 1. Prokka annotation and blast alignment
+##### 1. Create phage database and host database for blast alignment
+
+If you use ***git clone*** to download this project, ***all_phage_db*** and ***all_host_db*** won't get corrupted and you can skip this step (which may be slower to download).  If you download this project using ***Download Zip***, the .nsq files in ***all_phage_db*** and ***all_host_db*** may be corrupted (only a few bytes in size).  You can use the following command to create your own blast database: 
+
+```shell
+# run the python code to generate all_phage_seq.fasta and all_host_seq.fasta
+python integrate_seq.py
+# create database for phage
+mkdir all_phage_db
+makeblastdb -dbtype nucl -in all_phage_seq.fasta -parse_seqids -out ./all_phage_db/all_phage_seq.db
+
+# create database for bacteria
+mkdir all_host_db
+makeblastdb -dbtype nucl -in all_host_seq.fasta -parse_seqids -out ./all_host_db/all_host_seq.db 
+```
+
+##### 2. Prokka annotation and blast alignment
 
 Run ***prokka_blast.sh*** to get a batch of prokka annotation files. Input the fasta files of some phages (bacterium) under a folder, and output a prokka annotation folder for each phage (bacteria). Meantime, each phage (bacterium) was blast-aligned to our collected dataset to discover the phage (bacterium) with the highest homology to the query phage (bacterium). 
 
@@ -76,7 +92,7 @@ Example:
   # You should create an empty example_host_annotation folder and host_align_result folder in advance
 ```
 
-##### 2. Predictive result
+##### 3. Predictive result
 
 Run ***DeepPBI-KG.py*** to predict PBI and directly generate prediction results (html file). Example of prediction results: 
 
@@ -144,10 +160,12 @@ The ***result.csv*** and ***result.html*** is the prediction result file. The **
 
 ## File description
 
+
+
 | File name                | Description                                                  |
 | ------------------------ | ------------------------------------------------------------ |
-| all_host_db              | sequence alignment bacteria database                         |
-| all_phage_db             | sequence alignment phage database                            |
+| all_host_db.tar          | sequence alignment bacteria database                         |
+| all_phage_db.tar         | sequence alignment phage database                            |
 | code                     | data process and intermediate result analysis code           |
 | example_host             | sample host fasta folder                                     |
 | example_host_annotation  | sample host's prokka annotation result folder                |
@@ -162,6 +180,7 @@ The ***result.csv*** and ***result.html*** is the prediction result file. The **
 | phage_raw_data           | the fasta sequence file of phage in our collected raw dataset |
 | template                 | intermediate generated feature result file                   |
 | DeepPBI-KG.py            | DeepPBI-KG model predict code                                |
+| integrate_seq.py         | generate all_phage_seq.fasta and all_host_seq.fasta          |
 | prokka_blast.sh          | prokka annotation and sequence alignment blast code          |
 | requirements.txt         | run DeepPBI-KG required related python module                |
 | ReadMe.md                | ReadMe Markdown                                              |
