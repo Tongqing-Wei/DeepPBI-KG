@@ -28,7 +28,7 @@ conda activate DeepPBI-KG
 To install the prokka and blast as a dependency, once the installation is finished, you can start using prokka and blast within your Conda environment.
 
 ```shell
-conda install biobuilds::prokka / conda install -c bioconda prokka
+conda install biobuilds::prokka (conda install -c bioconda prokka)
 # If the installation is successful, the script below should run without any issues
 prokka -h
 # set database index for prokka
