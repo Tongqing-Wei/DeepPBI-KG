@@ -175,8 +175,8 @@ The ***result.csv*** and ***result.html*** is the prediction result file. The **
 
 | File name                | Description                                                  |
 | ------------------------ | ------------------------------------------------------------ |
-| all_host_db.tar          | sequence alignment bacteria database                         |
-| all_phage_db.tar         | sequence alignment phage database                            |
+| all_host_db              | sequence alignment bacteria database                         |
+| all_phage_db             | sequence alignment phage database                            |
 | code                     | data process and intermediate result analysis code           |
 | example_host             | sample host fasta folder                                     |
 | example_host_annotation  | sample host's prokka annotation result folder                |
