@@ -30,9 +30,16 @@ To install the prokka and blast as a dependency, once the installation is finish
 ```shell
 conda install biobuilds::prokka (conda install -c bioconda prokka)
 # If the conda install not success. Download the prokka-1.12.tar.gz from https://github.com/tseemann/prokka/releases/tag/v1.12, then upload your server. Run the command:
-tar zxvf  prokka-1.12.tar.gz
+tar zxvf prokka-1.12.tar.gz
 ls prokka-1.12
 cd prokka-1.12/bin
+
+# If the prokka-1.12.tar.gz still not success, then your only download prokka 1.14 version by git.
+# This causes the final predicted probability results to be slightly different from ours, as the different prokka versions make the annotated cds results slightly different.
+git clone https://github.com/tseemann/prokka.git
+ls prokka
+cd prokka/bin
+
 # If the installation is successful, the script below should run without any issues
 prokka -h
 # set database index for prokka
