@@ -242,6 +242,7 @@ def Count1(seq1, seq2):
 
 # C/T/D model
 def CTDC(sequence):
+	'''
 	group1 = {
 		'hydrophobicity_PRAM900101': 'RKEDQN',
 		'hydrophobicity_ARGP820101': 'QSTNGDE',
@@ -272,11 +273,16 @@ def CTDC(sequence):
 		'secondarystruct': 'VIYCWFT',
 		'solventaccess':   'RKQEND'
 	}
+        '''
 
+	group1 = {'secondarystruct': 'EALMQKRH'}
+	group2 = {'secondarystruct': 'VIYCWFT'}
+	'''
 	property = ['hydrophobicity_PRAM900101', 'hydrophobicity_ARGP820101', 'hydrophobicity_ZIMJ680101', 'hydrophobicity_PONP930101',
 	'hydrophobicity_CASG920101', 'hydrophobicity_ENGD860101', 'hydrophobicity_FASG890101', 'normwaalsvolume',
 	'polarity', 'polarizability', 'charge', 'secondarystruct', 'solventaccess']
-
+        '''
+	property = ['secondarystruct']
 	for p in property:
 		c1 = Count1(group1[p], sequence) / len(sequence)
 		c2 = Count1(group2[p], sequence) / len(sequence)
