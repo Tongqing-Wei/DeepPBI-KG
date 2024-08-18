@@ -117,6 +117,10 @@ Run ***DeepPBI-KG.py*** to predict PBI and directly generate prediction results 
 
 (They are preferred to refer to the prediction result of key gene, and some key gene results are predicted to be ***nan***. Then refer to the whole genome prediction results. )
 
+- ***Phage_key_gene_num*** is the number of key genes that a phage contains.
+
+- ***Host_key_gene_num*** is the number of key genes that a host contains.
+
 - ***Phage_optimum_align*** is the phage ID and E value of the optimal alignment between the query phage and the dataset collected by us, which is displayed as the hyperlink of the aligned phage ID. Clicking the hyperlink will display the specific fasta sequence of the phage. If the best alignment is empty, it is displayed as 'not hit'. 
 
 - ***Bacterium_optimum_align*** is the bacteria ID and E value of the optimal alignment between the query bacteria and the data set collected by us, which is displayed as the hyperlink of the aligned bacteria ID. Clicking the hyperlink will display the specific fasta sequence of the bacteria. If the best alignment is empty, it is displayed as 'not hit'. 
