@@ -242,7 +242,6 @@ def Count1(seq1, seq2):
 
 # C/T/D model
 def CTDC(sequence):
-	'''
 	group1 = {
 		'hydrophobicity_PRAM900101': 'RKEDQN',
 		'hydrophobicity_ARGP820101': 'QSTNGDE',
@@ -273,16 +272,11 @@ def CTDC(sequence):
 		'secondarystruct': 'VIYCWFT',
 		'solventaccess':   'RKQEND'
 	}
-        '''
 
-	group1 = {'secondarystruct': 'EALMQKRH'}
-	group2 = {'secondarystruct': 'VIYCWFT'}
-	'''
 	property = ['hydrophobicity_PRAM900101', 'hydrophobicity_ARGP820101', 'hydrophobicity_ZIMJ680101', 'hydrophobicity_PONP930101',
 	'hydrophobicity_CASG920101', 'hydrophobicity_ENGD860101', 'hydrophobicity_FASG890101', 'normwaalsvolume',
 	'polarity', 'polarizability', 'charge', 'secondarystruct', 'solventaccess']
-        '''
-	property = ['secondarystruct']
+
 	for p in property:
 		c1 = Count1(group1[p], sequence) / len(sequence)
 		c2 = Count1(group2[p], sequence) / len(sequence)
@@ -488,6 +482,7 @@ def dna_process(path, key_gene, pattern):
     KP_df = KP_df.replace(np.nan,0)
     
     #feature process
+    key_gene_num = {}
     for ls in walkfile:
         if ls[:3] == 'cds':
             res_dir = path + os.sep + ls
@@ -496,11 +491,16 @@ def dna_process(path, key_gene, pattern):
             
             if pattern == 'key_gene':
                 ID = []
+                kg_num = 0
                 for i in records:
                     if re.findall(r'\[(.+?)\]', i.description)[0][:4] == 'gene' and re.findall(r'\[(.+?)\]', i.description)[0] in ref:
                         ID.append(i.id)
+                        kg_num += 1
                     elif re.findall(r'\[(.+?)\]', i.description)[1] != 'protein=hypothetical protein' and re.findall(r'\[(.+?)\]', i.description)[1] in ref:
                         ID.append(i.id)
+                        kg_num += 1
+                key_gene_num[ls[4:-6]] = kg_num
+                
             else:
                 ID = []
                 for i in records:
@@ -532,7 +532,7 @@ def dna_process(path, key_gene, pattern):
             else:
                 pass
 
-    return KP_df
+    return KP_df, key_gene_num
 
 
 def protein_process(path, key_gene, pattern):
@@ -615,7 +615,7 @@ def protein_process(path, key_gene, pattern):
     return KP_df
 
 def fg(dna_file, protein_file, Gene, Pattern, species, res_path):
-    phage_dna = dna_process(dna_file, Gene, Pattern)
+    phage_dna, kg_num = dna_process(dna_file, Gene, Pattern)
     phage_protein = protein_process(protein_file, Gene, Pattern)
     phage = pd.concat([phage_dna, phage_protein], axis = 1)
     index = []
@@ -624,6 +624,7 @@ def fg(dna_file, protein_file, Gene, Pattern, species, res_path):
     for i in range(6):
         index.extend([89 + i * 90 + 798] + list(range(0 + i * 90 + 798, 89 + i * 90 + 798)))
     phage.iloc[:,index].to_csv(res_path + os.sep + species + '_' + Pattern + '_feature.csv', index = True)
+    return kg_num
 
     
 def format_fasta(ana, seq, num):
@@ -877,16 +878,16 @@ def get_align_and_interaction_infor(phage_align, phage_raw_data, host_align, hos
         
     for i in range(len(result)):
         if len(dic_p[result.iloc[i,0]]) == 1:
-            result.iloc[i, 4] = dic_p[result.iloc[i,0]][0]
+            result.iloc[i, 6] = dic_p[result.iloc[i,0]][0]
         else:
-            result.iloc[i, 4] = dic_p[result.iloc[i,0]][0] + '(' + dic_p[result.iloc[i,0]][1] + ')' + ' ' + 'phage_target_align' + os.sep + dic_p[result.iloc[i,0]][0] + '.fasta'
-            result.iloc[i, 6] = dic_p[result.iloc[i,0]][0] + '_interact_bacteria' + ' ' + 'phage_target_interaction' + os.sep + dic_p[result.iloc[i,0]][0] + '.log'
+            result.iloc[i, 6] = dic_p[result.iloc[i,0]][0] + '(' + dic_p[result.iloc[i,0]][1] + ')' + ' ' + 'phage_target_align' + os.sep + dic_p[result.iloc[i,0]][0] + '.fasta'
+            result.iloc[i, 8] = dic_p[result.iloc[i,0]][0] + '_interact_bacteria' + ' ' + 'phage_target_interaction' + os.sep + dic_p[result.iloc[i,0]][0] + '.log'
         
         if len(dic_h[result.iloc[i,1]]) == 1:
-            result.iloc[i, 5] = dic_h[result.iloc[i,0]][0]
+            result.iloc[i, 7] = dic_h[result.iloc[i,0]][0]
         else:
-            result.iloc[i, 5] = dic_h[result.iloc[i,1]][0] + '(' + dic_h[result.iloc[i,1]][1] + ')' + ' ' + 'host_target_align' + os.sep + dic_h[result.iloc[i,1]][0] + '.fasta'
-            result.iloc[i, 7] = dic_h[result.iloc[i,1]][0] + '_interact_phage' + ' ' + 'host_target_interaction' + os.sep + dic_h[result.iloc[i,1]][0] + '.log'
+            result.iloc[i, 7] = dic_h[result.iloc[i,1]][0] + '(' + dic_h[result.iloc[i,1]][1] + ')' + ' ' + 'host_target_align' + os.sep + dic_h[result.iloc[i,1]][0] + '.fasta'
+            result.iloc[i, 9] = dic_h[result.iloc[i,1]][0] + '_interact_phage' + ' ' + 'host_target_interaction' + os.sep + dic_h[result.iloc[i,1]][0] + '.log'
             
     return result
             
@@ -950,18 +951,22 @@ def set_table_head():
         th("Bacterium")
         th("Key_gene_output")
         th("Wgs_output")
+        th('Phage_key_gene_num')
+        th('Host_key_gene_num')
         th("Phage_optimum_align")
         th("Bacterium_optimum_align")
         th("Phage_interaction_infor_in_raw_data")
         th("Bacterium_interaction_infor_in_raw_data")
 
-def fill_table_data(data_type, pp, hh, kg, wg, plink_text, plink_url, hlink_text, hlink_url, pilink_text, pilink_url, hilink_text, hilink_url):
+def fill_table_data(data_type, pp, hh, kg, wg, phage_kg_num, host_kg_num, plink_text, plink_url, hlink_text, hlink_url, pilink_text, pilink_url, hilink_text, hilink_url):
     data_tr = tr()
     data_tr += td(data_type)   
     data_tr += td(pp)
     data_tr += td(hh)
     data_tr += td(kg, cls = 'key_gene_output')
     data_tr += td(wg, cls = 'wgs_output')
+    data_tr += td(phage_kg_num)
+    data_tr += td(host_kg_num)
     link_td1 = td()
     link_td1 += a(plink_text, href=plink_url)
     data_tr += link_td1
@@ -980,23 +985,23 @@ def generate_result_table(res):
     with result_div.add(table(cls='gridtable')).add(tbody()):
         set_table_head()
         for i in range(len(res)):
-            if res.iloc[i,4] == 'not hit' and res.iloc[i,5] == 'not hit':
-                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3], 'not hit', ' ', 'not hit', ' ',
+            if res.iloc[i,6] == 'not hit' and res.iloc[i,7] == 'not hit':
+                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3], res.iloc[i,4], res.iloc[i,5], 'not hit', ' ', 'not hit', ' ',
                                 ' ', ' ', ' ', ' ')
-            elif res.iloc[i,4] == 'not hit' and res.iloc[i,5] != 'not hit':
-                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3], 'not hit', ' ', 
-                                res.iloc[i,5].split(' ')[0], res.iloc[i,5].split(' ')[1], ' ', ' ', 
-                                res.iloc[i,7].split(' ')[0], res.iloc[i,7].split(' ')[1])
+            elif res.iloc[i,6] == 'not hit' and res.iloc[i,7] != 'not hit':
+                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3], res.iloc[i,4], res.iloc[i,5], 'not hit', ' ', 
+                                res.iloc[i,7].split(' ')[0], res.iloc[i,7].split(' ')[1], ' ', ' ', 
+                                res.iloc[i,9].split(' ')[0], res.iloc[i,9].split(' ')[1])
             elif res.iloc[i,4] != 'not hit' and res.iloc[i,5] == 'not hit':
-                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3], 
-                                res.iloc[i,4].split(' ')[0], res.iloc[i,4].split(' ')[1], 'not hit', ' ', 
-                                res.iloc[i,6].split(' ')[0], res.iloc[i,6].split(' ')[1], ' ', ' ')
+                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3], res.iloc[i,4], res.iloc[i,5], 
+                                res.iloc[i,6].split(' ')[0], res.iloc[i,6].split(' ')[1], 'not hit', ' ', 
+                                res.iloc[i,8].split(' ')[0], res.iloc[i,8].split(' ')[1], ' ', ' ')
             else:
-                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3],
-                                res.iloc[i,4].split(' ')[0], res.iloc[i,4].split(' ')[1], 
-                                res.iloc[i,5].split(' ')[0], res.iloc[i,5].split(' ')[1],
-                                res.iloc[i,6].split(' ')[0], res.iloc[i,6].split(' ')[1],
-                                res.iloc[i,7].split(' ')[0], res.iloc[i,7].split(' ')[1])  
+                fill_table_data(str(i+1), res.iloc[i,0], res.iloc[i,1], res.iloc[i,2], res.iloc[i,3], res.iloc[i,4], res.iloc[i,5],
+                                res.iloc[i,6].split(' ')[0], res.iloc[i,6].split(' ')[1], 
+                                res.iloc[i,7].split(' ')[0], res.iloc[i,7].split(' ')[1],
+                                res.iloc[i,8].split(' ')[0], res.iloc[i,8].split(' ')[1],
+                                res.iloc[i,9].split(' ')[0], res.iloc[i,9].split(' ')[1])  
 
     
 def generate_ending():
@@ -1048,9 +1053,9 @@ if __name__ == '__main__':
     # Features are generated from the dna protein sequence file
     os.mkdir(opt.template + os.sep + 'feature_file')
     fea_path = opt.template + os.sep + 'feature_file'
-    fg(opt.template + os.sep + 'phage_dna', opt.template + os.sep + 'phage_protein', opt.model + os.sep + 'phage_key_gene_0.0001.csv', 'key_gene', 'phage', fea_path)
+    phage_kg_num = fg(opt.template + os.sep + 'phage_dna', opt.template + os.sep + 'phage_protein', opt.model + os.sep + 'phage_key_gene_0.0001.csv', 'key_gene', 'phage', fea_path)
     fg(opt.template + os.sep + 'phage_dna', opt.template + os.sep + 'phage_protein', opt.model + os.sep + 'phage_key_gene_0.0001,csv', 'wgs', 'phage', fea_path)
-    fg(opt.template + os.sep + 'host_dna', opt.template + os.sep + 'host_protein', opt.model + os.sep + 'host_key_gene_0.00004.csv', 'key_gene', 'bacterium', fea_path)
+    host_kg_num = fg(opt.template + os.sep + 'host_dna', opt.template + os.sep + 'host_protein', opt.model + os.sep + 'host_key_gene_0.00004.csv', 'key_gene', 'bacterium', fea_path)
     fg(opt.template + os.sep + 'host_dna', opt.template + os.sep + 'host_protein', opt.model + os.sep + 'host_key_gene_0.00004.csv', 'wgs', 'bacterium', fea_path)
     print('phage and bacterium feature generation complete!')
     
@@ -1060,7 +1065,7 @@ if __name__ == '__main__':
     
     phage = wgs_out.index.tolist()
     host = wgs_out.columns.tolist()
-    result = pd.DataFrame(index = list(range(len(phage) * len(host))), columns = ['phage', 'bacterium', 'key_gene_output', 'wgs_output'])
+    result = pd.DataFrame(index = list(range(len(phage) * len(host))), columns = ['phage', 'bacterium', 'key_gene_output', 'wgs_output', 'phage_key_gene_num', 'host_key_gene_num'])
     m = 0
     for i in range(len(phage)):
         for j in range(len(host)):
@@ -1074,6 +1079,11 @@ if __name__ == '__main__':
     for i in range(len(wgs_out)):
         for j in range(len(wgs_out.iloc[0,:])):
             result.loc[result[(result['phage'] == wgs_out.index[i]) & (result['bacterium'] == wgs_out.columns[j])].index[0], 'wgs_output'] = wgs_out.iloc[i, j]
+    result['phage_key_gene_num'] = 0
+    result['host_key_gene_num'] = 0
+    for i in range(len(result)):
+            result.iloc[i,4] = phage_kg_num[result.iloc[i,0]]
+            result.iloc[i,5] = host_kg_num[result.iloc[i,1]]
     result.to_csv(opt.output + os.sep + 'result.csv', index = False)
     
     # process phage(bacteria) alignment result and interaction infor
