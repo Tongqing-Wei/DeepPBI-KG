@@ -5,7 +5,7 @@
 
 ![](https://github.com/Tongqing-Wei/DeepPBI-KG/blob/master/figure/model%20framework.png)
 
-## Installion
+## Installation
 
 ##### 1. Create Conda environment
 
